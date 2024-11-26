@@ -1,3 +1,4964 @@
-z="
-";lNCz='Slli';rKCz='cEpV';jcCz='MHdU';PUCz='RWRY';VYBz='MnhX';nACz='M1ZX';pz='ZFEK';GHBz='ZFVi';Zdz='Clkz';TgBz='NApR';AhCz='RlNh';vJBz='SmFS';LmBz='d1dR';KRBz='R0py';XPCz='eG9i';LkBz='MEpZ';yhCz='WlVG';mwz='bXMx';KmCz='RVNr';ODz='S1Yy';UDBz='QmFV';bHBz='WGhV';mCCz='bTEw';skz='V2to';qBCz='R3RW';GZBz='M2h6';Oez='d3BX';GFCz='TldG';bbBz='ZEhh';QTz='c1dr';pBCz='S2VG';RVCz='MXA1';QCBz='bUZP';XHBz='Q21O';VkCz='YzFa';mbCz='SFJQ';sJz='cEhi';Fkz='VnBy';SKz='WnNX';mDBz='MkV6';DGCz='VkZj';QcBz='a3Bs';umCz='U0ln';dkBz='RXlh';bRCz='aGhZ';buBz='RlRD';sZBz='QnBV';InCz='"';KTBz='VmtX';Duz='RXhj';fxz='VnBa';PPz='UjFw';yfz='MTRX';vUBz='MnN4';UQz='YzA1';LEz='MFpa';Lz='YXNl';dVz='Rlph';Qjz='eFZX';CvBz='V05H';YJz='ZDA1';DRCz='ZEFw';Maz='M2ho';Vvz='Qk9W';fACz='Vk5x';aBz='U21o';eLz='SE5V';ydCz='VkpX';KIBz='alZX';HpBz='WnRa';NABz='OWhS';uNCz='bWhY';PcCz='VwpZ';yjz='U2xS';MVBz='WnhW';ZWCz='YUd0';JjBz='WW0x';AnCz='Q2c9';UVBz='Q1lW';BmBz='aFJU';iHBz='bHFS';UICz='RmRW';yIz='bWhz';JICz='WTB0';TTz='VjFS';PrBz='V05W';VCCz='Vlpz';Ogz='cFdW';trBz='Wk1u';dTz='dFJV';Ohz='MDFW';hHCz='YU1W';xcz='SFlr';VBBz='TTFw';RGBz='Vkps';blz='UjBW';dyBz='MHhk';Sxz='VlpJ';QMCz='VE1r';ARz='SkZl';VgBz='aGlh';dNCz='RTB3';hEz='WnNa';uFCz='RVoy';vECz='YVlV';RABz='RmNH';bLBz='MlF4';DrBz='WnVT';Bnz='VlJz';iTz='RnBo';Rnz='bHBo';SiBz='cFNi';CMCz='UjJK';vIBz='WkVa';HKBz='MVJ0';Wdz='WFlr';tLz='V01W';PCBz='WnJX';LyBz='VlpL';WiBz='VG05';qBBz='a2Rz';Cfz='Qlpl';uHCz='dlZt';pdz='RXB6';QLBz='RXhX';dnBz='RXpR';ciBz='M1pX';rECz='azJW';ZTCz='a05a';HBBz='VVJs';Eaz='d3pD';uOCz='TFky';OtBz='alZs';bSBz='blJV';NfBz='eWVI';gACz='V2xK';SSBz='WkRC';Isz='MVdr';bRBz='blZV';QNz='MVpx';xeCz='aFhh';OPBz='T1Zk';KNz='VEZh';Suz='bXBh';ZOBz='a1pX';Vhz='UmkK';UpBz='ClNr';Jvz='WGgz';quBz='ZFRh';ptBz='UldH';aYBz='VjJo';wqBz='aHlD';snz='bVZI';PBCz='SlNS';Dkz='VmNF';XKBz='elZX';RNz='U2pC';vFBz='Rmxq';JSz='RwpX';CJCz='bUV6';UeCz='Ym05';pBBz='VlRG';FhBz='R3Rh';hcz='MVRn';OhCz='SGR3';iPz='RmRT';bBBz='Tk5N';ZgBz='bGhY';HABz='YzFi';mjBz='R3RV';eYBz='MUwK';AeCz='WGRY';bHz='NVhW';pPCz='YTJ4';oEz='U2JF';Jaz='MFpz';McCz='Q05G';RnBz='UkhU';xIz='ZGFS';NPz='RTBW';Zez='T2Mx';YiBz='bTA1';NPBz='RndS';kRCz='NUMK';oIBz='NFIw';NECz='QkRW';TjCz='ZE9S';eDCz='cEdT';mVCz='Ym10';DtBz='U1JW';bQCz='bEph';IfBz='bWhp';OHBz='bFkw';oHz='YjFZ';EWz='VlpP';Mgz='T1dF';wjBz='WmVs';nZBz='V0Ns';BRBz='TFZU';KdCz='RTVv';DMCz='SVRs';gQCz='MVdi';EhBz='SwpW';qhBz='Vgpl';QUCz='cUNs';wJCz='Undw';yhz='bFV3';tPCz='MVZj';Rdz='RmJG';pjBz='WGR3';uCz='UnNW';wGCz='dFNV';gECz='SkhU';sGz='UFpF';lKCz='WVd4';wDz='VmVB';pXz='Rkpa';inBz='YWQy';sMBz='UFZX';fLBz='MGRv';Zkz='dGlS';lACz='MWhr';bKz='azFZ';ZpBz='QTFZ';gKz='RnBs';WVz='V2NI';iOz='CmFs';pmz='azVW';NCz='bFpy';yRCz='czFi';eQCz='VkRi';vXBz='VlJW';yyBz='a2hV';OVCz='MkZz';WKCz='bmNH';rjz='VjFw';QbCz='WFl6';qwz='ClRs';nNBz='V25N';vuz='ZUZo';FFCz='dHdT';iNBz='Umha';TiCz='UjJN';vkBz='V0Zk';MLz='clZH';xPz='REJW';cYBz='WkZW';DLCz='NVpZ';uWBz='WXoK';JrBz='R3Ro';JYz='VmEy';exz='WnJO';UZz='Y3lW';Mkz='MFZH';dJCz='cEdj';byz='TW1n';GgCz='WApS';OuBz='SFlV';YBz='WmtX';swBz='SlhZ';xLBz='RlhZ';viz='WldO';oICz='UzFV';KlBz='VlRs';cUCz='RmhW';hICz='Vlho';IKCz='WEJG';qXCz='bkJZ';FBBz='a2Rq';nvBz='MUV5';gCz='RTlT';IYz='MDB4';rrz='QldZ';XIBz='MUp1';Pez='b1RW';rmBz='Um5S';yUCz='Um5B';WEz='a1p3';wrBz='RlpJ';ebBz='WnNk';UBBz='akJz';mtBz='TnJa';XCz='RlJh';ONBz='WFF3';frz='bEpX';huBz='VApZ';RcCz='OEtW';VQCz='bk5W';xiBz='RlEy';ghBz='bTFP';kSCz='U0ZS';FYBz='dzBR';bwz='V3RL';Htz='QldU';Ziz='ZDFN';wgBz='QmhW';iIBz='aERh';oDBz='V2Ey';NFCz='TmJt';RlBz='a3hX';exBz='dHZN';qZBz='V05z';nBz='WVdr';YFBz='dEpN';FeBz='MVpX';Ofz='MFp3';KeCz='NWFW';LPCz='UlpV';bVCz='V2Fs';mWCz='eU1X';uvBz='MWRu';BQBz='M0JY';epBz='eFJn';ncBz='a1o2';HDCz='RXBw';USBz='ZHJP';SPCz='WlZZ';plCz='MXJX';wrz='ZEdW';ugBz='d1l6';lQz='VXhW';ikCz='SkVZ';dTBz='SXcK';ETCz='Rmpk';TPz='Vld4';SBCz='dwpT';jDz='VGxU';Ghz='Y2xs';oDCz='MmhY';DXz='R0pG';AEz='WW14';gdz='SFZt';EcBz='VWxO';OMz='VjBw';qcz='VjFs';JFBz='a2Ro';WtBz='VWJY';ZwBz='SmhV';OPCz='cmIz';XWCz='SEpW';AOCz='UlhT';roBz='V2hU';cQz='UllW';Ddz='U21W';gDCz='Y0dw';xDz='cFdX';drz='MQpW';wKz='eFZq';FbBz='ZUZj';KiCz='NlEy';rQCz='REpL';Ykz='VmxW';hWz='ZFpN';NWCz='blZX';dxz='MWJG';IDBz='SEJI';Bkz='MFpX';ibz='VG5O';GfCz='eFpk';pIBz='NUdX';mmCz='cmFV';ZrBz='dGVH';Wjz='bFJt';icBz='bHB5';cHz='bTVH';LbBz='SApV';RGCz='azUw';xfCz='V1JJ';gWBz='Rm9k';INCz='TlZN';CBBz='Wk5W';UfCz='bmRs';gaBz='SXha';MTCz='VmRP';UdBz='d1dn';kWz='b2FG';pKz='dE1I';yJCz='VlhU';QlCz='cFdj';Bhz='Vmti';WZCz='clRs';ZmBz='NXpX';dWBz='UTIx';iKBz='V1Fw';ZcCz='SnFU';SCCz='SVdU';LYz='WGRH';ZbBz='VkZo';jGz='RmRy';hGCz='c1Ju';JNz='QllX';VOz='RWRa';UUz='NlZt';bkCz='MFpy';baz='Um1G';Frz='V0Y2';Ihz='ZFNN';avz='VlY1';xJz='MUl4';ngCz='WGhp';mUBz='UFZq';clCz='RnNX';lMCz='aU1r';ZSz='Um14';UECz='OVZN';KaCz='Ulla';auz='YVZq';yYCz='Vlhs';LfBz='alIw';MYz='RlVi';YDCz='eFVt';uOBz='MlJx';tVBz='VjNR';SRBz='bXcy';CIz='MTRV';BTz='YjFk';nsBz='QmFj';shz='R1Zr';IHBz='bUZs';tdCz='Cldu';QHBz='alNI';WXCz='RUV4';ySCz='cFhk';heBz='bFJi';hgCz='RlZN';maCz='bmhv';SvBz='R3hT';uvz='VnJa';pxBz='MwpV';gnz='CmVr';DhCz='cFpl';yaz='Tk1F';ODBz='ck1U';gcz='VGxV';JpBz='YVZW';OgBz='cFhh';YbCz='WXhi';kuz='QjJW';rWCz='OVVW';LVBz='amJG';yeCz='eEtk';Bpz='UXgK';PPBz='TmEz';WSBz='YzFj';DFCz='MGJs';sxz='Ck1X';DdCz='ZFNk';ewz='VVZo';Ocz='R1Ux';wuBz='a2N3';yfCz='SXoK';hJCz='eHNV';KjCz='MFZs';IZCz='M1kw';IVz='ck9X';fHCz='WGJI';WJCz='ZDFW';ylCz='bGJH';oPCz='VkdX';MgCz='M1Vq';ZQz='TnQK';Sz='Q0F0';bQz='Wk1I';rBBz='c2Ez';Gvz='aU1X';UBCz='V1Yw';DbCz='Skhl';xOCz='a2Qw';SMz='aFZq';WRz='VkYz';tbBz='SnFX';jpBz='V2pa';VLz='bGlS';qkCz='U1ZX';alCz='dE9W';WABz='d2VG';aGCz='WVpH';iECz='ZEdV';RLBz='bGhU';BBBz='VVVs';NmBz='YkhB';XVCz='dDBU';kqz='V1Zs';bnBz='bHB6';vBBz='M1Ux';QeCz='cVNu';YgCz='b2Mx';UeBz='ClVs';uKz='MUVS';XaCz='bHBs';jLCz='WApk';dUBz='Umhl';ILCz='TlZo';QpBz='a2Qx';FgCz='MnRX';vaz='Vm5B';FLBz='Q2xw';Thz='ZDFa';HCz='WFYw';UNBz='TlZa';fyz='WApi';aMCz='Vk8K';evBz='SlZV';PECz='Tklj';qPCz='bwpV';aUCz='SkRi';XtBz='Qk9Z';YPBz='V1RY';EbCz='aAph';DCBz='TlNS';okz='VjFK';Sgz='MkpX';SLCz='UjFV';FdBz='S1dq';faz='VGsx';hqz='MHRW';pTBz='UwpW';eiCz='eFRs';rgCz='b0tW';Stz='VkpQ';oYCz='REJp';suz='bXRW';ucBz='Rkpy';iMCz='RkdU';xjz='R0pz';Jwz='WjB0';LcCz='YjJK';ogCz='V1lt';GFz='V1Zo';blBz='V2RF';qlz='a1Ix';wQBz='Wmhl';PIz='U01W';qhCz='RVpZ';jrBz='SVZt';Plz='aFZV';kJBz='VVdr';Uhz='UmNF';Dxz='QXBa';bKBz='YVJX';IXBz='VEFw';JHz='M1Zs';qMCz='VTFF';OWCz='VktW';UWz='Wldi';Yuz='TFlV';Ldz='VGEy';nRBz='a1Jt';ZFCz='YmtG';abBz='b1Yx';qUz='RFZE';ZACz='cFdZ';glCz='cFpZ';UbCz='TVhO';bEz='WTBW';dhCz='QmtT';PGCz='QXBU';Gz=' "\';hZCz='MFdH';oeCz='Rk5q';ubCz='bkJh';Cyz='MHNL';VTz='NUdW';JhBz='NUtW';BbBz='bkI1';FXCz='WHBz';Syz='VTFk';IYCz='UlRh';KhBz='V2xW';tUBz='aVIz';pOz='Y21G';Zcz='RVZG';WxBz='Rk5z';JBCz='bE5W';SdCz='V21F';LNBz='NWtW';NVCz='U0VJ';sqz='Wldk';KZz='VVY0';ylz='WktX';dGz='M0Ns';eoBz='RTFI';OmCz='WGh2';seBz='NUth';fECz='WVVS';JDBz='a1dG';npz='VmdL';sBCz='NVhk';yMBz='Vlpx';cEz='WlMx';UIz='QlhW';Okz='WnNV';nXCz='Rldj';ufBz='a2Rv';pqBz='MVJH';dJz='a1Ux';jWCz='MTBk';QkCz='Um5a';SKBz='SndW';lz='NXNU';WSz='V00x';kNBz='Wk5S';CwBz='alZQ';KHCz='eFZs';Mdz='UnFD';hmBz='MAph';HmBz='aVYx';LHCz='VTVY';EVBz='YWs1';krBz='dHNZ';kHCz='cE9a';JXz='RwpS';XeCz='NVlZ';SBz='WWto';XUz='U2xa';Pz='ICJc';JABz='WGEz';FHBz='dFZs';QFCz='eHlW';Lrz='VWxS';pXCz='Rlpq';ADCz='Tk1W';ufz='eVlu';bFCz='akkx';JNCz='U0VK';pNz='SnNW';Ikz='Mk5y';Cbz='UzJW';tSz='cFdi';ObCz='b2FH';kVCz='TWpW';WcBz='NVZj';xMz='VEV3';cMz='VWJV';YKCz='RldX';YMCz='c1Qx';gRCz='UnZZ';cWBz='elZJ';Tuz='R2NI';MdCz='alZ2';dSz='ZUdo';tIBz='MVJY';PaBz='WTBo';hYBz='b0Nr';TnBz='aFJl';YfCz='ZHJh';XTCz='WUNs';pwz='bHAw';YFCz='bFMK';RGz='V25O';nPBz='V25k';YVCz='VVZX';kxz='YkZk';eqz='WE14';ifCz='U0Zs';FaCz='Q2N3';DLBz='aFNi';JdBz='SXhT';AECz='QlVh';Mpz='ZFdT';OSBz='SFZq';QQz='Rlp1';EACz='UzFw';WWBz='UjBa';dPz='WkZw';bNCz='TmsK';QWBz='azFH';ohCz='WldU';mfBz='NVZs';dgCz='WTIx';rdCz='TklT';LXBz='cwpa';GMz='VzE0';lvBz='RVpy';gNz='UlRG';WdBz='NFMy';cwBz='MTBX';Pmz='Vlls';mmBz='a05Y';fdCz='c2JI';RDBz='RkdR';FXz='Wk1G';giBz='Y1Za';MZz='T1ZW';QNBz='VnVi';UnBz='cHlU';Kiz='Ck1H';iFBz='d1dG';fgCz='QmFD';Pvz='a2NL';bRz='T1Zt';RTz='NVdW';GNz='bE4z';gHz='VEUw';xJCz='YVJU';amz='ClZt';xDBz='U2F6';Anz='Wmtk';DVCz='VlYx';tkz='bFNG';QGCz='TmtW';EYCz='MFlX';ClBz='WnlW';Iiz='SXdW';yOBz='Um1w';HRBz='c1Vr';MxBz='U1lW';dbz='VEpH';FWz='YkdK';GSCz='VmQz';cJBz='VEkx';VJCz='MUoz';nTCz='Vk5y';oEBz='Vmwz';enz='S1dW';xrBz='MFYw';YpBz='VjBV';REz='Rwph';tRBz='WndW';NOCz='WlVW';sFz='NWhh';AbBz='SFJs';qLBz='bGQ0';YTCz='bFVU';ZaCz='bFJK';aWCz='akZI';xwBz='RVpX';JUCz='bVJJ';olz='bFpI';Byz='MVZZ';PSCz='MVZx';UKz='Yldo';MjBz='aFZN';VCz='UTFV';QoBz='eHJT';QVCz='VnZZ';xbz='bFpT';EkBz='TlRN';btBz='YkV4';stz='a2xa';IPz='eFYy';HZBz='ClVr';Ujz='aEVD';Lbz='eGFk';tdz='V2JY';Cez='UXhX';yWz='VE5s';wBCz='WmVr';KRCz='cHVZ';SXBz='TFdW';RACz='cFVq';WoBz='bHBF';XUCz='VEJo';Qxz='SFVs';wRz='S1ZW';cMCz='YVYw';TfCz='Mmhy';DeCz='c2NH';sLCz='b1ZY';qoBz='RlVW';Vjz='bFl5';BCBz='ZVZV';fZz='MVpL';Bsz='V0ZJ';Dez='YTNS';Iz='aCAt';tcCz='eEtW';lXBz='SGhT';ZGCz='eHcK';ytz='VmtS';ocBz='R1My';aQz='VGtk';XvBz='RnBh';daz='SjBZ';KOBz='bXhP';UbBz='V0VK';YqBz='SlZO';CXCz='Rlpa';wOBz='S1lV';ELBz='Vkpa';XVBz='Ym1S';LBBz='bkIy';ChBz='MkpI';jFBz='bFdX';UMBz='bGFN';sz='TktZ';VoBz='M1Uw';xXBz='bFYw';CCz='YlRs';IHz='Vm10';aLCz='dFRS';GfBz='VmVV';qMz='VTJN';htBz='bk5q';ibCz='eUNs';yBz='b1Ux';EdBz='VGxj';nbCz='YlZJ';bpBz='Um1K';gbz='aGgK';QRCz='T1ZV';Dz='ase6';CFBz='Wkpl';nMz='TVVw';jMCz='azRL';WRBz='RktW';TVBz='bWRM';HVz='Y2xa';qUBz='MFUx';eRz='TVRC';scz='dGpN';bDz='VmRX';OZz='bWhh';syBz='dVpI';gPz='YWIx';rOBz='bGEx';kz='WldF';Rez='VWt0';GNBz='V1ds';uJCz='UjFS';UmBz='WGhQ';Moz='YTNk';sUz='VGxS';FLz='ZE5N';Gwz='YkZa';bfBz='Uk1u';GeCz='cEla';phCz='Vlpa';lEBz='WmFN';vYCz='WlNh';tQz='bDVU';TZz='U1Yz';utz='MFZU';UPCz='UmxW';oUz='bE5a';hkCz='Ykd3';IUBz='VGJX';mZBz='YlVw';ekBz='RVJW';qvBz='MFRW';HVCz='WEJT';JECz='aFpE';AMCz='M1lU';FTz='WnRO';bJz='Mmh2';lKBz='V0U1';oMz='YQpW';ulCz='MTRT';xKBz='V1Yy';uoBz='SXhN';Goz='QldW';nQz='UkZw';jBCz='d1ZX';Zfz='VDFJ';OFz='VlRF';Psz='S2RW';mfCz='Vk5X';QqBz='MWh3';KCCz='V1dO';YcCz='Mkl4';XbBz='CmR3';ekCz='VXhV';xkz='WkxZ';PKz='WEJv';NVz='RkZN';DCCz='QmFZ';PGBz='cFhV';eyBz='aG9Z';bTz='Uk9a';APBz='WllR';kbBz='UmQx';cKCz='UApZ';SgBz='Uld0';mmz='VXRY';EbBz='ZFNS';MQCz='Wkdr';UiBz='U0Za';hqBz='ekZI';tFCz='ck5V';kkCz='dwpa';PHCz='RlY0';xFz='VXB6';HHCz='aWEx';Loz='WmtV';OCBz='Q1dG';KFBz='UlZK';ifBz='aFlZ';foz='MDFZ';hhCz='Skpk';AlCz='NXZZ';QDBz='RmVX';qACz='WEJy';mICz='WkdG';sgBz='T1Uw';ZNBz='WmlW';UHCz='ZE5h';KMCz='R1Vs';iqBz='Vm1z';aFBz='bEY1';oiBz='VXBI';hlz='SVpG';NrBz='Tlhi';mRCz='bWhW';UGBz='RlZy';yVBz='cHJZ';QUz='V1Ux';AYBz='bFVi';GjCz='Ym1O';odCz='d1pG';fSCz='eFdj';SfCz='T1J3';Exz='ZWta';uUz='akl4';dbCz='bXBD';Icz='Y0tZ';XGBz='VDFG';maz='ZFhk';aGBz='Wld4';qkBz='U0dS';cvBz='MXBF';hMz='TlZl';ECz='VktT';KHBz='MDFy';Vqz='ZDFJ';lJCz='bGtL';MNz='aGhS';gfBz='YkZo';Gqz='WmsK';gOz='V1RC';GRCz='ZGhR';Prz='WVls';nnBz='MGhL';tZCz='V1RB';Ffz='ZHNa';hxBz='VjFo';kQBz='MFpF';DRBz='MU5I';hnBz='SlgK';Kgz='SjBW';lLCz='VmpS';wqz='YTFV';rcz='dGVF';nFBz='TlYx';wOz='NVZq';pcBz='TXlU';RtBz='VEZI';aLBz='Rwpi';elCz='NXpD';ALBz='UW5G';aIBz='SlVW';oLCz='cVNr';ReCz='SnJX';iDz='aGpS';pJBz='eApX';ehBz='Tlha';uDCz='TmVG';CRBz='QmtV';kDz='WVhw';mtz='VGxK';sNCz='WmtS';HLBz='ekZ5';oPBz='bFZu';Obz='a1pv';bHCz='NGMx';OWBz='elUx';DUz='ZVZs';eRBz='bFpH';DCz='V1Zr';wNz='TlZs';MhBz='VVFU';RcBz='eVdr';Rvz='dGFZ';UvBz='VlJP';TcCz='NVNN';Hqz='Y2xW';MFz='MVNk';mcz='V1ho';kHBz='VlpX';cgBz='QnlW';Vtz='WnZl';hYz='eFRW';WLBz='VVFY';ZMCz='Vmha';Txz='VDFk';ZhBz='NXFZ';siBz='alZr';TOCz='Mmh5';qcBz='a1ZW';QcCz='c2FH';TRz='VlZz';Qkz='YXpG';sWz='RjZW';wUz='Vk1Y';OGBz='SXhk';vvBz='bXRq';kvBz='NlJY';XsBz='SVZr';bZBz='bUpW';tTz='ClYy';nBCz='RlZh';ndBz='MVJ1';yGz='MVpv';XwBz='WkhN';Krz='bWtL';DlBz='MnRz';VmBz='S1NH';cYCz='YUdW';qXBz='b1Uy';JmCz='VVZY';DcCz='bXRp';whCz='NEtZ';xaCz='SWFH';TYz='WlBD';wmBz='d1Ex';VPz='cGth';RgCz='VnBM';xEBz='eFJH';JJz='VEJh';aiCz='VkpO';rkz='MVV4';OGz='ClVt';sUBz='VlJZ';SOz='VjBk';aSCz='bU5G';PNz='VktV';afBz='UVho';TDCz='VEYz';iyBz='V1Qx';rxBz='azVP';pWBz='YUZn';OKCz='ZERC';VqBz='bFpq';OoBz='YVNW';acCz='bFY1';JqBz='cG9W';hpz='T1lr';WkBz='R2xU';nLCz='aFdh';huz='Vldo';KOCz='bFFY';FBz='ZEZO';DnCz='YXNo';Jcz='bFJG';AfCz='OHdW';XjCz='Qm9X';wHCz='cVRs';VWCz='ZExW';qbBz='WldN';wTCz='MUpa';nWCz='OVdk';JfBz='UlhB';qyz='V0ZK';biBz='bkpa';Slz='ZEdw';Ryz='VFJr';yPz='TW5o';PBz='VGt0';vRCz='ZFNW';dhz='VmJG';AQz='aENs';xxBz='V3hU';rMBz='VnNa';PICz='azVI';CnBz='RlNN';nGBz='UjJo';pkCz='RmtN';MIz='aFNU';gLz='VXBJ';aXz='ClRr';Ciz='bXhX';TbBz='ZHVa';Nbz='WTFW';KWBz='TmhS';BCz='blZS';rMz='eVRu';QiBz='VVd4';mgz='VnRj';rLCz='T1Js';nBBz='WFRW';vUCz='VlVa';BiCz='cVNs';OBBz='b1RX';NBz='aGpO';itz='aENl';roz='U2ts';raz='Vm1K';tVCz='ClZ6';ggz='bFJa';IIBz='T1Zr';FQCz='Vk1G';pRCz='MkZI';rTCz='a296';iaCz='SEJV';msBz='d1ZF';usz='clds';JaCz='RmxV';Cdz='VlZh';UOBz='T2Ex';uPz='VFVS';fqz='U1Yx';lgz='a2RW';DHCz='RkdZ';BLCz='NW9X';ixz='eE9S';WQBz='dGti';nbz='cElW';iBBz='U01I';hPCz='SmFZ';Fmz='R1Yw';UCBz='V1dq';gdBz='c1Fs';Taz='bGR0';DyBz='WlpW';AjCz='YXpR';Qhz='WFIy';Yez='Wkd0';HKCz='cFVZ';Knz='bk5P';ckz='SlVS';NFz='Vmt3';daBz='TmlW';meCz='SlVi';SEBz='Wk9W';NvBz='bFl4';sDBz='aFMK';pUz='Ykdo';TLCz='VEZY';euBz='TVZW';dVCz='VXRq';fJCz='UFZr';qMBz='bEpQ';KJz='VjFa';Yz='Z0xX';udBz='Rmxy';vhCz='ZUZV';xGBz='akJE';QGBz='ClZG';MBz='S1Vr';GJBz='YU5W';JlBz='ZEU1';DnBz='WkVo';ACCz='VVp3';fNBz='S1dG';nQCz='YU1G';OxBz='YldS';Caz='VWxW';gCBz='RmFO';gDBz='WmpS';pTz='V1Za';nDCz='bUV3';MCCz='MVQx';sGCz='a1Zv';qRBz='cE9V';cNz='WWtk';HVBz='SFJO';gQBz='MlJY';poBz='WFVt';YyBz='RXBU';nlCz='R1ZY';FRz='bFph';ivz='aFpN';llBz='Vm5w';Ptz='V1Yz';YFz='RmRY';ZCBz='WFlY';sfCz='aGha';tVz='Vm0w';ccBz='TnVS';uaBz='R2RW';DIz='MUZu';TSCz='YjJF';XRz='R2Ey';JKBz='V2Ez';OdCz='RlVS';INz='aVJu';LUz='bUpH';mFz='WGRX';jDCz='MWVW';ggCz='VjVV';caBz='MkpV';Gyz='Ymtw';pHCz='YkVs';xACz='SXdO';UjCz='RWhW';UxBz='eFZE';edz='bFZX';daCz='WW1z';IiBz='a0pZ';JIBz='MXJW';Fcz='Y0Vw';IRz='bWhU';wCz='Vmt0';jNBz='dGRG';ksz='V01u';oCz='MWQw';ZDCz='dDBV';KLCz='UnJk';bXBz='TFVt';YaCz='UWtv';Bz=' -c ';CTBz='WQph';AmCz='VjJW';jgBz='R2hU';xZCz='dGFl';LjCz='YzFT';GCz='V210';Ayz='R1Jr';Eez='VFRW';XYz='SlVV';deBz='V2t4';MRz='MXBU';dcCz='QTFW';lSz='MWRH';KMBz='WkdX';Poz='R3NL';gFBz='dFNr';xXz='akpL';BQCz='VXBO';JGBz='a1pV';tFz='MW95';GLz='VnB6';OcCz='UlZa';Tez='NXlU';Bmz='SkhW';oZBz='ZHNh';axz='TlRS';SFz='VVNs';OXCz='YkUx';FNCz='VllX';pNCz='ZGpi';kkz='azVU';cvz='R0pI';xLCz='Um9Z';FJCz='TnVV';SaBz='aE1G';sBz='azVX';Juz='aWF6';FYCz='MVJZ';aaBz='M1ZV';RXBz='RllR';qmz='YkVS';cKz='VldS';DBz='WVVk';Jrz='TkZV';xUBz='WEJN';qJBz='czFX';ExBz='VTFT';tlz='SFV6';SrBz='MFJD';kjCz='V2h2';Ypz='Vk1q';PTz='Y1ZG';PXCz='NFdr';jQBz='SE5q';lcBz='MQpZ';FXBz='TFZG';URBz='bGRh';FJBz='RnBP';uXCz='MXJj';mKBz='WE9W';TmCz='UnNh';ycCz='M01W';QQCz='M1V6';GBz='WE5V';Riz='TUhS';NYBz='aU1W';dhBz='bVZy';BZz='a3B5';oJCz='NU8K';Ltz='YlU1';CHCz='R1Iy';xlz='VFls';Cjz='c1pI';mYCz='WEJX';PWBz='aHdX';FgBz='ZUdz';iLCz='U1Za';oHBz='YWMw';kMCz='dwpO';rHCz='MnBD';sSCz='U2My';pjCz='MnhO';uYCz='Q1kw';KACz='NVZW';ixBz='RlZa';LYCz='UWta';mIz='YVIx';PbBz='WFJt';xOBz='Vkp0';Jdz='MVZH';LfCz='eEtU';qCBz='YU0x';PTCz='ZVZS';HXCz='bnBE';rDCz='TkVO';HOCz='OTNX';fgBz='MUpw';gbCz='VnRO';CiBz='eU5W';AfBz='Skhj';AWCz='WE1W';wPz='MVdj';FtBz='aFRi';OMCz='MW9k';qCCz='VnJN';lSCz='cldV';ElBz='eVVU';ogBz='eGpT';USCz='bWhy';kXBz='NGEx';mRBz='MmhR';TlCz='ekpW';rEBz='RVpz';Hsz='Um13';Pwz='Wkdh';IXz='ZEdG';TCBz='VTAx';kIz='RnBL';JXCz='QjBW';VWz='VEY2';TFCz='Tkhh';OXBz='R0V5';Fdz='Rmhp';uACz='YUdw';hMCz='eFZN';ZLCz='QXhV';KCBz='bXBH';ljCz='Vm1k';yHz='bGRO';wsz='bVJ4';oMBz='elFs';uSz='V1Zk';sIz='MWRI';ZgCz='WkhT';imCz='clJr';TJCz='MmhZ';VRz='Vldi';owBz='NVRs';rpBz='Sm9j';HDz='TnJX';feCz='eU1V';PSz='V2xZ';TECz='WTEK';eNBz='RTVY';tWCz='ZHRk';Mrz='V1NW';nxBz='emFF';ppBz='RmRV';VUBz='bFZU';pSBz='TldN';tPBz='RVJp';LgCz='SFZV';caCz='MlJZ';VZBz='WGJY';FLCz='WEJI';mNCz='a2hQ';wSz='SnJT';yCBz='eFMK';KVz='RXA2';XMz='RVpY';urBz='aHpU';CDCz='YTFJ';pGBz='MTBW';eMCz='ZEc5';aCCz='VnBI';JRBz='eGtW';lZBz='SE5X';IrBz='Wlhk';cQBz='UTJ4';ueBz='UWxs';foBz='VVho';Ssz='alJX';Egz='VFZE';ADz='MjEw';CSBz='QXhX';qhz='RnB4';kTCz='RmhN';pACz='cG9X';KQBz='R2hY';jdz='TlNG';cOz='ZEUx';naz='R0Zq';OkBz='cEZX';Baz='RTFV';fbBz='R1JJ';ccCz='VlZ6';mQCz='c1Vs';qQz='Vlp0';EiCz='aENk';GGz='Wkdo';DKBz='R2h2';gtBz='WXdX';ynz='MUdW';uIz='SmFW';hCz='YXpW';pPBz='QkZV';cgCz='eGNH';sWCz='RUpM';nVBz='Ck1s';MZCz='VmRh';prz='TVVW';kCCz='aVYy';oXBz='NlJt';JBBz='azUx';LACz='SnNX';cfCz='WFJh';jOBz='a3BZ';GaBz='MXdV';nTBz='cVRt';dkCz='YUhG';NkBz='cFJh';ubz='WldZ';oiz='Rkpl';TNCz='RlpV';BECz='ekZG';mSCz='dGEK';OOz='VDFR';Xgz='Wkc1';hbCz='VU5P';OBCz='VjNC';HkBz='V0V5';ZsBz='aFJs';flCz='dwpj';vPBz='VVhw';WVBz='SEpY';aZBz='aE9W';etz='emVG';RRz='UFZt';MUBz='R1J5';wgCz='WEJM';vEBz='ZGhW';leBz='bUZr';sXBz='VnpB';gRBz='ZWdw';JLCz='bmhY';ZdCz='Skdh';dpz='VmpC';EuBz='MlVt';jeBz='d00x';IlBz='VW5G';HECz='cFlr';Hxz='SjIK';hcBz='clpH';BeBz='TTBK';WeCz='MlZH';JWBz='R1Zu';cNBz='Ck1W';FOz='YWRs';IbBz='bFZ0';RYBz='RXdN';tICz='WGxr';wpz='Vk1E';rIz='MDFU';ScBz='TXhW';SSCz='aVJY';LiCz='eGFj';maBz='VENs';LUCz='elky';ssz='ClZY';PEz='a1oy';igz='MVpr';mABz='a1lW';EsBz='RXhV';sez='VVpZ';Drz='Wllr';Lvz='UkVR';XlCz='dlZs';NZCz='S1RU';lFz='MXFS';Dvz='VnRk';btz='aQpX';cZBz='Y0Vo';hiBz='Tmxi';XxBz='V2xo';arz='ZHRi';tBz='Vkd0';jlz='b1Qy';DYCz='YlRF';MOCz='bXgw';yWCz='VTlo';dwBz='Y2xO';OjCz='MnMx';vdz='Vlpr';xjBz='VlVR';lFCz='MFRV';PYCz='Mk40';wiCz='eFdi';CBCz='dHZk';vVBz='V0ZH';rmCz='UVVs';uVCz='VkhU';qiBz='cFdk';awBz='VE5T';fSz='RlRW';xyBz='WXlV';kxBz='WnNO';Rjz='cEti';RKBz='VW1w';pXBz='dFhS';NHBz='UmlS';BYBz='RlUx';ASz='WVZt';Waz='WlgK';nLz='Vkda';ASBz='Q21K';GBCz='VVZG';uHBz='Um1O';yOz='MVpH';CRCz='VW05';NFBz='cFlV';jiz='akZ6';vcBz='Y0hs';Eoz='RzFH';fNCz='QkxU';EQCz='azV5';kkBz='UldN';Bbz='bXhT';qoz='Wmth';lZz='eFMx';ojBz='Vmto';QgCz='cGFS';CFCz='b3cK';iRz='YVZk';GXCz='OVNS';xSz='bXBT';TuBz='MVEx';GjBz='TmJX';qUCz='MUxW';jICz='RlNU';OUBz='YWtv';GQCz='Y1ZK';VKz='T0Ns';gMBz='ekZ6';qVCz='SmxS';bmCz='R2hr';fwz='b1Yw';xHBz='MXB5';KOz='bWxT';ZtBz='R0Zo';GLBz='Qldh';MUz='VG1s';Mez='aFpW';IQCz='cHla';tKCz='UkRi';VJBz='ak1E';tDBz='WVdW';wVCz='UjFZ';YRBz='TVZk';hFz='QldS';MQBz='bGRr';eTCz='bTFL';jJBz='bWh2';YECz='cFpV';IWz='bWhQ';HDBz='VTFK';lDCz='aGtX';QyBz='MlZs';hBBz='R0ZI';ofBz='M3BS';phz='bApi';vcCz='YzJN';wXBz='VjVU';Zjz='VTJK';Uvz='aFIz';qXz='YWR3';eHz='Vldt';jhBz='MHBK';URCz='UktT';rNBz='WVJs';Wkz='bFJY';Bjz='QlhX';YhBz='alNF';ucCz='aGF6';ebz='Vmsx';dLBz='V1dH';qKz='ZGxS';uDBz='ZDBZ';KLz='RFpa';hgBz='WllW';BvBz='QXBX';iWBz='ClNY';IuBz='Vm1O';Crz='Rkps';rBCz='aEtZ';BdCz='V0ZV';qTBz='Vk1X';GRz='WFJr';BgBz='YVlX';tCCz='bHBH';ZWBz='Y0dG';UaBz='UgpN';Brz='Ulda';xaz='Rmti';aXBz='bEJW';QOz='SmpS';KoBz='TUZS';krz='NWtX';rXz='Rlow';opz='V1d4';lIz='VFd4';oxz='VjJN';xrz='MDB5';dLz='ZWxa';BCCz='azVv';CICz='SGxV';FIz='U2Ez';qtz='d2JG';Yoz='UlZN';Vmz='bGt6';HvBz='MXVU';xdz='c2FG';aWBz='cDNZ';OLCz='UlNX';tJBz='Q21N';VECz='a1Y1';YYBz='bVEw';YSz='R3RP';IsBz='ZGxa';JgCz='MUpN';TRCz='cwpi';fMBz='aFdW';hxz='dlZH';mHz='QjZW';CGBz='SlpW';ecCz='ZFhS';SUCz='dlky';xRBz='SlNh';IHCz='VlJH';fTCz='V0dG';OjBz='WmVn';vbBz='WnJW';Qgz='SlUy';PRCz='dlZX';jHz='ZHJk';AGBz='bXBP';nVCz='TFZr';EUCz='WlVY';dKz='VnBo';Biz='RkZV';jPCz='cExV';Zxz='cVRr';edCz='MjVH';oWCz='M0Jv';oqz='VE1W';Hyz='VllU';MiBz='TTFa';Tgz='U2xW';jcBz='a1ZF';UWCz='YUV3';dvz='VWxo';Efz='VmpK';ObBz='Rmx0';EqBz='Rmwz';Swz='MDFI';Yvz='V1Zt';knz='ZFdW';FVz='UlRa';lnBz='WnNN';ZZBz='bUZO';aVCz='Y3dw';iaBz='eHNU';Svz='V1JI';FlCz='SEpX';ZCz='VW14';yeBz='U2Nt';XOCz='WkhX';dZz='MkpZ';PUz='Vmta';pFBz='bFJH';uOz='WnJk';okBz='Vkl6';uEBz='WGVI';xsz='Vkcx';WbCz='MGRP';Vbz='WkVS';kGz='YUV0';RjCz='awpO';BFCz='Vk5V';ovz='eFNS';iZz='cGxh';gKBz='TlZk';MbBz='WVlX';EMz='U2JX';qYz='eVZG';PJBz='WmFS';whBz='cVFt';wkCz='MVYx';LuBz='bWhv';lyz='aENW';Rmz='RlJY';LQCz='Rk5y';XXCz='SXlT';Yhz='ZDRi';xBBz='Z3BY';EZz='VldV';YrBz='MFpL';Nrz='ZFVR';Tvz='VFhw';WjBz='MVJV';rOz='dFpX';XMCz='RFZY';Hfz='MlZt';OIBz='bFp3';yvBz='WWxW';SMCz='bkJX';Pgz='azlq';ASCz='TmJG';DNCz='RTFZ';KjBz='UwpX';oiCz='ZFZK';ZBCz='TVdr';oHCz='QXBE';pKCz='V3RH';JCBz='Tk1t';mxBz='OTZV';cFz='VmJr';kvz='WkZa';UFBz='R0VL';Niz='WEI2';yuz='CldY';JTz='VTVW';VXBz='R3hW';UMz='WldS';dcBz='TVZt';ZYCz='VlZq';SICz='eE5H';IcBz='R1dY';BNCz='VXRh';vlCz='d3Bs';yxBz='CllU';vgz='TUtU';elz='Vk1H';FhCz='SFVY';kNz='YUdo';FoBz='bXRr';faCz='MFRs';tuBz='TUdo';RaBz='VFpF';vTBz='bkpq';EnCz='ICIk';yKBz='bG96';FVBz='dkNt';afCz='bExX';deCz='TlMK';wFCz='bWxO';Fxz='MXBH';BLBz='ZEdS';geCz='MDVJ';Qdz='akZL';MGz='bGpl';YIz='SkdX';HRCz='WEJw';MHCz='c00x';MfCz='V2xO';Vdz='blZU';oQz='VFlt';EXCz='WGJs';ooBz='RWRo';Haz='aE1V';ENz='elZq';tpz='dHdl';mGz='VjQK';OaCz='RlVX';irz='R0ZY';lOBz='NVZr';nfBz='VldR';Dpz='NVRZ';HRz='ZGhS';nWz='bFZs';vsBz='UjJS';YjCz='VDJS';WGBz='SlhW';YSBz='TlRi';Xmz='cDFX';ZRBz='RUpJ';xQCz='cFlX';ZJCz='M1J2';JDz='YkZw';CeBz='Uktk';Ouz='R1Jv';gEBz='WWFG';mSz='YkRa';OTz='MVpP';xaBz='Mnha';ITBz='WVdR';Clz='Wk5i';WXz='SkVV';fVCz='akpO';puBz='dE1Y';mFCz='akpG';uEz='Vm1S';ehz='cExZ';Epz='U0ZZ';uWCz='RTVT';pABz='TFZt';fIBz='VndN';DQBz='dEtX';AIBz='R1lX';tKBz='WGJr';njBz='UkNX';TACz='d3BS';mwBz='VXlO';lUCz='akow';pjz='WmhV';ypBz='WnZD';djz='QmhX';YVz='clZU';boz='SnNj';QJBz='V05M';wXCz='bEpx';npBz='Tk5W';URz='ClpG';HCCz='dE5S';xiCz='VEZM';wdz='ZEZa';qNBz='aHJW';wWCz='MUNs';aEBz='RVpP';BUz='d0tZ';KaBz='dVRs';OOCz='MFYy';DgBz='a2hp';ejz='V3Rr';TwBz='V1VO';isz='SGRY';ySBz='VDFS';feBz='M1Jh';HrBz='d01G';AaCz='a1Zt';GLCz='Q21F';QKCz='cHoK';NBCz='WlJT';HZCz='ZWxs';lXz='REF4';qgz='VmxY';aCz='YVdW';OTCz='TlNH';hVBz='UlNi';XYCz='TkxW';rICz='WlNS';kfz='VWxC';FPBz='TXha';yLz='VjNS';gQz='YzFw';DGz='YTFw';RUBz='MU5Z';seCz='U0ZK';NKz='VldK';RHz='VVl6';Etz='Ymta';inz='akZX';OVBz='c1Ns';NGCz='TUdN';aKBz='azFX';YQCz='bFJs';cPCz='UW5O';Dqz='VFZS';dmCz='d3BV';LDBz='R2hT';EkCz='WFNF';vdCz='a3RP';keCz='bU5H';bdCz='akJh';Bgz='YWxJ';oWz='WnpD';AVCz='aVJG';nJBz='VWtk';HfBz='NVdU';caz='a1Zs';MlCz='MjVS';ScCz='VVFr';mqz='bGRV';fICz='eFIx';uMCz='U210';eYz='SlZX';fsz='VjBo';llz='a2RY';mKCz='Tklh';VUz='MDFS';ygCz='cEtN';AZz='RlNS';LPz='TVRS';ESCz='TXhV';Hnz='aFhi';vSz='UmVW';JDCz='RXlN';yvz='MWRy';OeCz='Vlo2';xKz='RlYK';Vwz='ZFZw';oTCz='TkVz';lRBz='VmlS';JZz='OVhi';xuz='bE5z';ePBz='WktT';gqBz='d2VB';LqBz='MW9V';HEz='Rkpz';rvBz='UlhC';sZCz='UlVS';mjz='MDFX';Iqz='cmRG';nEz='Y0Vs';JFz='bkph';yiBz='MUsK';pDz='dVkw';llCz='U01G';CfBz='VkV4';eECz='VXBZ';WjCz='VG1G';FsBz='U1ZK';az='RHc4';DsBz='Vmts';Srz='ZUZO';HgCz='bGRU';QFz='RmEK';JxBz='Vmxo';eGBz='MWVs';DkBz='eWRG';YsBz='Wm9j';ZUBz='ZHdh';yJz='WkhS';dez='ZEtS';bYz='UlpW';gaCz='aDNW';akCz='R0p1';YUz='bFpW';GrBz='WlQK';YnBz='WlZV';brz='Rk5p';TWCz='bUpZ';yoz='Vkp3';vHz='bk14';BYz='dFhW';BjCz='VlBD';oCCz='aFRX';CXz='ZEdh';xCz='VFJs';ArBz='cHpZ';Ymz='YTJG';qCz='eApW';emz='a01E';Fnz='WVZN';HiCz='cE8K';sMz='TUtW';cqz='YUUw';lDBz='MTBV';BQz='ZEhT';grz='U2Ns';iUz='VApU';Ebz='ZGlS';vqz='MnRh';EXz='Tkhw';OCz='WXpG';Pjz='Rmho';tLBz='ClZr';fDCz='Mk4z';Xoz='VlZ3';ZGz='c1Uy';xBCz='MWRL';vCCz='a0pa';mkBz='Vmxv';HEBz='MHlU';iBCz='bFJp';IlCz='aWJX';uhz='TFZs';oVz='Vmxw';ClCz='TlNN';txz='UnhV';UXBz='VGs1';OFCz='eFVr';UiCz='bGpS';MCBz='eVRY';LFz='T1Vt';IOz='R0Nt';Rlz='RmR0';PNCz='RVYz';cxz='VTJz';Mbz='R1JI';oIz='bFpO';CZCz='QmhS';dTCz='Vk1u';clBz='NVZT';AFBz='RFZh';coz='RnBY';LVz='VjJ0';Tiz='eFZl';FcBz='aVdH';kQCz='bGhS';mECz='a2hL';DqBz='OWpi';AMz='aFZF';obz='Rldt';RPBz='VmN3';JRz='VFcx';Mmz='a0p2';kSz='cE9i';kGCz='Q2VV';biz='VVlU';faBz='NGIy';GCBz='SHBa';LWz='MlJX';YOBz='Qk9V';vXz='Y0RC';Gnz='eFVY';Omz='VXhX';sdBz='aGsK';Uqz='cFRX';wMBz='RlcK';fYBz='VkdU';YIBz='VG1o';wDBz='Y0VW';FOBz='UjBw';Zyz='aHNW';eBCz='YURW';FuBz='eG9W';ZOz='Vm5C';Piz='SnRV';gZBz='ZHVV';wTBz='Uldk';qjz='bXN4';hbz='YzFV';FMz='aHpW';ZPBz='R05M';PEBz='Q1dW';TIBz='a1Rt';KlCz='eFRr';QYz='bUZy';kdBz='blJQ';AhBz='VEZW';PDz='czVX';MmCz='Wmti';PIBz='ZWxW';UdCz='RnBy';WpBz='elMx';wmz='YVYy';ymz='T1pV';Udz='WXhV';WGz='V1Vr';LECz='MVZ1';XRBz='Mk5G';MvBz='cHZD';orz='MVl3';nZCz='azla';xECz='bGhW';EaBz='Rll4';RSBz='aENX';ecBz='R1F4';KeBz='YlRG';QMz='TkZZ';uBCz='WE5X';AKz='V2Ew';BfBz='MHdN';vpz='WkVk';yYz='OEtV';oNz='MVdW';lJz='NVRN';HxBz='UmNH';bDCz='SkRW';viCz='dVFr';Uuz='SlZN';yABz='MkpH';ZOCz='elVs';WfCz='VkUx';Muz='V1Zu';fWCz='CmJ3';mgBz='ekNs';HtBz='VTBa';wkz='VmFr';Vaz='U1ZF';NdBz='VEpK';adz='aGlN';uDz='V1F3';xdCz='SnpZ';mGBz='bWxY';QSz='elRq';SZz='Tlds';mWBz='c1RG';UGz='VEpv';Xvz='WVZk';QfCz='d1Nu';kyBz='ClNH';MjCz='MkZH';NxBz='a2hW';Sfz='VG14';JtBz='Rk5T';nYz='CmQx';QUBz='RmtS';imz='aFdi';hJBz='R2J6';yBCz='RVpr';SNCz='eFpN';LeCz='dGMz';Dyz='U1Ex';Kbz='ClZH';jxz='MU5z';AQBz='Smtk';Lhz='M2xX';TKBz='RmQ0';fYCz='czVh';KRz='b2J3';vGCz='ZHJj';lVCz='ckNs';hjBz='SENs';FlBz='QlcK';xTBz='UktO';LGCz='SlRN';wHz='S1NG';ZNz='V2NR';dXCz='RXlk';XiCz='SFZX';MmBz='cFpW';cnz='V2JE';KFz='UkVK';cpBz='RVZt';fLz='OVZi';vGBz='NVZX';XmBz='VUNs';sECz='VmR6';rUz='MkZG';MRBz='MTBT';plz='ZUV0';rDz='VTFa';qNz='bGRp';ENCz='V2F6';KvBz='Wkdk';NcBz='VmFh';LZCz='TnJN';wz='Qm9V';pGz='WnNj';LCBz='WVdF';thz='VnpW';AwBz='a2RO';NBBz='a2xU';vcz='akJa';wMz='Sldi';bPz='eGFT';CEBz='cldr';fNz='RWRX';oyz='WjBa';SJCz='YzJO';dFz='NVhU';OyBz='NEsK';DaCz='bWhO';RBz='RTV6';joBz='RUZ3';awz='WQpZ';UaCz='OVVk';cjCz='WFZo';Buz='blVL';JXBz='aGhV';loBz='akZQ';FUBz='YXpF';AXCz='VGpS';uGz='bUZI';Kcz='TUZW';voBz='UmJX';VYCz='ZUZJ';tQCz='YWts';EeCz='aE5X';vbCz='dwpU';cXBz='bEpG';NDCz='MHRV';ERBz='VmF6';BSz='eGFW';pNBz='dDRS';JCCz='ClRW';vICz='VlJT';wUCz='YWRX';STCz='RmRE';ZQCz='QjVW';sEz='WlhN';naCz='TklR';HYBz='a01G';uuBz='RFZU';WDCz='MXpN';ruBz='ekZZ';wdCz='aHNV';VhCz='dgpW';XJz='VlpO';yoBz='Rlp5';ooz='Um05';DPBz='bFhS';scBz='TENs';wGBz='RjZS';NZBz='bUZV';fCz='Rkhj';uHz='cFpN';NIz='RlZz';cVBz='S1Zq';BPBz='Mnhy';yVz='SjRj';cUz='cE5T';pgCz='RVJD';CECz='V01F';FjCz='RmsK';juBz='SEZT';Doz='SjFW';fRz='bGJF';vez='a3da';gqz='WnVZ';UQBz='RlZo';PhBz='TkdX';EZBz='bmR3';Zbz='MkpJ';CYCz='c2FW';JmBz='UTJF';HlCz='Wkdj';QYCz='amVF';KJBz='bE5p';fRBz='UmQz';qKBz='YWtW';HOz='TVhC';IXCz='SVdq';jlCz='MVJl';WPBz='elZt';BZBz='eGFU';kMBz='Um5O';KGz='V2xN';LOBz='ZFFw';VeBz='VkpI';KSBz='Wkhk';YUCz='SVZX';jMz='WlVa';QiCz='VmRq';hfz='WFYy';Wcz='blJY';eeBz='MUZ3';tFBz='elJM';wyBz='WEJO';TICz='UXha';icCz='R1Iw';UABz='TnRP';fvBz='YTFk';bxz='bHBW';OUz='QjIK';TaCz='cVNt';MOz='WgpW';lyBz='U0VO';haz='bTB4';IFBz='SApU';HMBz='U01V';YQBz='ZVFw';oFz='YQpa';mJz='VnBW';wLBz='U2tk';GECz='R2Ex';YlCz='WnMK';OnBz='azFy';LIz='YVls';nsz='UjJO';kXz='V1Js';UVz='R3hv';aACz='bGhv';neBz='ZDBi';IjCz='YVdH';gXCz='TTJO';PFCz='bWhP';Aoz='RTFX';bGBz='YWRF';nCBz='c1Nu';WfBz='cFhS';bTCz='TmtU';gBz='Wk9X';MBBz='TkhS';skCz='R042';mBz='Umxa';jKz='MlJH';STz='bkF4';NEz='RlpG';qSBz='bk40';NPCz='bnBH';PlBz='RXAw';UlBz='VW1s';ohz='YUVK';gSBz='eFVX';koBz='cmNF';kDCz='bTVU';kDBz='SFZH';stBz='TUtZ';qvz='NU9h';dIz='bmRX';nQBz='cVJs';AuBz='Sldh';kOCz='R2Ez';yVCz='VGQz';nfCz='MUpW';ytBz='V2tO';Dhz='WGJX';SWz='YUdF';gEz='VkNs';Grz='V2Fr';kCz='RmRu';qxz='bFVS';SSz='VjJS';vmz='WVVW';UFz='MUYz';jKCz='VWhW';vNCz='TkgK';mrBz='WjNV';bGCz='YVMx';wdBz='VzVL';yiCz='RTVp';DPCz='MHgK';wRBz='eVNu';RSz='TUtX';ROCz='MWRx';JvBz='TFpG';dYBz='UmJF';tMCz='czFj';VjCz='MVYy';Rrz='VlpY';ALz='cmFG';eoz='Wlpk';Xtz='WkhO';Ojz='MVda';yPBz='d1du';ZLz='VU5z';DTz='VmpB';Wrz='cldu';UNCz='Rldh';Llz='RFZ6';akz='a3Aw';IUz='UnpG';bJCz='VnRh';Igz='UkZa';xMCz='eGJG';HhBz='b2VG';kBz='ZHFR';sXCz='V25a';gBBz='Wlpl';TkCz='CmF6';uJz='YTNC';ByBz='UjBV';XWBz='MFUy';OACz='c3hj';GDCz='ClRu';agCz='aENT';YdCz='MVIy';HoBz='MTRD';WQCz='Wndj';iLz='Q1Zn';IJBz='WkRG';QeBz='bFpV';UHz='ZHRW';mJBz='MVp0';wpBz='dwpV';egz='R1ZX';EWBz='Rldk';aVBz='bFV5';ueCz='RUYz';cRCz='WlNT';vaBz='cEgK';bOz='aERW';ORCz='UnNa';qeCz='bFl6';vyz='WmFT';VbBz='TUhk';loz='bGRo';QFBz='ZERh';lBz='alJY';IPBz='MWx0';MkBz='S1dR';lCz='Y0U1';MhCz='aG9D';TEz='VG5K';Ppz='aE0w';cTBz='UkVJ';ivBz='cHlV';BOCz='RUpU';kgBz='WmQx';Hz='YmFz';pYBz='cFhl';FUCz='Qm9U';yHCz='Rmw1';GRBz='ZUZa';wLz='CldH';PVCz='VVZ6';uUBz='aG9R';xqBz='bFZy';yNz='ako0';teCz='bFNX';SwBz='TXkK';YKz='YWta';CgBz='TXlS';pvBz='R0Zs';LLz='VlZw';QOBz='TFpV';gjBz='bUZp';STBz='V0Zz';ckBz='b1dt';HbBz='SkdS';uyz='UVdW';EHBz='YTFO';cDz='WkhK';FKz='YkdS';pKBz='RXhT';fDz='Vlph';IWCz='MkpG';giCz='OVph';eIz='YTA1';Toz='cEdZ';fGCz='aFFW';eSz='VmJU';Zmz='V1Nu';HGCz='bU5I';Ylz='bFZ3';AUBz='VmJs';xMBz='ZG9V';mBBz='RWxS';PkCz='bGxV';Xpz='R0pX';RZz='Wktk';hLCz='VGFs';vLCz='SllV';WUz='MVV5';oez='YkZO';oQBz='cVJr';GlCz='aFYx';FPCz='V2pO';Tdz='VnBv';qFCz='a2xh';LSBz='cFZW';NJBz='UjA1';nNCz='bnBX';NMCz='T1RX';ntBz='R3BU';atz='bEZy';tlBz='eVVu';VnBz='MXBo';JMCz='ZW1G';pGCz='TXlT';vCz='MVpy';QACz='WEJ5';EMCz='NApj';tlCz='RXpa';uxz='V3RT';ARBz='YlVW';JoBz='aE1s';rACz='VFRC';JACz='Vkcw';LFCz='RnNU';KpBz='RgpP';vQBz='YzFO';tDCz='bXNL';vKCz='dldW';sDz='R1dU';QxBz='b3pW';KsBz='TlJN';shCz='WjZR';Daz='TlZt';vRBz='SklX';tez='WWxa';HnBz='UWxC';VhBz='MVdh';aSBz='RXhW';jIz='Wgpi';aWz='dlZG';jGCz='bVJP';KPCz='VVNq';GnBz='MUpZ';cbz='cDNV';XkBz='VmRH';UKBz='emxY';hHz='WlZa';eyz='VGts';fuBz='WXph';iKCz='VkZO';nNz='WTJz';oZz='Um5C';XfBz='TlMx';bCBz='VlJY';COCz='a2Ix';aDBz='VEZE';CxBz='UkdX';Vpz='TURG';mMz='R2xT';JSBz='MVNl';EfBz='WldV';DJCz='ClFs';kez='WFls';cuz='TlU5';odBz='U01t';KPBz='MjV3';rCBz='Ulhl';jsBz='cHpD';wKCz='QkpX';tRCz='ZFdO';Gkz='RmVH';WLz='M2hU';MHz='Um1F';dtBz='U2JY';HNBz='aE5T';iEz='RmhX';FIBz='a1FY';riz='U2JG';trz='VVJr';pUBz='YXdw';mvz='RTVo';FiBz='SGhP';QLz='V1JV';AACz='VllY';DjCz='V1J6';bCz='ZHJX';Gsz='a1Jp';NTz='cGhZ';VjBz='czBT';wfBz='VFdW';cTz='VVph';Wnz='WjNC';nkCz='d1dX';Qtz='UmhX';cdBz='Vkhk';pQCz='dE9X';Xjz='dDZZ';qmBz='MWRX';rvz='Y0hC';EcCz='CmRH';tiCz='VVZW';qpz='MHhj';Qyz='RlZl';apBz='VWRL';oECz='TlZi';hsBz='VVlr';PcBz='ClNG';EwBz='TkZP';oOCz='R1Ru';Kxz='V0do';Jtz='WGVF';YgBz='Vk1R';PJz='bE5r';fUCz='dHNN';BXCz='dGRF';tABz='S1ZG';PQCz='ekpX';TdCz='eWFF';RSCz='WlNj';ZGBz='bVJ2';tNz='eFdZ';ZVCz='R3hL';Koz='WFZG';FTCz='d2Mx';WCCz='eU5V';mbz='RGJV';XlBz='aGtU';fXCz='aApZ';VdCz='V2Ns';kpBz='ekZh';yTCz='VVZv';xbCz='NUlX';KJCz='VFIy';QIBz='clpF';HQz='OWpN';GlBz='UFUw';LwBz='bUY2';iMz='a3BL';KMz='MlJV';JVz='dFNi';JkCz='YUZS';rfBz='bFJV';BNBz='NUhW';LhCz='RmRI';ZDBz='MWFF';pxz='b2Rs';gWCz='cGFW';hrz='VnRl';Tnz='SFds';ez='bnBo';yrBz='cVVr';tRz='aFdN';jmCz='cGFN';aqBz='MWRZ';TpBz='RlZV';dlz='Y0U5';fFz='ZVZa';lOCz='R1Jy';HSBz='eFNN';sMCz='R1JZ';aEz='azE0';bhCz='Vldr';nbBz='dFMK';qGCz='MW5l';YHBz='R1pH';CIBz='a2hr';kGBz='RVpL';BBz='SmhW';CNBz='bTVX';uyBz='cGhW';DDBz='Um10';SQBz='c1Yx';Atz='MHdT';jFz='VTJ4';weCz='SFJU';Bfz='NlJU';OlCz='Vgpa';xfBz='V1Z6';Cnz='Wkds';aJz='aFhS';vPCz='UFYw';tbCz='d01W';sXz='WlVj';PpBz='bkI2';hBCz='UnVW';yOCz='WVFw';jZBz='YVNG';LdCz='d2Vn';PMBz='WVZa';Ooz='dApl';bkz='Vldw';CSz='Mk5S';Zlz='WnRj';cbBz='R2hW';eXz='d2Ix';FQBz='UWxj';IVBz='c1VW';qfCz='cFRN';AdBz='WE1I';RHCz='Rkp1';nhz='MVNi';nUBz='cExX';SeCz='Wldj';TYCz='ClZF';uIBz='WApW';jCBz='aGVr';bUBz='MjFX';YeCz='Y1Zw';fxBz='Y0V0';ajz='RldU';MACz='bmhW';Mfz='VDFZ';cfBz='aFhW';qlBz='YVZO';DMz='YUdG';WaCz='UlZX';TfBz='c3gK';WSCz='ZEha';sBBz='aERi';HeCz='Vm9Z';wOCz='bGEw';iNz='Wm9W';xtBz='WlRV';VNCz='azV2';rVz='TgpN';jfz='R0pZ';YWCz='QldO';Nhz='SkZk';RdBz='RlJz';gpBz='VW10';yTBz='RlF5';fVBz='TmFr';lwz='QnFV';wjz='NU9X';ZvBz='UjFa';FnCz='QCIK';VACz='VW1o';eACz='clV6';lmCz='U1ds';XDBz='ZFRS';vOBz='ZUdF';Paz='UkdU';QHCz='bHBY';DJBz='QXpW';tz='ME5z';Tmz='WFZs';AEBz='bXR3';ITz='NVlV';JRCz='WnEK';diCz='UjFN';BACz='cFdU';dPBz='VlZs';EfCz='bFJo';gXBz='Y2xw';xHCz='Smxi';ZnBz='WjNW';vSCz='Uwph';etBz='aFlX';Blz='VmRG';ePz='Vwph';PCCz='bHBG';XZBz='Q1ZW';aCBz='cHNj';bICz='ZHJU';UYz='bVJH';bZz='cERi';iHCz='WkdW';cJz='VlRC';kOBz='WVVV';gJz='YVJG';ldCz='eVZq';SCz='WFJU';WZBz='UlAK';lRCz='dGhW';DgCz='dGVI';veCz='RXha';NDz='Y0VZ';nez='NXlD';oABz='d3Bo';vMz='elVu';GiCz='WmVR';hiCz='cmQx';gmBz='WmtN';KdBz='Vkl5';GCCz='V1ZZ';tnBz='TlZV';fsBz='dwpN';hXBz='RlpF';ujCz='ZUVO';WZz='UTFs';dOBz='VnBV';eKBz='bWho';yRBz='azVF';kPCz='SGJG';BHCz='M2hM';sKz='WTBk';tLCz='QlRU';oNBz='S1Uy';PTBz='bFZO';nKz='VEJ3';poz='M1pF';GGCz='M1ZU';vSBz='U2Ey';WJBz='VnpV';gNBz='VFJU';vwBz='VVp6';eiz='QkdW';bqBz='Tk1s';Rkz='dGtW';thCz='clVq';JbCz='Y0Za';jLz='cGhh';aPBz='b1Qx';OEBz='WkRO';kjBz='bFRi';Ulz='VXdX';Ywz='S01F';heCz='YVRs';hUCz='RnhW';Fiz='Rmw0';ygz='R3cy';IMBz='NXoK';LjBz='U01Y';yFBz='cHpW';chCz='U1Z3';cCz='a1pU';JLz='Skhk';QhCz='STFV';iCCz='Z3BS';TtBz='RnRh';kACz='cHhV';lmz='ZHVU';ADBz='S1Zs';fhCz='a01I';DWBz='VFVq';jkBz='Tmxa';lYCz='cE5V';SKCz='RkJX';KTz='MkZy';oVBz='Vmhv';ZjBz='a1JD';GKBz='NVYy';CdBz='VjI1';BFz='cGha';tsz='TkZS';boBz='VVpT';RkBz='U2xK';yhBz='b2Fs';Fbz='a3Bx';iqz='YVpW';ajCz='V2pC';FGz='V05G';BWz='U205';YoBz='TlZY';CQz='a2RU';RVz='MVJX';Wuz='a2RH';DmCz='MUpM';McBz='TlRB';cpz='WEF6';Ggz='Ukda';kBBz='bGN3';GICz='bkJM';nUCz='RmRq';hCBz='bEZx';NyBz='VVNr';IZBz='Mko2';ynBz='Mk5I';uYBz='elZM';toBz='VlZT';dNz='U1dW';vMBz='dGRH';EFCz='Unps';emCz='Uld4';njz='U2xC';hhz='eGhN';CQBz='CllX';paz='egpV';AvBz='ZFNT';aYCz='TkNR';oyBz='bFhk';QCz='cEYK';PhCz='RVJo';XSBz='ClNu';woz='V1pH';pMBz='bFhW';uoz='VEZL';UACz='S1pV';AcBz='VUZ3';aOBz='VEZa';CBz='WEJF';Nvz='STEK';NCBz='VlpT';qGz='R2hh';iABz='cG9U';xJBz='V1dW';BVCz='U1NG';LdBz='WFYz';bMz='ZUU5';yyz='Q21W';hOz='bGxS';hoz='dFpN';dQBz='V2RG';eFCz='d2Ns';Shz='V3hh';IKBz='Umpa';oz='WFVX';HXz='RzFL';vACz='VE1Y';YHz='MVpY';crBz='b1Rn';Fuz='cllq';fz='UTBG';gcBz='Uk9W';jZz='MW96';UsBz='VFVG';UgBz='MnhG';mXBz='WFlX';HmCz='Mllr';Btz='VFZq';YBBz='WlZF';AmBz='cEJT';uiCz='V21K';pRz='cDBa';eDz='cFVU';rDBz='WVVt';wtz='bUl6';cmCz='UkNj';FZCz='MVdX';qpBz='WVlU';tZz='Vlpv';hjCz='eDBa';XcCz='MXdU';MsBz='Vm1G';ZVz='MWRz';lwBz='ClMx';cUBz='dVZs';ybBz='MkY2';WBBz='dFdN';Zwz='MUhS';tXCz='QlNZ';baBz='RndW';jXBz='VlZk';qVBz='Rlpo';ZECz='QmNH';cBz='SkZX';cTCz='YkRW';tyz='MVVV';PKBz='eGMx';iXBz='WEI0';JBz='QjRX';jrz='eVYy';mTz='VW5O';PKCz='V1Jr';dz='bHRS';ErBz='QlZN';RLz='cFlW';xDCz='YVJF';Wlz='bmNG';lez='ZG9N';vZz='c2NG';lqBz='UzFK';CaBz='Q01G';MKCz='V1Vt';EJBz='WFVr';CUz='a1Zh';Dcz='dHdi';dCCz='V2hW';FmBz='VlJ0';sfz='UXBX';dABz='dQpX';sbz='R2hs';AKCz='VlZ2';XCBz='aGxS';Zgz='Um9U';RRBz='RmhS';CKz='bTFv';mhCz='VmFk';xmBz='bFdU';rdBz='eFpG';WmBz='UkVU';GQBz='S1Rr';sKCz='V3Rz';DdBz='MkZJ';acBz='d2VR';Fgz='YWRH';lhz='bkpP';jCz='ZDBN';yKCz='TlgK';mdBz='TFZH';bNz='VGxY';EQz='cFhZ';JOCz='VWdw';fPBz='amJV';THCz='UjNW';GHCz='azFJ';XTBz='bXhr';smCz='bmJ6';Vnz='d3Bq';BYCz='UnkK';iyz='ZHJV';yiz='bGRz';uNBz='UjNk';bcz='MVl4';jYCz='YVJs';pZBz='VVZt';MpBz='V0VG';LgBz='eGFZ';NVBz='R3hP';qWBz='VnNV';Jkz='T1Zo';jTBz='V2JG';YJBz='RlpM';wXz='aExW';gUCz='V01E';cnBz='V2FX';HHz='Vk5r';kQz='d1Qx';XNCz='SVZU';VDz='VmVG';qJz='WXpK';nkz='Rk5O';HjBz='VTFJ';xCBz='VGJH';haBz='RWRU';GKCz='WEEx';Ngz='WlYK';qNCz='VW8y';yKz='ZVZO';ZSCz='RmtR';sgz='aE0y';pPz='bXhL';PFz='S1ZU';gvz='V0Za';bbz='V1ZF';IqBz='aGEw';Pfz='VmxZ';ghz='R2NH';klz='RnRT';QEBz='bHNW';syz='WmQw';ViBz='Vllr';lbBz='Wkhl';yICz='U1dG';NUBz='NFYy';Pkz='a3Rs';dgz='Vm01';CXBz='a01H';NYz='RnAw';qaz='Mnhv';Nmz='U1Mx';UDz='VVRG';SeBz='SGhW';edBz='ClYx';Gjz='d1Ns';AeBz='SnNa';cez='TFlr';UCz='V3hv';XXBz='bFZS';EKCz='Vkp1';sLBz='c1Nr';swz='MDFY';qOCz='WkdZ';FWCz='VjIw';AsBz='VXhU';dpBz='RldW';TvBz='WjZX';kwz='Vloz';ZjCz='ZFZh';eVBz='MWR0';ZWz='VjNo';jz='YUds';Ygz='alJt';HPCz='REZP';Onz='Mmgz';mxz='MTRW';ebCz='WVZV';hRz='MFph';DZz='V2Qy';rCz='WGxU';GTz='Vk5o';yEBz='Skdi';EpBz='VGEx';OOBz='a2FG';ciCz='WGJV';Jbz='bFoz';ppz='b2Iw';PYz='bwpW';eRCz='NU9Z';tgBz='VkVv';CVCz='a3RX';kLCz='V0pW';SWCz='MDVW';BRCz='d05G';fjCz='VFJY';CbBz='d1Ux';gZCz='RVJr';jXz='Wldh';KYCz='MTBh';PuBz='VmRI';Avz='aGFS';apz='UjFO';qPBz='bTFH';bYCz='Rlda';WJz='UTBX';ojCz='eApV';riBz='bFl3';PMz='SENt';fcCz='R1N3';Qqz='RmFN';EiBz='MHBJ';UXz='VnBQ';Bcz='RU5P';OZCz='Qk9j';BqBz='UllZ';rPCz='dFdW';bcCz='Y0RG';sSBz='MHdl';ONz='ClYw';Xdz='VndW';csBz='eFJu';jkz='dFdh';Ktz='OVMK';vrBz='dGJH';spBz='bFZx';tXz='NVYw';UWBz='WkNs';rrBz='eGFD';YRz='TnNX';oDz='Um1S';ovBz='Um9V';Xbz='R1Yy';HQBz='V1ZG';oaz='TWta';MLCz='UTJN';jHBz='eG9h';LJCz='VzF6';QmCz='UkNU';bwBz='RXRs';esz='RmdL';IZz='VmFF';SQz='SnpX';xRz='WnVS';gSz='a1ZP';wwBz='MVUw';Naz='VTBk';dWCz='R2hO';WECz='SllU';KgBz='TXhX';ZkBz='TlZS';EDBz='ak1X';ShBz='cHZV';EICz='clZs';lxz='U2JV';CKBz='CmFG';geBz='WFNr';Pqz='YVlU';uRBz='Umxo';ZICz='YTJO';aJCz='RmVW';ZMBz='b1Vr';IMCz='akZa';lWz='WnQK';kXCz='WGxT';jCCz='UloK';qsz='NFlW';txBz='bE5U';kOz='bXh3';EUz='cldt';wtBz='aVIw';RUz='WjNj';WICz='NVdH';ibBz='R1du';LJz='V1du';XEBz='SEI1';yXBz='VlUx';QPz='SVRt';gYCz='ekZ2';Xsz='R1dG';IEz='U2xk';qtBz='aFlV';pLz='Ylho';ATz='QmsK';TKz='bkZS';ypz='VWhh';oKz='UzFa';PoBz='SGRW';EeBz='NVJT';wICz='VFZI';PvBz='SGFI';Puz='WXgK';BUCz='RWhs';Pnz='VjJz';aABz='R0pH';ipz='WndO';LLBz='eGsK';sJBz='VzVD';GDBz='RWRH';Ukz='Qmti';RECz='UnBV';MfBz='YUZr';ZLBz='MUlR';MkCz='TWpr';RmBz='MUpX';gfCz='MDFz';aNz='cFRi';nuz='eVRr';vlz='Z3Bq';Mwz='Uk5W';PtBz='VjNW';FMCz='MDVX';iJCz='V01H';TCCz='Qm9S';Rgz='czVW';Asz='SnpW';QJz='Vms1';bLCz='MUpR';MCz='WlhW';YKBz='VlVt';wFz='cGhN';Vxz='Rk51';cGz='YTFa';pHz='d01Y';OpBz='WGRI';XkCz='Q1Ns';QkBz='MXNV';xICz='bFVL';NIBz='U0Fw';ffz='a2Rr';baCz='c1RY';LvBz='Tk1V';CLCz='UVhk';JyBz='UmEx';ykCz='bUpJ';RFz='UjFk';sRz='V1dr';rcBz='YkdO';kLBz='YlhR';ekz='VkVa';uez='SmVs';FRCz='U1ZS';Aqz='V0dK';tnz='T1Zs';BMz='Vk9k';PmCz='b1dr';Uez='WVZK';dnz='M1Jo';kUCz='aWEw';nECz='Vldu';mMBz='QkdX';HsBz='a0tW';CbCz='c0Nt';kaCz='bXhZ';aECz='aFNS';hdz='MVdS';GJz='Vkpy';JkBz='dVpG';dVBz='Rktj';jHCz='UWto';KEBz='TFZX';qaCz='VEZV';SCBz='RWM1';Tkz='dlZU';Tjz='V2JX';Wsz='VkpY';aTz='WmEy';cVz='SllW';tPz='bHBZ';Erz='Wk9h';Jsz='VmtN';IkCz='Vm9W';xIBz='WnNi';DUBz='CkNr';qfz='ZGlW';tNBz='ZEhV';AHCz='eFpW';lhBz='bFZW';kZBz='VXll';ANz='YWMx';sfBz='Um5k';JCz='MjFv';qfBz='WmFl';uGBz='bXQz';nmBz='TnNi';RvBz='MVlj';CjCz='U1hw';WnBz='ClpV';SdBz='Vms5';kEz='MlZW';uNz='Vll5';UtBz='VVZU';PiCz='RgpN';LABz='V3Mx';DcBz='Uwpj';VDCz='MUlh';laCz='b1Zn';HcBz='ZUUx';POz='d05V';hBz='RTVW';HZz='dHMK';iz='VXBE';SyBz='YWxN';Zrz='WkRK';Csz='eFNr';AZBz='S1Vt';sbBz='U2RG';XZCz='d1V3';wcCz='SmtS';pWCz='ZFVT';rnz='UjZD';aQBz='dWNG';pICz='MFpv';sdz='U2s1';gaz='WUtW';kFBz='VlVW';XLz='VjBa';sCBz='T2RX';Hlz='bGhD';BhCz='M2hX';Uwz='ekZr';LHz='MVpV';pwBz='TUhC';waCz='a2RS';sHBz='bGxa';qez='bXRh';SACz='RkZk';aPz='eFpX';rXBz='bEJX';AGz='S1dH';JZBz='cEVW';NLCz='d1Ru';Mcz='bkJK';SJz='WmtW';qABz='VTVz';sdCz='TVdY';AHz='ZDFZ';dxBz='cFZt';dqz='eVVt';BiBz='NEtW';sYCz='cGpS';hkBz='RVZS';TOBz='Rlkw';Lpz='V1pW';uFz='Vm0x';oMCz='RlNj';lfCz='bEpp';iVz='SVVs';obBz='YVZK';cJCz='RlZX';pez='QndW';lMz='Rkdh';IdBz='VFZo';SaCz='UlVZ';hPBz='WE9I';QCCz='TkV0';ZQBz='SlRZ';RMBz='UlVw';fJz='VWxk';WyBz='YUhs';NaBz='aFJX';lfBz='VTIw';ubBz='bFpo';ddCz='VWJF';UMCz='UW10';oXCz='VkZ0';sqBz='R1Iz';hlCz='UlZv';tmCz='MGlL';qRCz='ZDB0';sGBz='ak5T';FHz='S1Qx';YNBz='clpG';xYz='ZWxk';TZCz='VWxs';hEBz='UlhS';xnz='OWkK';IiCz='R1JM';ykz='MnhT';hvBz='MWxW';eICz='VlRJ';wLCz='NVcK';nXz='elpG';lEz='UkdW';nz='WjB4';yMz='VFRG';ftz='bGxo';ITCz='M2hE';KBz='RlZY';taCz='Wk9V';XCCz='S1Yx';rFBz='R1pI';vrz='ClQx';rsz='bkZU';tyBz='V1kw';pHBz='WGtL';eJCz='Mk5z';Lsz='WGJt';BnCz='PSIp';ghCz='SmxW';TbCz='U2VW';xPBz='U0ZV';TjBz='azlY';KSz='Rll5';TMBz='R1Ns';tCBz='VmRp';LeBz='TFl6';ilz='WGhh';VGCz='Rk5Z';ZSBz='RUZM';GUz='c1Yy';aOCz='MVpo';OhBz='T1NX';Mlz='VTI1';FQz='VEZZ';oOz='MFpP';dBBz='b2Qx';bgz='clVr';Rxz='bERi';PgCz='b2Nn';mnBz='MVJz';nkBz='eFNZ';Zpz='VlhW';AHBz='VVpr';fKBz='V0Zy';YLz='SwpX';waBz='SkpR';kUBz='WnJj';VeCz='MHdk';Sez='VU1r';RqBz='V1dY';IUCz='OVdS';TEBz='QlBW';RaCz='V0ZG';bECz='VXhj';HGz='TmF6';EgBz='TkNh';kiBz='RXhU';fuz='VgpW';GGBz='Z3lW';NpBz='NFYx';POCz='RE5Y';MSCz='cDYK';Wz='WE5s';ywBz='WFdW';aaCz='TVZO';JgBz='Sk1W';EWCz='TwpS';YYCz='ZFoK';dUCz='dlpH';pYCz='ClRU';OKBz='UTJz';OWz='a3RU';Cwz='d1ds';JPz='eGth';sRCz='dwpW';rpz='Rmhr';Yxz='Q2xa';ukz='cFhD';Roz='SlVR';iDBz='U2FG';PZBz='dGth';fnBz='VmxK';SIBz='R1Ix';PVBz='bGFS';gez='U1Yw';TaBz='VXdw';nYCz='NGVW';tWBz='MVow';gjCz='QlBD';Euz='RmhY';lNBz='RUkw';bMBz='MWxY';UZBz='ZUFw';rcCz='MXNS';SHBz='VEZ3';ABCz='NFQx';MFBz='TlJs';oJz='elN3';Fhz='VzVv';qGBz='WFdH';Gcz='aHJZ';Umz='cEhD';XEz='ZVZk';gLCz='Rlpp';pgBz='MVJy';giz='YW1K';BtBz='cEcK';SNz='Vk1V';vIz='MGhD';lHBz='Y0ho';KkCz='NVNX';XABz='VXhh';UrBz='b1VU';ktBz='bFpY';tOBz='bFRh';wfz='MkV4';mHBz='RXdX';wvz='SFZG';cHBz='Ymsx';WDBz='UmhW';HICz='WFpI';LMCz='SEJv';Smz='Tlc5';HdBz='cDAK';dHz='VW1K';TVz='cEpW';VlBz='VwpW';UqBz='TnNT';RLCz='bE5O';XGCz='VzEw';jqz='bFJz';hoBz='Rzlo';mPBz='WVdz';VWBz='WGhO';eTBz='TlZK';Itz='YUZs';BpBz='SkkK';LKBz='MFZW';qqz='RmhV';fSBz='eFhX';LIBz='ClYz';kYBz='d1Vq';DHBz='akZh';qiCz='bGlW';YBCz='RklX';diz='MXBY';kmCz='amc1';XJCz='MDVv';fyBz='WmJY';MEBz='MU5H';GSBz='dVVt';KbCz='U2Jt';OsBz='WXlT';tCz='U1ls';ikz='R1ow';DPz='V3BG';UcBz='MUp4';JeCz='WGFr';ZeBz='a3dh';uZz='VUZa';mez='U01r';dbBz='VFYw';VYz='U2xs';OaBz='a3BI';AyBz='TkNO';ilBz='R1ZI';JUz='WFVq';rKBz='UkNZ';vDBz='V1Jz';jZCz='a2xq';RbCz='VFJu';vFz='d1J3';ctz='R2hV';ZhCz='bFdV';WLCz='WlNX';LkCz='Rkda';IcCz='M0Jx';VTCz='dQpW';PnBz='Y21O';hDz='dFJr';Phz='WkZk';HSCz='VWhD';bXCz='VmJX';ngz='Rk5Y';KBBz='Q2xS';hCCz='bXh5';EVCz='U1dI';SBBz='VWQz';kIBz='Q2xk';lPCz='Tmlh';grBz='U1VO';kRz='RlhW';CMz='RlZZ';RJz='eVQx';JEz='V01q';kcBz='TW5N';ILBz='d1Yw';fQCz='MFZV';NTCz='Uk9R';TBz='U1Uy';hIBz='V2JV';nRz='d0Ns';ccz='U1ZY';Kfz='cDZW';KcBz='YVYx';XSz='WXll';aDz='MTRZ';iOBz='d1Zt';lABz='bEpY';Nqz='WHBS';uTz='NUtU';XGz='ZFdi';OmBz='d1ZG';ERz='cFBX';eeCz='ZGxZ';BwBz='CmNG';Oqz='YkZK';WNCz='SnVa';XOBz='bFVY';BGCz='V1JF';ftBz='MmhX';GuBz='MDF1';xFBz='ZDRl';hvz='dFVs';uRCz='R1Zs';INBz='Q1ZG';SVz='ak1r';VSz='R1Jw';abz='UWxk';lWBz='WW10';kVBz='d1Zs';CACz='MVZz';CCBz='eWVF';tHCz='T1NG';beBz='MVZG';CpBz='UWtw';SfBz='RFZt';wcBz='cHZZ';luz='bXhh';cyBz='eFZt';CNz='bFJO';bXz='bFNi';otz='eERi';yQz='WFZq';soBz='UnRP';Xiz='elFr';Ioz='UmVG';CaCz='TkdT';UUCz='eGJI';PWz='ClJs';TqBz='d1dF';xoz='RlNi';ygBz='bVJV';TSBz='cmNI';xcCz='bWhw';iMBz='Cllr';WGCz='SlpX';gSCz='TmEx';niCz='WmFa';dYz='a1dH';VFBz='NFIy';YOz='dG9h';MVz='YWIy';ZTBz='WEEy';svBz='NldU';dHCz='Rk14';oYBz='MlJy';VNBz='aFJt';UjBz='SVVt';yCz='SldW';NlBz='a01B';nFz='TUZw';laBz='SnJj';PDCz='SjVX';SGBz='WVlt';EOBz='SE5T';nGCz='cllV';pFz='REpP';NUCz='RTlY';Elz='YQpZ';igCz='R2hE';nSz='U2Jr';PQz='Sk5l';uQCz='NFVq';CJBz='V2JI';gmz='VGxO';tvz='ClIx';lbCz='eEpl';XyBz='YQpS';cOCz='SEJP';Idz='eG9R';Ycz='RnBp';GhCz='azFY';qbz='U1Jr';TLz='VG1W';nFCz='ZVZW';RwBz='S05G';DiCz='VFlr';gPCz='SjRi';Olz='bUZh';AOz='VkVO';YmCz='MHll';fcz='OVRS';NGBz='bXBo';mNBz='ZEcK';oKCz='CmFr';AkCz='SkhX';QNCz='VjNj';eaz='a1pP';oGCz='VXhk';OqBz='a2hP';VPCz='bGw1';NdCz='S05s';eZCz='RmxZ';wBz='VFY2';WOBz='YVlr';DQz='CmJG';arBz='OVJN';pUCz='VlFw';GPz='RlMK';ELz='VVJu';mYBz='NU1W';bjCz='WEJh';uTBz='WXlS';HdCz='U1ZU';UyBz='MUdV';kFCz='d2NW';UoBz='UlUK';MNCz='b1Zs';rQz='ZUhk';nIz='ZHRS';eNz='cEZa';KXz='UlZw';DjBz='YVRt';Tlz='TlZU';WqBz='MU4K';vQCz='WkZN';GPBz='V1lr';BBCz='VXdN';gpz='Ums1';LTCz='bzBX';JcCz='V3Bp';OKz='R2FG';uXBz='ZFNj';IRCz='Q1NW';Qfz='emFI';ilCz='eVEy';tDz='SldN';VvBz='YTFZ';aMz='VlZ0';ikBz='TwpW';aRCz='YUZC';BcCz='WkRB';iNCz='eVZH';bhz='dFNW';CHz='ZFhi';ffBz='VmxX';rlz='WkgK';DRz='V1JW';ZABz='UlNS';RKCz='Wlhh';IPCz='NWli';xuBz='ck1W';kdz='RmR3';Xcz='VnNh';Qiz='a2Ra';bcBz='M0JM';bACz='dGpi';SxBz='ekJX';wSBz='aG9V';Xez='R1J2';Dwz='bVJ5';hrBz='bkJY';sxBz='Q1ds';Coz='RGJG';aUz='WGVH';Mtz='SFdr';pOCz='bEpw';Fqz='NFRr';GdCz='RmRz';OGCz='MVZq';LtBz='VldY';pmCz='Ck1t';JWCz='VXBK';TXBz='R1ZJ';hKz='UVZX';PbCz='alZY';siz='cwpX';GcCz='alJF';TNz='bDRW';BGz='Skhh';kFz='a1Yw';ECCz='aFIy';Pcz='SlZj';kZz='Vlcw';icz='cFMK';lRz='RVpo';fjz='YjFa';fGz='bGhO';sACz='S1dF';iGBz='VjJF';iVBz='RTVP';CWz='WFJs';KKz='WmEx';CQCz='WGNF';Dnz='aGVs';vOCz='MU9S';SUz='R3RO';ysBz='bmgz';Twz='Wk1W';ZxBz='ZDFS';yDCz='VlpE';cBBz='VXBW';dDCz='TTFJ';Amz='Uk1W';jgz='RVFV';NhCz='aHJa';WhBz='Rk5o';xqz='VlJh';eJBz='aGJF';IgBz='MDVN';ICCz='MUp5';AKBz='eHNW';XgCz='R3cw';UkBz='MVIx';Afz='eEcK';suBz='b1lW';RJCz='V1ZV';WmCz='WlVZ';yUz='VFc1';asz='R1I2';gDz='ZVVO';gKCz='SEJU';PABz='UWt4';tACz='eHdN';OCCz='RkpD';tqBz='SktW';HPBz='ZFNU';jRCz='bkZT';XaBz='b1Zt';oUCz='ekZX';KnBz='M2hZ';uQBz='ekpH';ETBz='Rk9X';CLBz='RmRG';XNz='RlZi';erBz='VXB3';rhBz='T2RW';KwBz='NU9D';JMBz='a2FW';IICz='NFVs';cuBz='azVz';qEz='a1Z3';pyz='VWhr';hQz='R1Vt';bKCz='RE5W';YXBz='YWxa';PMCz='bFZV';pVCz='dWNF';Qcz='RmxX';jSCz='UWpK';KQz='b2FW';sgCz='T05G';iiCz='WlUK';Gfz='YkhC';Yaz='WFVu';tmBz='S2Fn';FTBz='V0pH';MKz='a2RL';Sqz='ZFdS';RjBz='Wld0';GEBz='a1Mw';VRBz='SFZU';AkBz='Umto';RKz='YWQx';oSCz='WFlU';ZUCz='VjFJ';Faz='bFJX';YkBz='UllV';luBz='RzVP';kPBz='ZFhX';bUz='RlRS';FcCz='TkZT';ODCz='dlZV';TPCz='YjFW';puz='VW01';ORz='SmVG';VOBz='bFdT';TBCz='TlVk';GmBz='UmxO';LRz='cFdh';CYz='VFZa';kICz='QlZW';eKz='V1lW';uLBz='Vkth';qdBz='UzFZ';XjBz='UWt0';yPCz='VW1O';Fwz='a3BY';fdBz='MnhL';mVz='SnNi';xQBz='bXho';jfBz='RlhS';pdCz='M0JF';oXz='ZGlX';tGz='Wktj';QhBz='azVp';OZBz='MFZX';sPBz='TnNh';jbCz='UnVU';lTz='V05X';ZcBz='aFgK';jECz='bk5h';wkBz='WUta';KqBz='VFRX';rwz='aGtW';JHBz='UkNh';Miz='dGFG';GTBz='V21o';tYz='V25S';fiz='Mnhr';PQBz='Mkpy';pECz='WlNW';NsBz='aGhl';sHz='VmtW';YSCz='MFZq';RrBz='WApZ';KWCz='WkZi';bvBz='WmpT';dSBz='ZDBU';GwBz='b1Zq';OfCz='UlpZ';VRCz='UFZu';Lgz='U2ta';HPz='TVdS';XmCz='TTFs';IvBz='VEZX';Tfz='Swpj';DfBz='S1dr';YQz='d1Iw';SbCz='Umpl';BVBz='VmhX';VVCz='c1Ux';fHBz='MkZX';esBz='RnJX';ZmCz='RXRa';lGBz='d1NW';AXBz='TlNh';WEBz='dVNt';ZbCz='UjNS';Scz='RTBa';Gxz='WkZO';ApBz='V2tk';HWBz='VzB4';DABz='VkRK';coBz='aFZt';mBCz='STBW';DuBz='TWtZ';wHBz='Wmhh';xgz='Vmxs';hOCz='dllq';Mjz='WVRK';CUBz='Tk9W';FiCz='UlhW';kMz='T1dX';Uiz='RnBW';JGz='VEJX';mcBz='ZFdl';liCz='a3Rr';lZCz='dEtU';liBz='a2RX';pFCz='UkhV';mbBz='RXRq';rPBz='YWsx';ceBz='MVpG';XFz='VkJj';wxBz='SFVr';Awz='TVVs';VcBz='S1Zr';RZCz='blJs';qgBz='a01r';SECz='eFpl';QDCz='M0JT';hfCz='a1Iw';YGBz='WVFs';rSBz='RnNa';WPz='MDV6';qcCz='cQpV';LhBz='bWR3';Ecz='Rkl3';qsBz='VFpW';GWz='R2NE';PmBz='ClJq';wfCz='UmJG';QPBz='QktW';GQz='d1Zr';tiz='blJO';bsBz='TTFr';bfCz='cDJX';xyz='MFpY';YxBz='cGhX';Apz='U1Yy';IaBz='UjZU';kbz='aFlD';FfCz='aFEy';MiCz='Y0d0';uiBz='R1Yx';jjz='WXlN';qTCz='Y0Va';JsBz='dGVG';ZBBz='WlBV';lECz='TlYw';CcBz='RlJN';CGz='Rmha';uRz='V2h6';wWBz='WlBW';cRz='NUNO';TFBz='Skdj';XQBz='a1Ju';tBBz='R1J6';VNz='Vm1F';Wqz='eVJr';MXBz='R2ho';dACz='akpY';XJBz='Rk5V';mOCz='S1ZH';PUBz='MFlU';buz='Rktl';YZz='aFZi';SYCz='eFdG';jaBz='CmNF';IfCz='NGEy';pSCz='SlJk';jMBz='MVZV';mz='bXBS';MWCz='SXhV';nxz='bFJL';OwBz='Y2s5';GMCz='UlhU';DHz='a3Bo';lnz='V1RG';eWBz='cEhh';KGBz='aFpi';aFCz='M1Zr';PCz='a2Mx';xTCz='a2hs';Qoz='YU5s';Yfz='V3BH';Oaz='V1Jt';gGz='VkZK';mJCz='VEJE';EGCz='bFlL';bz='SUNK';tMz='V3hr';OIz='V21G';klBz='SlRh';cfz='VWpG';lCBz='bTB3';Aaz='RmFX';iwBz='Vk1W';FEBz='bklL';yXCz='S1RX';GNCz='WVdG';dmBz='RkdW';ajBz='CmEy';nqz='UWxO';SEz='MUpz';lpz='R3Rr';JGCz='SQph';UlCz='NXla';MHBz='emNF';BOz='ck1V';pDCz='WjNw';pfBz='Yms1';TUBz='Vlc1';bIBz='UTA1';OeBz='V21s';KSCz='Tkdj';wmCz='emFD';kaz='VmxS';QOCz='UFlV';OVz='WE5U';eSBz='Uk1X';Zaz='cEdX';NNCz='bHNh';FnBz='SVlV';rPz='c1pE';xlCz='VmpT';TeBz='dG9U';fPz='M0F3';IMz='eFdu';GpBz='ZGpT';ddz='MVlR';cSz='bFp0';gUz='bTVq';xbBz='eFUy';lGCz='TnNj';cLz='bFUx';jqBz='Mk5J';POBz='SXpV';HLz='VjIx';qEBz='SkcK';hUz='UjJ4';cOBz='dVNs';gZz='YzFr';gTBz='Sllr';wFBz='U0U1';PJCz='VXRo';Az='bash';pcz='bGRT';Wiz='WklU';gsz='Q1Yx';MOBz='bGRu';mkCz='VkVV';pkz='YVdX';gGBz='WFkw';rNCz='V1RW';JJCz='VGdw';Hez='aFYw';myz='bGxy';Ilz='VVZa';VGBz='V2t0';QdCz='RnBJ';hSz='CmMx';hYCz='Vkdz';qDCz='eHMK';rQBz='dFNh';rZBz='YVIz';olBz='V2xw';EBz='c1ds';knBz='WVlr';tcBz='a3RT';SuBz='M0JR';jiCz='WklW';OkCz='TkxD';WcCz='YTBw';tkBz='a2hT';hTz='a3dk';jBBz='QkpW';xWCz='WlhO';xGCz='UlMK';Oiz='R2Qx';fCCz='aFNh';CsBz='RTlo';nyBz='SEJT';WKBz='Wlhj';Myz='RlNs';aZCz='WFpF';BdBz='bGw0';vnz='Y0ZZ';ocCz='S1Rt';wuz='aERD';CTCz='YzFU';HUBz='eG9U';jcz='V0VJ';XhBz='eGtV';DhBz='VGpR';iICz='SklZ';Ibz='cFVW';FmCz='VlJD';GVCz='OVdV';kZCz='cFlt';ElCz='VlZW';xXCz='VWxv';GVBz='UnNi';aoBz='a0tZ';dRBz='Sm9k';Fvz='VWs5';djBz='WFZU';SGCz='T1Rt';ryz='bmho';vBCz='NlZW';EPBz='VXBS';nqBz='alJo';DvBz='MVph';jEBz='a1Uy';EPz='TUZa';udz='QkRX';LGBz='RkpI';dOCz='UklX';cABz='VEpL';Oz='PDw8';bjz='WmVW';QQBz='UnIK';YhCz='T1Z6';dQz='a1ZL';xVBz='V2dw';TJz='MUl6';eQBz='TQpW';Auz='VldU';SWBz='RgpV';tmz='MnRr';UkCz='RlJH';EHz='VWtW';rMCz='d01V';JHCz='ZDJN';Eyz='WXdN';WOCz='WGJW';mFBz='Vndw';JVBz='aENh';lCCz='ZDVW';OXz='WlRW';Vlz='YjFS';iuz='UFVr';vWCz='TVVZ';BTBz='ZE5a';obCz='VUtV';Opz='V2s1';BPCz='R1Nu';nJCz='YkZG';KbBz='UzA1';RCCz='Ukhk';uYz='T1Yz';khCz='TmgK';ijCz='RWhP';rgz='Vm5O';Jmz='Vlp2';xvBz='MVpT';Ckz='UkdK';BJz='YVlW';kJz='cmFF';UcCz='RnBZ';LSz='ZUc5';ZXCz='STFU';jJCz='TmxK';mCz='U1ZG';ALCz='V1RX';ZBz='V0pG';viBz='Tllj';kYCz='cHBV';abCz='cQpW';rSz='VTBW';rRCz='REZ5';qnBz='V3hV';eQz='YUZW';tJz='RmhT';wQz='NgpS';WrBz='VW5K';ukBz='CmJH';AQCz='aFRS';ILz='R2Ft';QdBz='b1Vt';QBBz='VmRV';NfCz='U01X';HSz='R1ds';svz='WmhW';sYBz='YTAx';Jlz='SGRH';Ztz='VjZD';KxBz='a1Iz';DZCz='a2hE';yZz='ClZq';rtBz='U2xr';bfz='VlVi';CuBz='M01s';mEz='bVZH';IBCz='c1dY';AlBz='cVlr';vJCz='Sldj';nnz='SFYy';otBz='YzFR';BJCz='eGtU';BTCz='TVRR';lLBz='WmFk';UOz='ZFlj';tYCz='WnFR';oGz='V1ZW';uLz='bDVV';HTz='Umts';LUBz='Tmpi';GWBz='aHdW';Qvz='RmRo';Huz='MWR1';rYCz='S2Nn';fOz='RlpE';YjBz='UlhX';uGCz='c2Mx';iPBz='Q2xZ';ioz='RnAz';fBBz='b2Ex';yIBz='RFJX';qIz='MFZt';yxz='WWpK';pbCz='V3BX';VlCz='RlZq';MDz='Mk14';Foz='V1Ns';NnBz='cApD';RXCz='U25K';GYBz='c1dt';ZuBz='VFJo';wCBz='VlF4';Akz='cHlZ';Xz='TmpR';hKBz='cE9W';OYCz='MVZ3';CRz='VWxa';kyz='UVhC';rIBz='WFVW';liz='RkdX';Wyz='Uldh';VkBz='cEda';Zvz='dGlN';sNBz='RVpV';YNCz='STFk';gjz='VlNi';alz='RXRP';NjBz='V2hy';eqBz='eFVs';bVBz='ZUZN';RiCz='RVlr';FdCz='WnlX';VLCz='eVlV';IkBz='YUhO';XKCz='RFZH';eOz='aE5S';PBBz='eEtX';TXCz='eHdl';LlBz='R3cx';tJCz='Um9W';IQz='VnB5';nDz='REJO';ewBz='MXBv';nSCz='UnRS';gOBz='UlRZ';Laz='UmFS';yz='TUZk';UYCz='bFJC';PfBz='bkJI';BKBz='bUpY';Qpz='SktD';KECz='QXhS';nIBz='VkZk';SGz='YVJt';bbCz='R1pW';NCCz='ZG9R';AnBz='QmEK';WIBz='aFYy';RCz='V2s5';ZTz='bUZz';pkBz='YUhw';cEBz='CmJY';aICz='V2Qx';NkCz='elYx';SOBz='NVdi';IeCz='VmRz';OLBz='aGxh';SYBz='VmhW';fiCz='Y0tW';NQCz='VlFY';urz='V1Iw';mcCz='VlZY';MgBz='Vmxy';byBz='YmtF';jVCz='ZUdG';Ivz='WlZi';Mqz='MVUx';nuBz='bGQw';jiBz='NFlX';mlCz='VTFO';LKCz='eFJs';IyBz='Vmtj';Jfz='MlIz';eXCz='ekpY';SLz='bTE0';jaz='MmhU';MaBz='dGtV';RWCz='Ykds';yfBz='R1Fs';rHBz='T1Yw';qyBz='cHJD';NmCz='aHFa';dNBz='a1JL';sIBz='aENi';KhCz='dWFG';Tz='WXlB';rYz='VmFU';ZeCz='RmpS';QsBz='YVRX';qICz='TFRV';CZz='VkZa';MuBz='WmtU';rFz='R1dr';qBz='CmFH';TGBz='czFh';ymCz='RUFp';ncCz='MFpK';NoBz='VFd0';mfz='aEhU';rYBz='egpW';oJBz='eFhV';QBCz='RmMx';UhBz='NFRR';YWz='RmRp';lQBz='aGti';iuBz='TlhS';OQz='MFpE';Ysz='dlZq';VTBz='YURO';qFz='Umxw';slz='b2FF';BHBz='YVFw';xLz='bGRa';jJz='TTFk';JjCz='VkVJ';lpBz='YzFS';fjBz='Rk1W';Ufz='bVF3';MNBz='VTFX';NgBz='MnhP';CHBz='cHZW';Voz='Vm5K';NYCz='Rlp6';hJz='SldU';WdCz='ekZU';MDBz='NApX';VfCz='VWMx';idz='YkdG';MtBz='d3Bp';kTz='VmFZ';CWCz='bmRY';ZHCz='Vk5W';Uxz='RlNk';YEBz='V2tS';xpBz='U2xw';wZCz='YVpX';JfCz='RldT';jnz='VDJN';VOCz='RlpH';ihz='WEJS';xWz='WnRN';uVBz='SnpO';dvBz='VGtO';NLBz='RlVt';dKBz='bTFT';FICz='cGlS';hZBz='Ugpi';NNBz='Vgpi';GiBz='Umxs';fmCz='d1lU';eABz='UVZW';qWCz='bnBs';Gtz='WFFY';mjCz='d2FW';MeBz='Rk9k';MnBz='UkZK';jIBz='ekI0';wCCz='bGRY';eUBz='bEpN';BWCz='Vlox';fHz='Rldi';Nxz='MWxz';Ybz='czFW';Ftz='UnNj';jjBz='eFZY';YmBz='VlgK';mhz='clVt';ayBz='NVhh';anBz='R3hh';lkz='WVVa';QBz='WgpN';frBz='ZDBW';hnz='WjJW';YACz='WnIK';YeBz='RTVU';CPCz='Qldi';jUBz='WlVV';hUBz='VgpZ';Sdz='aGhN';GSz='ZDFO';MTz='YVZs';eTz='dFZN';nABz='SlhV';NhBz='RlpW';HIBz='VnBJ';BVz='TnNW';BZCz='eWRE';KABz='UnFU';pBz='MVZy';miCz='MFVs';vBz='cE5S';ucz='WTNw';hpBz='U2FH';cFBz='RnNj';yjCz='WFIx';XBCz='eFdH';uaCz='MVpZ';WWCz='V3BD';OEz='Wk5h';jtBz='ZG8K';lrz='QXBT';iRBz='V3N4';wNCz='VWtj';UPBz='VnAz';OgCz='V1ZI';niz='clpE';xmCz='QWlK';RBBz='U2pS';QRz='YlRW';mQz='a2Rp';jTz='TVdW';Vez='c1du';TiBz='d1Mx';HaCz='eFZW';JJBz='ZHFX';iaz='TUdF';eUCz='WkZn';Kdz='V25G';sHCz='dGFI';KYz='UmFW';QIz='cDBV';hVz='YUUx';ICBz='MVZ0';Qmz='VmFW';Wpz='eENS';MXz='cEtU';qVz='MXBI';tSCz='RTVy';WkCz='VmFS';YGCz='QmNG';jRz='SGFG';GTCz='RXRX';sCz='Ymxa';aVz='YUU1';YbBz='MUY0';RkCz='blJ2';nXBz='TkZW';xwz='Vmt5';oxBz='TTBG';VEBz='Y2xk';ACz='VXlT';quz='Q05s';ISz='aGtS';fdz='V0hC';ykBz='d1Yy';KfCz='WGhU';BIz='NVZt';kKCz='VlpQ';PHz='VlZK';vMCz='Vmdw';uLCz='R1Vr';SXz='VDJK';sSz='S2J3';oUBz='a1JH';Dgz='Uldi';Gbz='VW0x';iCz='WFZr';oKBz='SEJH';guz='alZa';iBz='WWxo';Zuz='d3BW';Kvz='VmVX';wTz='WmJH';mGCz='bmxa';QABz='WVZO';eKCz='U0dK';eez='Mk5F';YCz='bEpZ';dfz='S2Vs';nKBz='WlNi';xkCz='cFlD';ThBz='WEJU';SkCz='T1Jt';yjBz='V0U0';vmBz='MlJN';aRBz='R1Qx';VBCz='cFZZ';QnBz='WEIy';VdBz='bkJ5';AbCz='a2Iy';XpBz='VnFR';wez='RWRW';wvBz='eFNY';jbz='VldH';iLBz='V3h6';YNz='VEZU';AVBz='a01W';fVz='RlRu';ACBz='VmEK';JwBz='aFJr';ttz='TUdR';sLz='Rlpz';EVz='cFBD';nOBz='a3hV';OTBz='cEVR';Otz='Y0Zs';xQz='TUZK';TTBz='U2xn';Ipz='b1ZW';IBz='U1dq';xsBz='VmNH';XYBz='aFdS';WHBz='azVH';lBBz='Ck5W';pnBz='T2Nn';MqBz='UmJW';WHCz='CldU';NRBz='YVJr';VMCz='SjZW';tMBz='MDFR';dyz='Rkl5';oTz='WlRZ';mXz='UjJF';RXz='MjVP';DFz='ZEZK';aNBz='VnBZ';QDz='RkpV';afz='eFRu';bPCz='cGFV';sjCz='WGxP';aYz='dE1U';BbCz='SEph';Ehz='aGFU';FNz='SjBl';gOCz='Rll6';ssBz='VlZx';YJCz='V1Jq';dLCz='VmN4';rqBz='aFdX';ZoBz='eVNs';lKz='VWJH';XQCz='WkRS';cZCz='azVZ';gbBz='b3dX';ULz='R1pG';fUBz='bFda';OICz='dFNN';oaBz='eGFN';euz='cDBW';SlCz='MVhk';skBz='ZEhW';JKz='Y0Zo';IpBz='MFpV';PNBz='YWRG';Kyz='WkhW';AoBz='ZUds';MEz='ZDJO';gICz='RlV3';teBz='MlF6';EMBz='V0d4';Wtz='bGt3';piBz='bGxW';gWz='SFNr';ndCz='MDVH';Hvz='WVVs';iTBz='Ulhk';gz='MFdY';xVz='b1RU';NDBz='a1JT';Khz='a1Yy';LHBz='VjJJ';ugz='bFZh';uqz='T1ZO';cQCz='Ck1r';CDBz='ZDNC';lUz='MFY1';WHz='WVVq';ndz='VjJG';ZKCz='bk1L';nCCz='eVJY';VHBz='RmpN';rJBz='Rlp0';QvBz='Qlpi';CDz='d2NF';WiCz='RXRV';nEBz='VVFs';RPCz='Y3dN';sjBz='bXRU';uSCz='VG5S';PWCz='SlNZ';SFCz='Vlp6';Usz='VWhT';Tyz='R2JI';rnBz='d1lV';Hdz='WVdX';pYz='RmRO';xjCz='WndU';jWz='VmpO';OYBz='Slla';rWBz='TVZV';lDz='V1dG';bMCz='SEJ2';cmBz='V2My';Jgz='SVZq';DWz='cDBU';Npz='R1JH';vbz='Umxk';xUCz='TklU';rFCz='RU5y';HFBz='Um1W';RDCz='a1Zr';TJBz='cFYw';Abz='a3hW';mWz='TVVa';KBCz='emxW';XDCz='UXBY';RZBz='WldI';FFBz='aE1W';hIz='Rkp0';LMBz='WHBX';uKBz='NXFV';cXz='RnBv';IoBz='bE51';HcCz='dGpk';ZVBz='Ukdl';aeCz='bFow';BWBz='cmNG';Iez='cEdU';KNBz='TVd4';BgCz='UjND';nDBz='UWpa';RsBz='NW9N';gLBz='YUZV';HXBz='VWRv';Giz='WVVj';JOBz='cFBV';Msz='eFZD';VtBz='QmFW';Kqz='RXBJ';NSCz='ZEdT';EFBz='U00y';YXz='MHhS';gIz='NVNh';ShCz='czFU';fFBz='TUdG';Qrz='VldO';Tqz='MVJW';yTz='a1ph';DeBz='V1hn';QlBz='MXFW';ZFz='UjNo';eOBz='b1Ex';dGCz='bVIz';BFBz='SFZr';ZqBz='c3hW';cCCz='SkZO';LQz='SXlh';hMBz='RnFV';IABz='YkhK';wIz='V0VO';EaCz='RnBV';jOz='WlhV';tsBz='VGxw';QWz='WlpX';keBz='WldX';tZBz='TlZZ';Ifz='MXdR';uPCz='UnpW';yCCz='MWxy';FaBz='WkhV';vWBz='VlZF';VZz='akZT';LnBz='S2Ix';shBz='UnNV';AtBz='d1Js';QTBz='NVZG';gvBz='VlcK';jyBz='UXlT';oSz='VmRT';MwBz='Vmpa';xGz='aFZW';GFBz='a2N4';Cz='"$(b';tiBz='a1pT';Fez='WndX';Ewz='d1Rt';hwBz='NWtO';GhBz='bVJv';KZCz='MFYx';LOz='TW1o';Lez='R2NG';ZKBz='eFNX';bWBz='Tk5h';SpBz='eEtV';jfCz='bEZ3';TOz='b1VW';ZkCz='dGFX';RmCz='QnNZ';SNBz='M1Zt';XOz='NVVt';SOCz='ClFt';oCBz='UlZi';omCz='bWhq';hNCz='RFJE';jLBz='SnNT';cICz='T1Vr';tIz='U2to';ukCz='d1JW';GZCz='Ukti';AIz='Vlc5';pLCz='RFpE';YRCz='SFYx';QKBz='ZHUK';TmBz='M2R3';MJBz='bXRX';aQCz='ZGpS';vFCz='MVVR';GtBz='bEpv';Qnz='eFIy';XKz='alpX';bSCz='UXdw';ieCz='UnpF';CqBz='V0ZS';Lxz='cVVs';IACz='aFVZ';vLBz='Rmxx';klCz='RnBH';kNCz='RW93';reBz='bUZo';yZCz='bGt5';uwBz='V1pF';RPz='aFNN';tkCz='WGg1';uZBz='eWRH';XICz='a2ha';hOBz='ZWxr';qbCz='ZFVW';kABz='ZGtN';QrBz='cEZZ';NiCz='VklW';ybCz='akIw';Xfz='cHlW';gwBz='Vmho';XFBz='a2Rh';WsBz='cE4K';idBz='MHAy';sJCz='UktV';hTBz='Vkl4';vRz='Vmxk';fgz='SllR';LRCz='YVZZ';Rwz='SVpV';AUz='U0Ux';uABz='ZHNW';rLBz='YTFS';sCCz='NUdD';SiCz='cFdD';Zz='UWdQ';Hjz='bUZa';umz='UUsK';CABz='MlF3';KrBz='aGFa';fTz='RnBM';OLz='bEpV';GvBz='WndS';rRBz='MUlV';bkBz='MUY2';ahz='MVVX';UgCz='WXkK';naBz='ZFdX';WUBz='c1Zq';VwBz='WlRh';Jiz='alJa';BRz='R05H';YtBz='ClNs';CPBz='ZDJS';xNBz='MlZX';ofz='ZVU1';UEz='WGJH';RbBz='ZFpi';okCz='aHBW';Iaz='cEhZ';MWBz='a3dW';NUz='U2JI';rKz='MVp1';QaBz='d1lW';IVCz='b1Mx';KICz='MVp3';mHCz='d1My';rUCz='ZFhT';MJCz='ZUZS';fYz='bGhV';iFCz='U0VF';sUCz='Yld4';RMCz='MFZz';EnBz='WnFS';tjz='WApl';Nfz='SUtZ';hNBz='TVU1';Rhz='aG9W';XdBz='bk5o';ENBz='SllX';nwBz='VTVU';CiCz='Vlhw';jbBz='Tldh';tuz='Wm9h';UEBz='akpH';nVz='MHRh';TWBz='bWxU';MeCz='bFp6';laz='V05s';JaBz='VjFW';FWBz='WkZS';COz='bFJh';dDz='WGEx';cSCz='MWhz';FeCz='RUp2';gGCz='bXBL';aeBz='SGRX';yXz='U0ZW';RCBz='NQpa';aJBz='a3oK';Znz='Umta';HJBz='bGNL';fLCz='a1NG';jUCz='VwpS';CtBz='WkU1';JiCz='R2xp';LZBz='ZUdO';CgCz='aE9V';xOz='SXhS';LlCz='Y0tV';wACz='Qlla';nvz='SlZt';Rfz='a1po';fMz='VjJK';EJz='ellV';ZCCz='RVJa';sEBz='cmRH';Ydz='VlpH';jez='CmVG';dWz='TlZu';YEz='WWNF';wPBz='UmJH';OPz='RzFX';GKz='WVRW';wxz='bFdN';VGz='TWxa';kwBz='MWhu';eCCz='cGFX';noz='d3BU';LMz='c05W';lJBz='WmFV';lsBz='R1pF';vXCz='RmFS';HNz='Y0Zk';iRCz='d1Ew';RQBz='VGta';YvBz='bUZY';iSCz='ck1Y';wbz='VApi';vuBz='QjRW';tXBz='YUdv';Kwz='WjMK';ZiBz='VW1R';VaBz='a2w0';LBCz='TWtW';QmBz='U2Vs';EJCz='RWt4';hFCz='MXNW';qJCz='QlZh';owz='OVhS';LEBz='eFNW';UhCz='SGhX';IGCz='RTBZ';cSBz='V1ls';ugCz='VTlU';qeBz='cgpX';Nyz='ZFcK';PXz='VUVO';hmCz='cHVX';HiBz='NFlr';GmCz='MlJh';UfBz='bEpa';JbBz='WFJV';sjz='Z0tZ';YZBz='bHNX';YYz='ak5v';vZBz='RmlN';pbz='M2gz';TGCz='RnRl';YLBz='WEJH';lkCz='REJV';VVBz='Tkdi';lUBz='SHBX';Ejz='M1JU';egBz='c1Rs';kcz='MTRh';Arz='YWNW';EYz='SnVU';PxBz='M1lr';jEz='TTJo';cVCz='b00x';Ljz='ClRq';DQCz='dFVN';OECz='akF4';DNz='Vm13';slCz='V1Iy';AJCz='UnRl';nyz='alJs';dfBz='R1Rt';yqBz='T2JF';wPCz='ZEtT';OQBz='VTFV';VbCz='QnBW';LYBz='UFZs';tSBz='RlV4';Kez='V2sx';TYBz='Sm9U';HYz='WldW';pCz='YjFV';ZyBz='a2Nr';HMCz='VVJH';iiz='cFdN';ySz='d1Zq';ngBz='ekZY';Skz='QXBY';rfz='WEJK';xcBz='MmhV';Hpz='a3BH';iez='VlJC';bIz='WENs';OvBz='WlYw';NaCz='Vlpp';PHBz='V25K';jABz='V3hL';HlBz='RndV';xNCz='S1Zt';EOCz='QXdl';WvBz='Wlhi';Yqz='VWpO';Klz='RldN';MPBz='TFZq';vfBz='SldT';xpz='RjFZ';ZDz='WlZX';cXCz='RmpW';ysz='d1Uw';ecz='Y2xZ';tfz='YlVa';DBBz='Vzk2';tEBz='cGhl';BaCz='RWQw';qFBz='VW1W';FKBz='ZHVT';RVBz='VmFj';BHz='eFpF';koz='VnVX';iUCz='bXQ0';cHCz='ekVL';CdCz='eWNF';TQBz='cEZh';aFz='VlV4';igBz='Vmh3';wcz='TTNC';RiBz='b2FR';MKBz='WjZS';dPCz='aEwK';YOCz='WVZJ';wZz='Ulph';SsBz='dGFH';DEz='bk5X';ESz='aVZH';gBCz='bTFX';NXBz='Y3hO';JcBz='bVJx';jhCz='V3Rv';ECBz='MHBX';ipBz='VnMK';DoBz='VFZv';lcz='MDFH';LoBz='bGtS';fiBz='TjRW';kYz='aVYz';vfCz='MHhT';KVBz='RlZ0';LJBz='CmJr';WBCz='c2NE';osz='SWNG';nICz='VllW';rVBz='WTJ4';Hhz='NlJu';PeBz='QTJW';KQCz='eFlU';LGz='eFdY';RxBz='WFRr';JKCz='Q2xO';JQCz='RVp3';NbCz='TlVN';cbCz='Y0ds';CmCz='Ulhh';HFz='d1Yx';OJBz='R2NF';mhBz='bE5o';eOCz='a1Y0';ceCz='ZEhS';dHBz='TFYy';xhz='Sk1D';GkBz='ClUx';RHBz='QllZ';AOBz='bFIw';Qsz='RmRX';fWBz='UlVs';dBz='VlZr';CCCz='YWVs';MSz='WGF6';dgBz='VDFK';rZz='WlYx';Uz='aUpD';nmz='aFlU';Luz='UzFO';rgBz='WkoK';Dsz='bFZi';RpBz='U0Zw';clz='NVNW';mZz='SXhU';Lqz='VmpJ';Osz='VW5a';paBz='VWJW';cECz='cgpW';kKz='U25O';cWCz='NVhi';yLCz='TldW';khz='RXlU';MJz='UlZW';qjCz='RnBa';qiz='VG1w';fBz='c1pF';KKBz='VGtW';oRBz='VldW';vdBz='VjZW';CNCz='MFpH';fmBz='VGJr';Wmz='TmJF';JZCz='a3BR';iEBz='M2hW';IEBz='a1pW';pmBz='dGFS';qjBz='VTJG';cKBz='UlhV';sQBz='VkpV';NwBz='aDNV';vtz='SktS';SRz='MUZl';UKCz='bXBK';OSz='MGhh';lVz='Wkd4';MZBz='bHBw';HBCz='WlcK';lvz='U1Zt';PACz='bGRy';uVz='eE1G';jvBz='MnhD';hyBz='SEF3';EKBz='c1Zs';bdz='RFZD';Tcz='REpX';XLBz='VUZr';FABz='TnJi';sABz='Rlpv';Enz='WmFW';jdCz='cFBZ';YPCz='OWhN';EhCz='ZDJW';rlBz='RlNt';qOz='R1dV';FSz='eHpW';UIBz='SnRh';dRz='RlpY';Ccz='VlUy';YGz='VlpI';pJz='bmhQ';fbz='V1pG';ANBz='U25w';RgBz='RnJi';RFCz='R2JE';PdBz='UlU1';uKCz='a1Rs';bOCz='SmFT';Ucz='Y2xS';tYBz='VmNG';EoBz='R00x';GcBz='TjVW';eBBz='WXhW';rWz='TldF';uECz='Sk9X';VIBz='RkZX';JPCz='V2ha';Rcz='CmJU';sOCz='R0V6';ggBz='NUNW';GIBz='VTFS';TMz='dVVs';GdBz='TkNU';VXz='VlRB';mLCz='RVRs';qIBz='bGhP';qQBz='ClZX';yaBz='ZVdW';JMz='TlZh';Qbz='V1Rr';YfBz='bGRq';IYBz='WXdO';sVz='RXBZ';WFz='R1Zt';GnCz='")" ';DECz='WjNZ';AFz='VVZs';Yrz='a1p5';dlBz='NkNr';XSCz='M3BX';eDBz='Q21G';gMz='SFVq';Xnz='c1Vt';fMCz='bDZV';Nnz='VQph';miz='VXRX';GOCz='aGEy';TPBz='RmFW';kHz='RlZp';sTCz='SkYK';sTz='Vmw0';Xxz='M2ha';fUz='SXhX';eEBz='VEpG';bFBz='bWhV';Ajz='aE1Y';DSBz='aVZG';KLBz='bkpX';Irz='T00y';fWz='Vm1W';jeCz='MFV6';FqBz='YWJH';tvBz='QlNR';yZBz='bGxX';HyBz='YTNB';LFBz='dHdX';oeBz='aFdZ';MYCz='RApi';AUCz='eApj';YPz='VTlV';dCBz='bDVZ';QICz='MFUw';iIz='YUZo';vYBz='S2RG';Iyz='SlNU';adBz='RzVL';IdCz='YzAw';WCBz='VFZQ';aNCz='NlJs';BkCz='WVEy';eZBz='TTFW';rsBz='MUtX';jaCz='ClJr';SPz='MUpV';fCBz='alZy';OiBz='dGtS';Iuz='U2xo';PYBz='RlpT';YICz='cFFX';ZRz='blJq';CkCz='MU5y';tTCz='Y0Zw';ahCz='V1Zw';RMz='MHRX';ImBz='Sk5W';IFCz='V1Ix';pgz='ZDRZ';gnBz='aWJW';XECz='T1ZK';mVBz='bE5T';gTz='WTFa';mMCz='MjVX';LsBz='b2JG';GBBz='Tm8K';cGCz='WGxO';NqBz='RjRX';ZFBz='aE9S';PZz='UldS';BxBz='U1Ux';ZaBz='YlhS';VXCz='cGlT';Xlz='UUtV';xhCz='VVZq';BDCz='MjFH';CPz='UldU';ahBz='VmFH';rlCz='OTZX';uz='YkhS';kWBz='R2hX';VBz='bTlW';GbCz='TXhU';qwBz='eFNR';Nwz='Rkpv';WRCz='QlhU';MGBz='SnRS';sOz='SEJ6';EZCz='R0Nr';tcz='Vlow';kECz='Sm9V';VABz='VlFL';JFCz='ZW10';elBz='ClIy';eSCz='M1Iz';WOz='VjAx';Zhz='TWtw';eBz='YzFk';hGBz='VXgK';uhBz='aVJs';ESBz='Wk1R';mvBz='WmFi';SQCz='RlJy';hQBz='b1dG';XWz='TkZa';Nsz='bUpI';JUBz='bGRv';TsBz='VEI0';NJCz='VGxW';mDz='WnJa';ncz='VFdH';BMCz='UVV0';LKz='cFhW';PXBz='aG9U';CfCz='VWQ0';RBCz='emxT';waz='d1ZE';qmCz='ZG5T';lSBz='WXpW';dSCz='NmJG';xfz='V2xC';UuBz='Vnps';Wwz='TmlS';XoBz='UWxa';evz='RGJF';rbBz='VFVa';bYBz='MDVz';mkz='SnRk';vVCz='Wk9S';fcBz='U1ho';EEz='TVZw';FDCz='b1Zr';ntz='c2NF';ydz='VmhN';oNCz='dE1V';ieBz='azVh';HnCz=' "$@';DSCz='CkNs';ZEz='ZGhN';pcCz='REJX';Flz='aFJu';umBz='cFNN';csz='VwpN';kRBz='VVRs';APCz='RzVX';BlBz='ZFNl';oWBz='SFUy';USz='Tldi';TFz='ZE5W';Hbz='U1R3';Acz='WnVj';LWBz='d1dW';GHz='VnRN';XZz='V1ZY';eWz='WHBH';cIBz='c1pG';mdz='VVYw';EBCz='amF6';Qlz='WnJl';WlBz='bGt4';FJz='aE9h';JdCz='SlZi';jNCz='MW9U';ChCz='d2Nn';woBz='aFdU';CyBz='Rlds';QYBz='ClUy';AMBz='QlpR';ehCz='MUpy';GyBz='R3RT';hdBz='ZGlh';WgCz='OVNi';VyBz='azF1';Ksz='RmRH';IDz='bGhX';joz='YVdG';wbBz='a3Ro';wYz='bXRL';dICz='Z3BV';yDBz='VnNW';mZCz='TUho';efBz='bVEy';xPCz='VEpX';aoz='U2FW';toz='QkxW';Nz='LWQg';Inz='WVRO';yRz='bFpp';bZCz='cFJW';LXz='b1ZX';OlBz='cFVi';BEBz='V2xs';BnBz='dGN6';jSBz='d1NG';dUz='RUpL';kWCz='azFz';NWz='WnFT';kJCz='M0I1';EOz='WWta';biCz='dG9T';chBz='cENX';RdCz='ZFNX';iVCz='V0dS';wNBz='dGFk';ROBz='Cldr';cIz='UldW';oaCz='TVZU';FDBz='dDNa';ouz='bHBP';hSBz='a1JP';Vrz='V21W';EmCz='dwpX';NbBz='eHdW';hACz='cHdD';UVCz='NlJr';cPBz='SGxo';lYBz='QTFS';VrBz='SXhW';QJCz='R1Uy';voz='Y2s1';QbBz='eHpZ';tTBz='MVlW';wwz='UmlW';iACz='TlVO';mPz='VWto';IGz='RTBX';HeBz='MHBI';RNCz='RTRL';ZZCz='ak5a';FVCz='VVNt';ZfBz='eG9V';UJCz='awpU';AYz='cmQw';THBz='V0Zs';hcCz='SlAK';FCCz='eFRZ';IwBz='V1JG';RTBz='WmFZ';nlz='ZG9j';soz='V1dI';tjCz='bFZY';Kaz='RmNG';HhCz='YVJW';LaBz='aGkK';ltz='MFpr';JeBz='SFpX';Hgz='R3BO';OUCz='Ck1G';HgBz='OVdW';yGBz='RwpZ';DZBz='aHZZ';sKBz='V1F4';pOBz='RndT';YMBz='Vm1o';hbBz='a1ZX';JIz='aFYK';tHBz='UApW';hTCz='cFZs';Kjz='bUp0';aqz='VjNU';AGCz='Vlhk';rVCz='R2Fr';XPBz='MXcK';iKz='eGFS';jYz='VGxo';NSBz='RFJV';Diz='VG1F';VPBz='VlhB';UFCz='VFdw';HjCz='NWlS';LSCz='dlZF';HACz='Mkl5';bTBz='MVZa';yWBz='dFJs';pZz='WVUw';ejBz='VlZ1';HTBz='SlJW';EjCz='MFRt';aUBz='U2sx';XNBz='VlpZ';LLCz='RnNW';vTz='MVpz';RWz='a1pr';jRBz='Y2sx';DiBz='TldS';eCBz='M3BH';PDBz='M2hy';ulz='Sk9i';itBz='SVQx';XFCz='Y0V4';vOz='RlZT';Cvz='R05W';hRCz='akJP';bsz='U1V0';nWBz='WXlk';TZBz='VVpa';Kz='JChi';dwz='bXhW';GACz='MXdS';plBz='NXlX';NeCz='MApW';QjCz='RUoy';kuBz='VU1V';YdBz='T1lt';jQCz='Rk1V';Sbz='a3BX';PaCz='UjYK';oGBz='WlZt';iYBz='MXRh';DEBz='a2w1';rGBz='eHJV';AXz='YkZs';DbBz='WFRV';TrBz='a2NW';IQBz='VEow';pbBz='V2NE';BrBz='VG1K';HOBz='YUha';PsBz='Uldo';mEBz='bFpL';psBz='SkhP';PLz='UWxo';ZIz='bUZT';YwBz='MVUy';wJz='Rmtk';InBz='REZL';ULCz='azVs';MSBz='Rgpi';TNBz='dFZl';wlCz='M1dr';kEBz='VlRW';TdBz='aApW';DVBz='bFcK';mKz='UnBZ';Hmz='YWtG';KEz='RXdW';rTBz='ZFZG';AcCz='QlpW';tpBz='VVZP';vjBz='WEJY';EFz='cmFH';uxBz='TlZO';xWBz='akpP';qrBz='MXdZ';pfz='Vk9W';mlz='YWtK';pfCz='eE5B';lrBz='Vkpz';ltBz='R2RG';Xqz='azVY';tGCz='MlJ2';EQBz='Rlpx';dXz='WVRC';hiz='SFVu';ldz='Z0ta';peBz='a2Q0';YiCz='NUtZ';fEz='Umtw';eEz='elZY';lOz='YUZa';RIBz='dFdi';VJz='V01X';QMBz='TkZi';oFCz='dVJs';kjz='VFJX';NXz='V25W';isBz='WndV';Dtz='d3BY';saBz='WVRY';Yjz='VVU1';wYCz='RTB5';mrz='YlZK';bqz='bFZr';Yiz='c0tW';oRCz='Wmtj';JOz='SkdT';BLz='WUtZ';QTCz='V2FF';SDCz='dVFu';Jnz='bHJX';Chz='MWxX';UGCz='cVpE';aLz='V2Jr';xlBz='TVZs';dlCz='YzNo';UDCz='VkRG';PlCz='SE5W';ETz='eE5G';Ctz='QTFj';WDz='cElS';tQBz='VmpW';sFBz='VlRh';Ovz='U1RG';bjBz='SldS';wjCz='ClRV';SjBz='cFZX';WFBz='TnRS';xBz='V1d0';OcBz='VFdI';LNCz='YjJN';ARCz='MnhU';WIz='VjJ4';NMBz='Q2sx';moz='VmtU';sbCz='bExW';KIz='YXps';oVCz='TlZX';VMBz='SE5M';SYz='V2Ex';BfCz='V1Vu';vEz='WFdr';eUz='V1lX';xVCz='UmoK';oYz='bFJj';dkz='ak5X';Hiz='NVYx';pvz='d3Ba';rNz='U0VG';uWz='WVdN';JQBz='eFdq';NcCz='MmQ2';IIz='eVNr';YTBz='Y21S';XIz='TmVH';gtz='Um1o';VKBz='U1NW';FrBz='RTFH';FKCz='WGRG';oFBz='RjNW';HuBz='VEF4';wIBz='a1ds';gfz='YlZa';DTCz='SldZ';MTBz='WmJG';iDCz='emxy';YlBz='bDVW';Trz='V01V';uQz='VmM1';jdBz='VVRK';pWz='bFZz';thBz='Vk14';BJBz='bU5J';JVCz='SApZ';HJz='CmNI';jGBz='eFdt';uMz='V0dF';mOz='cVJt';PRBz='ak5D';KDz='eVdY';tgCz='a3lN';bFz='YkhO';qRz='VWRH';Fpz='eGFH';UZCz='SnBZ';GOBz='SFkw';pQBz='VTV5';hPz='WlJj';TBBz='QnJW';IJCz='bXRO';cWz='MWRS';mRz='TkZX';reCz='cFda';ToBz='Vlds';cwz='dFdS';nSBz='MFZr';EGBz='awpj';Agz='a1pz';rZCz='R1NY';KWz='cFZh';cDCz='cgpj';IOCz='V3BL';LZz='WTBS';SXCz='V1Rs';Dfz='a0V4';pEz='cG9Z';vhBz='cFlZ';Hrz='SnIK';QtBz='bTVr';FjBz='Wk9j';kBCz='VlJS';WNBz='RlRi';efz='ZFdV';hFBz='a1pZ';Saz='eHNj';eHCz='V1hk';Zqz='a01V';wiBz='RnBO';HCBz='S1pW';LRBz='S1dX';LTBz='RkZZ';Fyz='WFZW';NRz='VXpK';rkBz='VGsw';wsBz='RVUx';UQCz='UkZU';CEz='bHNV';DACz='VWR2';BmCz='clJq';orBz='Vk4K';XbCz='VkpW';iWCz='T2My';gRz='NHpZ';vGz='Y0ZO';lLz='VkZS';eaBz='a3Ba';QjBz='a3Bh';pVBz='Tlpi';dGBz='R29L';Iwz='Mk5H';hLBz='d1dt';AWz='VlJV';unz='WlNZ';HNCz='R1dq';qgCz='RmNI';kSBz='bFYK';avBz='SVpF';dcz='UldZ';tEz='VFJa';yFCz='RjYK';DkCz='eHJl';cgz='ZFNi';aMBz='VTFW';fXBz='Uk9U';Eqz='bkJW';fTBz='ZFdh';xnBz='WFpW';ULBz='Rlpy';sYz='bVZX';vLz='Mnhh';FCz='RlJW';alBz='MlJU';VgCz='SWFF';SVBz='awpS';oBBz='RnBG';jhz='S05H';gVCz='V1Mx';WTBz='YVYz';uJBz='eFZu';mgCz='eEdX';gFz='dGRE';oOBz='aFl6';rqz='VFZV';CYBz='SwpT';UwBz='c1Rr';dXBz='U21G';eFz='Vlp3';xgBz='eGNG';TLBz='MW9X';yNBz='V1hs';rmz='aGVt';NKCz='eGFl';gwz='MVZO';goz='ClNV';prBz='MVZX';jFCz='eFNT';nOCz='bUZF';cFCz='ZDFk';FZBz='bFdW';jDBz='bkps';ijz='d2Vs';VVz='YVZa';Xyz='R3RX';eiBz='U2tS';GPCz='VjNa';Mxz='ZDRW';Ynz='MW9j';Lmz='R2FH';ICz='cEdV';OrBz='VVpV';Cgz='eWFG';UOCz='ZG9X';yEz='Y0ZW';HHBz='YWNG';EjBz='bTlS';KZBz='bTF6';ELCz='OVdi';Kuz='VlpW';Bwz='UmFZ';BPz='T1ZX';ywz='Vlcx';MMCz='ZFhU';Vyz='bVJZ';RhCz='UjA0';rABz='ClJu';hHBz='aFkK';qKCz='ZHdw';HTCz='bDVa';jwz='U0d4';TUCz='dE9j';ISBz='a1pY';yaCz='VkpZ';aiBz='egpR';mLz='R1dt';sFCz='Q2xK';EvBz='T1RF';KYBz='YTJo';DNBz='YWdw';GxBz='SXpW';eVz='ZDAx';tOz='YWNs';JiBz='b2Ix';AdCz='ClFY';kfBz='bEpW';gVz='bTVL';bGz='Rzla';ycz='WmFj';NjCz='OEtZ';xUz='V2hX';vsz='WmxS';MVCz='Wldz';Xkz='UlZV';dECz='TUZs';bEBz='aENZ';MRCz='eVoz';YDz='YkVw';WuBz='Wndl';NGz='bFpZ';QXz='c1Zu';Gmz='a2hX';gxBz='T1Iw';eaCz='MVdG';qZz='VktO';dOz='VVFt';vKz='YTJN';LXCz='VWxn';FPz='VVJt';SqBz='aGFT';hwz='VEVL';XMBz='WGRO';DTBz='SEpV';XLCz='Rkl4';JTBz='RFJY';vz='U2Ju';BoBz='QklV';GsBz='c1Zt';PVz='Ykd4';aBBz='ZFZO';oLBz='aVNF';DGBz='ekZM';Mvz='WVZU';upBz='c2NI';ryBz='UmFs';OHCz='R1Nr';LPBz='bGha';tdBz='WkdO';uUCz='VTJF';eMBz='SVFr';RuBz='VVpK';kgCz='bXBp';iUBz='RlY1';tqz='RTFW';slBz='Z0tW';usBz='TlJu';hZz='d2RG';JEBz='Yld0';ejCz='aFZU';JTCz='S1Ix';mDCz='RkhD';TTCz='SmhZ';nHz='VEo0';oBCz='YzFZ';APz='U1hk';iiBz='RnBS';Vsz='Rk5N';VDBz='VWts';QRBz='clZt';HKz='aHdU';aGz='SkZj';eCz='eUNt';TKCz='S1pE';UHBz='V1dt';gHCz='QnMK';pnz='VlpG';UNz='bGhz';Liz='UkhW';FFz='cFNW';eYCz='Y0Zj';rLz='SjNN';VmCz='TlJG';yrz='YUc5';yUBz='WTNo';VIz='RUpY';wbCz='RmxW';MyBz='UkZs';Axz='MFlW';bvz='awpW';ZJz='WVRs';ZXBz='WjZW';ONCz='RzlV';QWCz='RlNY';WgBz='elZ4';goBz='YQpT';LbCz='R2ha';TABz='a0po';Utz='clRW';mpBz='dGJG';agBz='MVZU';EKz='bTlY';JWz='eFdB';WbBz='VGF6';hWCz='VjBW';spz='UlRs';rGz='Vmxa';jNz='MVl6';AVz='b2Vr';cPz='RTVX';juz='bUpF';Bdz='cFVX';SVCz='CldX';Mz='NjQg';mSBz='WGJG';vNBz='TFdX';GaCz='cFpi';LVCz='clNt';OfBz='ZFRW';iJBz='SlZW';ZlBz='VkdK';RhBz='CmEw';PwBz='bFRS';SZCz='UkdT';DDCz='MXBQ';Jqz='Vk5i';PfCz='VTAw';aRz='UmxK';GZz='cFVt';piz='RlJx';taBz='a1p6';KHz='UkZT';agz='VmhD';yYBz='V25R';nhCz='MWRG';Ugz='WFZ6';NNz='VFZY';ZJBz='VXpG';MECz='VFV0';UXCz='c1V3';KGCz='NU9W';Lfz='bTAx';olCz='a0ta';dDBz='bmh6';hfBz='VVdH';rGCz='bDRX';ujBz='d2NG';wDCz='Ukdk';FHCz='RFUw';oZCz='aFZG';WTz='WGhY';aHBz='YWEx';lQCz='eFdW';cyz='Snpl';rdz='ZEYK';lYz='aFVW';tKz='NFUw';DJz='SE5P';NQBz='eldr';Djz='TmFS';KgCz='V1Qy';UmCz='MHhO';bhBz='dFcK';VICz='b1Vq';gxz='TUdS';pRBz='blJo';RDz='ClZs';aDCz='UmpS';jWBz='aFhX';nfz='a1pa';muBz='Z0tX';mTBz='cG9V';KyBz='WlhU';kqBz='TmFs';cxBz='TnNV';mpz='TkZO';BeCz='V0Nr';IECz='aENV';fOCz='VVJU';guBz='UkVw';REBz='bmRU';XDz='bEpo';atBz='MlZy';yMCz='a3dX';NMz='azlX';DVz='CmEx';FNBz='UzFS';ThCz='MGFr';sRBz='M1dW';jxBz='QXBr';Vgz='RXdD';pMCz='cEtW';XACz='MWEx';iFz='a3B6';XfCz='eFYx';mPCz='MG8x';uXz='MVYK';ihCz='aE1u';FxBz='bDND';QZz='VFUw';vgBz='aWJI';fwBz='a1Yx';ihBz='NWlh';DICz='MGRH';ZHBz='RVl6';ayz='UXBo';SUBz='WkU5';BICz='NWFF';IOBz='WlZs';KkBz='aGFN';cLBz='VFho';uCCz='Vwpi';fvz='Vmhr';wVz='WGhX';BXz='NVpF';ocz='UlBW';xZBz='a1ZG';Bxz='WnRT';BXBz='M0Ja';khBz='NkNs';TQz='V3Rh';DOz='M0JZ';GWCz='V1Vs';diBz='ZHdX';lBCz='aVZF';JNBz='RU5X';bnz='MWhv';KVCz='VWRz';GEz='dDBW';fnz='RnNV';hez='MHhX';FbCz='elV6';GXBz='QmFU';opBz='WEJZ';bgCz='VldF';DBCz='MWw2';Cuz='b2FX';tGBz='VDFW';gFCz='RWRT';kfCz='cEdW';gkCz='TnNU';CKCz='TlpW';vkz='bEpz';YuBz='cEkK';glz='V0dW';QXBz='bHB4';HYCz='VlJL';DwBz='S2My';Ttz='V1ZS';DlCz='VTUx';NKBz='bE1L';THz='U1Ix';JhCz='ZEZW';DSz='Y0ZS';qDz='VTEK';TyBz='RTlV';uhCz='aFJW';jvz='bmhU';BcBz='dVFt';mTCz='TFVr';NiBz='SE1V';raBz='VzVH';oLz='SE5Y';Fjz='VFZW';vUz='UjJG';Nez='bHBy';xiz='ZEtj';yDz='R3hV';pyBz='NWtV';VMz='VXBX';lHCz='Tk5i';TWz='eGNE';Woz='aFRU';jBz='Q1Ux';XBBz='REI0';Xwz='bkEx';SmCz='TUsK';gcCz='Q1pV';DXCz='QwpW';weBz='SGRG';KCz='VjFk';COBz='bXRz';GqBz='akZW';PjCz='ZGlT';BABz='ZFhh';vDz='WWpG';CrBz='ck1I';RQz='aVIx';Vuz='RnBQ';SHCz='UW5C';IGBz='TlVi';brBz='VTV6';DYBz='R0ZG';fABz='UkdZ';UCCz='bFJ6';OJCz='WXlO';cqBz='SnlW';TgCz='d1VG';gPBz='RzFv';AxBz='Umli';epz='SXhj';HfCz='b3gK';Tbz='WWxS';XXz='bGRX';GJCz='bFJx';pIz='Vld3';pLBz='SkdW';Vcz='dVVV';xFCz='a2RT';iZBz='R1Jh';yqz='WVd0';sVCz='MVhV';fXz='WnRl';GIz='QllW';vvz='RnBX';MICz='YkVv';Emz='RkRi';QSBz='S1Vs';gUBz='RWRp';HUCz='V2FH';FCBz='U1dH';ifz='NUtX';FZz='bk5Y';SkBz='RTAK';XdCz='VEIz';fhBz='UkxW';FUz='OVdN';Uyz='Slhi';fkBz='aENt';PGz='dHdW';CWBz='cFcK';gYBz='bkZY';rfCz='azR6';Jpz='WXpU';Upz='a05X';aaz='RlZx';aHz='Vk1r';oPz='cHJV';wBBz='WnNW';pJCz='ck5Y';ohBz='MkV5';SoBz='a2hH';saCz='OWoK';mNz='cEwK';NJz='U1VG';jjCz='WlZN';UTCz='ekpP';LNz='eGNF';kbCz='b1Ey';lMBz='V01Y';ylBz='NFZt';jOCz='SmhX';BhBz='V1lq';cCBz='Y3pG';nKCz='RlpO';KfBz='Ulho';smz='eFlW';lqz='a3dD';vYz='QlRZ';vZCz='WEJa';Jhz='V1J5';iXCz='MmN4';ZRCz='aGtV';gMCz='V3M1';TUz='UlRW';bWz='UkNT';VuBz='T1RW';EPCz='WFJv';tOCz='WnNU';hhBz='U1dK';uZCz='S1Ey';duz='aFZr';omz='QXhj';Oxz='Wkc5';vCBz='cEpN';Mhz='VFVU';XrBz='WnBW';TRBz='a2Ft';sPz='Tk5S';aiz='bFQK';ZPz='VlZV';udCz='S2Rs';WQz='WmhS';aHCz='YjJR';qaBz='RjZV';HGBz='UzFN';PgBz='MXBy';nTz='VWJG';GOz='bXRT';RyBz='bFZv';mLBz='RlZ1';tgz='UlhZ';rz='NFNV';gsBz='VWRX';OiCz='ZDJG';Snz='TWxK';PRz='WnJZ';veBz='RVph';asBz='bGhT';wZBz='Vmw1';cz='Y0Ns';WACz='UmNG';QaCz='dFdZ';mnz='bFVR';JPBz='TVc5';lsz='TTFZ';XRCz='azlE';vqBz='V00y';VQz='R2JG';IhCz='WXdW';fZCz='V1oz';sZz='SkdU';nwz='c1pH';XHz='Sm9i';NHCz='azlo';WlCz='VW1k';BKz='cHFV';leCz='VjJR';SjCz='Y1Zs';HkCz='M1Rs';KDBz='SnJa';xez='TURC';duBz='UlRU';SABz='aFZh';Cqz='QkRi';iGz='MVNX';fQz='RUtW';DKCz='RXlV';yFz='Vkc1';BuBz='M1Jy';RfCz='ekUw';xSCz='V2Ix';hNz='WVpV';rCCz='RnBF';aPCz='a3hE';WwBz='S1RG';dsBz='VXBa';Pbz='YjFs';Unz='ZDRS';AqBz='bUl4';cRBz='VFRU';DUCz='cHJN';jACz='T2JG';pMz='MWQ0';Ez='4 -d';saz='aFph';Rz='Rnph';dsz='VnBY';PeCz='Vm5a';wMCz='Y2xN';dEBz='aFRV';sICz='RmQw';YHCz='aVZU';dMz='cDBZ';qQCz='YVZX';cdCz='Vm05';JYCz='c1lW';CjBz='MVpI';hVCz='VkZU';mIBz='MUp2';XTz='YTJS';BlCz='MXA2';PLCz='VW5w';NICz='ZDRV';omBz='R0ZT';Siz='VlZt';iwz='WFJo';FBCz='WnVV';ORBz='NXJX';AiCz='VEF3';iQCz='WVdS';pCBz='VGxh';jsz='WVpF';tECz='eVJu';ydBz='V1NG';Nkz='Ck5G';SDz='ZFhW';WhCz='TnVT';vHBz='RmFG';GYCz='aFVX';YXCz='V0dk';CGCz='c2JH';vJz='MlZq';IFz='ZEdX';Gpz='OVpW';TMCz='dlpE';CeCz='MXUK';pqz='TkZj';lbz='V2xS';KUBz='VkZZ';SPBz='TlFw';bQBz='MUo2';AZCz='VmQ0';haCz='SGFH';VZCz='U2Ex';nPCz='S2Vt';MrBz='bFpv';GUCz='VVJX';vwz='c2FF';GVz='R3hX';AFCz='YVRV';ZKz='VFV6';pQz='MVNW';DMBz='YVMy';SLBz='cVVt';JnBz='aGlW';Ndz='bUpG';nYBz='TkZR';njCz='VkVr';Dlz='bWhZ';kmBz='VlpV';IgCz='UkVZ';ZNCz='VUZs';RNBz='TTFG';dMBz='MjVr';EECz='U0dW';MMBz='NlpV';eMz='VVJP';taz='MXBX';xYBz='TVZH';Noz='YVNH';LpBz='V2xT';gkBz='TXhj';WKz='WnVR';KtBz='WjBZ';ZPCz='b1ds';Tpz='cwpV';bmz='eEtT';wEz='aEtX';Nlz='WllV';hlBz='dlZr';VcCz='UnRj';Ncz='VTIx';bpz='dVFs';GeBz='UwpS';YDBz='V2tV';siCz='bVZz';MLBz='YzJG';BDBz='bmRO';qHBz='WlVo';ZlCz='VlZO';ymBz='c1Vq';LxBz='U0Zr';KcCz='SXgK';rEz='Clds';QHz='NVdN';rxz='a3Rq';tHz='YWFB';MGCz='VnAx';hdCz='M2hY';RYCz='MUdi';fKz='UkJj';hXCz='NWlW';NOz='bGR3';Lnz='MkpW';Soz='TTA0';XQz='M1Jv';dFCz='V2hY';aBCz='MUl5';BsBz='awpN';tNCz='V1V0';ATBz='VlZu';uuz='bEl5';Hwz='cll6';jyz='a0ps';bUCz='Rkp6';ctBz='RjND';nPz='VWEx';GUBz='elZH';axBz='VWpB';IjBz='eFdr';enBz='blpX';dZBz='Wk1H';FGBz='bUZH';Lkz='NXBV';Gez='TURW';vgCz='czEK';nZz='bFpr';noBz='elZU';dKCz='ekZ3';TGz='aFhU';QGz='a05z';TxBz='YkdN';nOz='c0tV';DfCz='ZHVS';AJz='VWpC';uBz='MFdn';whz='aVdG';Zsz='SktT';MXCz='Mk15';CJz='WnRk';IxBz='Qwpk';fEBz='ZUZk';HqBz='SktX';NZz='WkZX';adCz='MVF4';Kpz='alJV';aSz='WFZH';Wbz='VjA1';SFBz='Q1Yy';OFBz='MnRv';EDz='akZ2';MFCz='TFUw';VFz='V1dw';pTCz='S1ds';YLCz='U25s';WPCz='Y0Vj';bLz='NVBV';uCBz='Vmtw';kgz='bHBU';wEBz='bVJI';DxBz='U1RW';kLz='MXBJ';hgz='MwpW';EtBz='bzFW';CSCz='alZL';IWBz='VTJO';jTCz='ClJt';Jez='a2h3';sTBz='bTh5';qxBz='UmhS';vxBz='V2JW';RoBz='NXpZ';MWz='b1NG';oTBz='OU9W';FkBz='VlY0';FvBz='RlZU';gTCz='SE5h';OYz='WlVk';BEz='YVUx';FpBz='WVVO';qLz='VFlU';Jjz='ZG9U';EXBz='V0d0';wABz='WFZX';Quz='VWtO';OJz='bDZS';KPz='Vkl3';HMz='ZDFR';CLz='a1pL';Rsz='WVYy';gXz='R0ZX';VLBz='Vm5k';MdBz='UnZV';RWBz='Y0RO';vpBz='ekEx';VHz='a0pq';dEz='WXlj';muz='WVZZ';DOCz='NUNX';fDBz='R1Rr';lXCz='VUNt';BUBz='dE5V';auBz='Rko2';bPBz='ZHJN';lkBz='blMx';wQCz='S1lX';ycBz='YVIw';uFBz='eFUx';hGz='YVZt';AICz='WkVj';Spz='QlhZ';KDCz='VXNL';QwBz='VlZS';rwBz='V2JF';vxz='V2NF';rez='VlJi';tBCz='RmNL';yQCz='bFps';PFBz='eVVs';BkBz='NVhZ';EIz='Y0d4';doz='clRV';Imz='Mwpa';vhz='VWxw';kCBz='STFW';Edz='Qgpj';PjBz='cFZi';MPz='V2JU';xgCz='Tkhj';Gdz='YmtK';fBCz='bzBW';FYz='UjFK';AjBz='dWJG';Yyz='R1kw';PiBz='MFpI';qWz='Y0do';nGz='WTBa';lcCz='T1ZF';hECz='alFL';iTCz='UldT';PZCz='VFZ3';PkBz='bUZq';moBz='R1J3';OMBz='MVpU';bABz='U2pG';ePCz='WmVX';KuBz='Sk5i';KUCz='bWhX';CnCz='IiBi';Gaz='V205';Xuz='TkdU';ktz='cENZ';vnBz='b1Yy';hRBz='WGEy';riCz='eApO';WYz='aVJr';iYz='Vk9j';dfCz='WFZF';nrz='NlZq';Aiz='a1JU';Rpz='aWQz';dFBz='U2JH';Dmz='dFVu';iSBz='UTFk';lHz='ClJY';NtBz='aFUw';sQz='bGJG';UPz='V2R3';CVBz='YUZK';Odz='Tlhw';BKCz='TWxZ';Ekz='bGFW';rRz='YUdK';jUz='VzFv';osBz='cE5i';CcCz='cGhS';mdCz='SjRh';LOCz='dE1W';Guz='RktS';OBz='Rk5W';piCz='c1Nt';eXBz='V2JH';djCz='dGFN';eGCz='WVcx';TDBz='NFZq';Fz=' <<<';tjBz='UUtZ';OABz='VEYw';QZCz='U2Mx';lmBz='cEVU';iSz='bGho';KmBz='bFVh';dIBz='VlQK';mYz='RlpX';Sjz='Mkoz';fQBz='eVNY';fbCz='a3By';gmCz='bEl3';ruz='ZHJW';eHBz='dGFV';Hkz='TkVU';XcBz='VVdW';XUBz='RkpN';DYz='WmVG';KKCz='Tk5X';WaBz='VlZo';hmz='R1Nt';SnBz='alpT';NACz='UFlX';iJz='VmQw';KFCz='RTVE';ufCz='SkVW';rHz='a0pY';Cmz='MjVT';VSBz='TUZZ';AWBz='VkZ3';ZYz='V2xa';Aez='WEJR';vKBz='CldG';MQz='SGxX';hABz='VGJG';GbBz='S1l6';StBz='UmVs';IRBz='dE4K';fIz='elYy';xmz='VEJY';mUz='T2Fs';TDz='M2h2';hDCz='V3RX';hz='bEJh';cLCz='TlIK';VSCz='VnFS';DWCz='WFpE';Pxz='eFpZ';LDCz='VWpK';HLCz='U2NG';hKCz='d2Qy';fGBz='bXRo';fqBz='R1JQ';FSCz='VVRW';sVBz='bEpO';vmCz='WW1G';eIBz='YWxK';nMCz='SGVG';tbz='TFYx';dQCz='dGFE';qrz='V2Ju';PqBz='d0tW';YaBz='SnJO';fKCz='bGhN';ofCz='UjFG';VfBz='a1V3';ffCz='VEpO';jPz='TlZr';xKCz='eFNu';dRCz='V1hr';Ntz='Wndh';JQz='V2ta';WeBz='VmVR';ujz='Rk5X';Ahz='CldW';DFBz='YUZk';ddBz='RlJO';LWCz='ekJY';VxBz='RmtT';dYCz='VFZG';Whz='VlZZ';iQBz='bFlj';utBz='bEp5';qZCz='VDJG';lgBz='ZHNj';NOBz='dGNF';fOBz='VkcK';QgBz='RmVs';jYBz='Vm1R';JlCz='UzFJ';LiBz='NWhV';SDBz='V0Ux';MUCz='eHdT';egCz='YUd4';UUBz='d1Iy';bdBz='dFVr';qlCz='YUVS';EDCz='TnJh';aZz='d2NR';bmBz='cFJN';wVBz='QkVZ';gJCz='a1Z2';wECz='TnRW';EGz='M1pW';xCCz='ZG9W';YkCz='bTla';PyBz='RmhU';vABz='bUZX';hjz='R1Jx';CTz='UmxS';tUz='QklW';Ytz='V01r';lgCz='V1Ey';ZdBz='MW9l';cdz='a2FF';QLCz='V2NW';XnBz='YUhK';bJBz='YUZO';YABz='eVRW';vtBz='RwpW';jwBz='VjRW';glBz='bFpX';NXCz='VE5D';vWz='UlNh';Kmz='ZW1K';aOz='VmJH';IaCz='ZHdV';kVz='WGho';ljBz='bHNa';dJBz='U3dw';Wfz='aGEx';flz='UnZW';Lwz='Q2xR';gdCz='VXlj';HaBz='U25k';rTz='UmhN';niBz='b0Ns';Lyz='VGxk';jSz='WVZX';jkCz='ZVZr';UTz='Q2Ew';rXCz='Rll3';LrBz='SFVt';Fsz='TnFX';Qez='Wndi';ISCz='WE1Y';uwz='MGRL';BaBz='VjJw';lhCz='UlUx';XHCz='V0Yz';MMz='UnNX';HwBz='RmFZ';HbCz='bkpo';fhz='ekZT';qnz='WFZt';OHz='akZr';Evz='R0ZV';TXz='QmFS';PPCz='a0Y0';raCz='d1dr';iWz='SFJY';acz='UkdV';Hcz='VjJO';eLCz='RkpM';qYBz='R0ZO';YVBz='b1Vs';ABz='WWJF';Rqz='aFpF';lTCz='Vkp6';bBCz='Umtk';xdBz='aGFW';wGz='V1Iz';sQCz='RQpV';gkz='WmEK';gCCz='M0Iy';Jxz='SXlS';Bvz='RUph';cjBz='TW5S';dZCz='WWxk';ybz='c1dG';fkCz='c1ZW';yECz='UVZq';YZCz='a3BJ';rUBz='Wk5l';Oyz='TVdR';CkBz='bXRH';sWBz='eWVH';rJCz='MXAz';FACz='TnJO';NEBz='bApS';LcBz='VTVV';CZBz='bUV4';iHz='a2Ns';HQCz='Vndk';nJz='VTJ0';ZYBz='UnFX';WVCz='SGRE';vDCz='Vllh';wRCz='bTk2';anz='a01X';sNz='NlYy';xNz='cGhV';WBz='VkVK';vNz='VWta';Qz='Cllt';kpz='cEhW';drBz='cFdS';ioBz='VkpH';SlBz='YWtw';miBz='YmxK';cDBz='bFZN';Vfz='ZEZk';dCz='TVZa';FRBz='ak5q';Lcz='cVFY';WMz='Vkdj';HWz='QlVW';nrBz='RVVs';WYBz='SVFt';Owz='R05G';scCz='alJW';lWCz='ZWxZ';SZBz='QkdU';iQz='aE5i';pSz='ZWtO';blCz='YVQy';NWBz='akJV';RTCz='T2FH';EUBz='MVla';UTBz='S1ZX';bBz='V1dF';MABz='UjFs';nCz='WTJW';VpBz='bVJ6';uqBz='bU5F';lTBz='VVpL';rjCz='ek1W';Ubz='R1ZG';Alz='ZFZS';mqBz='ZFZi';WMBz='Q1lX';rkCz='M1lV';WWz='YWMy';Kkz='a1Jr';dqBz='VTJJ';FECz='VXBR';qTz='cVNq';JSCz='ZFdN';CoBz='VEl4';lIBz='aGlS';jlBz='QXdW';rSCz='NTFW';YcBz='MVl5';qkz='dGtk';IKz='bFpz';lFBz='VjAK';bWCz='d1Jr';UJz='YUZw';onz='eGFh';Jyz='V2xk';TcBz='VEpP';Rtz='VmRO';bOBz='ZFRN';QXCz='Wm9U';ogz='WVYx';emBz='bGRs';XqBz='ZUZs';onBz='aFVi';ljz='SlVX';yNCz='WTNk';NgCz='Rlpl';kdCz='SApi';yACz='VWdL';ANCz='WmgK';tUCz='b1pX';FfBz='Cldt';AJBz='cldW';xtz='RUY0';ZMz='QTFT';RQCz='Rk5l';mCBz='TVdG';vjCz='UjFJ';WFCz='SGRa';nHBz='SVNt';GoBz='Ck1V';lICz='RW8w';htz='cFVs';qECz='U2JU';uTCz='aGhW';NeBz='RTlX';ZIBz='U2JW';dtz='VlRK';pdBz='aFBW';wUBz='U1ZW';TlBz='SFky';chz='V0V4';tfCz='MUpo';Vkz='Vm5S';cNCz='SVlr';eWCz='SFZW';oSBz='cVZq';MaCz='TnJP';hkz='ZFdG';gHBz='alIy';BNz='VnJX';hQCz='Sk1X';AgCz='YUhC';Uoz='V1JX';KiBz='UFZF';xHz='SnNU';FkCz='SnZW';ABBz='WjNU';VUCz='VFZz';Pdz='cHJW';kaBz='bXhY';Bqz='SFVU';hsz='bHRk';TSz='V1Ru';yuBz='ZFQK';FEz='eVZt';NLz='MUdO';aXCz='U25S';mQBz='SlRW';iOCz='Vk51';ijBz='eGEK';fkz='aFZs';gyz='R1JY';yQBz='U1Iy';GYz='WVZG';vkCz='TVVv';lfz='VmJY';CMBz='OWlS';twBz='V3R3';xvz='WmFh';uaz='ZHNU';qYCz='WE40';ViCz='M01G';YWBz='MUpH';kmz='VFZk';DLz='WVZs';WNz='d2NI';BOBz='WnBV';aKCz='MXVh';dMCz='bGhr';ulBz='Tlhh';NTBz='cExU';gJBz='VVpv';gNCz='VVpz';qHz='VmhS';Adz='MU51';TQCz='eFQx';ReBz='a1RG';kiCz='Mmho';sPCz='bVJY';crz='YTBv';EBBz='a05G';hWBz='MU14';eZz='V01G';QECz='V014';Wvz='bTVD';jmBz='dFVY';AABz='clZY';xeBz='V3cx';LCCz='Vmxj';IBBz='cGxS';bxBz='MVIw';meBz='VlhC';SJBz='M2Rr';hXz='TWs1';uBBz='VllR';IDCz='b1Js';MBCz='NFkw';ImCz='aFRD';Xrz='Slpl';GkCz='VWRo';XuBz='TVVk';iCBz='VWtS';xABz='NVNV';BSCz='clZq';bCCz='VApS';vQz='VldG';YUBz='S1Zu';EEBz='RnJT';VsBz='d2FB';Qwz='RzlX';TkBz='WVRB';qPz='VDFa';DmBz='cwpT';Boz='YkRS';fPCz='VkhS';cjz='SlkK';jVBz='VFVW';cZz='cwpW';xRCz='UXhT';rjBz='RnB2';mUCz='U1Zs';uSBz='U1hs';erz='dFZr';IbCz='ZHdS';EgCz='eVpW';WCz='eFpI';ZXz='bVF5';Esz='Vkd4';NSz='RkhZ';Wez='QldN';RlCz='WjBU';hyz='d2FG';aIz='ZW14';MYBz='YUVO';Ijz='elkw';kKBz='RnZW';gVBz='WlRX';nhBz='VlVs';iPCz='YUFw';vVz='WXhU';VQBz='V1dX';lGz='WFIw';yHBz='V1hw';phBz='VVhk';TIz='dGR6';RUCz='Slhh';ATCz='VTFy';EABz='TmVW';SgCz='WTJk';rbCz='bHBX';iGCz='Sk9W';HUz='SkhV';gABz='Vll4';kPz='WmtO';qHCz='NApV';sOBz='MVJD';wlz='UjNC';SIz='VGxa';jQz='RXBY';QPCz='R2xo';ZEBz='S1Ux';PdCz='TVEy';vTCz='R3hO';jgCz='c2My';jPBz='eFds';qdCz='R2VR';XVz='cFgK';wgz='bXhz';fZBz='NlFt';LaCz='VVpP';Nuz='Uk5X';BjBz='SGVH';uICz='b1lr';BSBz='VkU1';bDBz='V2NG';pDBz='TjRZ';pVz='UFl6';OQCz='MVZi';CFz='VlZP';ckCz='SGN6';KTCz='WnFV';MPCz='WEJx';rtz='WXhT';kcCz='bk5p';wYBz='VnJP';upz='VmRy';hDBz='MFpo';HWCz='S1RW';GgBz='WloK';HFCz='MGh3';wyz='ClZu';QZBz='YUU5';PLBz='MXBa';yLBz='U1Zu';KUz='Sk9S';Wgz='bE14';QKz='VkZW';SbBz='d1Ix';KXBz='YzFW';fJBz='NUlZ';cmz='RlV5';Mnz='Y0Vk';ZiCz='MmhE';jKBz='WmJU';wlBz='Q2Mx';qz='Ukhj';Rbz='ZFRi';wJBz='MmhP';amBz='YVdK';ptz='SEJY';VCBz='QlZi';YCBz='bU5M';pZCz='bGMx';mXCz='M1lq';vyBz='U0dG';yez='NFUy';Tsz='UmFU';FSBz='U0ZO';RIz='bTF3';xSBz='akpv';fpBz='cGxW';Raz='VFpX';FOCz='VlJx';EYBz='aVJt';Joz='bGhp';UYBz='cDFV';RICz='MUdj';qDBz='ekZa';MoBz='MFpW';Cxz='UkU1';DXBz='UXlW';kiz='d2VX';lPBz='SEJX';ROz='bVJw';LDz='cEdh';rOCz='ekZS';IeBz='MVhh';YMz='WVZq';OdBz='NVdS';cACz='VTVG';NlCz='UzFs';nLBz='Y0VS';LTz='TlhG';ldBz='YTFK';HIz='VjFV';SMBz='Rlpr';Pyz='MFlq';RfBz='RVZX';FGCz='R1Uw';Ixz='NFUx';FwBz='VnBX';BDz='V0ZZ';CmBz='RnpV';BMBz='dVpF';AgBz='ZGhh';XgBz='Vld0';uMBz='VmEw';msz='VzFL';wiz='UXBW';iXz='U1kw';bez='VlZa';peCz='VgpD';AaBz='NU5h';yBBz='YkU1';xxz='blJy';Glz='QlhV';JLBz='MXVV';FMBz='WFRX';rhz='VVcx';JYBz='VWRY';FyBz='cmVG';OSCz='WGxo';xEz='R0V4';srz='VkZs';RJBz='SXhi';jtz='TVhw';neCz='azVo';doBz='eGpl';RFBz='ekYx';odz='NlZs';yGCz='cVZr';Xhz='MVZs';vjz='R1ZH';bNBz='VmRo';EdCz='ak1W';jnBz='VkdW';EIBz='VmFN';NRCz='WFJx';Njz='V2Nr';idCz='MW9W';jVz='bFdi';dmz='TVZK';ZZz='WVRG';NQz='VnpF';pEBz='YWFW';oRz='VXcK';WXBz='Ck5X';Orz='VVhC';iZCz='TENt';jmz='WFJX';XhCz='dFdT';jXCz='VXhT';CVz='blJU';VKCz='ZUZK';UJBz='ZG5l';dBCz='azF0';VFCz='VnVa';bVz='V1Yx';SRCz='Q2xW';MIBz='aFhV';bgBz='VkZy';Qaz='VXRa';oQCz='RlZH';qqBz='RmEz';SmBz='Y0c5';EHCz='MHRa';nHCz='YVRU';CUCz='T1Zu';KNCz='SgpW';LBz='WkZF';ZfCz='dGtT';Uaz='T1do';ksBz='akZv';DKz='cQpT';IhBz='Wlhl';oBz='WkZT';HBz='YlhC';ojz='WmFr';Wxz='aQpS';BGBz='dWFI';cGBz='MVZk';imBz='UjBO';MbCz='eFNj';gyBz='RlRs';hSCz='cDVX';Jz='YyAi';QEz='Vm1w';uiz='UkVa';xTz='aHZW';XiBz='a2JG';unBz='MFY0';aKz='RmFj';eFBz='dzBW';oqBz='NU5T';GMBz='cEdk';amCz='UnJj';JuBz='SE9W';GXz='cDNW';lPz='RmxY';efCz='bzBZ';Zoz='VW96';MlBz='V2tW';vaCz='QjRU';qSz='V3hw';wnBz='RnJO';UBz='SnVR';fpz='RWxh';GDz='a1Js';nlBz='UnMK';EyBz='RVoz';fmz='Mnh3';twz='VkxW';eVCz='R0Y2';WUCz='c05G';wSCz='Mmhw';paCz='UmFa';GABz='RlJX';tWz='bFJD';DDz='ZFZN';NHz='SwpV';rBz='cE9S';xYCz='NGQy';QVz='TlNW';bSz='dGFU';akBz='c1ZU';BIBz='UkhS';qdz='b1Rs';beCz='bkF3';kTBz='SkNa';Viz='bFYx';eJz='WkcK';myBz='aFZX';QuBz='Qkta';qLCz='Ck5V';ZUz='ZUZw';eGz='ZHNX';lVBz='WXhX';xkBz='dFNS';eNCz='Ulhs';rhCz='a1Vt';DaBz='TFVU';yJBz='REZT';Cpz='bFJr';IJz='b0tX';aTBz='YVNF';gIBz='ZEd0';vlBz='Mmhz';TeCz='CmIx';TCz='VldX';Urz='MFpT';psz='Vmtk';WYCz='NENs';sDCz='VFRK';eLBz='aFlW';aez='VnNX';xhBz='VWw0';YCCz='WnRh';rbz='OVhj';LCz='RlNr';XeBz='cGxT';PSBz='V2xj';Ruz='cFZV';nRCz='ZWtw';flBz='bXh2';fRCz='Vk5G';qOBz='VnBH';aTCz='WFdU';tfBz='UnpX';QVBz='MldW';AYCz='NU9O';QSCz='Umxv';jpz='bFpx';nUz='SldX';rJz='T1Ix';cYz='MDVY';AiBz='aFUy';XBz='SFRV';qSCz='MWxV';SHz='Vm14';iYCz='VmtV';KXCz='Vll6';NuBz='d3BT';cMBz='ZEhk';Dbz='ck5W';ttBz='ZE5i';MDCz='TkdZ';Hoz='M0JI';Bez='NFMx';VaCz='M0Jh';DOBz='eQpk';ZHz='ZUd0';xz='VEJH';fFCz='VXda';hLz='WVVo';kUz='dE9S';nMBz='YVdF';vfz='cENW';RRCz='NXNW';ouBz='Mmhv';ciz='Tm9W';mlBz='R05s';Vz='aGlZ';wKBz='UldX';cBCz='eFRD';irBz='WkdV';oACz='MUtS';fez='UW1G';wnz='d1pH';XPz='RXdO';snBz='TnNa';LQBz='R1RG';LICz='eFcK';VHCz='elY2';mACz='akJX';lxBz='Tld0';vPz='R1ZV';WTCz='bFZp';vHCz='eGhV';Eiz='WkRi';ERCz='bFNH';Xaz='blJW';gYz='VmxV';mOBz='MUdX';xoBz='VWRT';DIBz='YVZr';QfBz='b2JH';ItBz='bHJa';nmCz='bEhT';LmCz='CllV';EmBz='RmFk';RYz='Y0ha';srBz='bFpG';uPBz='Wldr';lNz='WlZW';DpBz='aFdD';WMCz='UzFk';smBz='UmpN';HJCz='WHBL';wWz='Mmhx';xZz='MVoz';YTz='WQpD';VEz='aFhZ';TVCz='UmJt';pCCz='U2FF';FDz='VmpG';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$z$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$z$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$z$tz$uz$vz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$z$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$dBz$eBz$fBz$z$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$vBz$wBz$xBz$yBz$z$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$z$TCz$UCz$VCz$WCz$XCz$YCz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$z$mCz$nCz$oCz$pCz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$FDz$z$GDz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$ODz$PDz$QDz$RDz$SDz$TDz$UDz$VDz$WDz$XDz$YDz$z$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$gDz$hDz$iDz$jDz$kDz$lDz$mDz$nDz$oDz$pDz$qDz$rDz$z$sDz$tDz$uDz$vDz$wDz$xDz$yDz$AEz$BEz$CEz$DEz$EEz$FEz$GEz$HEz$IEz$JEz$KEz$LEz$z$MEz$NEz$OEz$PEz$QEz$REz$SEz$TEz$UEz$VEz$WEz$XEz$YEz$ZEz$aEz$bEz$cEz$dEz$eEz$z$fEz$gEz$hEz$iEz$jEz$kEz$lEz$mEz$nEz$oEz$pEz$qEz$rEz$sEz$tEz$uEz$vEz$wEz$xEz$z$yEz$AFz$BFz$CFz$DFz$EFz$FFz$yDz$GFz$HFz$IFz$JFz$KFz$LFz$MFz$NFz$OFz$PFz$QFz$z$RFz$SFz$TFz$UFz$VFz$WFz$XFz$YFz$ZFz$TCz$aDz$aFz$bFz$cFz$dFz$eFz$fFz$gFz$hFz$z$iFz$jFz$kFz$lFz$mFz$nFz$oFz$pFz$qFz$rFz$sFz$tFz$uFz$vFz$wFz$xFz$yFz$AGz$BGz$z$CGz$DGz$EGz$YBz$FGz$GGz$HGz$IGz$JGz$KGz$LGz$MGz$NGz$OGz$PGz$QGz$RGz$SGz$TGz$z$UGz$VGz$WGz$XGz$YGz$bEz$ZGz$aGz$bGz$cGz$dGz$eGz$fGz$gGz$hGz$iGz$jGz$kGz$lGz$z$mGz$nGz$oGz$pGz$qGz$rGz$sGz$tGz$uGz$vGz$wGz$xGz$yGz$AHz$BHz$CHz$DHz$EHz$FHz$z$GHz$HHz$IHz$JHz$KHz$LHz$MHz$NHz$OHz$PHz$fBz$QHz$RHz$SHz$THz$UHz$VHz$oDz$WHz$z$XHz$YHz$ZHz$aHz$bHz$cHz$dHz$eHz$fHz$gHz$hHz$iHz$jHz$kHz$lHz$mHz$nHz$oHz$pHz$z$qHz$rHz$sHz$tHz$uHz$vHz$KCz$wHz$xHz$yHz$AIz$BIz$CIz$DIz$EIz$FIz$GIz$nHz$HIz$z$IIz$JIz$KIz$LIz$MIz$NIz$OIz$PIz$QIz$RIz$SIz$TIz$UIz$VIz$WIz$XIz$YIz$ZIz$aIz$z$bIz$cIz$dIz$eIz$fIz$gIz$hIz$iIz$jIz$kIz$lIz$mIz$nIz$oIz$pIz$qIz$rIz$sIz$tIz$z$cFz$uIz$vIz$wIz$EBz$xIz$yIz$AJz$BJz$CJz$DJz$qFz$EJz$FJz$GJz$HJz$IJz$JJz$KJz$z$LJz$MJz$VIz$iBz$NJz$OJz$PJz$QJz$RJz$SJz$TJz$UJz$VJz$WJz$XJz$YJz$ZJz$aJz$bJz$z$cJz$dJz$eJz$fJz$gJz$hJz$iJz$jJz$kJz$lJz$mJz$nJz$oJz$uHz$pJz$qJz$rJz$sJz$tJz$z$uJz$vJz$wJz$xJz$yJz$AKz$BKz$CKz$oGz$DKz$EKz$FKz$GKz$HKz$IKz$JKz$KKz$LKz$MKz$z$NKz$OKz$wFz$PKz$QKz$RKz$SKz$TKz$UKz$VKz$WKz$XKz$YKz$ZKz$aKz$bKz$RDz$cKz$dKz$z$IHz$eKz$fKz$gKz$uJz$hKz$iKz$jKz$kKz$lKz$mKz$nKz$oKz$pKz$qKz$rKz$sKz$tKz$uKz$z$JGz$vKz$wKz$xKz$yKz$ALz$BLz$CLz$DLz$ELz$FLz$GLz$HLz$ILz$JLz$KLz$LLz$MLz$NLz$z$OLz$PLz$QLz$RLz$SLz$TLz$ULz$VLz$WLz$XLz$YLz$ZLz$fJz$aLz$bLz$cLz$dLz$eLz$fLz$z$gLz$hLz$iLz$jLz$kLz$lLz$mLz$nLz$oLz$pLz$qLz$rLz$sLz$OCz$tLz$uLz$vLz$wLz$YIz$z$xLz$yLz$AMz$BMz$CMz$DMz$EMz$FMz$GMz$HMz$IMz$JMz$KMz$ZCz$LMz$MMz$NMz$OMz$PMz$z$QMz$RMz$ZFz$SMz$QFz$KCz$TMz$UMz$VMz$SHz$BJz$WMz$XMz$KIz$YMz$ZMz$aMz$bMz$cMz$z$dMz$eMz$fMz$gMz$hMz$iMz$jMz$kMz$lMz$mMz$nMz$oMz$pMz$qMz$rMz$sMz$tMz$uMz$vMz$z$wMz$xMz$yMz$ANz$BNz$CNz$DNz$ENz$FNz$GNz$HNz$INz$JNz$KNz$vKz$LNz$MNz$NNz$ONz$z$PNz$QNz$RNz$SNz$TNz$UNz$VNz$WNz$XNz$YNz$nGz$ZNz$aNz$bNz$cNz$dNz$eNz$fNz$gNz$z$hNz$iNz$jNz$kNz$lNz$mNz$nNz$oNz$pNz$qNz$rNz$sNz$tNz$uNz$vNz$wNz$xNz$yNz$AOz$z$BOz$COz$DOz$EOz$FOz$OJz$GOz$HOz$IOz$JOz$KOz$LOz$MOz$NOz$OOz$POz$QOz$ROz$SOz$z$TOz$UOz$VOz$WOz$XOz$YOz$QDz$ZOz$aOz$bOz$KNz$cOz$dOz$eOz$fOz$gOz$BEz$MMz$hOz$z$iOz$jOz$kOz$lOz$mOz$nOz$oOz$pOz$qOz$rOz$sOz$SHz$tOz$uOz$vOz$JDz$wOz$xOz$yOz$z$APz$BPz$CPz$DPz$EPz$FPz$GPz$HPz$IPz$JPz$KPz$LPz$MPz$NPz$OPz$PPz$QPz$RPz$SPz$z$TPz$UPz$VPz$WPz$TPz$hGz$XPz$YPz$ZPz$aPz$bPz$cPz$dPz$ePz$fPz$oGz$gPz$hPz$iPz$z$ZOz$jPz$kPz$lPz$mPz$nPz$oPz$pPz$qPz$rPz$sPz$tPz$uPz$vPz$wPz$xPz$yPz$AQz$BQz$z$CQz$DQz$EQz$WEz$FQz$GQz$HQz$IQz$JQz$KQz$LQz$MQz$NQz$OQz$PQz$QQz$SIz$RQz$SQz$z$TQz$UQz$VQz$WQz$XQz$AJz$YQz$ZQz$aQz$bQz$cQz$dQz$eQz$FPz$fQz$OHz$gQz$hQz$iQz$z$jQz$uFz$kQz$lQz$mQz$nQz$oQz$pQz$qQz$rQz$sQz$tQz$uQz$vQz$wQz$xLz$xQz$yQz$ARz$z$BRz$CRz$DRz$ERz$FRz$KCz$GRz$HRz$IRz$JRz$KRz$LRz$MRz$NRz$ORz$PRz$RMz$QRz$RRz$z$SRz$TRz$URz$VRz$WRz$lLz$XRz$YRz$ZRz$aRz$bRz$cRz$dRz$eRz$fRz$gRz$hRz$iRz$jRz$z$kRz$lRz$NRz$XIz$mRz$NMz$hCz$nRz$oRz$wCz$tLz$pRz$qRz$rRz$sRz$tRz$uRz$vRz$wRz$z$xRz$yRz$fEz$ASz$BSz$CSz$DSz$ESz$FSz$GMz$GSz$HSz$ISz$VIz$kDz$JSz$KSz$LSz$MSz$z$NSz$OSz$PSz$QSz$RSz$FRz$SSz$TSz$USz$VSz$IHz$WSz$XSz$YSz$ZSz$aSz$bSz$cSz$dSz$z$eSz$fSz$gSz$hSz$bCz$iSz$JDz$jSz$kSz$lSz$mSz$nSz$dFz$oSz$pSz$hDz$CHz$qSz$rSz$z$sSz$tSz$gHz$uSz$vSz$wSz$xSz$JDz$ySz$ATz$BTz$LJz$CTz$hRz$DTz$ETz$FTz$GTz$HTz$z$ITz$JTz$KTz$LTz$MTz$NTz$OTz$PTz$QTz$RTz$STz$TTz$UTz$VTz$WTz$XTz$YTz$ZTz$JKz$z$aTz$bTz$cTz$PHz$dTz$eTz$fTz$gTz$PCz$hTz$iTz$HOz$jTz$kTz$lTz$mTz$nTz$oTz$qEz$z$pTz$qTz$rTz$sTz$tTz$uTz$vTz$HNz$wTz$xTz$yTz$AUz$eHz$BUz$CUz$DUz$EUz$FUz$VMz$z$nGz$GUz$HUz$JGz$IUz$JUz$KUz$LUz$MUz$NUz$OUz$PUz$QUz$RUz$SUz$TUz$UUz$VUz$WUz$z$XUz$UEz$xGz$YUz$ZUz$aUz$bUz$NNz$JQz$qEz$cUz$dUz$KJz$eUz$fUz$gUz$hUz$iUz$jUz$z$mBz$EUz$kUz$lUz$yFz$mUz$nUz$oUz$pUz$qUz$aKz$rUz$sUz$NUz$tUz$uUz$vUz$wUz$QOz$z$xUz$yUz$AVz$BVz$CVz$DVz$EVz$IKz$JKz$aTz$FVz$GVz$HVz$IVz$JVz$KVz$LVz$MVz$NVz$z$OVz$PVz$YMz$QVz$RVz$OIz$SVz$TVz$UVz$VVz$WVz$XVz$yLz$YVz$yCz$ZVz$aVz$bVz$cVz$z$dVz$eVz$fVz$sMz$gVz$hVz$iVz$jVz$kVz$lVz$oGz$mVz$nVz$oVz$pVz$aKz$qVz$pUz$rVz$z$sVz$tVz$uVz$vVz$wVz$XTz$xVz$yVz$AWz$BWz$CWz$DWz$EWz$FWz$GWz$HWz$IWz$DTz$JWz$z$KWz$LWz$yUz$MWz$NWz$OWz$PWz$QWz$RWz$SWz$TWz$UWz$VWz$jMz$WWz$XWz$YWz$ZWz$aWz$z$bWz$cWz$HNz$dWz$HWz$eWz$fWz$gWz$hWz$iWz$jWz$kWz$lWz$mWz$nWz$oWz$pWz$qWz$rWz$z$sWz$tWz$uWz$IMz$vWz$wWz$ZCz$FHz$xWz$yWz$AXz$BXz$CXz$DXz$EXz$FXz$GXz$HXz$IXz$z$JXz$IDz$KXz$LXz$MXz$mEz$NXz$cMz$OXz$yTz$PXz$QXz$sMz$RXz$SXz$GWz$TXz$UXz$VXz$z$IPz$WXz$XXz$UKz$UUz$YXz$ZXz$aXz$bXz$cXz$dXz$eXz$fXz$gXz$hXz$iXz$jXz$YGz$rQz$z$kXz$BFz$lXz$mXz$nXz$oXz$pXz$xBz$qXz$tSz$rXz$sXz$tXz$uXz$vXz$ZDz$wXz$xXz$yXz$z$AYz$BYz$KVz$CYz$DYz$EYz$qNz$FYz$GYz$HYz$IYz$RGz$JYz$KYz$SLz$pTz$LYz$MYz$NYz$z$OYz$PYz$QYz$RYz$SYz$TYz$UYz$VYz$WYz$XYz$YYz$ZYz$aYz$bYz$cYz$TPz$dYz$eYz$fYz$z$gYz$hYz$iYz$rKz$jYz$kYz$lYz$mYz$nYz$oYz$pYz$ZOz$qYz$rYz$sYz$tYz$uYz$vYz$wYz$z$xYz$WGz$yYz$KNz$PPz$QPz$AZz$BZz$CZz$DZz$EZz$FZz$CCz$GZz$HZz$wNz$IZz$JZz$KZz$z$LZz$MZz$NZz$OZz$PZz$QZz$RZz$DXz$SZz$TZz$UZz$VZz$WZz$XZz$YZz$OLz$ZZz$aZz$bZz$z$sVz$jMz$cZz$dZz$kNz$eZz$NTz$fZz$gZz$hZz$iZz$jZz$kZz$lZz$mZz$nZz$oZz$pZz$qZz$z$cSz$LPz$rZz$sZz$tZz$uZz$vZz$wZz$xZz$yZz$Aaz$Baz$Caz$Daz$Eaz$Faz$Gaz$Haz$Iaz$z$Jaz$ZYz$Kaz$Laz$Maz$Naz$Oaz$Paz$Qaz$XTz$Raz$Saz$Taz$Uaz$Vaz$Waz$gOz$mIz$IFz$z$Xaz$WBz$Yaz$Zaz$aaz$baz$caz$daz$eaz$faz$Kaz$gaz$haz$iaz$POz$QOz$jaz$kaz$laz$z$maz$naz$oaz$paz$qaz$raz$HSz$saz$taz$jMz$HFz$uaz$yHz$vaz$waz$xaz$xZz$qWz$yaz$z$Abz$Bbz$Cbz$Dbz$Ebz$Fbz$Gbz$Hbz$Ibz$Jbz$Kbz$Lbz$Mbz$qFz$eZz$Nbz$Obz$Pbz$Qbz$z$Rbz$Sbz$Tbz$Ubz$Vbz$FZz$Wbz$Xbz$Ybz$Zbz$abz$bbz$cbz$dbz$ebz$fbz$gbz$LOz$GYz$z$hbz$rUz$ibz$jbz$kbz$LUz$lbz$mbz$nbz$UCz$ZYz$obz$lYz$pbz$SOz$qbz$rbz$sbz$DGz$z$tbz$ubz$uNz$vbz$wbz$xbz$Tbz$ybz$Acz$Bcz$qFz$Ccz$Dcz$Ecz$Fcz$wGz$Gcz$fDz$Hcz$z$HSz$Icz$Jcz$Kcz$Lcz$qKz$Mcz$Ncz$Ocz$Pcz$Qcz$Rcz$Scz$Tcz$Ucz$Vcz$eTz$Wcz$SHz$z$aCz$Xcz$Ycz$fEz$Zcz$acz$bcz$yJz$ccz$dcz$TQz$ecz$BHz$fcz$BZz$gcz$hcz$icz$jcz$z$FEz$kcz$lcz$mcz$ncz$ocz$pcz$qcz$rcz$scz$tcz$ucz$ILz$YIz$vcz$wcz$xcz$ycz$Adz$z$JKz$Haz$Bdz$Cdz$Ddz$Edz$Fdz$Gdz$Hdz$Idz$Jdz$Kdz$Ldz$Mdz$Ndz$Odz$lNz$Pdz$Qdz$z$Hcz$Rdz$Sdz$Tdz$KJz$dJz$Udz$Vdz$KIz$Wdz$Xdz$Ydz$Zdz$adz$bdz$nGz$cdz$ddz$edz$z$fdz$gdz$hdz$vTz$idz$jdz$cVz$kdz$KCz$VQz$ldz$mdz$ndz$odz$bZz$pdz$sKz$qdz$rdz$z$sdz$tdz$udz$vdz$wdz$xdz$ydz$Aez$uFz$Bez$Cez$mFz$Dez$Eez$Fez$KSz$Gez$Hez$Iez$z$Jez$Kez$Lez$Mez$Nez$Naz$JXz$Oez$pUz$Pez$Qez$vCz$Rez$Sez$Tez$nZz$Uez$Vez$Wez$z$Xez$Yez$Zez$aez$Qaz$bez$cez$dez$eez$fez$gez$hez$iez$jez$vVz$TKz$FKz$kez$lez$z$cSz$ZHz$mez$nez$sBz$oez$INz$pez$qez$Uez$fbz$rez$sez$tez$uez$vez$wez$xez$yez$z$Afz$KJz$Bfz$Cfz$Dfz$Efz$rJz$Ffz$iPz$Gfz$Hfz$Ifz$Jfz$HNz$jPz$Kfz$Lfz$Mfz$pHz$z$Nfz$Ofz$Pfz$Qfz$jXz$Rfz$Sfz$Tfz$Ufz$Vfz$Wfz$Xfz$Yfz$Zfz$afz$bfz$VSz$cfz$dfz$z$efz$ffz$gfz$hfz$ifz$jfz$kfz$lfz$mfz$nfz$ofz$pfz$qfz$rfz$rEz$jWz$sfz$tfz$ufz$z$vfz$wfz$xfz$mbz$yfz$Agz$Bgz$Cgz$Dgz$Egz$KJz$Fgz$Ggz$Hgz$Igz$Jgz$Kgz$WUz$Lgz$z$Mgz$Ngz$SHz$VDz$Ogz$Pgz$HOz$Qgz$Rgz$Sgz$Tgz$Ugz$Vgz$Wgz$Xgz$Ygz$Zgz$agz$bez$z$bgz$cgz$YGz$dgz$egz$fgz$ggz$DGz$hgz$igz$gQz$jgz$BYz$kgz$FDz$lgz$mgz$ngz$fEz$z$ogz$pgz$qgz$rgz$sgz$tgz$ugz$kaz$LJz$vgz$wgz$xgz$odz$tSz$ygz$Ahz$Bhz$Chz$Lgz$z$Dhz$Ehz$Fhz$Ghz$Hhz$Ihz$Jhz$SIz$Khz$mgz$Lhz$YKz$Mhz$Nhz$Ohz$Phz$Qhz$Rhz$Shz$z$Thz$Uhz$Vhz$Whz$Xhz$Yhz$Oez$Zhz$ahz$bhz$chz$qWz$dhz$ehz$fhz$uEz$ghz$hhz$ihz$z$TTz$jhz$khz$lhz$LLz$mhz$nhz$RVz$ohz$phz$qhz$rhz$shz$wPz$iEz$thz$uhz$dez$sBz$z$vhz$whz$xhz$yhz$OIz$Aiz$Biz$Ciz$Diz$TWz$Eiz$Fiz$Giz$Hiz$Iiz$Jiz$Kiz$Liz$vLz$z$vbz$Miz$ZEz$Niz$QEz$Oiz$Piz$Qiz$Riz$Siz$Tiz$Uiz$ZYz$Viz$Wiz$igz$Diz$Xiz$Yiz$z$nZz$Ziz$LGz$aiz$XTz$biz$ciz$diz$IXz$ELz$eiz$fiz$giz$hiz$iiz$jiz$DTz$kiz$liz$z$miz$pLz$niz$oiz$piz$qiz$riz$Ibz$Bbz$Wbz$siz$tiz$uiz$Eez$viz$wiz$yPz$Hez$xiz$z$yiz$UJz$Ajz$Bjz$ugz$rDz$Cjz$Djz$Ejz$Fjz$Gjz$Vbz$Hjz$Pfz$Ijz$Jjz$Kjz$Ljz$Dgz$z$gHz$Mjz$Njz$Ojz$Pjz$hCz$Qjz$Rjz$Sjz$yEz$Tjz$Ujz$Vjz$ZUz$Wjz$Xjz$Yjz$Zjz$ajz$z$Wez$Wcz$vDz$bjz$cjz$iIz$INz$djz$ejz$fjz$rFz$gjz$hjz$EOz$ijz$jjz$kjz$Zhz$ljz$z$Ogz$mjz$njz$ojz$pjz$qjz$rjz$hQz$sjz$nKz$uSz$tjz$ujz$EEz$vjz$wjz$xjz$yjz$mbz$z$Akz$Bkz$Ckz$Dkz$Ekz$Fkz$HLz$Gkz$Hkz$pcz$ZOz$ASz$iKz$Ikz$Jkz$Kkz$Lkz$Mkz$Nkz$z$Okz$Pkz$Qkz$hfz$Rkz$Skz$ZFz$Tkz$Ukz$lSz$Vkz$Wkz$Xkz$kOz$Ykz$rcz$Zkz$akz$bkz$z$Xbz$ckz$dkz$ekz$fkz$gkz$hkz$ikz$jkz$kkz$lkz$laz$mkz$nkz$okz$pkz$qkz$rkz$skz$z$tkz$ukz$vkz$lbz$wkz$xkz$ykz$Alz$Blz$Clz$Dlz$IHz$Elz$bDz$rgz$Flz$Glz$Hlz$Ilz$z$Jlz$Klz$Llz$Mlz$MZz$Nlz$Olz$yLz$Plz$Qlz$Rlz$Slz$Tlz$Ulz$ejz$Vlz$Wlz$Xlz$Ylz$z$rEz$Zlz$alz$blz$BIz$clz$wfz$dlz$elz$flz$Jaz$glz$hlz$XGz$ilz$gOz$jlz$klz$llz$z$mlz$fkz$nlz$olz$plz$qlz$rlz$JQz$slz$wPz$MQz$HBz$tlz$ulz$vlz$wlz$xlz$ylz$Ydz$z$OCz$Amz$Bmz$Cmz$SIz$Dmz$Emz$gLz$bkz$Fmz$lFz$Gmz$Hmz$Imz$Jmz$Kmz$Lmz$bXz$Mmz$z$SHz$Nmz$Omz$WTz$sCz$Pmz$Qmz$Rmz$Smz$Tmz$Umz$Vmz$jz$Wmz$Xmz$JJz$Ymz$Zmz$rez$z$dRz$amz$bmz$cmz$dmz$emz$kRz$fmz$gmz$hmz$imz$jmz$kmz$Zez$lmz$mmz$cGz$nmz$omz$z$pmz$qmz$rmz$smz$tmz$hbz$pHz$umz$vmz$wmz$HUz$xmz$uEz$ymz$Anz$Bnz$Cnz$Dnz$Enz$z$oCz$Fnz$Gnz$Hnz$cCz$Inz$NJz$Jnz$Knz$ZOz$Xbz$Rgz$Lnz$Mnz$Nnz$Onz$Pnz$Qnz$Hkz$z$Rnz$Snz$Tnz$Unz$Vnz$Wnz$Xnz$Ynz$aaz$Znz$anz$Xkz$bnz$WOz$cnz$cKz$dnz$SOz$enz$z$fnz$edz$gnz$hnz$inz$jnz$IIz$knz$jmz$Tbz$lnz$mnz$wVz$hXz$nnz$onz$pnz$jWz$qnz$z$rnz$snz$TEz$tnz$unz$WEz$vnz$wnz$xnz$HPz$hfz$ynz$Aoz$Boz$Coz$Doz$Eoz$Zjz$Foz$z$Goz$Hoz$Gbz$Ioz$lmz$Joz$LLz$Koz$Loz$rkz$Moz$Noz$CPz$eFz$rGz$Ooz$Poz$FDz$Qoz$z$Roz$ZIz$Soz$gz$Toz$Uoz$Voz$RRz$Woz$Xoz$fjz$aYz$Yoz$Zoz$nGz$aoz$boz$coz$cGz$z$doz$eoz$foz$goz$hoz$ioz$WIz$joz$koz$loz$uJz$Tnz$moz$noz$ooz$poz$qoz$Blz$roz$z$soz$toz$uoz$voz$woz$xoz$yoz$TPz$Apz$Bpz$tYz$Cpz$Dpz$eWz$Epz$Fpz$Gpz$Hpz$jFz$z$Ipz$Jpz$Kpz$DGz$Lpz$Mpz$Npz$Opz$Ppz$Qpz$XXz$IHz$Rpz$Spz$Ylz$Ykz$Tpz$Upz$Vpz$z$nnz$Wpz$Xpz$tIz$Ypz$Zpz$MKz$apz$bpz$wFz$cpz$dpz$BJz$epz$fpz$gpz$hpz$ipz$jpz$z$ooz$SVz$kpz$lpz$iOz$mpz$npz$opz$ppz$qpz$rpz$spz$mhz$tpz$upz$vpz$wpz$xpz$ypz$z$Aqz$Bqz$Cqz$GVz$Dqz$mUz$Piz$Eqz$Hmz$Fqz$Gqz$Hqz$Iqz$Jqz$Kqz$Lqz$Mqz$Cez$Nqz$z$Oqz$Pqz$Qqz$Oez$EEz$Rqz$Sqz$Tqz$Vfz$Wfz$Uqz$ugz$Vqz$Wqz$iDz$Xqz$Yqz$PYz$bcz$z$Gaz$Zqz$aqz$bqz$cqz$dqz$fLz$eqz$vDz$fqz$gqz$hqz$YKz$iqz$Sqz$jqz$jz$kqz$lqz$z$mqz$nqz$oqz$LKz$RXz$iOz$pqz$qqz$cKz$rqz$sqz$tqz$uqz$rmz$smz$vqz$wqz$IMz$xqz$z$diz$yqz$Arz$Brz$Crz$gpz$Drz$Erz$Frz$oVz$Grz$Hrz$aQz$Irz$Jrz$Krz$Lrz$Mrz$Nrz$z$Hjz$Orz$Prz$Qrz$Rrz$Srz$Trz$EQz$Urz$Vrz$Wrz$Xrz$Yrz$Zrz$THz$arz$brz$crz$drz$z$VZz$Cbz$erz$CHz$frz$SOz$grz$hrz$irz$ZSz$jrz$krz$lrz$mrz$nrz$xOz$orz$prz$qrz$z$rrz$Faz$srz$trz$scz$urz$vrz$wrz$xrz$yrz$Coz$Asz$ADz$Bsz$Csz$Dsz$kVz$Esz$DYz$z$Fsz$Gsz$Hsz$Isz$Jsz$Ksz$APz$Lsz$Msz$Nsz$Osz$Grz$mNz$rGz$Psz$Ffz$Qsz$Gdz$Rsz$z$BSz$mEz$RGz$Ssz$Tsz$Usz$DLz$FPz$Vsz$Wsz$HLz$Xsz$fUz$Gmz$IUz$Ysz$Zsz$asz$bsz$z$csz$dsz$FDz$DYz$eNz$esz$fsz$gsz$hsz$isz$ZSz$jsz$wrz$vkz$jWz$ksz$lsz$msz$nsz$z$osz$OEz$PEz$psz$qsz$Sqz$rsz$ssz$tgz$tWz$tsz$usz$vsz$wsz$xsz$ysz$Atz$edz$pLz$z$Btz$Ctz$Dtz$Etz$xlz$Ftz$Wkz$IXz$Gtz$Htz$Fhz$Itz$Jtz$Ktz$Ltz$Mtz$Ntz$GJz$Otz$z$Ptz$Qtz$Rtz$ZUz$QPz$xoz$Stz$Ttz$Oiz$YRz$fGz$gGz$Utz$Vtz$Wtz$Xtz$Ytz$Ztz$atz$z$Vfz$btz$ctz$dtz$etz$vVz$ftz$gtz$htz$itz$dRz$jtz$wNz$ktz$ltz$mtz$ntz$otz$ptz$z$WIz$qtz$rtz$stz$ttz$utz$vtz$wtz$URz$qfz$xtz$ytz$mLz$Auz$Buz$Esz$Cuz$Duz$Euz$z$yLz$Fuz$Guz$Huz$Iuz$Juz$Kuz$Yfz$Luz$Muz$Nuz$Ouz$IHz$ijz$Puz$Quz$Ytz$Ruz$Suz$z$NKz$Tuz$Uuz$Vuz$OCz$Wuz$Xuz$Qaz$JDz$Yuz$SJz$Zuz$XTz$auz$buz$YGz$cuz$duz$euz$z$Shz$Ckz$fuz$guz$huz$iuz$dez$juz$oVz$Muz$kuz$luz$muz$nuz$MNz$ouz$puz$quz$ruz$z$suz$nMz$RJz$tuz$uuz$vuz$aTz$wuz$xuz$yuz$Avz$Bvz$SHz$Cvz$Dvz$Evz$Wnz$kez$Rhz$z$Qsz$Fvz$Gvz$Liz$Cmz$Oqz$Hvz$Ivz$Jvz$SHz$Kvz$Lvz$oIz$uiz$Mvz$Nvz$AHz$pHz$qHz$z$OZz$uFz$Ovz$Omz$Pvz$Phz$rJz$hTz$Qvz$hCz$Hfz$Rvz$Svz$Tvz$Uvz$Vvz$Wvz$Xvz$Yvz$z$Zvz$avz$jFz$bvz$cvz$dvz$evz$euz$fvz$gvz$hvz$ivz$jvz$kvz$lvz$Ggz$mvz$JDz$nvz$z$ovz$pvz$uEz$qnz$qvz$HEz$rvz$SYz$svz$FRz$tvz$uvz$vvz$nMz$wvz$xvz$yvz$Awz$aOz$z$Bwz$CLz$Epz$Cwz$vsz$Dwz$vpz$Ewz$sWz$Fwz$Gwz$Hwz$Klz$Iwz$Jwz$dhz$Kwz$Lwz$IMz$z$Mwz$Nwz$lIz$Owz$Pwz$Qwz$HPz$Rwz$SJz$Swz$Osz$Twz$EQz$Uwz$Vwz$jRz$Wwz$Xwz$QEz$z$Ywz$Zwz$oIz$uEz$awz$bwz$rGz$rcz$cwz$dwz$ewz$fwz$gwz$hwz$gOz$MVz$NVz$iwz$jwz$z$ASz$onz$Qsz$OIz$kwz$lwz$mwz$Otz$nwz$owz$pwz$qwz$rwz$swz$mPz$JEz$twz$uwz$vRz$z$vwz$wwz$xwz$ywz$Axz$Bxz$ftz$Cxz$MTz$viz$Dxz$Exz$pVz$aKz$Fxz$Gxz$bBz$Hxz$uFz$z$Ixz$Jxz$WTz$Kxz$Lxz$Mxz$Nxz$Oxz$Oaz$Pxz$ltz$FWz$Qxz$Rxz$Sxz$Txz$KQz$pGz$Rmz$z$WBz$nmz$Uxz$Vxz$sUz$Wxz$Xxz$Yxz$Zxz$axz$bxz$cxz$dxz$exz$fxz$gxz$hxz$ixz$jxz$z$kxz$lxz$mxz$nxz$oxz$IIz$knz$jmz$uFz$pxz$qxz$rxz$sxz$txz$uxz$VVz$vxz$wxz$xxz$z$yxz$Ayz$Byz$Cyz$FDz$Dyz$Eyz$Fyz$Gyz$Hyz$Iyz$taz$Jyz$SVz$Kyz$jUz$Lyz$Myz$Nyz$z$Oyz$Pyz$Qyz$jGz$Cnz$Ryz$Xfz$UCz$Syz$Tyz$Uyz$Vyz$ZCz$LMz$Wyz$Xyz$OMz$Yyz$Zyz$z$ayz$byz$ENz$cyz$dyz$eyz$fyz$gyz$CRz$hyz$iyz$jyz$kyz$Fyz$lyz$myz$Oxz$nyz$oyz$z$pyz$qyz$ntz$tRz$ryz$Esz$syz$tyz$XXz$dLz$uyz$vyz$jKz$wyz$ocz$xyz$yyz$AABz$BABz$z$CABz$DABz$EABz$FABz$GABz$qyz$GYz$HABz$IYz$IABz$JABz$KABz$LABz$MABz$eHz$NABz$OABz$hLz$GUz$z$cjz$PABz$evz$mxz$bnz$QABz$RABz$SABz$TABz$XLz$Arz$UABz$VABz$SHz$WABz$XABz$Qwz$Vpz$YABz$z$ZABz$aABz$bABz$Ypz$KEz$cABz$mCz$dABz$IDz$YDz$eABz$fABz$gABz$nEz$hABz$iABz$jABz$fFz$HSz$z$kABz$lABz$Inz$mABz$nABz$mqz$rGz$EGz$uOz$oABz$blz$pABz$Toz$qABz$rABz$XNz$sABz$lIz$tABz$z$uABz$vABz$Snz$wABz$xABz$yABz$yjz$AFz$ABBz$Shz$cOz$BBBz$CBBz$DBBz$gOz$EBBz$ACz$FBBz$oZz$z$JUz$GBBz$Itz$HBBz$IBBz$JBBz$KBBz$Blz$vBz$LBBz$tVz$lZz$MBBz$NBBz$FKz$OBBz$PBBz$QBBz$RBBz$z$SBBz$TBBz$UBBz$VBBz$obz$WBBz$XBBz$jFz$PYz$TJz$kNz$YBBz$ZBBz$OHz$aBBz$Miz$bBBz$cBBz$KJz$z$dBBz$eBBz$Pvz$WIz$fBBz$Piz$fYz$PHz$HCz$gBBz$hBBz$Jkz$iBBz$jBBz$kBBz$lBBz$Ffz$mBBz$pUz$z$nBBz$Ntz$oBBz$pBBz$tLz$SQz$qBBz$KJz$rBBz$sBBz$tBBz$uFz$HSz$uBBz$fYz$yLz$vBBz$wBBz$xBBz$z$yBBz$Prz$ACBz$BCBz$CCBz$DCBz$ECBz$Dqz$FCBz$Duz$GCBz$LLz$HCBz$Sqz$ICBz$vbz$JCBz$xTz$KCBz$z$LCBz$MCBz$iDz$NCBz$SBz$OCBz$PCBz$QCBz$AXz$RCBz$SCBz$TCBz$UCBz$VCBz$WCBz$Yxz$gWz$XCBz$YCBz$z$KCz$Ixz$fUz$llz$Kxz$ZCBz$aCBz$bCBz$cCBz$PIz$dCBz$eCBz$WOz$vxz$tRz$fCBz$yZz$gCBz$hCBz$z$iCBz$jCBz$kCBz$lCBz$mCBz$nCBz$oCBz$pCBz$sHz$qCBz$rCBz$Poz$rGz$sCBz$mpz$tCBz$uCBz$nvz$vCBz$z$wCBz$skz$xCBz$yCBz$EOz$ADBz$SKz$BDBz$CDBz$nBBz$Ntz$aaz$DDBz$EDBz$FDBz$GDBz$HDBz$Auz$Bjz$z$IDBz$ZZz$JDBz$KDBz$LDBz$yPz$jSz$kSz$Dtz$xgz$MDBz$NDBz$ZYz$ODBz$PZz$PDBz$SOz$QDBz$RDBz$z$qNz$SDBz$TDBz$UDBz$sIz$VDBz$bQz$WDBz$kOz$srz$Hhz$XDBz$bNz$YDBz$ZDBz$ddz$aDBz$DQz$Ruz$z$bnz$BEz$bDBz$cDBz$dDBz$eDBz$fDBz$gDBz$hDBz$jWz$iDBz$PCBz$jDBz$KJz$kDBz$lDBz$mDBz$nDBz$oDBz$z$pDBz$qDBz$eVz$rDBz$sDBz$pLz$tDBz$uDBz$vDBz$wDBz$xDBz$yDBz$AEBz$BEBz$CEBz$owz$DEBz$lkz$wmz$z$EEBz$FEBz$tBz$GEBz$HEBz$IEBz$JEBz$KEBz$LEBz$MEBz$skz$NEBz$Ejz$OEBz$PEBz$QEBz$REBz$oVz$hNz$z$SEBz$vTz$Mnz$ksz$TEBz$UEBz$VEBz$WEBz$xoz$XEBz$YEBz$ZEBz$epz$aEBz$QJz$tnz$bEBz$sfz$cEBz$z$dEBz$eEBz$fEBz$gEBz$hEBz$iEBz$dpz$jEBz$BVz$tiz$QJz$kEBz$lEBz$Uiz$GCz$SBBz$vYz$mEBz$Xvz$z$nEBz$ZEz$oEBz$CYz$pEBz$qEBz$Iuz$qrz$UIz$rEBz$PHz$sEBz$tEBz$NGz$Yxz$uEBz$vEBz$wEBz$cxz$z$xEBz$yEBz$AFBz$cKz$BFBz$CFBz$jGz$DFBz$EFBz$FFBz$GFBz$HFBz$IFBz$JFBz$KFBz$GZz$LFBz$Qsz$IHz$z$MFBz$NFBz$OFBz$VNz$PFBz$QFBz$RFBz$lkz$SFBz$TFBz$UFBz$Jyz$VFBz$WFBz$XFBz$TUz$oQz$YFBz$NCz$z$Zdz$ZFBz$aFBz$yFz$mUz$nABz$bFBz$huz$Btz$cFBz$pBz$Phz$dFBz$eFBz$uUz$fFBz$gFBz$SABz$hFBz$z$ZZz$iFBz$jFBz$vABz$HPz$kFBz$lFBz$mFBz$nFBz$oFBz$pFBz$qFBz$rFBz$sFBz$tFBz$tVz$uFBz$XGz$vFBz$z$wFBz$Wdz$xFBz$upz$RCz$DCz$yFBz$AGBz$WOz$BGBz$CGBz$DGBz$SHz$EGBz$FGBz$Cnz$Qhz$GGBz$Bbz$z$HGBz$rMz$IGBz$JGBz$Yxz$Hvz$KGBz$LGBz$yMz$oGz$MGBz$NGBz$Exz$Mvz$OGBz$rkz$skz$tkz$PGBz$z$luz$QGBz$xWz$RGBz$kyz$SGBz$TGBz$UGBz$VGBz$nyz$WGBz$RXz$XGBz$YGBz$lYz$ZGBz$aGBz$bGBz$cGBz$z$dGBz$rqz$eGBz$bCz$fGBz$gNz$gGBz$hGBz$iGBz$jGBz$Avz$kGBz$jMz$lGBz$Okz$mGBz$nGBz$oGBz$pGBz$z$Chz$Phz$qGBz$rGBz$sGBz$tGBz$rcz$Rkz$uGBz$Pnz$vGBz$wGBz$xGBz$tfz$yGBz$AHBz$BHBz$GRz$CHBz$z$DHBz$EHBz$FHBz$GHBz$UVz$ZCz$HHBz$PCBz$IHBz$qFz$GKz$JHBz$KHBz$EXz$FXz$GXz$Qdz$LHBz$MHBz$z$NHBz$OHBz$yZz$xOz$bcz$PHBz$QHBz$RHBz$SHBz$THBz$UHBz$VHBz$WHBz$XHBz$YHBz$iQz$ZHBz$FDz$aHBz$z$fUz$bHBz$cHBz$dHBz$eHBz$fHBz$kKz$gHBz$hHBz$jWz$grz$iHBz$ZIz$Zhz$nnz$jHBz$kHBz$lHBz$MPz$z$mHBz$aFz$rjz$nHBz$AZz$VMz$xBz$oHBz$VTz$pHBz$qHBz$rHBz$uKz$sHBz$PHz$tHBz$luz$uHBz$vHBz$z$wHBz$xHBz$yHBz$AIBz$BIBz$CIBz$Riz$DIBz$EIBz$orz$OIz$FIBz$lwz$jqz$GIBz$Muz$Ihz$HIBz$SIz$z$IIBz$JIBz$KIBz$LIBz$MIBz$MKz$NIBz$JYz$BSz$OIBz$PIBz$QIBz$RIBz$SIBz$EOz$TIBz$UIBz$VIBz$pLz$z$WIBz$wPz$XIBz$YIBz$ZIBz$aIBz$Lfz$bIBz$cIBz$dIBz$eIBz$Utz$fIBz$dRz$gIBz$hIBz$Iez$Hlz$ebz$z$rFz$iIBz$jIBz$kIBz$gEBz$lIBz$mIBz$nIBz$oIBz$pIBz$qIBz$QJz$rIBz$sIBz$tIBz$plz$uIBz$pwz$vIBz$z$wIBz$xIBz$yIBz$ZWz$AJBz$tGz$BJBz$Tgz$CJBz$DJBz$SLz$fWz$EJBz$rez$FJBz$EHz$GJBz$Nrz$HJBz$z$IJBz$DYz$JJBz$KJBz$LJBz$cVz$MJBz$NJBz$OJBz$PJBz$QJBz$pBBz$RKz$RJBz$SJBz$oDz$TJBz$UJBz$jpz$z$fez$VJBz$WJBz$RXz$NKz$XJBz$FUz$YJBz$ZJBz$tOz$aJBz$bJBz$wNz$bEz$cJBz$dJBz$eJBz$fJBz$gJBz$z$Ckz$hJBz$iJBz$jJBz$SHz$SGz$Xuz$ZIz$KXz$kJBz$lJBz$mJBz$nJBz$Dhz$oJBz$kOz$Pfz$pJBz$vABz$z$Wnz$Xnz$qJBz$rJBz$cuz$duz$euz$sJBz$iGBz$jGBz$lYz$Maz$tJBz$uJBz$vJBz$wJBz$kDz$xJBz$sEz$z$yJBz$EEz$hfz$AKBz$BKBz$CKBz$KGBz$DKBz$yMz$EKBz$FKBz$Bbz$mrz$GKBz$qkz$HKBz$IKBz$JKBz$RHBz$z$yTz$Itz$HBBz$FLz$WHBz$KKBz$LKBz$MKBz$NKBz$OKBz$PKBz$QKBz$RKBz$fqz$SKBz$TKBz$NJBz$HSz$HRz$z$UKBz$cNz$VKBz$WKBz$XKBz$Zhz$YKBz$ZKBz$aKBz$JKz$bKBz$cKBz$dKBz$RFz$Dbz$FLz$eKBz$IHz$Elz$z$fKBz$gKBz$dDz$hKBz$dKBz$iKBz$jKBz$kKBz$VZz$lKBz$mKBz$nKBz$oKBz$kZz$Qnz$pKBz$FZz$qKBz$tbz$z$rKBz$sKBz$mcz$tKBz$uKBz$pFBz$vKBz$wKBz$dIz$HOz$xKBz$Rgz$yKBz$ALBz$wkz$CHBz$Agz$BLBz$CLBz$z$DLBz$ELBz$FLBz$fOz$GLBz$HLBz$jYz$ILBz$JLBz$KLBz$gxz$pABz$LLBz$MLBz$NLBz$OLBz$PLBz$TTz$jBz$z$QLBz$RLBz$XTz$SLBz$TLBz$ULBz$VLBz$WLBz$Spz$TQz$XLBz$jGBz$VHBz$YLBz$Lyz$vwz$ZLBz$Pvz$QEz$z$aLBz$bLBz$cLBz$dLBz$eLBz$fLBz$gLBz$hLBz$Klz$iLBz$YEBz$fqz$jLBz$YUz$kLBz$ILBz$lLBz$mLBz$nLBz$z$oLBz$pLBz$qLBz$rLBz$sLBz$jXz$tPz$tLBz$uLBz$vLBz$wLBz$xDBz$xLBz$CLz$BHBz$yLBz$AMBz$vLz$HVz$z$BMBz$CMBz$Fwz$LVz$DMBz$YIz$lhz$EMBz$FMBz$GMBz$olz$bMz$HMBz$IMBz$EOz$JMBz$KMBz$LMBz$uEz$z$MMBz$gBBz$Owz$dPz$jdz$cVz$kdz$apz$rFz$sFBz$Ejz$NMBz$JUz$dVz$OMBz$PMBz$WWz$QMBz$iEz$z$RMBz$uIBz$SMBz$apz$TMBz$UMBz$VMBz$TTz$WMBz$Cez$XMBz$YMBz$ZMBz$aMBz$bMBz$cMBz$wUz$Goz$dMBz$z$Zjz$eMBz$fMBz$gMBz$PMBz$Psz$hMBz$HJBz$iMBz$Ihz$jMBz$kMBz$lMBz$mMBz$RWz$nMBz$oMBz$pMBz$qMBz$z$dtz$Zez$rMBz$Fdz$mrz$sMBz$tMBz$bcz$cDz$uMBz$dFz$Xoz$Ykz$vMBz$wMBz$Wnz$TJBz$xMBz$yMBz$z$ANBz$Cpz$BNBz$CNBz$DNBz$nSz$ENBz$Shz$FNBz$GNBz$HNBz$ctz$OEBz$INBz$jXz$JNBz$KNBz$jrz$LNBz$z$MNBz$lHBz$NNBz$ONBz$EOz$PNBz$QNBz$Qsz$RNBz$SNBz$TNBz$ULBz$UNBz$VNBz$FVz$Shz$kmz$Yvz$WNBz$z$XNBz$Yxz$YNBz$ZNBz$aNBz$OKBz$WABz$UABz$bNBz$cNBz$RLz$dNBz$TLz$rFBz$VRz$eNBz$XLz$fNBz$xWz$z$gNBz$hNBz$xcz$SJz$sIz$Itz$tdz$iNBz$vdz$VEBz$jNBz$kNBz$lNBz$dtz$etz$mNBz$nNBz$oNBz$pNBz$z$DXz$LPz$wGz$qNBz$cABz$voz$rNBz$ZNBz$sNBz$dpz$RKz$tNBz$FBBz$uNBz$vNBz$wNBz$xNBz$yNBz$AOBz$z$BOBz$COBz$Jrz$DOBz$EOBz$FOBz$GOBz$Zyz$dZz$HOBz$IOBz$JOBz$KOBz$LOBz$Ygz$VEz$MOBz$dLz$NOBz$z$ZEz$sTz$bEz$OOBz$POBz$ggz$JDz$QOBz$PJBz$ZVz$ROBz$SOBz$TOBz$Ttz$UOBz$VOBz$cCz$JDz$WOBz$z$lEBz$orz$ZYz$XOBz$YOBz$ZOBz$aOBz$NOBz$bOBz$aEz$KBBz$cOBz$ZNBz$dOBz$TPz$eOBz$fOBz$Xtz$tdz$z$gOBz$FRz$hOBz$iOBz$WBBz$jOBz$kOBz$lOBz$mOBz$nOBz$JDz$oOBz$pOBz$qOBz$aBz$rOBz$Ibz$sOBz$LCBz$z$LGz$tOBz$uOBz$Gbz$MDBz$qQz$vOBz$wOBz$PJBz$xOBz$yOBz$jCBz$APBz$BPBz$CPBz$YHBz$DPBz$EPBz$tVz$z$WABz$FPBz$iPz$Gyz$GPBz$HPBz$IPBz$JPBz$Gvz$Xkz$KPBz$qwz$uBBz$LPBz$DGz$MPBz$NPBz$Taz$OPBz$z$PPBz$QPBz$RPBz$SPBz$CWz$Toz$NDBz$ndz$EUz$TPBz$UPBz$rDz$ANz$sJz$nkz$VPBz$WPBz$XPBz$WZz$z$YPBz$Hnz$ZPBz$LVz$aPBz$bPBz$cPBz$spz$dPBz$ePBz$coz$ZHz$fPBz$Kyz$gPBz$SIz$hPBz$pMBz$dnz$z$iPBz$jPBz$kPBz$lPBz$mPBz$drz$Tqz$nPBz$oPBz$pPBz$qPBz$rPBz$Zmz$iiz$jiz$FDz$GDz$sPBz$tPBz$z$FYz$uPBz$Jsz$cmz$vPBz$wPBz$xGz$mEBz$xPBz$yPBz$AQBz$BQBz$CQBz$DQBz$EQBz$FQBz$GQBz$gBBz$HQBz$z$gmz$iBBz$GIz$IQBz$oHz$JQBz$UWz$KQBz$Tbz$LQBz$Ulz$MQBz$PUz$NQBz$OQBz$PQBz$sdz$ksz$QQBz$z$RQBz$SQBz$TQBz$UQBz$HOz$VQBz$WQBz$Iwz$tYz$XQBz$YOBz$kOz$YQBz$dDz$ZQBz$aFz$VEBz$aQBz$Ihz$z$bQBz$cQBz$dQBz$sPBz$LDBz$PVz$eQBz$haz$HMz$fQBz$SABz$gQBz$SOz$hQBz$iQBz$jQBz$Gwz$kQBz$lQBz$z$rJBz$fEBz$dDz$mQBz$qjz$KFBz$nQBz$Ogz$IYz$Yxz$oQBz$scz$pQBz$qQBz$rQBz$sQBz$tQBz$kXz$xNz$z$uQBz$vQBz$TMz$wQBz$xQBz$opz$yQBz$Ftz$YFz$ARBz$BRBz$CRBz$DRBz$nJBz$ERBz$Zpz$FRBz$GRBz$HRBz$z$IRBz$blz$XOz$JRBz$KRBz$jPz$LRBz$MRBz$lSz$CRz$NRBz$ORBz$PRBz$gvz$QRBz$RRBz$SRBz$ZCz$TRBz$z$JOz$URBz$PZz$VRBz$WRBz$XRBz$YRBz$btz$ZRBz$YEBz$aRBz$eBBz$bRBz$HBz$cRBz$dRBz$eRBz$Gaz$fRBz$z$Goz$kOz$gRBz$hRBz$qNBz$iRBz$jRBz$kRBz$lRBz$mRBz$dpz$nRBz$oRBz$pRBz$PWz$qRBz$Ciz$XWz$vMBz$z$Klz$Xqz$puz$sRz$rRBz$fYz$LLz$sRBz$tRBz$LHz$uRBz$aLz$vRBz$dBz$hbz$wRBz$xRBz$yRBz$ASBz$z$Tuz$XVz$BSBz$Tkz$CSBz$UGBz$Gwz$DSBz$ESBz$fiz$FSBz$GSBz$HSBz$Dlz$opz$ppz$hez$ISBz$Gyz$z$Xnz$JSBz$upz$KSBz$fkz$LSBz$COBz$KJz$MSBz$NSBz$XTz$OSBz$NPBz$FGBz$PSBz$QSBz$RSBz$bDz$SSBz$z$IOBz$kpz$UNz$SIz$TSBz$aIBz$Wsz$XLz$EKBz$USBz$xUz$VSBz$kEz$WSBz$bcz$XSBz$YSBz$ZSBz$rGz$z$yQBz$aSBz$bSBz$DGz$cSBz$dSBz$rJBz$LSz$eSBz$fSBz$RWz$mFBz$ESz$gSBz$hSBz$iSBz$CJBz$USz$Vyz$z$EOz$jSBz$kSBz$lSBz$mSBz$Akz$nSBz$WOz$oSBz$pSBz$qSBz$Efz$rJz$rSBz$mMz$Gdz$nvz$sSBz$tSBz$z$uSBz$vSBz$wSBz$xSBz$ySBz$ATBz$BTBz$BQBz$ASBz$CTBz$DTBz$LLz$ENz$ETBz$FTBz$GTBz$rWz$HTBz$SLz$z$ITBz$rMz$USz$qMBz$gYz$Xhz$Brz$JTBz$ZOz$rFz$KTBz$LTBz$PLz$MTBz$NTBz$FRz$hSz$OTBz$PTBz$z$DGz$QTBz$RTBz$STBz$TTBz$UTBz$BSz$dZz$VTBz$WTBz$FMz$XTBz$YTBz$OKz$ZEz$ZTBz$cQBz$aTBz$bTBz$z$pYz$cTBz$utz$dTBz$eTBz$gWz$fTBz$Xqz$yUz$kWz$Jnz$rxz$hXz$gTBz$jXz$hTBz$iTBz$jTBz$kTBz$z$lTBz$mFBz$tKBz$mTBz$mEBz$yEz$nTBz$oTBz$pwz$Dqz$pTBz$MNBz$Boz$qTBz$Gcz$jABz$rTBz$vwz$NHBz$z$sTBz$kZz$tTBz$uTBz$vTBz$wTBz$tbz$xTBz$yTBz$Lyz$AUBz$ZQBz$dJz$CZz$BUBz$CUBz$pwz$DUBz$EUBz$z$nkz$FUBz$GUBz$HUBz$WUz$kKz$IUBz$xGz$JUBz$KUBz$yPBz$LUBz$MUBz$vpz$NUBz$aGz$Qcz$OUBz$PUBz$z$QUBz$RUBz$SUBz$bVz$cjz$TUBz$UUBz$MMz$VUBz$DGz$WUBz$XUBz$edz$DTz$YUBz$ZUBz$Blz$aUBz$dDz$z$HUz$bUBz$RFz$cUBz$dUBz$eUBz$QEz$gsz$fUBz$gUBz$mBz$hUBz$jqz$PMBz$aYz$Dgz$iUBz$jUBz$Hiz$z$kUBz$lUBz$HBz$mUBz$omz$GJz$UJz$DRz$nUBz$oUBz$pUBz$fPBz$Iaz$qUBz$Zjz$sDz$Wez$dKz$Ahz$z$rUBz$sUBz$iIz$tUBz$uUBz$vUBz$wUBz$xdz$wFz$xUBz$cJz$ANz$UMz$ftz$gpz$bRz$cRz$ULBz$yUBz$z$AVBz$aqz$BVBz$CVBz$EBz$DVBz$EVBz$FVBz$GVBz$HVBz$uCBz$IVBz$JVBz$KVBz$JPBz$LVBz$MVBz$NVBz$eIBz$z$OVBz$PVBz$Svz$XLz$xJBz$rSBz$Ycz$nGBz$QVBz$RVBz$bcz$cDz$SVBz$TVBz$QEz$UVBz$VVBz$WVBz$XVBz$z$YVBz$ZVBz$aVBz$bVBz$cVBz$dVBz$eVBz$UJz$fVBz$gVBz$ugz$GSz$LJz$hVBz$iVBz$jVBz$kVBz$lVBz$mVBz$z$nVBz$Kgz$oVBz$Uez$EBz$pVBz$qVBz$rVBz$fqz$Iez$sVBz$tVBz$ENz$uVBz$vVBz$Tgz$NUz$wVBz$CUz$z$xVBz$lNz$yVBz$AWBz$qyz$BWBz$CWBz$pLz$DWBz$EWBz$ULBz$FWBz$tUBz$GWBz$HWBz$IWBz$JWBz$KWBz$qABz$z$ZCz$LWBz$MWBz$NWBz$nMz$OWBz$PWBz$QWBz$RWBz$eZz$JOBz$KOBz$pOz$SWBz$TWBz$RMBz$UWBz$NWz$VWBz$z$WWBz$XWBz$YOz$YWBz$ZWBz$jTBz$aWBz$vLz$AUz$Blz$bWBz$cWBz$dWBz$rJz$eWBz$eNBz$fWBz$wOz$gWBz$z$hWBz$iWBz$jWBz$kWBz$lWBz$mWBz$nWBz$lpz$EEz$oWBz$onz$uuz$pWBz$LRBz$ovz$QWBz$Phz$MSz$qWBz$z$luz$rWBz$sWBz$NABz$tWBz$jMz$ybz$uWBz$Osz$vWBz$wWBz$xWBz$vbz$yWBz$AXBz$BXBz$PUz$CXBz$DXBz$z$XXz$EXBz$FXBz$jXz$orz$YRBz$QHBz$GXBz$HXBz$IXBz$ksz$JXBz$XTBz$KXBz$LXBz$MXBz$JPBz$odz$NXBz$z$OXBz$cLBz$Ssz$PXBz$Usz$THBz$ELz$HRz$QXBz$Gbz$Xsz$RXBz$NMz$DGz$SXBz$lLBz$TXBz$UXBz$dWz$z$jBBz$VXBz$WXBz$liz$XXBz$YXBz$bIz$ZXBz$aXBz$XTz$bXBz$ZUBz$cXBz$dXBz$eXBz$fXBz$kHBz$gXBz$hXBz$z$CMBz$iXBz$jXBz$kXBz$Eyz$lXBz$EVBz$mXBz$HZz$nXBz$oXBz$pXBz$BZz$DBz$qXBz$wSz$rXBz$sXBz$gSBz$z$wPz$ZVz$tXBz$QSBz$uXBz$vXBz$fJz$sQz$wXBz$xXBz$yXBz$WVz$AYBz$BYBz$Efz$CYBz$DYBz$iCBz$EYBz$z$FYBz$fiz$Alz$GYBz$iQz$sVz$PUz$HYBz$IYBz$JYBz$KYBz$LYBz$MMz$mYz$MYBz$NYBz$OYBz$mdz$mFBz$z$RQz$CGBz$PYBz$QYBz$RYBz$SYBz$pUz$Pqz$TYBz$Qsz$VGBz$kqz$UYBz$VYBz$fMz$WYBz$XYBz$YYBz$uFz$z$lDz$ZYBz$qNz$aYBz$RRz$Idz$bYBz$cYBz$dYBz$eYBz$bkz$mLz$fYBz$gYBz$yBBz$hYBz$iYBz$lPz$jYBz$z$kYBz$lYBz$rKz$CTz$Ppz$mYBz$GFBz$nYBz$MCBz$Sdz$oYBz$ZCz$joz$pYBz$qYBz$JDz$rYBz$ejz$sYBz$z$tYBz$XYBz$uYBz$pTz$vYBz$wYBz$bNBz$DGz$xYBz$kcz$bcz$yYBz$AZBz$BZBz$CZBz$Fcz$Ptz$DZBz$EZBz$z$rRz$XJBz$FZBz$GZBz$HZBz$dez$IZBz$XUz$WYz$JZBz$KZBz$LZBz$Zmz$KWBz$MZBz$SOz$Ipz$bCz$NZBz$z$EEz$OZBz$PZBz$uuz$QZBz$RZBz$SZBz$TZBz$UZBz$VZBz$WZBz$ewz$XZBz$YZBz$ZZBz$mBz$kQBz$aZBz$bZBz$z$cZBz$dZBz$eZBz$vLz$baz$fZBz$AZz$IQz$dWBz$Zez$gZBz$KJBz$qFz$RRz$tMBz$bYBz$cYBz$hZBz$iZBz$z$SHz$jZBz$kZBz$lZBz$mZBz$nZBz$oZBz$iTz$Snz$pZBz$Rvz$qZBz$Xtz$rZBz$sZBz$Qdz$tZBz$uZBz$vZBz$z$wZBz$jFz$xZBz$tNBz$yZBz$DVz$xkz$cTz$PHz$fBz$AaBz$cWBz$BaBz$CaBz$Bxz$llz$ARBz$DaBz$cyz$z$EaBz$FaBz$UTBz$GaBz$bcz$HaBz$Oaz$IaBz$bDz$JaBz$KaBz$LaBz$LLz$VQBz$MaBz$xJz$mTz$NaBz$tgz$z$Ylz$Ykz$HRBz$pSBz$OaBz$PaBz$QaBz$yCz$wVz$pLz$RaBz$dez$sBz$Cnz$SaBz$MWBz$KCBz$TaBz$UaBz$z$VaBz$WaBz$XaBz$YaBz$rGz$ZaBz$aaBz$baBz$caBz$CTz$Tmz$NTz$Uwz$YTBz$HSz$daBz$eaBz$uFz$faBz$z$gaBz$haBz$Gwz$GZz$iaBz$rJBz$jaBz$kUz$kaBz$TUBz$TBz$laBz$iEz$gxz$maBz$naBz$tiz$uCBz$LFz$z$oaBz$GABz$RCz$paBz$qaBz$raBz$raz$saBz$saz$taBz$rGz$uaBz$vaBz$bJBz$oLBz$waBz$xaBz$yaBz$AbBz$z$lRBz$BbBz$uFz$CbBz$bPBz$JYBz$UKz$DbBz$EbBz$diz$FbBz$GbBz$HbBz$IbBz$oez$JbBz$Abz$RIz$KbBz$z$LbBz$WTz$Kxz$MbBz$NbBz$ObBz$rQz$PbBz$QbBz$Yjz$XGBz$YGBz$RbBz$DKBz$rVBz$SbBz$TbBz$nkz$UbBz$z$kDBz$onz$rUz$VbBz$WbBz$wXz$lCBz$XbBz$IBBz$YbBz$ZbBz$abBz$bbBz$cbBz$FKz$dbBz$ebBz$fbBz$Cnz$z$wNz$gbBz$hbBz$yz$ibBz$jbBz$Xqz$iBz$kbBz$lbBz$mbBz$hXz$nnz$nbBz$obBz$pbBz$qbBz$xxz$rbBz$z$sbBz$tbBz$ubBz$Gfz$UWBz$vbBz$wbBz$ZSz$xbBz$MaBz$ybBz$vbz$tdz$Gcz$AcBz$SIz$BcBz$CcBz$ryz$z$gTz$DcBz$jqz$EcBz$FcBz$GcBz$kBBz$HcBz$IcBz$TFz$JcBz$EHz$KcBz$CEz$CQz$qFz$Rwz$LcBz$Ohz$z$McBz$enz$NcBz$WUz$IEz$OcBz$UIz$PRBz$PcBz$qxz$QcBz$QJz$RcBz$SJz$lSz$Iuz$Oaz$ScBz$TcBz$z$eBz$cOBz$Sdz$UcBz$dWBz$VcBz$WcBz$vvz$oVz$XcBz$vyz$YcBz$KKBz$eXBz$ZcBz$Caz$acBz$LKz$bcBz$z$cfz$qlz$ccBz$IDz$lKBz$dcBz$sSBz$ecBz$fcBz$qGBz$gcBz$hRz$qcz$hcBz$Gpz$icBz$dgz$jcBz$ddz$z$IDz$kcBz$lcBz$msz$vRz$ALz$mcBz$ncBz$QEz$ocBz$pcBz$qcBz$rcBz$scBz$Jnz$tcBz$ZSz$kFBz$lEz$z$ucBz$vcBz$dDz$wcBz$Blz$LZBz$ULz$tRz$xcBz$yuz$MXz$bcz$rgz$ycBz$oTz$LMBz$ZYz$AdBz$ZFBz$z$BdBz$CdBz$bRz$HUz$VBz$pLz$EGz$uOz$DdBz$EdBz$FdBz$GdBz$IPBz$JPBz$Tmz$HdBz$IdBz$qtz$JdBz$z$IDz$QRz$RRz$ZUBz$KdBz$Itz$LdBz$MdBz$NdBz$fEBz$kJz$OdBz$DHz$rGz$eOBz$naBz$loz$PdBz$QdBz$z$oaBz$RdBz$SdBz$TdBz$FQz$jMz$UdBz$vBz$VdBz$uFz$WdBz$lEz$XdBz$oDz$YdBz$ZdBz$qQz$GRBz$AOBz$z$mxz$adBz$CVBz$bdBz$Gpz$Maz$KJz$Fgz$cdBz$ddBz$edBz$fgz$fdBz$aBBz$gdBz$hdBz$idBz$jdBz$etz$z$Sqz$kdBz$YMBz$hYBz$ddz$yZBz$ldBz$mdBz$hdz$ndBz$MUz$odBz$pdBz$JJz$qdBz$rdBz$sdBz$WWBz$Prz$z$tdBz$udBz$GCz$lGz$vdBz$wdBz$fMz$rDBz$xdBz$Rnz$vpz$ydBz$AeBz$mvz$BeBz$IOBz$CeBz$bcz$DeBz$z$oNBz$EeBz$FeBz$Quz$GeBz$HeBz$RKBz$gez$IeBz$JeBz$KeBz$LeBz$MeBz$NeBz$OeBz$FIz$PeBz$KCBz$muz$z$MCBz$Hnz$QeBz$iBz$ReBz$sEz$SeBz$EEz$fIz$TeBz$jNz$UeBz$lYz$VeBz$XLz$WeBz$XeBz$YeBz$AJz$z$SbBz$ZeBz$aeBz$Vpz$beBz$lEz$ceBz$deBz$Grz$JOBz$eeBz$CVBz$hvz$xdBz$feBz$lIz$mIz$lWz$Vfz$z$Daz$eFBz$Lfz$KJz$geBz$heBz$ieBz$ZZz$jeBz$keBz$leBz$gNz$gEz$cFBz$pYz$meBz$rZz$neBz$YcBz$z$kMBz$xCBz$oeBz$peBz$DLz$qeBz$reBz$oZz$hfz$seBz$teBz$ueBz$MTBz$MCz$veBz$wrz$weBz$Mwz$xeBz$z$cQBz$yeBz$AfBz$nkz$oZz$Siz$BfBz$CfBz$PSBz$DfBz$EfBz$Lnz$FfBz$fHz$Jvz$XLz$GfBz$HfBz$IfBz$z$JfBz$kVBz$Yhz$eVBz$KfBz$LfBz$lNz$OIBz$MfBz$NfBz$OfBz$PfBz$Ncz$QfBz$TFBz$RfBz$dmz$SfBz$TfBz$z$JaBz$KaBz$rTz$UfBz$xBz$VfBz$WfBz$YCz$SIz$XfBz$PCBz$YfBz$uCBz$Jdz$ZfBz$mDBz$afBz$bfBz$cfBz$z$dKBz$PPz$dfBz$wxz$efBz$QEz$yGBz$ffBz$gfBz$hfBz$ifBz$qez$xgz$EUz$jfBz$kfBz$lfBz$mfBz$pGz$z$fpz$nfBz$nRz$UWz$ofBz$pfBz$WOBz$qfBz$rfBz$sfBz$dFBz$tfBz$ufBz$tTz$vfBz$Fwz$rGz$wfBz$baBz$z$mjz$mSz$xfBz$kKBz$Qdz$uHBz$yfBz$AgBz$xHBz$JQz$BgBz$CgBz$DgBz$gtz$qLz$EgBz$rJBz$FgBz$GQBz$z$GgBz$fEBz$jsz$HgBz$IgBz$QEz$JgBz$KgBz$rCz$DGz$RRz$LgBz$MgBz$nPBz$ELz$UIz$NgBz$rPBz$Yaz$z$OgBz$PgBz$xsz$QgBz$RgBz$Qsz$SgBz$TgBz$UgBz$fEBz$cIBz$VgBz$WgBz$XgBz$YgBz$WfBz$lABz$CdBz$kFz$z$ddz$ZgBz$wqz$agBz$Zsz$bgBz$JDz$Muz$cgBz$peBz$dgBz$egBz$sFBz$fgBz$OGz$ggBz$YHz$VbBz$rHBz$z$hgBz$igBz$dHz$jRz$KGBz$jgBz$yMz$kgBz$lgBz$VXBz$UbBz$mgBz$mgz$ngBz$SHz$WPBz$ogBz$pgBz$PHBz$z$qgBz$rgBz$JQz$sgBz$ZLBz$yZBz$tgBz$ugBz$aKz$bKz$rGz$vgBz$wgBz$luz$Ziz$xgBz$xIz$ygBz$Lrz$z$ybz$ruz$AhBz$Vpz$BhBz$BVz$ChBz$DhBz$EhBz$FhBz$XTz$ibBz$KWBz$GhBz$JRz$HhBz$IhBz$ujz$HPz$z$nnz$JhBz$Lnz$KhBz$KKz$GXz$LhBz$raz$MhBz$NhBz$xtz$Efz$OhBz$PhBz$QhBz$RhBz$ShBz$nHz$Vrz$z$Zmz$bfz$ThBz$cNz$UhBz$LRz$Rfz$Mjz$Njz$VhBz$WhBz$Snz$Qjz$XhBz$lSz$AXz$YhBz$ZhBz$WEz$z$nFz$ahBz$bhBz$Zhz$nnz$chBz$dhBz$ehBz$eXBz$fhBz$ghBz$hhBz$rFz$ihBz$jhBz$cQBz$Arz$MGBz$KJBz$z$FYz$khBz$lhBz$mhBz$oVz$nhBz$lEz$ohBz$phBz$qhBz$OaBz$OCz$rhBz$shBz$KOz$LOz$rZz$uDBz$thBz$z$vpz$uhBz$vhBz$qIBz$aOBz$whBz$WBBz$xhBz$bEz$yhBz$aIBz$IDz$DGz$AiBz$Lbz$Owz$jaBz$BiBz$COBz$z$QMz$CiBz$DiBz$EiBz$Giz$Bez$sEz$FiBz$GiBz$HiBz$FJz$ucBz$Smz$Siz$bOz$Bkz$wrz$hlz$tSz$z$IiBz$SHz$JiBz$eJz$tYz$KiBz$LiBz$OIBz$MiBz$NiBz$OiBz$PiBz$QiBz$RiBz$SiBz$Mmz$uFz$TiBz$Omz$z$ilz$UiBz$ViBz$uXBz$EQBz$WiBz$XiBz$kpz$YiBz$ZiBz$aiBz$biBz$DGz$ciBz$diBz$xEz$eiBz$tdz$fiBz$z$luz$giBz$cIBz$hiBz$iiBz$uFz$jiBz$kiBz$liBz$miBz$niBz$boz$bGz$fdz$Tmz$YBz$FGz$URz$iiz$z$oiBz$Esz$BJz$keBz$piBz$pUz$ATBz$qiBz$riBz$OIz$siBz$Xmz$tiBz$TCBz$Dkz$jVz$gHz$Mjz$uiBz$z$viBz$wiBz$LOz$xiBz$yiBz$yXz$AjBz$Icz$pFBz$MiBz$BjBz$QUBz$CjBz$lkz$DjBz$wSz$EjBz$yPz$Lpz$z$FjBz$uGz$bJBz$GjBz$Mez$pMz$HjBz$IjBz$BABz$OMBz$JjBz$KjBz$GABz$MYBz$LjBz$eiz$NgBz$WOz$BWBz$z$MjBz$NjBz$XLz$OjBz$PjBz$QjBz$RjBz$KcBz$SjBz$TjBz$Wbz$UjBz$VjBz$WjBz$XjBz$qnz$YjBz$ZjBz$ajBz$z$bjBz$Ssz$cjBz$djBz$ARz$ejBz$XUz$FcBz$Rhz$dVz$QABz$fjBz$PVBz$ouz$Inz$UVBz$knz$gjBz$HPz$z$hjBz$UOz$jgBz$ZSz$dcBz$ijBz$HjBz$jjBz$kjBz$kfBz$ZZz$HFz$ljBz$mjBz$oDz$NQBz$njBz$QeBz$ojBz$z$dDz$wcBz$pjBz$qjBz$UUz$imz$rjBz$UDz$qlz$gZBz$sjBz$FYz$tHBz$HWBz$QMz$IMz$tjBz$oOz$Bsz$z$ujBz$XGz$vjBz$FDz$wjBz$xjBz$qNz$yjBz$OZBz$MXz$DRBz$AkBz$oEz$BkBz$CkBz$tZBz$DkBz$EkBz$FkBz$z$GkBz$Zyz$HkBz$IkBz$wkz$CHBz$yJBz$rGz$JkBz$KkBz$LkBz$dWBz$MkBz$NkBz$Maz$EHz$jZBz$OkBz$PkBz$z$tfz$gdz$QkBz$PQBz$RkBz$MPz$SkBz$TkBz$UkBz$VkBz$WkBz$TUz$Hdz$tNz$XkBz$Vkz$Wkz$YkBz$wgz$z$ZkBz$akBz$oRBz$bkBz$QiBz$ckBz$dkBz$ekBz$nFz$fkBz$gkBz$hkBz$ZaBz$ikBz$AEBz$jkBz$qTz$kkBz$avz$z$nJz$lkBz$SjBz$MJBz$mkBz$Hfz$nkBz$okBz$pkBz$jTBz$kpz$lSz$qkBz$dfBz$bXz$rkBz$jdBz$qsz$skBz$z$tkBz$ukBz$gcBz$Hlz$vkBz$nEBz$wkBz$lTBz$FSBz$EFz$xkBz$jOBz$nIBz$ykBz$YRz$XXBz$Kxz$AlBz$BlBz$z$Ykz$OIz$cMz$ClBz$DlBz$iGBz$ElBz$FlBz$uiz$GlBz$HlBz$ohBz$IlBz$dhz$ehz$Bkz$JlBz$KlBz$imz$z$LlBz$MlBz$NlBz$OlBz$PlBz$XgBz$fwz$QlBz$RlBz$SlBz$TlBz$qJBz$ucBz$UlBz$VlBz$WlBz$IHz$MVz$fUz$z$rCz$XTz$Lxz$XlBz$KSz$Vfz$IOBz$YlBz$ejz$ZlBz$OVBz$wZz$alBz$nGz$blBz$clBz$QhBz$oZz$dlBz$z$BVz$JFz$elBz$aZBz$flBz$Thz$aYz$rTz$taBz$jFz$XaBz$wSz$glBz$FKz$hlBz$lLBz$ilBz$yOBz$INz$z$jlBz$GMz$AHz$wRBz$klBz$gQBz$llBz$mlBz$nlBz$olBz$bqz$plBz$tiBz$qlBz$rlBz$slBz$SLz$wqz$tlBz$z$ulBz$vlBz$dvz$wlBz$QEBz$ZIz$xlBz$ylBz$AmBz$rKz$KSBz$BmBz$CmBz$AGBz$gvz$DmBz$Abz$KeBz$JUz$z$EmBz$FmBz$GmBz$HmBz$ImBz$RIz$JmBz$fQBz$KmBz$gQBz$lWBz$LmBz$MmBz$YeBz$XLz$Fgz$nIBz$tJz$NmBz$z$OmBz$jXz$YHz$PmBz$nKBz$lPBz$jWz$QmBz$SKz$PkBz$EEz$YKBz$JRBz$RmBz$SmBz$tdz$JXBz$TmBz$giz$z$Dkz$Dsz$UmBz$Efz$VmBz$WmBz$qNz$Kxz$XmBz$YmBz$YRBz$HMBz$ZmBz$Obz$amBz$Lez$bmBz$ryz$KJz$z$cmBz$dmBz$emBz$JDz$Siz$ktz$ffBz$IEz$fmBz$xNz$sGBz$srz$Wrz$gmBz$HIBz$OYz$hmBz$mjz$jWz$z$AFz$PRz$jABz$rTBz$xdz$Icz$Wvz$imBz$jmBz$iDz$kmBz$cNz$mCz$lmBz$mmBz$SHz$YKBz$LNBz$swz$z$ZUz$dZBz$pdBz$DHBz$hSz$nmBz$omBz$aYBz$FEz$pmBz$qmBz$rmBz$riz$MCz$Wvz$BTz$niz$smBz$GLz$z$skz$tmBz$umBz$vmBz$uFz$wmBz$xmBz$DEz$EMBz$ymBz$AnBz$oGz$BnBz$CnBz$avz$DnBz$XfBz$EnBz$QcBz$z$tfz$FnBz$tRBz$GnBz$HnBz$mSBz$vbBz$InBz$eBz$KaBz$JnBz$KnBz$lLz$LnBz$SKz$ilz$MnBz$NnBz$OnBz$z$Boz$KKz$Pdz$uwz$PnBz$AbBz$cKz$QnBz$Ykz$wmz$RnBz$SnBz$ZaBz$kez$TnBz$jpz$ANBz$tnz$UnBz$z$vdz$obBz$OJBz$fDz$VnBz$WnBz$baBz$dZz$XnBz$YnBz$ZnBz$anBz$rTBz$EBz$Icz$ufBz$eZBz$mOz$QUBz$z$bnBz$JQz$cnBz$dnBz$enBz$NQz$OQz$KUz$yABz$fnBz$gnBz$hnBz$xBz$inBz$jnBz$fGz$cKz$knBz$lnBz$z$mnBz$DFBz$MSz$NSz$nnBz$ZYz$EJBz$onBz$kVz$gTz$pnBz$PjBz$qnBz$Caz$rnBz$snBz$lZBz$JDz$tHBz$z$wgz$tnBz$sWBz$jfBz$unBz$nGz$vnBz$wnBz$xnBz$DGz$fkz$tGz$ynBz$AoBz$Muz$BoBz$CoBz$Zfz$LNz$z$MNz$DoBz$aGBz$EoBz$EnBz$FoBz$GoBz$HoBz$IoBz$fJz$JoBz$eYz$ejz$KoBz$IcBz$LoBz$MoBz$NoBz$OoBz$z$Xcz$PoBz$mZBz$ljz$QoBz$mJBz$dlz$aHz$RoBz$SoBz$Zjz$ToBz$UoBz$yLz$VoBz$wBBz$WoBz$XoBz$YoBz$z$Goz$Lfz$AHz$ZoBz$aoBz$boBz$Vrz$Wrz$Xrz$Hpz$aGBz$SbBz$LDz$nkz$UKz$coBz$doBz$eoBz$foBz$z$goBz$eNBz$cNz$ReBz$lbBz$hoBz$HPz$oWBz$qvz$ioBz$JKz$qrz$UIz$joBz$ndz$koBz$ivz$loBz$Gbz$z$moBz$OgBz$noBz$lWBz$ADBz$Zlz$ooBz$GoBz$CIz$bnz$eIBz$poBz$qoBz$roBz$SHz$Arz$soBz$toBz$Gfz$z$yQz$uoBz$KSz$vPBz$voBz$woBz$xoBz$CZz$nQBz$USz$yoBz$ApBz$NUBz$BpBz$CpBz$wGz$DpBz$Xqz$AkBz$z$EpBz$BKz$SLz$FpBz$EBz$GpBz$vvz$Mjz$Ovz$HpBz$isz$FOBz$IpBz$wrz$kHBz$HNz$JpBz$EQz$fmz$z$qFz$KpBz$LpBz$MpBz$NpBz$ubz$HkBz$vbz$ncz$ZfBz$qEz$THBz$OpBz$vgz$ZOBz$cOz$fbz$TFz$PpBz$z$xBz$QpBz$ACz$iSz$RpBz$ASz$SpBz$TpBz$UpBz$IBBz$VpBz$DBz$WpBz$XpBz$vABz$aRz$hNz$YpBz$mjz$z$ANBz$JEz$ZpBz$apBz$bpBz$cpBz$dpBz$LBBz$Lqz$epBz$fpBz$kfBz$gpBz$hpBz$ipBz$jpBz$bfBz$Gcz$kpBz$z$lpBz$mpBz$npBz$opBz$FDz$EBBz$jVz$ppBz$FKz$qpBz$rpBz$spBz$fez$NYBz$EQz$tpBz$okz$upBz$XYBz$z$vpBz$VLBz$wpBz$Sgz$xpBz$kXz$ypBz$AqBz$foBz$ncz$BqBz$UGz$CqBz$woz$DqBz$EqBz$MlBz$FqBz$cBz$z$GqBz$yPz$yQz$HqBz$DYBz$vRz$IqBz$JqBz$uUz$edBz$fUz$bRBz$tfz$KqBz$LqBz$rJBz$Vpz$MqBz$NqBz$z$OqBz$fMz$dBz$PqBz$QqBz$MABz$RqBz$SqBz$mYz$EOz$TqBz$UqBz$VqBz$gtz$poBz$WqBz$XqBz$nQBz$Ihz$z$fxz$lkz$Cuz$YqBz$MNBz$Oqz$SfBz$ZqBz$aqBz$jz$bqBz$cqBz$HWBz$dqBz$eqBz$CHz$fqBz$ZCz$gqBz$z$LSBz$hqBz$iqBz$qCz$jqBz$HNz$kqBz$hgBz$XTBz$lqBz$Dbz$mqBz$Ouz$CYz$eXz$NWz$nqBz$hXz$fIz$z$oqBz$yvz$SSBz$nTz$yFBz$pqBz$KJz$qqBz$rqBz$sqBz$yZz$tqBz$uqBz$abz$vqBz$wqBz$xqBz$vpz$yqBz$z$ArBz$AHBz$BrBz$CrBz$tRz$dKz$pTz$qlz$DrBz$Bbz$mrz$ySz$ErBz$FrBz$Kdz$lxz$GrBz$CYz$HrBz$z$IrBz$JrBz$YDz$OZBz$LEBz$ChBz$vPBz$WTBz$KrBz$AcBz$Aqz$LrBz$fQz$MrBz$iSBz$CJBz$NrBz$OrBz$SHz$z$PrBz$QrBz$XKBz$pBBz$RrBz$SrBz$KJz$odz$Wez$ryz$ZCz$TrBz$BVz$yHz$LOz$UrBz$VrBz$lSz$WrBz$z$mSBz$XrBz$YrBz$uZz$ZrBz$arBz$brBz$WIz$crBz$drBz$erBz$QGBz$frBz$IYz$fJz$aLz$BkBz$Ylz$grBz$z$erz$HRz$hrBz$CRz$eXz$irBz$ffz$hNBz$jrBz$krBz$lrBz$yjz$AFz$mrBz$kpBz$gXBz$nrBz$orBz$Pfz$z$prBz$qrBz$uNz$roz$wPBz$rrBz$srBz$GTBz$trBz$urBz$pPz$lpBz$vrBz$FZBz$wrBz$psz$xrBz$mOBz$CVz$z$XTz$yrBz$AsBz$TpBz$ANBz$BsBz$olz$skz$XfBz$fXz$CsBz$DsBz$yez$LNBz$SEz$lbz$vWBz$EsBz$xXz$z$FsBz$GsBz$HsBz$peBz$IsBz$JsBz$KsBz$Llz$SHz$LsBz$Piz$sHBz$DQz$mrBz$vTz$MsBz$AbBz$NsBz$hFBz$z$gOz$gPz$OsBz$FBBz$PsBz$QsBz$RsBz$ICBz$cCBz$tLz$daz$Obz$TCBz$SsBz$imz$TsBz$UsBz$VsBz$WsBz$z$uiz$XsBz$YsBz$rkz$DnBz$ZsBz$RTBz$asBz$bsBz$csBz$XGz$dsBz$DBz$vnBz$esBz$OZz$MJz$TDBz$Uxz$z$ilBz$oez$FcBz$fiBz$yNz$iGBz$fsBz$gsBz$EMBz$hsBz$isBz$sLz$lSBz$HBBz$jsBz$Vmz$QZBz$HMBz$bEz$z$ksBz$BTz$lsBz$XCBz$MoBz$sHz$msBz$snBz$YFz$miBz$ymBz$nsBz$MgBz$rEz$osBz$rXz$ucz$xKBz$psBz$z$qsBz$thz$gdz$rsBz$ssBz$tsBz$usBz$mHz$luz$vsBz$vxz$ldz$wsBz$WOz$xsBz$CcBz$ysBz$SHz$AtBz$z$BtBz$CtBz$DtBz$EtBz$peBz$LHBz$LGz$FtBz$GtBz$HtBz$iFBz$ItBz$JtBz$HOz$qoBz$KHz$orz$vpz$riz$z$KtBz$eaz$qyz$LtBz$LRz$Rfz$FDz$cZz$MtBz$oDz$NtBz$ylz$ObBz$cMBz$OtBz$PtBz$QtBz$ZYz$upBz$z$jVz$RtBz$psz$StBz$TtBz$YWz$ekz$UtBz$VtBz$mEz$Xtz$WtBz$XtBz$LMBz$YtBz$maz$ZtBz$dmz$fIz$z$jHBz$atBz$btBz$MPz$ctBz$GNz$dlz$dtBz$etBz$TQz$fjz$fBz$MNz$ftBz$cNz$mCz$gtBz$htBz$Gfz$z$itBz$jtBz$Zjz$GWz$MCz$ktBz$DABz$ltBz$mtBz$ntBz$nGBz$Koz$otBz$yOz$KhBz$ptBz$qtBz$DHBz$rtBz$z$kVBz$stBz$fDz$Hcz$Rdz$ttBz$utBz$VFz$vtBz$sYz$ibz$wtBz$xtBz$Wvz$ytBz$Vez$AuBz$BuBz$cNz$z$CuBz$GHz$gsBz$DuBz$EuBz$FuBz$GuBz$cLBz$AKz$ZnBz$HuBz$IuBz$JuBz$KuBz$LuBz$ROBz$MuBz$NuBz$Gfz$z$OuBz$Erz$PuBz$Itz$tdz$QuBz$RuBz$ZUz$NEz$VgBz$SuBz$tVz$TuBz$Udz$qIBz$UuBz$VuBz$WuBz$KVBz$z$XuBz$aHz$YuBz$TUBz$lkBz$sEz$ZuBz$dmz$XWBz$gIz$auBz$AXz$MPz$buBz$cuBz$fJz$VZBz$duBz$yXBz$z$euBz$ZrBz$WBBz$Svz$lfBz$Hiz$fuBz$qGz$guBz$huBz$Uwz$aBBz$yWBz$iuBz$QjBz$jdBz$jiBz$snBz$juBz$z$FKz$cRBz$WRBz$bDz$OIz$kuBz$yFBz$luBz$eIBz$hvz$muBz$nuBz$Ddz$Wlz$Ihz$ouBz$amz$MXz$Ikz$z$YRBz$UEz$cfBz$qUBz$CYz$puBz$quBz$ruBz$ZbBz$suBz$nABz$yZBz$tuBz$uuBz$cFBz$NCz$Vfz$dWz$vuBz$z$wuBz$ZkBz$xuBz$yuBz$mlz$fkz$AvBz$BvBz$YKz$oOBz$MeBz$CvBz$Cnz$DRz$PtBz$DvBz$DLz$GNBz$Rbz$z$PYBz$cNz$EvBz$nmBz$FvBz$yBBz$VuBz$GvBz$IbBz$rQz$Wxz$icBz$jYz$ILBz$HvBz$IvBz$YKz$JvBz$KvBz$z$NeBz$Phz$LvBz$MvBz$NvBz$OIz$OvBz$yfz$Gmz$ZlBz$PvBz$QvBz$fTz$FDz$bGBz$RvBz$SvBz$QGBz$TvBz$z$UvBz$VvBz$IjBz$WvBz$XvBz$EOz$qCBz$Omz$YvBz$ZvBz$avBz$bvBz$cvBz$dvBz$kXz$evBz$FoBz$faz$WVz$z$HsBz$nuBz$fvBz$EBz$gvBz$mlz$GPBz$lez$hvBz$sfBz$aHz$ivBz$jvBz$KJz$kvBz$xIz$lvBz$FDz$lgz$z$sPBz$mMz$Gdz$odz$mvBz$nvBz$Lyz$eXBz$ovBz$cLz$KJz$Ooz$pvBz$oVz$qvBz$sHz$MtBz$rvBz$svBz$z$tvBz$uvBz$lCz$yaz$TVz$vvBz$bVBz$wvBz$KmBz$xvBz$yvBz$joz$EnBz$AwBz$EEz$kQBz$mvBz$ucBz$BwBz$z$MjBz$CwBz$PMBz$DwBz$EwBz$FwBz$jEz$GwBz$HwBz$IwBz$Awz$JwBz$KwBz$LwBz$MwBz$bfBz$NwBz$OTz$OwBz$z$woz$PwBz$Zoz$QwBz$RwBz$SwBz$fJz$nSz$hKBz$CKz$TwBz$UwBz$VwBz$YHz$ZZz$WwBz$XwBz$bDz$dmz$z$YwBz$QkBz$Zbz$ueBz$Grz$ZwBz$uQBz$PPz$ULz$BLz$awBz$TTz$tjz$bwBz$PVz$jrz$cwBz$NCz$Otz$z$Ptz$FMz$UEBz$dwBz$Miz$wHBz$ewBz$MlBz$fwBz$EwBz$gwBz$oDz$OBBz$hwBz$NCz$OIz$iwBz$jwBz$kwBz$z$lwBz$mwBz$nwBz$xlBz$owBz$YpBz$NuBz$pwBz$kDBz$qwBz$YcBz$Tgz$rwBz$swBz$twBz$PPz$uwBz$Ihz$vwBz$z$YDBz$wwBz$iYBz$xwBz$pLz$ywBz$Ngz$fEBz$cIBz$AxBz$cXz$TPz$BxBz$CxBz$tiz$uiz$DxBz$ExBz$KSz$z$LSz$WYz$FxBz$Taz$MZz$WSz$GxBz$KCBz$Vrz$HxBz$FFz$rqz$bkz$IxBz$jxz$JxBz$KxBz$BqBz$eWz$z$LxBz$Cwz$pSBz$Yrz$RKBz$MxBz$Piz$NxBz$OxBz$PxBz$RZz$NIz$UJz$FFBz$QxBz$KNz$fvBz$RxBz$wkBz$z$veBz$qwz$IrBz$SxBz$TxBz$UxBz$VxBz$WxBz$XxBz$WYz$YxBz$TQz$ZxBz$HSz$CHz$sez$axBz$bxBz$cxBz$z$htBz$oDz$dxBz$exBz$cSz$fxBz$gxBz$mGz$hxBz$ZGz$laBz$ixBz$Gwz$Hez$SKz$jxBz$hEBz$VuBz$kxBz$z$KSz$lxBz$qTBz$mxBz$UCz$PSz$nxBz$XYBz$dKz$gTz$ltBz$boz$Qvz$oxBz$pxBz$nHz$IWBz$Cjz$qxBz$z$rxBz$puz$sxBz$PCBz$txBz$Zhz$qIz$oqBz$YcBz$uxBz$Haz$FxBz$yiz$Caz$vxBz$aIBz$KNz$Xvz$wxBz$z$DLBz$xxBz$yxBz$AyBz$QeBz$RBBz$qTBz$ByBz$UNz$bez$CyBz$DyBz$EyBz$lkz$FyBz$jHz$GyBz$HyBz$LWBz$z$IyBz$YcBz$roz$JyBz$KyBz$LyBz$MyBz$NyBz$OyBz$jMz$pkz$lMz$PyBz$RMBz$QyBz$pgz$wGz$JKz$riz$z$gbBz$RyBz$SyBz$LNz$XCBz$xyz$IHz$ijz$lbBz$TyBz$JDz$ahz$UyBz$VyBz$WyBz$XyBz$YyBz$cfz$ZyBz$z$ayBz$mMz$byBz$cyBz$dyBz$noz$gfz$wvz$eyBz$Wsz$dvz$fyBz$WDBz$wgz$pOz$gyBz$DLBz$hyBz$Esz$z$iyBz$jyBz$FBBz$kyBz$oeBz$pFBz$lyBz$EBz$myBz$nyBz$lWBz$HFz$oyBz$bwBz$Oqz$YKBz$pyBz$ChBz$cfz$z$dDz$qyBz$jqz$NXz$ryBz$hgBz$dQz$Ghz$syBz$Nyz$Vpz$tyBz$GWBz$GuBz$HOBz$jTBz$uyBz$xWBz$vyBz$z$mLz$Sdz$wyBz$LVz$BJz$xyBz$yyBz$XTz$AACz$BACz$CACz$MYBz$CWz$pRz$DACz$EACz$fuz$hwz$cfz$z$lgz$FACz$tCBz$kEBz$Daz$GACz$HACz$fcBz$bKBz$IACz$yTz$yEz$ZrBz$fHz$qhz$JACz$KACz$LACz$MACz$z$pLz$NACz$OACz$PACz$URz$Sdz$QACz$pTz$DMBz$PZz$vTBz$oDz$RACz$SACz$TACz$yPz$UACz$dez$Fxz$z$VACz$rWz$HTBz$SLz$ebz$WACz$Ebz$PpBz$Lqz$XACz$YACz$xlBz$JyBz$ZACz$aACz$Ghz$trz$bACz$cACz$z$QiBz$pEBz$NZz$dACz$yLz$eACz$oiz$fACz$gACz$Haz$hACz$IbBz$iACz$jACz$kACz$lACz$qPz$siz$mACz$z$YMBz$nACz$oACz$eVBz$qFz$DRz$pACz$qLBz$rDz$Zmz$IGBz$qACz$rACz$sACz$nmBz$vFBz$wFBz$hGz$tACz$z$oBBz$uACz$vACz$wACz$AHBz$DVz$xACz$yACz$psz$ABCz$BBCz$Lrz$pUz$mXBz$CBCz$DBCz$baz$EBCz$NhBz$z$CKz$gGz$bpz$pMBz$TDz$yxz$SIBz$FBCz$sBz$Esz$GBCz$HBCz$tDBz$IBCz$JBCz$KBCz$yvBz$LWBz$edz$z$liBz$LBCz$MBCz$NBCz$Oez$OBCz$tlz$PBCz$Huz$YIBz$oEz$CHBz$QBCz$BTz$cIBz$XCBz$RBCz$CYz$SBCz$z$KSz$TBCz$UBCz$VBCz$ZOBz$bez$WBCz$USz$wGz$iqBz$XBCz$YBCz$pcz$KXz$ZBCz$sHz$aBCz$bBCz$Dhz$z$cBCz$dBCz$eBCz$vWBz$fBCz$gBCz$edBz$hBCz$iBCz$fEz$jBCz$tNz$kBCz$HNz$lBCz$mBCz$nBCz$oBCz$LNz$z$Dsz$Ouz$lIz$pBCz$IhBz$qBCz$xlBz$HiBz$rBCz$GJz$wNz$MPz$SkBz$aGBz$bGBz$sBCz$tBCz$uPz$Xsz$z$mwBz$uBCz$xlBz$vBCz$rwz$KTz$deBz$wBCz$JOBz$xBCz$ZvBz$mpBz$sPz$lNBz$jdBz$jiBz$gkBz$yBCz$aRz$z$iUz$ACCz$lyBz$EBz$ISz$BCCz$cfz$CCCz$XSz$aeBz$LBCz$vGBz$hKBz$NuBz$rvBz$Jgz$DCCz$Uoz$ibz$z$ECCz$FCCz$wYz$GCCz$jGBz$HCCz$ICCz$JCCz$KTBz$aABz$Otz$KKz$jwBz$yBCz$KCCz$CLBz$npBz$Niz$LCCz$z$MCCz$VOBz$lhz$KlBz$Wdz$NCCz$Tqz$OIz$Aiz$OCCz$PCCz$QCCz$MPz$SkBz$KJz$Kvz$RCCz$tJz$pwBz$z$SCCz$TCCz$Wgz$XxBz$UCCz$kgz$VCCz$QMz$WCCz$WBBz$akz$TUBz$XCCz$YCCz$ZCCz$LLz$oOBz$wJz$aCCz$z$AoBz$bCCz$gLz$uFz$faBz$fUz$pHBz$nJz$fBBz$cCCz$dCCz$FKz$QZz$Enz$xOBz$DDBz$SYz$eCCz$JJz$z$Ymz$WACz$fCCz$gCCz$SHz$QpBz$Jxz$WTz$wLz$ifBz$luz$qcz$rPz$PZz$hCCz$vmz$tnz$Piz$ZgBz$z$ldBz$dbBz$Vtz$iCCz$Gyz$Siz$pQz$EaBz$sfBz$kqz$PGBz$OFBz$iGBz$wKz$jCCz$yPz$Hwz$vtz$yvz$z$SZz$kCCz$lCCz$mCCz$HjBz$nCCz$oCCz$VXBz$Mjz$pCCz$UqBz$Xaz$CCz$DIBz$qCCz$rCCz$baz$HCz$sCCz$z$tCCz$CtBz$uCCz$vCCz$kaz$JgBz$lVBz$wCCz$PVz$cSBz$xCCz$yCCz$nPBz$ADCz$Ogz$BDCz$CDCz$IjBz$OgBz$z$DDCz$Esz$GDz$EDCz$iPz$KXz$FDCz$acz$MDz$GDCz$VRz$HDCz$Efz$IDCz$JDCz$KDCz$LDCz$OhBz$MDCz$z$NDCz$thz$ODCz$wBBz$NGz$DFBz$nFBz$PDCz$TQz$VvBz$ZoBz$KkBz$QDCz$yUz$hQBz$QCz$RCz$RDCz$Tez$z$igz$mtz$SDCz$UWz$TDCz$UDCz$iJz$VDCz$YFz$FYz$keBz$WDCz$XDCz$rGz$YDCz$ZDCz$mjz$aDCz$dDz$z$bDCz$qjz$KFBz$cDCz$mYz$dDCz$WPBz$eDCz$fDCz$gDCz$EMz$Rhz$hDCz$muz$xgBz$BABz$iDCz$iqBz$jDCz$z$Cez$kDCz$dCz$IpBz$lDCz$HEz$cZBz$JEz$mDCz$nDCz$cNBz$BABz$oDCz$iBz$pxz$lbBz$naz$hCz$qnz$z$onz$PuBz$pDCz$mSBz$YxBz$vdz$UiBz$EUz$JVz$Stz$XgBz$UHBz$nLz$Qsz$JDz$Xnz$qDCz$rDCz$Cjz$z$bfz$Nwz$sDCz$DxBz$EnBz$tDCz$IJBz$uDCz$vDCz$YWz$YDz$xJBz$wDCz$bcz$bFz$xDCz$evBz$kOz$nFz$z$yDCz$AECz$BECz$ZCz$PYz$GuBz$WrBz$CECz$DECz$fDz$EECz$OKz$Sdz$FECz$QwBz$GECz$OsBz$NBBz$pUz$z$HECz$IECz$Skz$yLz$JECz$KECz$LECz$MECz$tdz$NECz$OECz$amz$PECz$wiBz$oZz$FEz$LgBz$QECz$ibz$z$aOz$RECz$Wvz$DFBz$rPz$kkBz$YCz$tBz$dYz$sWz$ggz$ZaBz$KEBz$SECz$UGBz$dPz$eZz$TECz$Yxz$z$LYz$UECz$VECz$kZz$BIz$WECz$wVz$nFz$Rqz$lQz$bgBz$XECz$JbBz$YECz$CoBz$Luz$ZECz$aECz$NNz$z$uSz$Axz$bECz$dRz$yBBz$cECz$pPz$dECz$YVz$MYz$eECz$fECz$ODz$gECz$hECz$tBz$ANz$iECz$jECz$z$qFz$RACz$kECz$rJBz$jtz$lECz$BkBz$mECz$Aqz$nECz$oECz$WTz$qwz$pECz$pWz$GGz$qECz$rECz$sECz$z$tZBz$tECz$uECz$qVBz$EHz$vECz$wECz$xECz$KYBz$yECz$TYBz$Oez$ZaBz$AFCz$ycz$BFCz$vbz$wNz$CFCz$z$dtz$DFCz$gkBz$dVz$EFCz$FMBz$FFCz$Rrz$GFCz$tLz$EQz$HFCz$ndz$EUz$tRz$UPBz$Naz$IFCz$sJz$z$ujz$JFCz$vBCz$xTBz$cmz$cLBz$goBz$hBz$ASBz$jRz$bYz$KFCz$Sfz$qcBz$LFCz$miz$uiz$MFCz$FjBz$z$LUz$aBz$NFCz$cfBz$oCz$ITBz$OFCz$Ebz$PFCz$JxBz$wUBz$CJz$pvBz$ukBz$QFCz$fiz$NKz$RFCz$Kuz$z$SFCz$DTz$IPz$TFCz$tBCz$UFCz$Xsz$VFCz$WFCz$uCBz$IpBz$xCCz$LUz$XFCz$FXz$NTz$Uwz$Vwz$Lmz$z$YFCz$ZFCz$aFCz$lJBz$UFz$yEz$YoBz$mHz$bFCz$cFCz$iWz$Hnz$dFCz$ZZz$eFCz$fFCz$gFCz$HOz$egz$z$hFCz$MtBz$iFCz$cyBz$jFCz$Swz$fcBz$Wxz$ygBz$ZZz$kFCz$rMBz$mjBz$qFz$lFCz$lQBz$ucBz$LPz$Ypz$z$kEBz$mFCz$nFCz$oFCz$ZNBz$sNBz$gOz$BgBz$pFCz$qFCz$hUz$bRz$cRz$rFCz$GDCz$IGBz$ubBz$sFCz$tFCz$z$Gpz$uFCz$IJBz$bGBz$vFCz$wFCz$ZOz$Rsz$RIBz$yABz$APz$mSBz$EQz$xFCz$IsBz$EUz$VHBz$IFCz$Esz$z$Khz$yFCz$AGCz$BGCz$svz$GqBz$yKz$CGCz$aECz$tPz$DGCz$Mqz$iECz$EGCz$HLz$FGCz$gwz$IvBz$IUz$z$GGCz$WRBz$HGCz$Jwz$MPz$IGCz$AhBz$eVz$JGCz$Pjz$LOz$RRz$ZfBz$yOz$fJz$NRBz$KGCz$kOz$dLz$z$NOBz$LGCz$MGCz$skz$OOBz$kUBz$GCBz$NGCz$OGCz$ARz$PGCz$KYBz$cSBz$CxBz$aaz$PWz$QGCz$RGCz$ZCz$z$SGCz$TGCz$cPz$pLz$UGCz$vfBz$VGCz$DFBz$JoBz$WGCz$XGCz$cFCz$YGCz$drBz$rqz$lnz$wmz$Liz$RWz$z$oDz$GZz$ZGCz$uSz$Yvz$hKBz$PiBz$kIBz$aGCz$FFz$RmBz$xBz$bGCz$YIz$cGCz$LLz$ymBz$lYBz$olz$z$LSz$Ytz$kpz$sOBz$KJz$obz$YZz$dGCz$eGCz$EhBz$pmz$Gwz$FcBz$fGCz$gGCz$HFBz$hGCz$iGCz$jGCz$z$dgz$kGCz$lGCz$esz$CYz$xZBz$LACz$mGCz$LLz$nGCz$oGCz$vVBz$gACz$NFCz$Rhz$DHBz$tTz$pGCz$FBBz$z$hUz$KqBz$qGCz$qQz$fEBz$IOBz$rGCz$sGCz$vQz$vZz$saz$tGCz$PUz$uGCz$vGCz$SvBz$Gfz$Rsz$wGCz$z$Oez$gNz$Wdz$xGCz$ebz$yGCz$AHCz$BHCz$KCz$CHCz$DHCz$EHCz$QRz$FHCz$iYz$GHCz$DFBz$HHCz$SjBz$z$IHCz$JHCz$KHCz$HRz$LHCz$CYz$MHCz$lhBz$NHCz$YDz$rYBz$KPBz$fMz$OHCz$imz$PHCz$iPBz$WCz$qHz$z$QHCz$RjBz$OoBz$CJz$gXz$HPz$poBz$qvz$RHCz$SHCz$lfz$THCz$DvBz$PTz$yWBz$UHCz$VHCz$WHCz$rrz$z$XHCz$vGz$YHCz$ZHCz$DHBz$aHCz$LGz$SqBz$eNBz$SOz$bHCz$mgz$cHCz$XLz$fqz$TbBz$YWz$qFz$tDBz$z$jWz$dHCz$eHCz$fHCz$gHCz$EOz$hHCz$kZBz$Xyz$nMz$gGBz$iHCz$jNz$jHCz$Grz$kHCz$EWz$gXBz$jRz$z$lHCz$OZz$vRz$mHCz$RJBz$YFz$pfBz$nHCz$kECz$oHCz$pHCz$qHCz$rHCz$KJz$sHCz$qbBz$Npz$OYz$tHCz$z$MGBz$yHz$nMz$uHCz$aDz$aFz$DnBz$JYz$vHCz$AEBz$qPz$wHCz$xHCz$yHCz$AICz$BICz$wPz$CICz$amz$z$pdBz$DICz$dwBz$EICz$FICz$GICz$KBBz$HICz$fTBz$RFBz$hLz$XCCz$tNBz$dkz$Hmz$IICz$keBz$qOBz$JICz$z$wTz$DZBz$KICz$vRz$GYBz$LICz$MICz$KHCz$NICz$rUz$xlBz$wPBz$eLBz$sGBz$Ghz$mOz$OICz$PICz$DBz$z$QICz$RICz$tBCz$LCCz$SICz$TICz$UICz$pfBz$VICz$QVz$Tqz$nJBz$phz$yHCz$jUBz$WICz$wGBz$XICz$tuBz$z$WIBz$BSz$QNz$vhz$rOBz$YICz$KNz$ZICz$Wlz$ZNBz$iEBz$TPz$aICz$bICz$FZz$miBz$cICz$Qmz$dICz$z$RDz$cbz$MoBz$ofz$Blz$ZHCz$PfBz$eICz$fICz$OsBz$FBBz$Cxz$dBz$NcBz$gICz$hICz$vxBz$iICz$qUBz$z$KCz$jICz$kICz$lICz$Efz$EABz$Hrz$mICz$xDBz$nICz$mACz$oICz$IMz$CTz$pICz$ASBz$sRz$sBBz$pXz$z$lkz$Cuz$aGz$YFz$fnBz$qICz$rICz$ZVz$mICz$qbz$LSBz$sICz$Xvz$VlBz$tICz$WWBz$uICz$ExBz$mJz$z$PHBz$oqz$DWz$vICz$sYBz$EJBz$imz$wICz$psz$wHz$qWBz$xICz$jWz$yICz$AJCz$jQBz$JDz$YKBz$BJCz$z$CJCz$DJCz$FZBz$EJCz$OCz$DYz$FJCz$miz$YMBz$AJBz$CFBz$GJCz$fJz$Wfz$pACz$HJCz$FYz$Dbz$HRz$z$Xqz$ZCz$hyz$EnBz$IJCz$ZSz$GYz$sdBz$JJCz$KJCz$jWBz$LJCz$MJCz$ULz$XGz$NJCz$kmz$QmBz$OJCz$z$PJCz$YDz$QJCz$ynz$yABz$qWz$RJCz$ZnBz$hRz$SJCz$Ksz$Klz$TJCz$JQz$UJCz$VJCz$JKz$RQz$SQz$z$IHCz$WJCz$Vez$JMz$XJCz$NMBz$YJCz$PZz$ZJCz$uFz$aJCz$bJCz$cJCz$aYBz$pZBz$dJCz$eJCz$cZBz$fJCz$z$Dpz$gJCz$nYz$uABz$Hjz$OMz$LrBz$hJCz$Nsz$DMz$iJCz$bOz$Jaz$jJCz$nwz$LRz$kJCz$MlBz$EBBz$z$OsBz$lJCz$fECz$xKBz$ckz$mJCz$nJCz$NUBz$oJCz$ZlBz$pJCz$qJCz$rJCz$oGz$Zez$oZBz$LDBz$Kxz$ywBz$z$sJCz$pqBz$Vkz$Noz$tJCz$AEBz$uJCz$GYBz$Klz$eaBz$vmz$NpBz$vJCz$CGz$yPz$pxBz$dKBz$wJCz$xJCz$z$yJCz$AKCz$BKCz$OFCz$CKCz$lUz$ZCz$dYz$DKCz$sHBz$DGz$Hez$wBBz$EKCz$JICz$trBz$TGz$KOBz$OwBz$z$FKCz$Wwz$GKCz$edBz$uDBz$uNz$vbz$nPz$HKCz$dQz$gvz$Zxz$KsBz$IKCz$JKCz$cIBz$KKCz$dUz$IyBz$z$LKCz$ScBz$KLBz$Dez$MKCz$NKCz$KVBz$OKCz$PKCz$QKCz$LZz$UVBz$RKCz$SKCz$nFz$TKCz$KUz$tCCz$lCz$z$riz$jwBz$UKCz$VKCz$WKCz$HSBz$XKCz$dtz$XWBz$YKCz$ZKCz$bEz$HRBz$aKCz$bKCz$EEz$cKCz$dKCz$eKCz$z$dfBz$fKCz$gKCz$tVz$hKCz$iKCz$jKCz$Kxz$mdz$nlz$aMz$rQz$qnz$FSz$qPBz$qyz$EBz$Mez$kKCz$z$lKCz$DwBz$mKCz$nKCz$oKCz$QLBz$pKCz$qKCz$aHz$rKCz$sKCz$WOz$TMz$tKCz$PHCz$hxBz$uKCz$keBz$ggz$z$XTz$vKCz$ycz$QeBz$ZSz$INz$wKCz$bqz$mXz$xKCz$yKCz$YKz$ALCz$BLCz$EQBz$CLCz$Cpz$DLCz$RWz$z$Zjz$WYBz$ELCz$FLCz$GLCz$xKCz$ImBz$QHCz$cNz$HLCz$NWz$VBz$qFz$IpBz$SEBz$Ohz$ILCz$csz$JLCz$z$psz$vYBz$KLCz$RMz$ZaBz$DWBz$LLCz$Huz$sdz$tdz$jWBz$UCz$MLCz$NLCz$OLCz$hjz$PLCz$ybz$Acz$z$tBCz$yMz$QLCz$xHz$RLCz$edBz$uIz$tmz$SLCz$BHz$SEBz$TLCz$EOz$wHz$qxz$ULCz$aRz$VLCz$WLCz$z$XLCz$YLCz$xfBz$ZLCz$TcBz$ZvBz$GSBz$aLCz$bLCz$xBz$RKz$cLCz$ZWBz$bVz$vRBz$dLCz$dJBz$VJz$txz$z$Shz$iRz$rlBz$ELCz$eLCz$ZJBz$fLCz$KDBz$gLCz$qFz$ASz$Rjz$RmBz$KhBz$hLCz$TYBz$oSz$iLCz$jLCz$z$ntBz$EEz$Rwz$frBz$kLCz$lLCz$tLz$bDCz$UEBz$PnBz$mLCz$nLCz$jZz$Yxz$oLCz$RIBz$SIBz$EOz$TIBz$z$UIBz$pLCz$Gwz$RcBz$YpBz$KHBz$qLCz$BABz$rJCz$XLz$rLCz$FABz$pYz$ZOz$sLCz$Zaz$mEz$Mnz$tUBz$z$tLCz$ACCz$pTz$uLCz$Zvz$Rrz$skz$ODz$vLCz$HJBz$opz$ycBz$wLCz$XxBz$KxBz$xLCz$qEz$rGz$JsBz$z$yLCz$QHCz$nJz$wUBz$NZz$Olz$PUz$AMCz$oiz$pWz$BMCz$kqz$ShBz$KNz$CMCz$DMCz$JnBz$fxz$ywz$z$EMCz$FMCz$mTz$VZBz$GMCz$HMCz$YQBz$FXz$GXz$IMCz$JMCz$KMCz$imz$LMCz$xsz$Bez$MMCz$liBz$FKz$z$NMCz$OMCz$PMCz$RBBz$QMCz$aDz$RMCz$qQBz$YIz$SMCz$EVBz$TMCz$EmBz$Baz$UMCz$nFBz$VMCz$bFCz$WMCz$z$WKCz$hhz$opBz$Yxz$mLz$VHBz$XMCz$JxBz$YMCz$exz$ZMCz$Gwz$EGz$aMCz$lpBz$GSBz$DLBz$bMCz$CZz$z$cMCz$pIBz$dMCz$WWBz$ALCz$bmz$qQz$eMCz$Haz$fMCz$gMCz$WOz$rFz$hMCz$dKz$rGz$kMz$iMCz$jMCz$z$IHz$kMCz$NCz$SSBz$lMCz$FaBz$mMCz$dHz$nMCz$sBBz$dsBz$vmz$NpBz$vJCz$lUBz$JDz$LeBz$oMCz$eVBz$z$kxz$kXz$pMCz$KCBz$qMCz$rMCz$CHz$sMCz$Qz$tMCz$ssBz$uMCz$HBBz$YnBz$bnz$vMCz$Daz$eFBz$yNz$z$wMCz$xMCz$WvBz$ROz$AJz$FGz$yMCz$MJBz$nMz$fIz$ZKBz$dhBz$xfz$Grz$ANCz$KCz$VmBz$fYBz$BNCz$z$NQz$CNCz$Lbz$DNCz$lCz$ENCz$FNCz$JJz$GNCz$TMBz$YZz$anBz$ASBz$HNCz$INCz$vvz$YnBz$oNz$VkBz$z$pYz$JNCz$KNCz$sOBz$LNCz$xMCz$BABz$kgz$Mjz$MNCz$NNCz$ONCz$oZz$rFz$sHz$Ecz$cZBz$dDz$CHBz$z$KNz$HQBz$xuBz$qfz$PNCz$JxBz$QpBz$QNCz$RNCz$amz$SNCz$TNCz$ooz$lMCz$jOz$Cmz$raz$hmz$UNCz$z$VNCz$yMz$kgBz$WNCz$Fdz$meBz$XNCz$YNCz$lSz$RGz$QHBz$Spz$WEz$ZNCz$aNCz$bNCz$ZvBz$cNCz$Erz$z$dNCz$eNCz$tdz$fNCz$gNCz$mFBz$jbz$JXBz$pcz$dPBz$EUz$jfBz$hCCz$YEBz$XZBz$mVz$hNCz$Gwz$iNCz$z$jNCz$Ndz$lnz$VlBz$kNCz$ZZz$fLCz$lNCz$gLCz$ZFz$rqBz$ovz$oYBz$ibz$SGz$BqBz$qez$xgz$MhBz$z$dpBz$lABz$eDBz$gyBz$TFz$PpBz$vRz$kXBz$Bxz$mNCz$QGBz$Ogz$nNCz$UiBz$oNCz$pNCz$qNCz$QiBz$uKCz$z$UBz$edz$mlz$rNCz$sNCz$sBz$tNCz$nTz$yVBz$fDz$PnBz$OKz$KuBz$uNCz$KhBz$qlz$vNCz$wNCz$xNCz$z$Ybz$dZz$yNCz$tdz$fNCz$AwBz$fEBz$gEBz$AOCz$BOCz$xBz$COCz$wrz$KLBz$tfz$hGz$DOCz$jGz$QEz$z$oqz$jwBz$tmz$giz$JSz$vcz$DGz$mUBz$EOCz$FOCz$fJz$GOCz$HOCz$IOCz$JOCz$KOCz$HWz$fLBz$yEz$z$LOCz$yLCz$MOCz$NOCz$OOCz$yEBz$POCz$DGz$QOCz$tGz$ROCz$SOCz$dpBz$TOCz$xBz$KcBz$Sqz$pRBz$oDz$z$TJBz$UOCz$VOCz$OIz$WOCz$XOCz$OqBz$YOCz$ZOCz$Wyz$aOCz$kIBz$LJz$bOCz$cOCz$dpz$OoBz$lWz$cuz$z$PbBz$dOCz$eOCz$fMz$fOCz$Cqz$gOCz$nGz$SGCz$QLBz$IvBz$DGz$hOCz$Qyz$iOCz$sUz$RQz$jOCz$UCz$z$TLz$kOCz$Hnz$lOCz$Lrz$vtBz$ktBz$FgBz$mOCz$SECz$nOCz$XxBz$jTBz$RLz$oUBz$Xvz$oOCz$vJBz$pOCz$z$puz$OCBz$qOCz$rOCz$dCz$xcz$wEz$sOCz$WrBz$wkz$pjz$BPBz$nYz$tOCz$Qaz$oVz$uOCz$vOCz$Fxz$z$Phz$wOCz$MWBz$xOCz$yOCz$WOCz$MCz$APCz$ZlBz$BPCz$CPCz$ioz$JaBz$Zez$gZBz$sBz$CZz$XKBz$DPCz$z$Syz$rFBz$wMz$EPCz$Fjz$ijz$ZeBz$aeBz$Zhz$Nlz$wEz$NCz$FPCz$lNz$GPCz$HPCz$MLBz$OHCz$IPCz$z$JPCz$kIBz$KPCz$LPCz$MPCz$tez$CYBz$KSz$bMz$coBz$dOCz$NPCz$ndz$OPCz$fTBz$PPCz$HtBz$LRBz$lMz$z$QPCz$dLz$KcBz$RPCz$CfBz$mcz$tKBz$SPCz$jqz$TPCz$aYz$UPCz$VPCz$JCCz$sHz$OnBz$WPCz$mOCz$XPCz$z$Wgz$RGz$gJz$uIz$wgz$Jrz$sWBz$YPCz$oiBz$jFz$ZPCz$NZz$aPCz$Oqz$gdz$bPCz$mDBz$cPCz$tdz$z$dPCz$hHz$ePCz$fPCz$yHz$okz$XNCz$gPCz$YcBz$Tgz$ryBz$hPCz$TQz$iPCz$wkz$jPCz$OHz$MLBz$kPCz$z$lPCz$mPCz$QwBz$nPCz$oPCz$bSBz$pPCz$qPCz$kOz$CqBz$trz$rPCz$sPCz$HLz$vPz$tPCz$lUBz$uPCz$vPCz$z$wPCz$NIz$Jwz$LdBz$MdBz$xPCz$yPCz$OKz$AQCz$BQCz$Yxz$CQCz$DQCz$EQCz$JCCz$xvz$KdBz$bMz$FQCz$z$lQz$dVz$GQCz$yWBz$TFz$OHBz$FDz$JiBz$VOBz$iSz$mBz$DIBz$HQCz$jpz$baz$LVBz$IQCz$JQCz$fMz$z$gEBz$Nyz$sXBz$KQCz$Zsz$LQCz$MQCz$MBz$ylz$Rmz$Smz$NQCz$VtBz$CUz$EACz$eHz$bACz$gLz$ZCz$z$rHBz$OQCz$PQCz$KeBz$QQCz$RQCz$SQCz$xfz$VlBz$TDz$kZz$TQCz$UQCz$VQCz$pUz$Lxz$WQCz$Faz$XQCz$z$YQCz$KtBz$eCBz$BHBz$NUz$ZQCz$UVz$eBz$EBz$aQCz$bQCz$rGz$FGz$eNz$gFCz$cQCz$Iaz$AHBz$faz$z$dQCz$eQCz$sMCz$bEz$fQCz$gQCz$yIBz$QRz$QOCz$CFBz$FGBz$vhz$whz$hQCz$qLBz$iQCz$jQCz$kQCz$ouz$z$ASBz$GWz$Waz$yLz$fMBz$gBBz$iOCz$CRz$ESz$lQCz$SLz$tDBz$mQCz$gjz$eNBz$CYz$nQCz$hrz$ntBz$z$HOz$oQCz$pQCz$RHCz$ueBz$qQCz$Liz$rQCz$CMCz$sQCz$miz$tQCz$uQCz$VxBz$WxBz$vQCz$wQCz$PBBz$gYz$z$BWz$xCz$xQCz$CIBz$lOz$vZz$ivz$MXBz$FDz$vYBz$xjBz$yQCz$uJz$jSz$GMBz$xJz$jaBz$HRz$ARCz$z$Fjz$BRCz$nWBz$XJBz$prz$NUBz$Rkz$ChBz$CRCz$dhz$lQz$DHBz$DRCz$ERCz$shBz$kOz$FRCz$nhBz$GRCz$z$HRCz$JxBz$IRCz$JRCz$Ovz$NYBz$KRCz$ltz$LRCz$MRCz$jVz$NRCz$jMz$uDCz$ORCz$brz$hCz$PRCz$tMBz$z$lSz$tYz$QRCz$RRCz$dKBz$gvz$LYz$cwz$FQz$SRCz$TRCz$gLCz$qyz$DLz$URCz$aBCz$RQBz$VRCz$WRCz$z$uoz$vkBz$bgz$ZEz$sTz$bEz$Yvz$JOz$XRCz$YDz$YRCz$ZRCz$VyBz$aRCz$trBz$bRCz$uQBz$kyBz$sZz$z$TWBz$RMBz$Tmz$cRCz$mEz$dRCz$mOCz$eRCz$fRCz$gKBz$aTz$gRCz$hRCz$jRBz$ZJz$iuBz$GnBz$dgz$iRCz$z$pIBz$jRCz$Gfz$Xnz$kRCz$XUz$ZrBz$lRCz$VaBz$jFz$GUz$EEBz$mRCz$nRCz$UACz$oRCz$pRCz$qRCz$wkz$z$BBz$Jaz$iKBz$Ssz$YkBz$wgz$ZkBz$WUBz$Wez$rRCz$CdBz$sRCz$VyBz$HOBz$MPz$NSz$NgBz$tRCz$uRCz$z$vRCz$wRCz$LCCz$SICz$xRCz$XXz$pfBz$QdBz$yRCz$WjBz$CpBz$ASCz$rGCz$CIBz$yXBz$BSCz$kkBz$CSCz$DSCz$z$ESCz$wCCz$HBz$FSCz$kxBz$Bnz$dpz$GSCz$tLCz$HSCz$iLCz$ISCz$JSCz$sTz$Mlz$iDBz$KSCz$gXz$EVBz$z$LSCz$GvBz$PCCz$Gxz$wNz$MSCz$gOz$PCz$NSCz$OSCz$RpBz$Wdz$lez$PSCz$QSCz$HCBz$RSCz$Fxz$MUz$z$SSCz$kICz$pMz$TSCz$OFCz$xIz$USCz$Yqz$NJz$VSCz$YvBz$GiBz$RCBz$SCBz$hVz$tYBz$bZz$rXz$qPz$z$JMBz$WSCz$XSCz$OUBz$YSCz$ZSCz$aSCz$OPBz$LvBz$LSBz$NOz$bSCz$Zqz$TNz$cSCz$qPz$dSCz$lYz$eSCz$z$amz$fSCz$pRCz$Vfz$gSCz$hSCz$JJz$BTz$iSCz$qHz$TABz$gpBz$qCBz$NWz$OWz$WWBz$OuBz$HYz$GnBz$z$jSCz$mSBz$YxBz$vdz$kSCz$lSCz$mSCz$KXz$bIz$nSCz$SnBz$ekz$oSCz$pSCz$qSCz$wLBz$HMBz$rSCz$UVz$z$nMBz$ujBz$pMBz$Ufz$Zrz$sSCz$YIz$Joz$LLz$GBCz$gmBz$tSCz$uSCz$vSCz$wSCz$Lrz$xSCz$ySCz$SMBz$z$EEz$NQBz$vWz$ATCz$BTCz$ADBz$CTCz$sIz$wLBz$tKBz$DTCz$Wvz$dLz$ZrBz$ETCz$DOz$EOz$FTCz$hrz$z$GTCz$cNBz$HTCz$pyz$obBz$EBz$LSBz$ITCz$Efz$JTCz$KTCz$pcz$ZOz$GwBz$CRBz$DRBz$nJBz$ERBz$yJCz$z$Xoz$dJBz$vWBz$LTCz$MTCz$FBz$YNBz$LaBz$ZWz$XcBz$NTCz$ZVz$tYz$OTCz$gcBz$qez$PTCz$QTCz$lJz$z$sTz$hLz$RTCz$aGz$STCz$hCz$oz$onz$pnz$KhBz$Grz$TTCz$UTCz$JaBz$VTCz$WTCz$JNCz$XTCz$YTCz$z$ZTCz$oVz$aTCz$bTCz$vTz$cTCz$dTCz$FMz$eTCz$fTCz$HSz$AgBz$fIz$KJz$RKz$hEz$gTCz$wlz$hTCz$z$iTCz$hXBz$jTCz$kTCz$lTCz$WIz$Xnz$QLBz$fYz$oVz$mTCz$wBBz$nTCz$oTCz$pTCz$NcBz$qmBz$qTCz$bRz$z$GMCz$Xoz$MiBz$usz$EkBz$rTCz$nGz$qXBz$sTCz$tTCz$wGz$uTCz$vTCz$fEBz$EBz$lIBz$wTCz$TPz$THz$z$IFz$xTCz$gpz$ALCz$FFCz$vLBz$WiBz$ERBz$xpz$yTCz$mFBz$lBCz$NOCz$Yfz$vKz$AUCz$BUCz$nGBz$CUCz$z$DUCz$qQz$Mnz$EUCz$FUCz$GUCz$UiBz$HUCz$IUCz$JUCz$lkz$UHBz$vLCz$KUCz$ekz$LUCz$MUCz$NUCz$yBBz$z$vqBz$cfBz$FoBz$OUCz$TICz$PUCz$pfBz$QUCz$RUCz$CGz$pUz$SUCz$TUCz$LECz$gmz$tUBz$oCCz$ejz$oHz$z$UUCz$KWBz$VUCz$ZCz$WUCz$jjz$XUCz$mZBz$YUCz$BtBz$ZUCz$Qfz$aUCz$bUCz$WIz$xKBz$dkBz$cUCz$EVBz$z$dUCz$Lbz$HIBz$eUCz$AZBz$fUCz$mJBz$vGz$gUCz$hUCz$iUCz$WOz$oQBz$ivz$loBz$Gbz$jUCz$yvz$uxBz$z$kUCz$FFz$lUCz$KJz$xuBz$xIz$dCCz$Mjz$mUCz$iQBz$nUCz$qFz$xbBz$rIz$vkz$vXz$JpBz$qRBz$oUCz$z$pUCz$nSz$qUCz$KCBz$vrz$rUCz$lgz$sUCz$tUCz$bSz$jpz$GmBz$Amz$uLz$UNz$uUCz$PFBz$fDz$rJCz$z$vUCz$wUCz$xUCz$qNz$yUCz$OmBz$vyz$mnBz$kKz$AVCz$ANCz$vRz$BVCz$gtBz$CVCz$uCBz$mgBz$Ffz$pYz$z$LOz$DVCz$RTBz$thBz$yNBz$EVCz$sZBz$dKBz$CqBz$FVCz$GVCz$HVCz$yUz$IVCz$SjBz$vvBz$Gfz$JVCz$KVCz$z$Zjz$LVCz$Klz$Fkz$MVCz$YDCz$KSCz$YWz$NVCz$vJz$daz$wCBz$nNBz$oNBz$KGCz$OVCz$Iuz$PVCz$QVCz$z$xaBz$cFCz$sEBz$jkz$RVCz$SVCz$wNBz$bcz$NXz$TVCz$smz$sGBz$Hqz$UVCz$fpBz$eaBz$sKz$VVCz$kUBz$z$WVCz$Gwz$YDCz$XVCz$vTz$vXz$YVCz$xTz$ZVCz$aVCz$bVCz$Waz$uFz$cVCz$sEz$dVCz$FKz$fIz$JPz$z$eVCz$Ykz$kXz$Bmz$fVCz$ZUz$QPz$xoz$roBz$dpz$gVCz$hVCz$FZz$iVCz$iCz$RVBz$aMz$jVCz$NEBz$z$NGz$Lyz$msBz$gQCz$yIBz$kVCz$lVCz$OsBz$llz$mVCz$nVCz$fABz$wCBz$AGCz$oVCz$Zgz$nHz$gvz$pVCz$z$qVCz$dwz$Gbz$rVCz$sVCz$inz$tVCz$kKBz$cABz$uHBz$jRz$imz$Kqz$YEBz$mLz$uVCz$ZOBz$yBBz$xVz$z$buz$YFz$vOBz$enz$vVCz$yABz$OIz$gNBz$Zpz$vOz$wVCz$IMz$xVCz$spz$DbBz$CxBz$cmz$DFz$yVCz$z$WRCz$eFz$HVz$AWCz$JSCz$BWCz$Ncz$QJCz$sWz$CWCz$yLz$DWCz$aKz$Fxz$kvz$rmz$hYz$dVz$mFBz$z$EWCz$uGBz$FWCz$BICz$tPCz$GCBz$tuBz$uhz$ycz$Iwz$eQz$SaBz$QxBz$gGCz$WMCz$GWCz$gjz$Ouz$lIz$z$HWCz$xWz$tEz$Wbz$wABz$xABz$IWCz$lBBz$sBBz$JWCz$ewz$EKBz$KWCz$LWCz$oVz$lVCz$MWCz$NWCz$Gwz$z$TJBz$OWCz$ktBz$fEBz$IOBz$PWCz$ltz$VVz$QWCz$drBz$Nez$ywz$IFCz$nlBz$RWCz$oEz$MmBz$IOCz$aHCz$z$jPBz$rez$OrBz$CYz$Owz$OJCz$GTz$hNBz$YUCz$SWCz$TWCz$UWCz$xNCz$dJCz$vTz$mSz$eXBz$VWCz$WWCz$z$GSz$aLBz$XWCz$yBBz$WHz$YWCz$kHBz$ZWCz$mSBz$ArBz$unBz$Uez$bDBz$ivz$aWCz$cfz$bWCz$cWCz$dWCz$z$JNCz$eWCz$xTBz$lPz$ibz$UEz$ZfBz$dKBz$fWCz$gWCz$Maz$hWCz$iWCz$mRz$qNz$TUz$uHCz$jWCz$kWCz$z$AXz$Kpz$ITz$kOz$lWCz$mWCz$nWCz$oWCz$Inz$IRCz$pWCz$qWCz$oDz$qnz$oJCz$Aqz$aUz$rWCz$sWCz$z$KJz$DYz$tWCz$uWCz$vWCz$wWCz$xWCz$yWCz$uCBz$GOBz$WLCz$TWCz$AXCz$DRz$yVBz$vLz$DFz$BXCz$RTz$z$CXCz$TTz$DXCz$Chz$psz$EXCz$DTCz$FXCz$THBz$hcBz$GXCz$sPCz$HLz$ILz$HUz$HXCz$Gfz$IXCz$JXCz$z$KXCz$LXCz$mOCz$BSz$MXCz$AkBz$VRCz$Spz$NXCz$Ahz$Nrz$vABz$OXCz$PXCz$QXCz$srBz$RXCz$pZBz$TUz$z$LEz$ofz$SXCz$lRBz$sTBz$xBz$gPz$SKz$pRBz$KFBz$ASz$TXCz$IKz$VGBz$Kkz$HdBz$OYz$UXCz$VXCz$z$WXCz$tVz$SICz$XXCz$WTz$YXCz$MPBz$ZXCz$OVCz$aXCz$bXCz$oeBz$WEz$MiBz$EUz$cXCz$akz$ZCz$TIBz$z$dXCz$eXCz$WBz$fXCz$IvBz$gXCz$XJBz$hXCz$iXCz$tVz$ETz$jXCz$kXCz$Kxz$lXCz$laBz$NeBz$pLz$mXCz$z$nXCz$oXCz$vbz$oEz$MmBz$pXCz$gKBz$ibBz$oCBz$qXCz$yxBz$WRBz$rXCz$sXCz$Jbz$tXCz$FXCz$DLz$SFz$z$DiBz$hrBz$puz$kFz$uXCz$NhBz$pUz$BSCz$vXCz$wXCz$xXCz$yXCz$AYCz$sLz$OIz$EDBz$BYCz$Lyz$CYCz$z$fgz$XXz$DYCz$EYCz$hdz$FYCz$DMz$EMz$GYCz$HYCz$XWz$fVz$IYCz$uOBz$PLCz$JYCz$vbBz$ZZBz$KNBz$z$YDCz$KYCz$bKz$LYCz$MYCz$NYCz$Pnz$OYCz$iiz$PYCz$SHz$QYCz$RYCz$tJz$Gyz$tnz$Mxz$Nxz$MsBz$z$IOBz$Xfz$QtBz$okz$ntz$JSCz$ryz$TkBz$SYCz$XpBz$yRz$TYCz$PtBz$UYCz$VYCz$nuz$gDBz$uNCz$Caz$z$iFBz$KMBz$GOz$xlBz$WYCz$hBCz$WTCz$UbBz$YVCz$Lbz$SEz$eNCz$YoBz$XYCz$IOCz$dgBz$ntz$YYCz$Riz$z$ZYCz$aYCz$RVz$RGz$SCz$bYCz$aEBz$cYCz$usz$XGz$gHz$Mjz$uiBz$TQBz$LDBz$oZz$dYCz$HABz$Chz$z$eYCz$ODz$fYCz$vTz$ANBz$VlBz$gYCz$hYCz$cyBz$VVBz$pYz$ZOz$qYz$iYCz$Ikz$dCz$jYCz$kYCz$Qdz$z$Jyz$ISCz$lYCz$mYCz$Gbz$nYCz$nWBz$oYCz$FOBz$GOBz$yDBz$qQz$pYCz$fHz$qYCz$CRz$rYCz$sYCz$QHCz$z$yMz$uez$tYCz$GOz$gfz$uYCz$vYCz$wYCz$kNz$tdz$YjBz$MTCz$SJCz$CyBz$NsBz$hCCz$uFz$xYCz$ipBz$z$yYCz$rWz$eDz$AZCz$lWCz$BZCz$CZCz$iFz$bEz$vnBz$ckz$DZCz$JDz$EZCz$FZCz$sBz$fEz$HYz$GZCz$z$MEBz$XxBz$oVCz$KABz$yXBz$HZCz$qeBz$fGBz$blz$IZCz$wBBz$SEz$tIz$xDCz$xkz$UTCz$vbz$yWBz$daBz$z$JZCz$vRz$KZCz$LZCz$MZCz$oDz$Wdz$aMBz$Faz$nNBz$NZCz$OZCz$aKBz$DQz$Wwz$PZCz$opz$QZCz$wKBz$z$RZCz$blz$uhz$SZCz$sYz$TZCz$uhBz$UZCz$qEz$KCz$WGz$kABz$Xqz$dgz$VZCz$mpz$Kuz$KeBz$Raz$z$LLBz$Hqz$WZCz$UHCz$DOz$ywz$XZCz$iiz$YZCz$hLz$wmz$Piz$ZZCz$cKz$aZCz$Sqz$ZVz$CtBz$kUCz$z$bZCz$xbz$Luz$erz$XGz$cZCz$dZCz$PYz$eZCz$HNz$fZCz$Spz$Jcz$nFz$gZCz$FUz$BWCz$QKz$hZCz$z$QLBz$biBz$LLz$iZCz$pcBz$jZCz$oZz$kZCz$lZCz$qQz$mZCz$oqz$PGBz$Ciz$QYBz$HUz$nZCz$yLz$oZCz$z$lLBz$ilBz$CTz$HGz$NPz$pZCz$qZCz$rZCz$kQCz$KBCz$vRz$kbBz$sZCz$leBz$NJBz$rFz$tRBz$lcz$tZCz$z$uZCz$LLBz$HVz$vMBz$lIBz$vZCz$oGz$BEz$nIz$wVz$Kxz$wZCz$xZCz$yZCz$ZHz$AaCz$WWBz$BaCz$faz$z$Kaz$LSBz$lICz$ZZz$LFz$CaCz$DaCz$UKz$MOz$nuBz$qcz$DCz$Ebz$EaCz$Inz$FaCz$GaCz$qVBz$rDz$z$EKBz$USBz$xUz$HyBz$HaCz$IaCz$YcBz$KfBz$YhBz$twz$VYBz$PMBz$FHBz$mqBz$YUz$iMBz$uXBz$JaCz$sfBz$z$eXBz$KaCz$LaCz$rPBz$Dbz$fMBz$PDBz$pTz$JTCz$MaCz$NaCz$ekz$XmBz$xDz$DEz$Gfz$OaCz$LqBz$wfz$z$ZWBz$Yvz$PaCz$SIz$PCz$bCz$NMz$kEBz$LXz$QaCz$RaCz$uSCz$lKz$SaCz$pPz$Hqz$TaCz$UaCz$VaCz$z$sHz$BJz$WaCz$XaCz$okz$Mtz$tRBz$Zbz$YaCz$EhBz$ZaCz$aaCz$baCz$Sdz$caCz$daCz$eaCz$iTBz$aeBz$z$Gwz$faCz$wrz$KHBz$lLCz$dZBz$gaCz$vUBz$hkz$haCz$xoz$iaCz$yHBz$QJCz$ESCz$jECz$jaCz$BkBz$wYz$z$ZYz$WGz$kUz$kaCz$XgBz$laCz$wFz$maCz$cQBz$DwBz$naCz$ubBz$DGz$oaCz$DCCz$kHBz$NJCz$ccz$paCz$z$TQz$qaCz$raCz$saCz$tfz$Rwz$taCz$uaCz$PLz$MPz$vaCz$waCz$eVz$xaCz$xoz$yaCz$dpz$AbCz$USz$z$BbCz$gpz$CbCz$DbCz$MQz$yPz$nGCz$ycz$juz$JxBz$EbCz$FbCz$dpz$BgBz$GbCz$HbCz$GiBz$FXBz$IbCz$z$rkz$JbCz$KbCz$KYz$mwz$Epz$WCCz$XGz$oiBz$bEz$PXCz$RICz$LbCz$nRCz$LrBz$MbCz$HKBz$DQz$stBz$z$wYz$ZYz$nQBz$NbCz$rTCz$sKz$ObCz$BNz$PbCz$WBz$QbCz$aKz$bKz$YMBz$RbCz$djz$IHCz$ZxBz$JWBz$z$SbCz$ISBz$kmz$TbCz$Waz$UbCz$GSCz$VbCz$WbCz$XWz$qTz$kkBz$sTz$WaBz$RiBz$SiBz$XbCz$xBz$COCz$z$YbCz$BbCz$ZbCz$YKBz$tACz$GABz$Quz$mSBz$Akz$NDBz$WOz$abCz$Faz$KeBz$bbCz$BLBz$CACz$cbCz$HMBz$z$PtBz$dbCz$ebCz$jPBz$Rbz$fbCz$ZCz$HHBz$gbCz$hbCz$PdBz$ibCz$jbCz$WTCz$ZFz$kbCz$lbCz$FGBz$UeBz$z$oRBz$jOBz$xsz$jiBz$snBz$mbCz$OBCz$bRz$SNCz$kmBz$RNz$lMCz$FaBz$Cmz$Oqz$SsBz$UNCz$kkz$yMz$z$tOz$lgBz$SvBz$nbCz$IPz$mSCz$rLBz$Vez$obCz$pbCz$WOz$TMz$qbCz$rbCz$hHz$rhBz$cxBz$KOz$LOz$z$rZz$cRCz$ICBz$foBz$bVCz$sbCz$IQBz$wqz$tbCz$YZz$ubCz$ZZz$vbCz$wbCz$hICz$Ytz$xbCz$ybCz$fMz$z$fOCz$AcCz$xwBz$BcCz$qwBz$CcCz$ARCz$tez$enz$tYCz$DcCz$hXz$hfz$gIz$DRBz$mTz$lfz$uTCz$hRz$z$EcCz$FcCz$CNz$vaz$IPz$YOz$YHz$wLBz$GcCz$HYz$nNCz$IsBz$oQBz$HcCz$IcCz$rSz$HFz$CEz$lgz$z$HOz$bIz$USBz$JcCz$FYz$nrz$KcCz$LcCz$gWz$gDBz$NNz$Tbz$McCz$WaCz$XaCz$rGz$Nlz$keBz$dyz$z$Itz$Ugz$mHBz$kHBz$gXCz$ghz$DPBz$NcCz$IHz$yQBz$pcBz$htBz$OcCz$PcCz$ufBz$srz$QcCz$RcCz$hRz$z$cOz$ScCz$TcCz$UcCz$cQBz$rhBz$VcCz$brz$WcCz$oGBz$XcCz$YcCz$vpz$EXCz$ZcCz$UGz$oGz$ZrBz$OBz$z$acCz$WnBz$frBz$FTBz$bcCz$ccCz$dcCz$DHBz$vbz$Miz$ecCz$TJz$Ttz$fcCz$Ogz$bnBz$EOz$pEBz$bbBz$z$VIBz$HBz$gcCz$lLBz$VGCz$cbCz$ZIBz$hcCz$QEz$icCz$jcCz$kcCz$UPCz$KEBz$WDCz$FTBz$PHBz$lcCz$MCz$z$YYz$THBz$mcCz$rwz$ncCz$WIz$ocCz$YaBz$pcCz$ekz$AQz$xyBz$CQz$pfBz$qcCz$xSBz$qPz$JsBz$vBz$z$bnBz$WIz$sgBz$rcCz$scCz$kVCz$NACz$tcCz$Iwz$vbz$ucCz$kFBz$qez$vcCz$WCz$wcCz$xcCz$Gbz$ycCz$z$ruz$IJCz$AdCz$FUCz$HMCz$BdCz$CdCz$sMz$eTCz$vyBz$osz$drBz$RHz$ZYz$qlz$XXCz$Qiz$Riz$dPBz$z$DdCz$xqBz$SdBz$EdCz$FdCz$qBBz$gGz$TSBz$CWBz$ZWz$Btz$PQz$GdCz$GGz$HdCz$nICz$dVz$IdCz$WCz$z$JdCz$KdCz$gpBz$LdCz$iiz$MdCz$FDz$NdCz$OdCz$rbCz$Exz$PdCz$lbCz$QdCz$jYz$Wxz$qXCz$lLz$ocBz$z$TCz$JFz$MnBz$Eez$RdCz$KVBz$uxBz$aHz$kpz$qaz$SdCz$TdCz$kkBz$UdCz$rVBz$VdCz$eWBz$mvz$dLz$z$UWBz$PRz$WdCz$sxz$nkBz$oOz$obBz$vxz$SOBz$XdCz$jUBz$YdCz$ZdCz$Qvz$Snz$Hdz$WQBz$adCz$eHCz$z$NRBz$qUCz$bdCz$SSz$wxBz$PVBz$ROz$ZCz$LWBz$Nyz$cdCz$ddCz$mxz$edCz$uUCz$ZOCz$HsBz$WWCz$QABz$z$fdCz$Uyz$Ouz$IHz$WUCz$gdCz$hdCz$blz$NUBz$idCz$dhBz$dlz$MTz$jdCz$fmz$vUz$kdCz$pYz$byz$z$ldCz$mdCz$ndCz$gfBz$ncz$ifBz$pPz$Mfz$odCz$gKBz$pdCz$kDz$qdCz$Ibz$qMBz$rGz$WWz$rdCz$IDz$z$Gfz$sdCz$LDz$MDz$tdCz$Djz$wJBz$hWCz$udCz$Udz$vdCz$GiBz$QTBz$wdCz$ohBz$XnBz$dhz$xdCz$Bkz$z$wrz$OJBz$SOBz$ydCz$jXBz$qsz$Cez$AeCz$KYBz$BeCz$CeCz$iIz$bbz$Iaz$NgBz$HVz$DeCz$EeCz$FeCz$z$cQBz$PNBz$GeCz$YWz$meBz$aCz$HeCz$IeCz$PHBz$JeCz$KeCz$kOz$Hqz$LeCz$fMBz$MeCz$gOz$NeCz$OeCz$z$PeCz$Twz$GXz$XTBz$PnBz$nMCz$stBz$wYz$UiBz$QeCz$hKBz$VPCz$jFz$kWz$ReCz$LPBz$pUz$hlBz$SeCz$z$xOBz$FBz$wNz$Kfz$uUz$TeCz$Omz$hOz$UeCz$pABz$VeCz$WeCz$yYCz$aLz$XeCz$pPz$YeCz$LYz$ZeCz$z$aeCz$DnBz$qEz$FICz$beCz$KhBz$ZHCz$ceCz$SnBz$pPCz$yQz$deCz$eeCz$feCz$vsz$geCz$lkz$heCz$JdBz$z$edz$ieCz$jeCz$ulz$keCz$OeBz$vqBz$xGz$yTz$leCz$WCz$meCz$neCz$Gbz$yICz$NNCz$oeCz$Wnz$peCz$z$qeCz$dvz$nTz$reCz$bDz$seCz$SsBz$teCz$ueCz$WIz$eUz$veCz$weCz$XTz$hsBz$xCCz$qSCz$sfBz$sQz$z$kACz$QtBz$Zjz$eMBz$xeCz$PgBz$Kbz$yeCz$bgBz$lOz$Uoz$AfCz$gGCz$TLz$BfCz$Nfz$CfCz$TCBz$Miz$z$hFz$ktBz$IJBz$QZCz$DfCz$EfCz$WcCz$FfCz$GfCz$QNz$iCBz$uhBz$HfCz$vRz$IfCz$JfCz$KfCz$XVBz$poBz$z$LfCz$FCz$MfCz$NfCz$OfCz$xOCz$PfCz$QfCz$Ogz$RfCz$IJBz$SfCz$OgBz$TfCz$PLCz$ybz$QEBz$UfCz$AXz$z$RCBz$VfCz$WfCz$vxz$tRz$aWCz$iYCz$XfCz$YfCz$pYz$YXBz$jrBz$ZfCz$MEBz$rgz$uhBz$afCz$UCz$TLz$z$Lez$CHz$sez$cfz$mIz$OkBz$VBz$cQCz$Ztz$hCBz$JxBz$QLz$bfCz$Yfz$Vrz$oOCz$kFBz$cfCz$rbBz$z$eFCz$SKz$leBz$mBz$XKBz$onz$xEz$vcBz$dfCz$efCz$ffCz$LZBz$VOCz$GPz$hCz$aWz$bWz$gfCz$tYz$z$hfCz$QXCz$HMCz$ifCz$EUz$Yiz$jfCz$joz$odz$LKz$BuBz$ZZz$THz$kfCz$lfCz$FYz$HQBz$uDBz$mfCz$z$yYCz$SVBz$MoBz$CYz$LWBz$IhBz$gXz$Zhz$GOBz$jwBz$nfCz$FPCz$Grz$jPCz$xWBz$ofCz$QTz$TcCz$EPBz$z$IyBz$pfCz$qfCz$rfCz$sKz$ysz$aKCz$Qcz$LIBz$sfCz$HPCz$eBz$GSBz$FFz$tfCz$cQBz$WWz$ufCz$XXz$z$jEz$FEz$vfCz$Ikz$wNz$wfCz$MCz$xSBz$bez$whBz$VHBz$xfCz$XgBz$aHBz$yfCz$AgCz$lfz$BgCz$XXz$z$Kdz$ncz$CgCz$wgz$XWz$DgCz$oECz$oiBz$WIz$ZPCz$NZz$ZZCz$LLz$EgCz$Sqz$qVz$lCz$Ajz$QPBz$z$FgCz$QJz$GgCz$HgCz$cHBz$MPBz$AZz$lSz$JQz$xCBz$IgCz$LMBz$oGz$vMBz$Yiz$MKz$RFz$mQCz$iiz$z$JgCz$dpz$KgCz$FPBz$LgCz$Oqz$OBBz$TLBz$Qsz$HZBz$eTz$VeBz$JxBz$qXBz$Piz$xLz$DGz$MgCz$NgCz$z$OgCz$vbz$CJBz$jlBz$pZCz$PMBz$sRz$WvBz$hrBz$iBz$PgCz$QgCz$RgCz$SgCz$TgCz$UgCz$MJCz$fyBz$RnBz$z$yTz$cOz$VgCz$WgCz$XgCz$SHz$YgCz$ZgCz$NxBz$Gwz$cMCz$agCz$EaBz$RGz$DCz$Tez$xrBz$bgCz$cgCz$z$ivz$RgCz$dgCz$GeBz$HKBz$egCz$Ajz$fgCz$cSz$mZCz$gxBz$ggCz$XTBz$Aqz$hiz$hgCz$igCz$XLz$jgCz$z$iMCz$kgCz$fEz$lgCz$mgCz$vVBz$CtBz$Trz$uyBz$FeBz$CQBz$xHz$ngCz$wFBz$ogCz$tMCz$GABz$XQCz$sQz$z$HTCz$pgCz$NKz$qgCz$rgCz$RIz$qcz$GNBz$lYz$XMz$iBz$sgCz$tgCz$ugCz$OMz$nnz$vgCz$rRz$OJBz$z$UWz$wgCz$RQBz$Xnz$xgCz$cPz$QKz$ylBz$ygCz$cmz$AkBz$aLz$qUCz$lUCz$KXBz$iSCz$AhCz$BhCz$EOz$z$ChCz$DhCz$ISBz$vpz$JXz$pmz$uxBz$JbBz$jwBz$lCBz$EhCz$FhCz$DLBz$lABz$ZZz$TgCz$xWz$GTz$UPCz$z$SNBz$ynz$GhCz$XqBz$HhCz$IhCz$hRz$JhCz$KhCz$Ihz$bLCz$amz$Tiz$LhCz$DsBz$Ygz$MhCz$OnBz$LPz$z$qnz$NhCz$OhCz$NKz$RFCz$Yoz$ysBz$XLz$jYCz$sPBz$PhCz$Exz$Jgz$QhCz$CjBz$eNCz$JwBz$Waz$ZZz$z$VDz$naBz$CWCz$RhCz$EuBz$ShCz$NvBz$VYz$tdz$DZBz$mFCz$Srz$KaBz$sjz$SLz$kaz$LJz$pNCz$QdCz$z$NOCz$ThCz$wPz$UhCz$ZWz$VhCz$Qdz$IuBz$JuBz$Ebz$YZCz$cQBz$Ioz$WhCz$NMz$mrz$keBz$XhCz$lSz$z$dvz$YhCz$ZhCz$kOz$ahCz$bhCz$FUz$Fwz$RKBz$chCz$osBz$utBz$yZz$dhCz$ehCz$dCz$fhCz$tgz$ufBz$z$eZBz$nQBz$ghCz$UfBz$lkz$cnBz$dnBz$QHCz$yLz$Fuz$hhCz$ndBz$Lrz$ihCz$oCCz$jhCz$iSBz$Tyz$khCz$z$lhCz$nVCz$mhCz$nhCz$YRBz$NRBz$KwBz$LwBz$DsBz$Tmz$ohCz$phCz$fEBz$jsz$HgBz$qhCz$xBz$rhCz$TICz$z$YFz$uJz$GsBz$NKCz$piBz$MfCz$GgCz$VaBz$Mlz$SQBz$shCz$Jiz$YKz$thCz$nXCz$rUz$OPBz$wGz$uhCz$z$kBBz$vhCz$FEz$whCz$pICz$okz$xhCz$wMz$OCCz$yhCz$ykBz$HUz$MACz$LIBz$qNBz$AiCz$Srz$BiCz$imz$z$LMCz$CiCz$ZEBz$rtz$bRBz$sUCz$DiCz$EiCz$YHz$eRz$anz$FiCz$tmz$Uez$TMBz$KGBz$iTz$HtBz$GiCz$z$HiCz$uCBz$FSCz$tdBz$KSz$ZHz$UBCz$Ogz$xSz$Kez$Tuz$qbBz$IiCz$cfz$lgz$Ffz$JiCz$DsBz$KiCz$z$LiCz$lrBz$MiCz$HGz$NiCz$yNz$OiCz$PiCz$QiCz$ZSz$RiCz$qfBz$upz$dpz$Ytz$SiCz$pmz$UJz$Muz$z$cgBz$GFBz$TiCz$rdBz$UiCz$GhBz$Mjz$ViCz$Zlz$WiCz$Snz$XiCz$YiCz$KPz$rEz$wZz$ZiCz$aGBz$fwBz$z$wYBz$aiCz$oVz$Rsz$biCz$YcBz$XUz$ciCz$twz$RIz$diCz$eiCz$fiCz$qaz$CDCz$hLBz$giCz$xZz$hHz$z$hiCz$iiCz$vRz$jCBz$jiCz$lUCz$QMz$pHz$qHz$kiCz$Caz$qCBz$Jnz$liCz$mBz$miCz$hWCz$yABz$RYz$z$vWBz$niCz$AHBz$oiCz$piCz$qiCz$QjBz$tVz$riCz$PGCz$xlBz$NUBz$jHBz$siCz$XxBz$tiCz$Bmz$EZBz$uiCz$z$viCz$wiCz$xiCz$rGz$Arz$ORCz$yiCz$AjCz$ykBz$Rvz$uNz$cLBz$aLz$uKBz$Faz$TeCz$qxz$dIz$Gwz$z$yXBz$Rhz$aKBz$Boz$Ypz$BjCz$vABz$CjCz$wfCz$iJBz$nNCz$IsBz$eHz$CnBz$DjCz$ApBz$EjCz$dXCz$SxBz$z$YKz$hOCz$FjCz$GjCz$XJBz$HjCz$ZTBz$cQBz$IjCz$FcCz$Bbz$JjCz$KjCz$LjCz$MjCz$RQBz$bRz$oeBz$bwz$z$VBBz$DCz$NjCz$OjCz$ndz$yfBz$PjCz$QjCz$PUz$RjCz$dHCz$Jyz$hRBz$wdCz$bdCz$SjCz$QTz$TjCz$uGBz$z$SHz$Khz$Pcz$UjCz$kcBz$VjCz$iKz$pmz$WjCz$Muz$XjCz$KNz$YjCz$vxz$ZjCz$tFBz$amz$tMBz$noz$z$xgz$BXz$qoz$aKBz$ajCz$Ypz$Zpz$msz$fTCz$lsBz$wwz$bjCz$oGz$FGz$bPBz$cjCz$Cxz$mXBz$djCz$z$ICBz$aaCz$xDBz$gvBz$Lyz$QfBz$TFBz$Aoz$YKz$ejCz$SACz$Ohz$mICz$fjCz$gjCz$cSz$aaCz$Yvz$hjCz$z$ijCz$PHz$EBz$jjCz$kjCz$ljCz$mjCz$pGz$Qcz$njCz$ojCz$pjCz$fEBz$GSBz$HSBz$qjCz$ywz$rjCz$VrBz$z$sjCz$yLz$nBBz$kxBz$tjCz$ujCz$tLz$kfCz$ykz$ndz$usz$slBz$OHz$vjCz$Wqz$Sdz$iWz$wjCz$xjCz$z$EaBz$GCz$yjCz$AkCz$xOCz$BrBz$GWz$UWz$gHz$vDz$Ioz$oZBz$gLCz$LLz$BkCz$oACz$CkCz$lOz$dWz$z$DJBz$SLz$PMBz$Zmz$khCz$hUz$qnz$DkCz$BvBz$EEz$yQz$Qyz$aABz$FWBz$EkCz$FkCz$GMz$qdBz$eqBz$z$WvBz$fqBz$ZCz$WUCz$jjz$GkCz$Awz$HkCz$IkCz$jNz$JkCz$VlBz$lRz$YpBz$KkCz$LkCz$MXBz$MkCz$NkCz$z$qoz$bLBz$puz$Ygz$OkCz$PkCz$QkCz$AVBz$DWz$HMCz$ebz$vxz$cDBz$RkCz$lkz$SkCz$TFCz$Qvz$TkCz$z$kFBz$UkCz$VkCz$nCBz$WkCz$xcCz$JxBz$XkCz$knz$YkCz$oVz$hfz$ZkCz$akCz$fez$AFz$cbz$bkCz$fEBz$z$nwz$nOz$Qdz$UiBz$ckCz$xKz$nMz$NkCz$GWBz$dZz$dkCz$JpBz$ekCz$EZBz$vkBz$nMCz$wZz$alBz$SHz$z$fkCz$gkCz$asBz$hkCz$NkCz$GWBz$FeBz$kKz$AVCz$ikCz$yTz$jkCz$kkCz$lkCz$YDz$nnz$NbBz$MtBz$mkCz$z$nkCz$Toz$XkBz$TEz$SGz$okCz$xSBz$gvz$WFz$pkCz$ioBz$yFz$qkCz$DKCz$sHBz$ZaBz$rkCz$sqz$skCz$z$PWz$DLBz$tkCz$cQBz$ukCz$hrz$mMz$vkCz$wkCz$jXz$Swz$bBCz$fmBz$xkCz$ykCz$abz$Grz$AlCz$cTz$z$cOz$XkBz$jkz$BlCz$oGz$wmz$wMBz$DnBz$ZsBz$hgBz$CUz$lOz$SFz$ClCz$DlCz$ElCz$Axz$vJCz$FlCz$z$ZFz$GlCz$HlCz$MjCz$sdz$IlCz$xTz$QqBz$JlCz$KlCz$LlCz$MlCz$NlCz$OlCz$PlCz$xlBz$svBz$ciz$KTz$z$lbz$BGCz$VkBz$AHBz$gQz$Lmz$EeCz$QjCz$WIz$HYBz$DPBz$liBz$Etz$AACz$QlCz$ICBz$jVCz$YQCz$RlCz$z$igBz$TYCz$SlCz$TlCz$cjBz$YVz$vtz$Dtz$mlz$Pqz$HlBz$Qcz$RCz$oEz$UlCz$yBCz$VVz$VlCz$pSBz$z$Fkz$WlCz$qtz$uBBz$glBz$gxz$XlCz$YlCz$ZlCz$alCz$XGz$tkCz$LVz$blCz$clCz$DEz$EVBz$qpBz$HlBz$z$rJBz$dlCz$Trz$elCz$LUz$vRz$uhBz$bEz$GOz$wVCz$rdBz$cgz$neCz$ZCz$flCz$rXCz$hICz$rLCz$glCz$z$nSBz$giz$YJCz$kkBz$PbCz$vRz$enz$fnz$rbCz$hlCz$ilCz$jlCz$klCz$ZWCz$llCz$Xfz$SMBz$mlCz$nlCz$z$olCz$AHBz$ONz$plCz$mGCz$VvBz$YSCz$vtz$CkCz$qlCz$EYBz$rlCz$JJz$TTz$EBz$TCz$gyz$jWz$pxz$z$iHBz$yQCz$uCBz$Nlz$vYCz$lrBz$Otz$LdBz$QQBz$vDz$slCz$tlCz$Pjz$dLz$XKBz$ulCz$vlCz$IHz$wlCz$z$xlCz$CjBz$ZUz$ylCz$rlCz$RWz$AmCz$BmCz$CmCz$DmCz$cfz$ORz$nmBz$omBz$hCz$EmCz$FmCz$Thz$cIBz$z$ZjCz$GmCz$IHz$FGz$Jnz$MJBz$DuBz$HmCz$RSBz$CZBz$deBz$tdz$ImCz$IKz$nEz$JmCz$cKBz$OIBz$rjz$z$KmCz$aLCz$NNz$LmCz$MmCz$xEz$Fcz$ksz$NmCz$AcBz$TCBz$Dkz$YZz$OmCz$PMBz$enz$qWBz$qNz$qFz$z$PmCz$QmCz$MDz$VYz$INz$RmCz$aACz$rDz$HRBz$SmCz$qJz$Ioz$TmCz$mMz$kEBz$uHCz$UmCz$GdCz$skz$z$VmCz$WmCz$hbBz$XmCz$kJz$RIBz$vvz$NJCz$nSBz$YmCz$ZmCz$EPz$Ijz$KvBz$aABz$JKz$pTBz$KSz$cQBz$z$tnz$amCz$bmCz$BeBz$Fjz$cmCz$dmCz$emCz$fmCz$jLBz$gmCz$SmBz$wBCz$hmCz$UBBz$yEz$imCz$jmCz$kmCz$z$lmCz$mmCz$nmCz$omCz$pmCz$qmCz$LpBz$rmCz$smCz$tmCz$umCz$vmCz$wmCz$xmCz$ymCz$AnCz$BnCz$CnCz$DnCz$z$EnCz$FnCz$GnCz$Az$HnCz$InCz"
+#!/bin/bash
+export LANG=en_US.UTF-8
+red='\033[0;31m'
+green='\033[0;32m'
+yellow='\033[0;33m'
+blue='\033[0;36m'
+bblue='\033[0;34m'
+plain='\033[0m'
+red(){ echo -e "\033[31m\033[01m$1\033[0m";}
+green(){ echo -e "\033[32m\033[01m$1\033[0m";}
+yellow(){ echo -e "\033[33m\033[01m$1\033[0m";}
+blue(){ echo -e "\033[36m\033[01m$1\033[0m";}
+white(){ echo -e "\033[37m\033[01m$1\033[0m";}
+readp(){ read -p "$(yellow "$1")" $2;}
+[[ $EUID -ne 0 ]] && yellow "请以root模式运行脚本" && exit
+#[[ -e /etc/hosts ]] && grep -qE '^ *172.65.251.78 gitlab.com' /etc/hosts || echo -e '\n172.65.251.78 gitlab.com' >> /etc/hosts
+if [[ -f /etc/redhat-release ]]; then
+release="Centos"
+elif cat /etc/issue | grep -q -E -i "alpine"; then
+release="alpine"
+elif cat /etc/issue | grep -q -E -i "debian"; then
+release="Debian"
+elif cat /etc/issue | grep -q -E -i "ubuntu"; then
+release="Ubuntu"
+elif cat /etc/issue | grep -q -E -i "centos|red hat|redhat"; then
+release="Centos"
+elif cat /proc/version | grep -q -E -i "debian"; then
+release="Debian"
+elif cat /proc/version | grep -q -E -i "ubuntu"; then
+release="Ubuntu"
+elif cat /proc/version | grep -q -E -i "centos|red hat|redhat"; then
+release="Centos"
+else 
+red "脚本不支持当前的系统，请选择使用Ubuntu,Debian,Centos系统。" && exit
+fi
+vsid=$(grep -i version_id /etc/os-release | cut -d \" -f2 | cut -d . -f1)
+op=$(cat /etc/redhat-release 2>/dev/null || cat /etc/os-release 2>/dev/null | grep -i pretty_name | cut -d \" -f2)
+#if [[ $(echo "$op" | grep -i -E "arch|alpine") ]]; then
+if [[ $(echo "$op" | grep -i -E "arch") ]]; then
+red "脚本不支持当前的 $op 系统，请选择使用Ubuntu,Debian,Centos系统。" && exit
+fi
+version=$(uname -r | cut -d "-" -f1)
+[[ -z $(systemd-detect-virt 2>/dev/null) ]] && vi=$(virt-what 2>/dev/null) || vi=$(systemd-detect-virt 2>/dev/null)
+case $(uname -m) in
+armv7l) cpu=armv7;;
+aarch64) cpu=arm64;;
+x86_64) cpu=amd64;;
+*) red "目前脚本不支持$(uname -m)架构" && exit;;
+esac
+#bit=$(uname -m)
+#if [[ $bit = "aarch64" ]]; then
+#cpu="arm64"
+#elif [[ $bit = "x86_64" ]]; then
+#amdv=$(cat /proc/cpuinfo | grep flags | head -n 1 | cut -d: -f2)
+#[[ $amdv == *avx2* && $amdv == *f16c* ]] && cpu="amd64v3" || cpu="amd64"
+#else
+#red "目前脚本不支持 $bit 架构" && exit
+#fi
+if [[ -n $(sysctl net.ipv4.tcp_congestion_control 2>/dev/null | awk -F ' ' '{print $3}') ]]; then
+bbr=`sysctl net.ipv4.tcp_congestion_control | awk -F ' ' '{print $3}'`
+elif [[ -n $(ping 10.0.0.2 -c 2 | grep ttl) ]]; then
+bbr="Openvz版bbr-plus"
+else
+bbr="Openvz/Lxc"
+fi
+hostname=$(hostname)
+
+if [ ! -f sbyg_update ]; then
+green "首次安装Sing-box-yg脚本必要的依赖……"
+if [[ x"${release}" == x"alpine" ]]; then
+apk update
+apk add wget curl tar jq tzdata openssl expect git socat iproute2 iptables
+apk add virt-what
+apk add qrencode
+else
+if [[ $release = Centos && ${vsid} =~ 8 ]]; then
+cd /etc/yum.repos.d/ && mkdir backup && mv *repo backup/ 
+curl -o /etc/yum.repos.d/CentOS-Base.repo http://mirrors.aliyun.com/repo/Centos-8.repo
+sed -i -e "s|mirrors.cloud.aliyuncs.com|mirrors.aliyun.com|g " /etc/yum.repos.d/CentOS-*
+sed -i -e "s|releasever|releasever-stream|g" /etc/yum.repos.d/CentOS-*
+yum clean all && yum makecache
+cd
+fi
+if [ -x "$(command -v apt-get)" ]; then
+apt update -y
+apt install jq iptables-persistent -y
+elif [ -x "$(command -v yum)" ]; then
+yum update -y && yum install epel-release -y
+yum install jq -y
+elif [ -x "$(command -v dnf)" ]; then
+dnf update -y
+dnf install jq -y
+fi
+if [ -x "$(command -v yum)" ] || [ -x "$(command -v dnf)" ]; then
+if [ -x "$(command -v yum)" ]; then
+yum install -y cronie iptables-services
+elif [ -x "$(command -v dnf)" ]; then
+dnf install -y cronie iptables-services
+fi
+systemctl enable iptables >/dev/null 2>&1
+systemctl start iptables >/dev/null 2>&1
+fi
+if [[ -z $vi ]]; then
+apt install iputils-ping iproute2 systemctl -y
+fi
+
+packages=("curl" "openssl" "iptables" "tar" "expect" "wget" "xxd" "python3" "qrencode" "git")
+inspackages=("curl" "openssl" "iptables" "tar" "expect" "wget" "xxd" "python3" "qrencode" "git")
+for i in "${!packages[@]}"; do
+package="${packages[$i]}"
+inspackage="${inspackages[$i]}"
+if ! command -v "$package" &> /dev/null; then
+if [ -x "$(command -v apt-get)" ]; then
+apt-get install -y "$inspackage"
+elif [ -x "$(command -v yum)" ]; then
+yum install -y "$inspackage"
+elif [ -x "$(command -v dnf)" ]; then
+dnf install -y "$inspackage"
+fi
+fi
+done
+fi
+touch sbyg_update
+fi
+
+if [[ $vi = openvz ]]; then
+TUN=$(cat /dev/net/tun 2>&1)
+if [[ ! $TUN =~ 'in bad state' ]] && [[ ! $TUN =~ '处于错误状态' ]] && [[ ! $TUN =~ 'Die Dateizugriffsnummer ist in schlechter Verfassung' ]]; then 
+red "检测到未开启TUN，现尝试添加TUN支持" && sleep 4
+cd /dev && mkdir net && mknod net/tun c 10 200 && chmod 0666 net/tun
+TUN=$(cat /dev/net/tun 2>&1)
+if [[ ! $TUN =~ 'in bad state' ]] && [[ ! $TUN =~ '处于错误状态' ]] && [[ ! $TUN =~ 'Die Dateizugriffsnummer ist in schlechter Verfassung' ]]; then 
+green "添加TUN支持失败，建议与VPS厂商沟通或后台设置开启" && exit
+else
+echo '#!/bin/bash' > /root/tun.sh && echo 'cd /dev && mkdir net && mknod net/tun c 10 200 && chmod 0666 net/tun' >> /root/tun.sh && chmod +x /root/tun.sh
+grep -qE "^ *@reboot root bash /root/tun.sh >/dev/null 2>&1" /etc/crontab || echo "@reboot root bash /root/tun.sh >/dev/null 2>&1" >> /etc/crontab
+green "TUN守护功能已启动"
+fi
+fi
+fi
+
+v4v6(){
+v4=$(curl -s4m5 icanhazip.com -k)
+v6=$(curl -s6m5 icanhazip.com -k)
+}
+
+warpcheck(){
+wgcfv6=$(curl -s6m5 https://www.cloudflare.com/cdn-cgi/trace -k | grep warp | cut -d= -f2)
+wgcfv4=$(curl -s4m5 https://www.cloudflare.com/cdn-cgi/trace -k | grep warp | cut -d= -f2)
+}
+
+v6(){
+v4orv6(){
+if [ -z $(curl -s4m5 icanhazip.com -k) ]; then
+echo
+red "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+yellow "检测到 纯IPV6 VPS，添加DNS64"
+echo -e "nameserver 2a00:1098:2b::1\nnameserver 2a00:1098:2c::1\nnameserver 2a01:4f8:c2c:123f::1" > /etc/resolv.conf
+endip=2606:4700:d0::a29f:c101
+ipv=prefer_ipv6
+else
+endip=162.159.192.1
+ipv=prefer_ipv4
+#echo '4' > /etc/s-box/i
+fi
+}
+warpcheck
+if [[ ! $wgcfv4 =~ on|plus && ! $wgcfv6 =~ on|plus ]]; then
+v4orv6
+else
+systemctl stop wg-quick@wgcf >/dev/null 2>&1
+kill -15 $(pgrep warp-go) >/dev/null 2>&1 && sleep 2
+v4orv6
+systemctl start wg-quick@wgcf >/dev/null 2>&1
+systemctl restart warp-go >/dev/null 2>&1
+systemctl enable warp-go >/dev/null 2>&1
+systemctl start warp-go >/dev/null 2>&1
+fi
+}
+
+argopid(){
+ym=$(cat /etc/s-box/sbargoympid.log 2>/dev/null)
+ls=$(cat /etc/s-box/sbargopid.log 2>/dev/null)
+}
+
+close(){
+systemctl stop firewalld.service >/dev/null 2>&1
+systemctl disable firewalld.service >/dev/null 2>&1
+setenforce 0 >/dev/null 2>&1
+ufw disable >/dev/null 2>&1
+iptables -P INPUT ACCEPT >/dev/null 2>&1
+iptables -P FORWARD ACCEPT >/dev/null 2>&1
+iptables -P OUTPUT ACCEPT >/dev/null 2>&1
+iptables -t mangle -F >/dev/null 2>&1
+iptables -F >/dev/null 2>&1
+iptables -X >/dev/null 2>&1
+netfilter-persistent save >/dev/null 2>&1
+if [[ -n $(apachectl -v 2>/dev/null) ]]; then
+systemctl stop httpd.service >/dev/null 2>&1
+systemctl disable httpd.service >/dev/null 2>&1
+service apache2 stop >/dev/null 2>&1
+systemctl disable apache2 >/dev/null 2>&1
+fi
+sleep 1
+green "执行开放端口，关闭防火墙完毕"
+}
+
+openyn(){
+red "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+readp "是否开放端口，关闭防火墙？\n1、是，执行 (回车默认)\n2、否，跳过！自行处理\n请选择【1-2】：" action
+if [[ -z $action ]] || [[ "$action" = "1" ]]; then
+close
+elif [[ "$action" = "2" ]]; then
+echo
+else
+red "输入错误,请重新选择" && openyn
+fi
+}
+
+inssb(){
+red "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+green "一、开始下载并安装Sing-box正式版1.10系列内核……请稍等"
+echo
+sbcore=$(curl -Ls https://data.jsdelivr.com/v1/package/gh/SagerNet/sing-box | grep -Eo '"1\.10[0-9\.]*",'  | sed -n 1p | tr -d '",')
+sbname="sing-box-$sbcore-linux-$cpu"
+curl -L -o /etc/s-box/sing-box.tar.gz  -# --retry 2 https://github.com/SagerNet/sing-box/releases/download/v$sbcore/$sbname.tar.gz
+if [[ -f '/etc/s-box/sing-box.tar.gz' ]]; then
+tar xzf /etc/s-box/sing-box.tar.gz -C /etc/s-box
+mv /etc/s-box/$sbname/sing-box /etc/s-box
+rm -rf /etc/s-box/{sing-box.tar.gz,$sbname}
+if [[ -f '/etc/s-box/sing-box' ]]; then
+chown root:root /etc/s-box/sing-box
+chmod +x /etc/s-box/sing-box
+blue "成功安装 Sing-box 内核版本：$(/etc/s-box/sing-box version | awk '/version/{print $NF}')"
+else
+red "下载 Sing-box 内核不完整，安装失败，请再运行安装一次" && exit
+fi
+else
+red "下载 Sing-box 内核失败，请再运行安装一次，并检测VPS的网络是否可以访问Github" && exit
+fi
+}
+
+inscertificate(){
+ymzs(){
+ym_vl_re=www.yahoo.com
+echo
+blue "Vless-reality的SNI域名默认为 www.yahoo.com"
+blue "Vmess-ws将开启TLS，Hysteria-2、Tuic-v5将使用 $(cat /root/ygkkkca/ca.log 2>/dev/null) 证书，并开启SNI证书验证"
+tlsyn=true
+ym_vm_ws=$(cat /root/ygkkkca/ca.log 2>/dev/null)
+certificatec_vmess_ws='/root/ygkkkca/cert.crt'
+certificatep_vmess_ws='/root/ygkkkca/private.key'
+certificatec_hy2='/root/ygkkkca/cert.crt'
+certificatep_hy2='/root/ygkkkca/private.key'
+certificatec_tuic='/root/ygkkkca/cert.crt'
+certificatep_tuic='/root/ygkkkca/private.key'
+}
+
+zqzs(){
+ym_vl_re=www.yahoo.com
+echo
+blue "Vless-reality的SNI域名默认为 www.yahoo.com"
+blue "Vmess-ws将关闭TLS，Hysteria-2、Tuic-v5将使用bing自签证书，并关闭SNI证书验证"
+tlsyn=false
+ym_vm_ws=www.bing.com
+certificatec_vmess_ws='/etc/s-box/cert.pem'
+certificatep_vmess_ws='/etc/s-box/private.key'
+certificatec_hy2='/etc/s-box/cert.pem'
+certificatep_hy2='/etc/s-box/private.key'
+certificatec_tuic='/etc/s-box/cert.pem'
+certificatep_tuic='/etc/s-box/private.key'
+}
+
+red "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+green "二、生成并设置相关证书"
+echo
+blue "自动生成bing自签证书中……" && sleep 2
+openssl ecparam -genkey -name prime256v1 -out /etc/s-box/private.key
+openssl req -new -x509 -days 36500 -key /etc/s-box/private.key -out /etc/s-box/cert.pem -subj "/CN=www.bing.com"
+echo
+if [[ -f /etc/s-box/cert.pem ]]; then
+blue "生成bing自签证书成功"
+else
+red "生成bing自签证书失败" && exit
+fi
+echo
+if [[ -f /root/ygkkkca/cert.crt && -f /root/ygkkkca/private.key && -s /root/ygkkkca/cert.crt && -s /root/ygkkkca/private.key ]]; then
+yellow "经检测，之前已使用Acme-yg脚本申请过Acme域名证书：$(cat /root/ygkkkca/ca.log) "
+green "是否使用 $(cat /root/ygkkkca/ca.log) 域名证书？"
+yellow "1：否！使用自签的证书 (回车默认)"
+yellow "2：是！使用 $(cat /root/ygkkkca/ca.log) 域名证书"
+readp "请选择【1-2】：" menu
+if [ -z "$menu" ] || [ "$menu" = "1" ] ; then
+zqzs
+else
+ymzs
+fi
+else
+green "如果你有解析完成的域名，是否申请一个Acme域名证书？"
+yellow "1：否！继续使用自签的证书 (回车默认)"
+yellow "2：是！使用Acme-yg脚本申请Acme证书 (支持常规80端口模式与Dns API模式)"
+readp "请选择【1-2】：" menu
+if [ -z "$menu" ] || [ "$menu" = "1" ] ; then
+zqzs
+else
+bash <(curl -Ls https://gitlab.com/rwkgyg/acme-script/raw/main/acme.sh)
+if [[ ! -f /root/ygkkkca/cert.crt && ! -f /root/ygkkkca/private.key && ! -s /root/ygkkkca/cert.crt && ! -s /root/ygkkkca/private.key ]]; then
+red "Acme证书申请失败，继续使用自签证书" 
+zqzs
+else
+ymzs
+fi
+fi
+fi
+}
+
+chooseport(){
+if [[ -z $port ]]; then
+port=$(shuf -i 10000-65535 -n 1)
+until [[ -z $(ss -tunlp | grep -w udp | awk '{print $5}' | sed 's/.*://g' | grep -w "$port") && -z $(ss -tunlp | grep -w tcp | awk '{print $5}' | sed 's/.*://g' | grep -w "$port") ]] 
+do
+[[ -n $(ss -tunlp | grep -w udp | awk '{print $5}' | sed 's/.*://g' | grep -w "$port") || -n $(ss -tunlp | grep -w tcp | awk '{print $5}' | sed 's/.*://g' | grep -w "$port") ]] && yellow "\n端口被占用，请重新输入端口" && readp "自定义端口:" port
+done
+else
+until [[ -z $(ss -tunlp | grep -w udp | awk '{print $5}' | sed 's/.*://g' | grep -w "$port") && -z $(ss -tunlp | grep -w tcp | awk '{print $5}' | sed 's/.*://g' | grep -w "$port") ]]
+do
+[[ -n $(ss -tunlp | grep -w udp | awk '{print $5}' | sed 's/.*://g' | grep -w "$port") || -n $(ss -tunlp | grep -w tcp | awk '{print $5}' | sed 's/.*://g' | grep -w "$port") ]] && yellow "\n端口被占用，请重新输入端口" && readp "自定义端口:" port
+done
+fi
+blue "确认的端口：$port" && sleep 2
+}
+
+vlport(){
+readp "\n设置Vless-reality端口[1-65535] (回车跳过为10000-65535之间的随机端口)：" port
+chooseport
+port_vl_re=$port
+}
+vmport(){
+readp "\n设置Vmess-ws端口[1-65535] (回车跳过为10000-65535之间的随机端口)：" port
+chooseport
+port_vm_ws=$port
+}
+hy2port(){
+readp "\n设置Hysteria2主端口[1-65535] (回车跳过为10000-65535之间的随机端口)：" port
+chooseport
+port_hy2=$port
+}
+tu5port(){
+readp "\n设置Tuic5主端口[1-65535] (回车跳过为10000-65535之间的随机端口)：" port
+chooseport
+port_tu=$port
+}
+
+insport(){
+red "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+green "三、设置各个协议端口"
+yellow "1：自动生成每个协议的随机端口 (10000-65535范围内)，回车默认"
+yellow "2：自定义每个协议端口"
+readp "请输入【1-2】：" port
+if [ -z "$port" ] || [ "$port" = "1" ] ; then
+ports=()
+for i in {1..4}; do
+while true; do
+port=$(shuf -i 10000-65535 -n 1)
+if ! [[ " ${ports[@]} " =~ " $port " ]] && \
+[[ -z $(ss -tunlp | grep -w tcp | awk '{print $5}' | sed 's/.*://g' | grep -w "$port") ]] && \
+[[ -z $(ss -tunlp | grep -w udp | awk '{print $5}' | sed 's/.*://g' | grep -w "$port") ]]; then
+ports+=($port)
+break
+fi
+done
+done
+port_vm_ws=${ports[0]}
+port_vl_re=${ports[1]}
+port_hy2=${ports[2]}
+port_tu=${ports[3]}
+if [[ $tlsyn == "true" ]]; then
+numbers=("2053" "2083" "2087" "2096" "8443")
+else
+numbers=("8080" "8880" "2052" "2082" "2086" "2095")
+fi
+port_vm_ws=${numbers[$RANDOM % ${#numbers[@]}]}
+until [[ -z $(ss -tunlp | grep -w tcp | awk '{print $5}' | sed 's/.*://g' | grep -w "$port_vm_ws") ]]
+do
+if [[ $tlsyn == "true" ]]; then
+numbers=("2053" "2083" "2087" "2096" "8443")
+else
+numbers=("8080" "8880" "2052" "2082" "2086" "2095")
+fi
+port_vm_ws=${numbers[$RANDOM % ${#numbers[@]}]}
+done
+echo
+blue "根据Vmess-ws协议是否启用TLS，随机指定支持CDN优选IP的标准端口：$port_vm_ws"
+else
+vlport && vmport && hy2port && tu5port
+fi
+echo
+blue "各协议端口确认如下"
+blue "Vless-reality端口：$port_vl_re"
+blue "Vmess-ws端口：$port_vm_ws"
+blue "Hysteria-2端口：$port_hy2"
+blue "Tuic-v5端口：$port_tu"
+red "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+green "四、自动生成各个协议统一的uuid (密码)"
+uuid=$(/etc/s-box/sing-box generate uuid)
+blue "已确认uuid (密码)：${uuid}"
+blue "已确认Vmess的path路径：${uuid}-vm"
+}
+
+inssbjsonser(){
+cat > /etc/s-box/sb.json <<EOF
+{
+"log": {
+    "disabled": false,
+    "level": "info",
+    "timestamp": true
+  },
+  "inbounds": [
+    {
+      "type": "vless",
+      "sniff": true,
+      "sniff_override_destination": true,
+      "tag": "vless-sb",
+      "listen": "::",
+      "listen_port": ${port_vl_re},
+      "users": [
+        {
+          "uuid": "${uuid}",
+          "flow": "xtls-rprx-vision"
+        }
+      ],
+      "tls": {
+        "enabled": true,
+        "server_name": "${ym_vl_re}",
+          "reality": {
+          "enabled": true,
+          "handshake": {
+            "server": "${ym_vl_re}",
+            "server_port": 443
+          },
+          "private_key": "$private_key",
+          "short_id": ["$short_id"]
+        }
+      }
+    },
+{
+        "type": "vmess",
+        "sniff": true,
+        "sniff_override_destination": true,
+        "tag": "vmess-sb",
+        "listen": "::",
+        "listen_port": ${port_vm_ws},
+        "users": [
+            {
+                "uuid": "${uuid}",
+                "alterId": 0
+            }
+        ],
+        "transport": {
+            "type": "ws",
+            "path": "${uuid}-vm",
+            "max_early_data":2048,
+            "early_data_header_name": "Sec-WebSocket-Protocol"    
+        },
+        "tls":{
+                "enabled": ${tlsyn},
+                "server_name": "${ym_vm_ws}",
+                "certificate_path": "$certificatec_vmess_ws",
+                "key_path": "$certificatep_vmess_ws"
+            }
+    }, 
+    {
+        "type": "hysteria2",
+        "sniff": true,
+        "sniff_override_destination": true,
+        "tag": "hy2-sb",
+        "listen": "::",
+        "listen_port": ${port_hy2},
+        "users": [
+            {
+                "password": "${uuid}"
+            }
+        ],
+        "ignore_client_bandwidth":false,
+        "tls": {
+            "enabled": true,
+            "alpn": [
+                "h3"
+            ],
+            "certificate_path": "$certificatec_hy2",
+            "key_path": "$certificatep_hy2"
+        }
+    },
+        {
+            "type":"tuic",
+            "sniff": true,
+            "sniff_override_destination": true,
+            "tag": "tuic5-sb",
+            "listen": "::",
+            "listen_port": ${port_tu},
+            "users": [
+                {
+                    "uuid": "${uuid}",
+                    "password": "${uuid}"
+                }
+            ],
+            "congestion_control": "bbr",
+            "tls":{
+                "enabled": true,
+                "alpn": [
+                    "h3"
+                ],
+                "certificate_path": "$certificatec_tuic",
+                "key_path": "$certificatep_tuic"
+            }
+        }
+],
+"outbounds": [
+{
+"type":"direct",
+"tag":"direct",
+"domain_strategy": "$ipv"
+},
+{
+"type":"direct",
+"tag": "vps-outbound-v4", 
+"domain_strategy":"ipv4_only"
+},
+{
+"type":"direct",
+"tag": "vps-outbound-v6",
+"domain_strategy":"ipv6_only"
+},
+{
+"type": "socks",
+"tag": "socks-out",
+"server": "127.0.0.1",
+"server_port": 40000,
+"version": "5"
+},
+{
+"type":"direct",
+"tag":"socks-IPv4-out",
+"detour":"socks-out",
+"domain_strategy":"ipv4_only"
+},
+{
+"type":"direct",
+"tag":"socks-IPv6-out",
+"detour":"socks-out",
+"domain_strategy":"ipv6_only"
+},
+{
+"type":"direct",
+"tag":"warp-IPv4-out",
+"detour":"wireguard-out",
+"domain_strategy":"ipv4_only"
+},
+{
+"type":"direct",
+"tag":"warp-IPv6-out",
+"detour":"wireguard-out",
+"domain_strategy":"ipv6_only"
+},
+{
+"type":"wireguard",
+"tag":"wireguard-out",
+"server":"$endip",
+"server_port":2408,
+"local_address":[
+"172.16.0.2/32",
+"${v6}/128"
+],
+"private_key":"$pvk",
+"peer_public_key":"bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+"reserved":$res
+},
+{
+"type": "block",
+"tag": "block"
+}
+],
+"route":{
+"rules":[
+{
+"protocol": [
+"quic",
+"stun"
+],
+"outbound": "block"
+},
+{
+"outbound":"warp-IPv4-out",
+"domain": [
+"yg_kkk"
+]
+,"geosite": [
+"yg_kkk"
+]
+},
+{
+"outbound":"warp-IPv6-out",
+"domain": [
+"yg_kkk"
+]
+,"geosite": [
+"yg_kkk"
+]
+},
+{
+"outbound":"socks-IPv4-out",
+"domain": [
+"yg_kkk"
+]
+,"geosite": [
+"yg_kkk"
+]
+},
+{
+"outbound":"socks-IPv6-out",
+"domain": [
+"yg_kkk"
+]
+,"geosite": [
+"yg_kkk"
+]
+},
+{
+"outbound":"vps-outbound-v4",
+"domain": [
+"yg_kkk"
+]
+,"geosite": [
+"yg_kkk"
+]
+},
+{
+"outbound":"vps-outbound-v6",
+"domain": [
+"yg_kkk"
+]
+,"geosite": [
+"yg_kkk"
+]
+},
+{
+"outbound": "direct",
+"network": "udp,tcp"
+}
+]
+}
+}
+EOF
+}
+
+sbservice(){
+if [[ x"${release}" == x"alpine" ]]; then
+echo '#!/sbin/openrc-run
+description="sing-box service"
+command="/etc/s-box/sing-box"
+command_args="run -c /etc/s-box/sb.json"
+command_background=true
+pidfile="/var/run/sing-box.pid"' > /etc/init.d/sing-box
+chmod +x /etc/init.d/sing-box
+rc-update add sing-box default
+rc-service sing-box start
+else
+cat > /etc/systemd/system/sing-box.service <<EOF
+[Unit]
+After=network.target nss-lookup.target
+[Service]
+User=root
+WorkingDirectory=/root
+CapabilityBoundingSet=CAP_NET_ADMIN CAP_NET_BIND_SERVICE CAP_NET_RAW
+AmbientCapabilities=CAP_NET_ADMIN CAP_NET_BIND_SERVICE CAP_NET_RAW
+ExecStart=/etc/s-box/sing-box run -c /etc/s-box/sb.json
+ExecReload=/bin/kill -HUP \$MAINPID
+Restart=on-failure
+RestartSec=10
+LimitNOFILE=infinity
+[Install]
+WantedBy=multi-user.target
+EOF
+systemctl daemon-reload
+systemctl enable sing-box >/dev/null 2>&1
+systemctl start sing-box
+systemctl restart sing-box
+fi
+}
+
+ipuuid(){
+uuid=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[0].users[0].uuid')
+serip=$(curl -s4m5 icanhazip.com -k || curl -s6m5 icanhazip.com -k)
+if [[ "$serip" =~ : ]]; then
+sbdnsip='tls://[2001:4860:4860::8888]/dns-query'
+server_ip="[$serip]"
+server_ipcl="$serip"
+else
+sbdnsip='tls://8.8.8.8/dns-query'
+server_ip="$serip"
+server_ipcl="$serip"
+fi
+}
+
+wgcfgo(){
+warpcheck
+if [[ ! $wgcfv4 =~ on|plus && ! $wgcfv6 =~ on|plus ]]; then
+ipuuid
+else
+systemctl stop wg-quick@wgcf >/dev/null 2>&1
+kill -15 $(pgrep warp-go) >/dev/null 2>&1 && sleep 2
+ipuuid
+systemctl start wg-quick@wgcf >/dev/null 2>&1
+systemctl restart warp-go >/dev/null 2>&1
+systemctl enable warp-go >/dev/null 2>&1
+systemctl start warp-go >/dev/null 2>&1
+fi
+}
+
+result_vl_vm_hy_tu(){
+if [[ -f /root/ygkkkca/cert.crt && -f /root/ygkkkca/private.key && -s /root/ygkkkca/cert.crt && -s /root/ygkkkca/private.key ]]; then
+ym=`bash ~/.acme.sh/acme.sh --list | tail -1 | awk '{print $1}'`
+echo $ym > /root/ygkkkca/ca.log
+fi
+rm -rf /etc/s-box/vm_ws_argo.txt /etc/s-box/vm_ws.txt /etc/s-box/vm_ws_tls.txt
+wgcfgo
+vl_port=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[0].listen_port')
+vl_name=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[0].tls.server_name')
+public_key=$(cat /etc/s-box/public.key)
+short_id=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[0].tls.reality.short_id[0]')
+argo=$(cat /etc/s-box/argo.log 2>/dev/null | grep -a trycloudflare.com | awk 'NR==2{print}' | awk -F// '{print $2}' | awk '{print $1}')
+ws_path=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[1].transport.path')
+vm_port=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[1].listen_port')
+tls=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[1].tls.enabled')
+vm_name=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[1].tls.server_name')
+if [[ "$tls" = "false" ]]; then
+if [[ -f /etc/s-box/cfymjx.txt ]]; then
+vm_name=$(cat /etc/s-box/cfymjx.txt 2>/dev/null)
+else
+vm_name=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[1].tls.server_name')
+fi
+vmadd_local=$server_ipcl
+vmadd_are_local=$server_ip
+else
+vmadd_local=$vm_name
+vmadd_are_local=$vm_name
+fi
+if [[ -f /etc/s-box/cfvmadd_local.txt ]]; then
+vmadd_local=$(cat /etc/s-box/cfvmadd_local.txt 2>/dev/null)
+vmadd_are_local=$(cat /etc/s-box/cfvmadd_local.txt 2>/dev/null)
+else
+if [[ "$tls" = "false" ]]; then
+if [[ -f /etc/s-box/cfymjx.txt ]]; then
+vm_name=$(cat /etc/s-box/cfymjx.txt 2>/dev/null)
+else
+vm_name=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[1].tls.server_name')
+fi
+vmadd_local=$server_ipcl
+vmadd_are_local=$server_ip
+else
+vmadd_local=$vm_name
+vmadd_are_local=$vm_name
+fi
+fi
+if [[ -f /etc/s-box/cfvmadd_argo.txt ]]; then
+vmadd_argo=$(cat /etc/s-box/cfvmadd_argo.txt 2>/dev/null)
+else
+vmadd_argo=www.visa.com.sg
+fi
+hy2_port=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[2].listen_port')
+hy2_ports=$(iptables -t nat -nL --line 2>/dev/null | grep -w "$hy2_port" | awk '{print $8}' | sed 's/dpts://; s/dpt://' | tr '\n' ',' | sed 's/,$//')
+if [[ -n $hy2_ports ]]; then
+hy2ports=$(echo $hy2_ports | sed 's/:/-/g')
+hyps=$hy2_port,$hy2ports
+else
+hyps=$hy2_port
+fi
+ym=$(cat /root/ygkkkca/ca.log 2>/dev/null)
+hy2_sniname=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[2].tls.key_path')
+if [[ "$hy2_sniname" = '/etc/s-box/private.key' ]]; then
+hy2_name=www.bing.com
+sb_hy2_ip=$server_ip
+cl_hy2_ip=$server_ipcl
+ins_hy2=1
+hy2_ins=true
+else
+hy2_name=$ym
+sb_hy2_ip=$ym
+cl_hy2_ip=$ym
+ins_hy2=0
+hy2_ins=false
+fi
+tu5_port=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[3].listen_port')
+ym=$(cat /root/ygkkkca/ca.log 2>/dev/null)
+tu5_sniname=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[3].tls.key_path')
+if [[ "$tu5_sniname" = '/etc/s-box/private.key' ]]; then
+tu5_name=www.bing.com
+sb_tu5_ip=$server_ip
+cl_tu5_ip=$server_ipcl
+ins=1
+tu5_ins=true
+else
+tu5_name=$ym
+sb_tu5_ip=$ym
+cl_tu5_ip=$ym
+ins=0
+tu5_ins=false
+fi
+}
+
+resvless(){
+echo
+white "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+vl_link="vless://$uuid@$server_ip:$vl_port?encryption=none&flow=xtls-rprx-vision&security=reality&sni=$vl_name&fp=chrome&pbk=$public_key&sid=$short_id&type=tcp&headerType=none#vl-reality-$hostname"
+echo "$vl_link" > /etc/s-box/vl_reality.txt
+red "🚀【 vless-reality-vision 】节点信息如下：" && sleep 2
+echo
+echo "分享链接【v2rayn、v2rayng、nekobox、小火箭shadowrocket】"
+echo -e "${yellow}$vl_link${plain}"
+echo
+echo "二维码【v2rayn、v2rayng、nekobox、小火箭shadowrocket】"
+qrencode -o - -t ANSIUTF8 "$(cat /etc/s-box/vl_reality.txt)"
+white "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+echo
+}
+
+resvmess(){
+if [[ "$tls" = "false" ]]; then
+argopid
+if [[ -n $(ps -e | grep -w $ls 2>/dev/null) ]]; then
+echo
+white "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+red "🚀【 vmess-ws(tls)+Argo 】临时节点信息如下(可选择3-8-3，自定义CDN优选地址)：" && sleep 2
+echo
+echo "分享链接【v2rayn、v2rayng、nekobox、小火箭shadowrocket】"
+echo -e "${yellow}vmess://$(echo '{"add":"'$vmadd_argo'","aid":"0","host":"'$argo'","id":"'$uuid'","net":"ws","path":"'$ws_path'","port":"8443","ps":"'vm-argo-$hostname'","tls":"tls","sni":"'$argo'","type":"none","v":"2"}' | base64 -w 0)${plain}"
+echo
+echo "二维码【v2rayn、v2rayng、nekobox、小火箭shadowrocket】"
+echo 'vmess://'$(echo '{"add":"'$vmadd_argo'","aid":"0","host":"'$argo'","id":"'$uuid'","net":"ws","path":"'$ws_path'","port":"8443","ps":"'vm-argo-$hostname'","tls":"tls","sni":"'$argo'","type":"none","v":"2"}' | base64 -w 0) > /etc/s-box/vm_ws_argols.txt
+qrencode -o - -t ANSIUTF8 "$(cat /etc/s-box/vm_ws_argols.txt)"
+fi
+if [[ -n $(ps -e | grep -w $ym 2>/dev/null) ]]; then
+argogd=$(cat /etc/s-box/sbargoym.log 2>/dev/null)
+echo
+white "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+red "🚀【 vmess-ws(tls)+Argo 】固定节点信息如下 (可选择3-8-3，自定义CDN优选地址)：" && sleep 2
+echo
+echo "分享链接【v2rayn、v2rayng、nekobox、小火箭shadowrocket】"
+echo -e "${yellow}vmess://$(echo '{"add":"'$vmadd_argo'","aid":"0","host":"'$argogd'","id":"'$uuid'","net":"ws","path":"'$ws_path'","port":"8443","ps":"'vm-argo-$hostname'","tls":"tls","sni":"'$argogd'","type":"none","v":"2"}' | base64 -w 0)${plain}"
+echo
+echo "二维码【v2rayn、v2rayng、nekobox、小火箭shadowrocket】"
+echo 'vmess://'$(echo '{"add":"'$vmadd_argo'","aid":"0","host":"'$argogd'","id":"'$uuid'","net":"ws","path":"'$ws_path'","port":"8443","ps":"'vm-argo-$hostname'","tls":"tls","sni":"'$argogd'","type":"none","v":"2"}' | base64 -w 0) > /etc/s-box/vm_ws_argogd.txt
+qrencode -o - -t ANSIUTF8 "$(cat /etc/s-box/vm_ws_argogd.txt)"
+fi
+echo
+white "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+red "🚀【 vmess-ws 】节点信息如下 (建议选择3-8-1，设置为CDN优选节点)：" && sleep 2
+echo
+echo "分享链接【v2rayn、v2rayng、nekobox、小火箭shadowrocket】"
+echo -e "${yellow}vmess://$(echo '{"add":"'$vmadd_are_local'","aid":"0","host":"'$vm_name'","id":"'$uuid'","net":"ws","path":"'$ws_path'","port":"'$vm_port'","ps":"'vm-ws-$hostname'","tls":"","type":"none","v":"2"}' | base64 -w 0)${plain}"
+echo
+echo "二维码【v2rayn、v2rayng、nekobox、小火箭shadowrocket】"
+echo 'vmess://'$(echo '{"add":"'$vmadd_are_local'","aid":"0","host":"'$vm_name'","id":"'$uuid'","net":"ws","path":"'$ws_path'","port":"'$vm_port'","ps":"'vm-ws-$hostname'","tls":"","type":"none","v":"2"}' | base64 -w 0) > /etc/s-box/vm_ws.txt
+qrencode -o - -t ANSIUTF8 "$(cat /etc/s-box/vm_ws.txt)"
+else
+echo
+white "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+red "🚀【 vmess-ws-tls 】节点信息如下 (建议选择3-8-1，设置为CDN优选节点)：" && sleep 2
+echo
+echo "分享链接【v2rayn、v2rayng、nekobox、小火箭shadowrocket】"
+echo -e "${yellow}vmess://$(echo '{"add":"'$vmadd_are_local'","aid":"0","host":"'$vm_name'","id":"'$uuid'","net":"ws","path":"'$ws_path'","port":"'$vm_port'","ps":"'vm-ws-tls-$hostname'","tls":"tls","sni":"'$vm_name'","type":"none","v":"2"}' | base64 -w 0)${plain}"
+echo
+echo "二维码【v2rayn、v2rayng、nekobox、小火箭shadowrocket】"
+echo 'vmess://'$(echo '{"add":"'$vmadd_are_local'","aid":"0","host":"'$vm_name'","id":"'$uuid'","net":"ws","path":"'$ws_path'","port":"'$vm_port'","ps":"'vm-ws-tls-$hostname'","tls":"tls","sni":"'$vm_name'","type":"none","v":"2"}' | base64 -w 0) > /etc/s-box/vm_ws_tls.txt
+qrencode -o - -t ANSIUTF8 "$(cat /etc/s-box/vm_ws_tls.txt)"
+fi
+white "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+echo
+}
+
+reshy2(){
+echo
+white "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+hy2_link="hysteria2://$uuid@$sb_hy2_ip:$hy2_port?&alpn=h3&insecure=$ins_hy2&mport=$hyps&sni=$hy2_name#hy2-$hostname"
+echo "$hy2_link" > /etc/s-box/hy2.txt
+red "🚀【 Hysteria-2 】节点信息如下：" && sleep 2
+echo
+echo "分享链接【v2rayn、nekobox、小火箭shadowrocket】"
+echo -e "${yellow}$hy2_link${plain}"
+echo
+echo "二维码【v2rayn、nekobox、小火箭shadowrocket】"
+qrencode -o - -t ANSIUTF8 "$(cat /etc/s-box/hy2.txt)"
+white "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+echo
+}
+
+restu5(){
+echo
+white "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+tuic5_link="tuic://$uuid:$uuid@$sb_tu5_ip:$tu5_port?congestion_control=bbr&udp_relay_mode=native&alpn=h3&sni=$tu5_name&allow_insecure=$ins#tu5-$hostname"
+echo "$tuic5_link" > /etc/s-box/tuic5.txt
+red "🚀【 Tuic-v5 】节点信息如下：" && sleep 2
+echo
+echo "分享链接【v2rayn、nekobox、小火箭shadowrocket】"
+echo -e "${yellow}$tuic5_link${plain}"
+echo
+echo "二维码【v2rayn、nekobox、小火箭shadowrocket】"
+qrencode -o - -t ANSIUTF8 "$(cat /etc/s-box/tuic5.txt)"
+white "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+echo
+}
+
+sb_client(){
+tls=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[1].tls.enabled')
+argopid
+if [[ -n $(ps -e | grep -w $ym 2>/dev/null) && -n $(ps -e | grep -w $ls 2>/dev/null) && "$tls" = "false" ]]; then
+cat > /etc/s-box/sing_box_client.json <<EOF
+{
+  "log": {
+    "disabled": false,
+    "level": "info",
+    "timestamp": true
+  },
+  "experimental": {
+    "clash_api": {
+      "external_controller": "127.0.0.1:9090",
+      "external_ui": "ui",
+      "external_ui_download_url": "",
+      "external_ui_download_detour": "",
+      "secret": "",
+      "default_mode": "Rule"
+       },
+      "cache_file": {
+            "enabled": true,
+            "path": "cache.db",
+            "store_fakeip": true
+        }
+    },
+    "dns": {
+        "servers": [
+            {
+                "tag": "proxydns",
+                "address": "$sbdnsip",
+                "detour": "select"
+            },
+            {
+                "tag": "localdns",
+                "address": "h3://223.5.5.5/dns-query",
+                "detour": "direct"
+            },
+            {
+                "address": "rcode://refused",
+                "tag": "block"
+            },
+            {
+                "tag": "dns_fakeip",
+                "address": "fakeip"
+            }
+        ],
+        "rules": [
+            {
+                "outbound": "any",
+                "server": "localdns",
+                "disable_cache": true
+            },
+            {
+                "clash_mode": "Global",
+                "server": "proxydns"
+            },
+            {
+                "clash_mode": "Direct",
+                "server": "localdns"
+            },
+            {
+                "rule_set": "geosite-cn",
+                "server": "localdns"
+            },
+            {
+                 "rule_set": "geosite-geolocation-!cn",
+                 "server": "proxydns"
+            },
+             {
+                "rule_set": "geosite-geolocation-!cn",         
+                "query_type": [
+                    "A",
+                    "AAAA"
+                ],
+                "server": "dns_fakeip"
+            }
+          ],
+           "fakeip": {
+           "enabled": true,
+           "inet4_range": "198.18.0.0/15",
+           "inet6_range": "fc00::/18"
+         },
+          "independent_cache": true,
+          "final": "proxydns"
+        },
+      "inbounds": [
+    {
+      "type": "tun",
+      "inet4_address": "172.19.0.1/30",
+      "inet6_address": "fd00::1/126",
+      "auto_route": true,
+      "strict_route": true,
+      "sniff": true,
+      "sniff_override_destination": true,
+      "domain_strategy": "prefer_ipv4"
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "select",
+      "type": "selector",
+      "default": "auto",
+      "outbounds": [
+        "auto",
+        "vless-$hostname",
+        "vmess-$hostname",
+        "hy2-$hostname",
+        "tuic5-$hostname",
+"vmess-tls-argo固定-$hostname",
+"vmess-argo固定-$hostname",
+"vmess-tls-argo临时-$hostname",
+"vmess-argo临时-$hostname"
+      ]
+    },
+    {
+      "type": "vless",
+      "tag": "vless-$hostname",
+      "server": "$server_ipcl",
+      "server_port": $vl_port,
+      "uuid": "$uuid",
+      "packet_encoding": "xudp",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "$vl_name",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+      "reality": {
+          "enabled": true,
+          "public_key": "$public_key",
+          "short_id": "$short_id"
+        }
+      }
+    },
+{
+            "server": "$vmadd_local",
+            "server_port": $vm_port,
+            "tag": "vmess-$hostname",
+            "tls": {
+                "enabled": $tls,
+                "server_name": "$vm_name",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "packetaddr",
+            "transport": {
+                "headers": {
+                    "Host": [
+                        "$vm_name"
+                    ]
+                },
+                "path": "$ws_path",
+                "type": "ws"
+            },
+            "type": "vmess",
+            "security": "auto",
+            "uuid": "$uuid"
+        },
+
+    {
+        "type": "hysteria2",
+        "tag": "hy2-$hostname",
+        "server": "$cl_hy2_ip",
+        "server_port": $hy2_port,
+        "password": "$uuid",
+        "tls": {
+            "enabled": true,
+            "server_name": "$hy2_name",
+            "insecure": $hy2_ins,
+            "alpn": [
+                "h3"
+            ]
+        }
+    },
+        {
+            "type":"tuic",
+            "tag": "tuic5-$hostname",
+            "server": "$cl_tu5_ip",
+            "server_port": $tu5_port,
+            "uuid": "$uuid",
+            "password": "$uuid",
+            "congestion_control": "bbr",
+            "udp_relay_mode": "native",
+            "udp_over_stream": false,
+            "zero_rtt_handshake": false,
+            "heartbeat": "10s",
+            "tls":{
+                "enabled": true,
+                "server_name": "$tu5_name",
+                "insecure": $tu5_ins,
+                "alpn": [
+                    "h3"
+                ]
+            }
+        },
+{
+            "server": "$vmadd_argo",
+            "server_port": 8443,
+            "tag": "vmess-tls-argo固定-$hostname",
+            "tls": {
+                "enabled": true,
+                "server_name": "$argogd",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "packetaddr",
+            "transport": {
+                "headers": {
+                    "Host": [
+                        "$argogd"
+                    ]
+                },
+                "path": "$ws_path",
+                "type": "ws"
+            },
+            "type": "vmess",
+            "security": "auto",
+            "uuid": "$uuid"
+        },
+{
+            "server": "$vmadd_argo",
+            "server_port": 8880,
+            "tag": "vmess-argo固定-$hostname",
+            "tls": {
+                "enabled": false,
+                "server_name": "$argogd",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "packetaddr",
+            "transport": {
+                "headers": {
+                    "Host": [
+                        "$argogd"
+                    ]
+                },
+                "path": "$ws_path",
+                "type": "ws"
+            },
+            "type": "vmess",
+            "security": "auto",
+            "uuid": "$uuid"
+        },
+{
+            "server": "$vmadd_argo",
+            "server_port": 8443,
+            "tag": "vmess-tls-argo临时-$hostname",
+            "tls": {
+                "enabled": true,
+                "server_name": "$argo",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "packetaddr",
+            "transport": {
+                "headers": {
+                    "Host": [
+                        "$argo"
+                    ]
+                },
+                "path": "$ws_path",
+                "type": "ws"
+            },
+            "type": "vmess",
+            "security": "auto",
+            "uuid": "$uuid"
+        },
+{
+            "server": "$vmadd_argo",
+            "server_port": 8880,
+            "tag": "vmess-argo临时-$hostname",
+            "tls": {
+                "enabled": false,
+                "server_name": "$argo",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "packetaddr",
+            "transport": {
+                "headers": {
+                    "Host": [
+                        "$argo"
+                    ]
+                },
+                "path": "$ws_path",
+                "type": "ws"
+            },
+            "type": "vmess",
+            "security": "auto",
+            "uuid": "$uuid"
+        },
+    {
+      "tag": "direct",
+      "type": "direct"
+    },
+    {
+      "tag": "block",
+      "type": "block"
+    },
+    {
+      "tag": "dns-out",
+      "type": "dns"
+    },
+    {
+      "tag": "auto",
+      "type": "urltest",
+      "outbounds": [
+        "vless-$hostname",
+        "vmess-$hostname",
+        "hy2-$hostname",
+        "tuic5-$hostname",
+"vmess-tls-argo固定-$hostname",
+"vmess-argo固定-$hostname",
+"vmess-tls-argo临时-$hostname",
+"vmess-argo临时-$hostname"
+      ],
+      "url": "https://www.gstatic.com/generate_204",
+      "interval": "1m",
+      "tolerance": 50,
+      "interrupt_exist_connections": false
+    }
+  ],
+  "route": {
+      "rule_set": [
+            {
+                "tag": "geosite-geolocation-!cn",
+                "type": "remote",
+                "format": "binary",
+                "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/geolocation-!cn.srs",
+                "download_detour": "select",
+                "update_interval": "1d"
+            },
+            {
+                "tag": "geosite-cn",
+                "type": "remote",
+                "format": "binary",
+                "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/geolocation-cn.srs",
+                "download_detour": "select",
+                "update_interval": "1d"
+            },
+            {
+                "tag": "geoip-cn",
+                "type": "remote",
+                "format": "binary",
+                "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geoip/cn.srs",
+                "download_detour": "select",
+                "update_interval": "1d"
+            }
+        ],
+    "auto_detect_interface": true,
+    "final": "select",
+    "rules": [
+      {
+        "outbound": "dns-out",
+        "protocol": "dns"
+      },
+      {
+        "clash_mode": "Direct",
+        "outbound": "direct"
+      },
+      {
+        "clash_mode": "Global",
+        "outbound": "select"
+      },
+      {
+        "rule_set": "geoip-cn",
+        "outbound": "direct"
+      },
+      {
+        "rule_set": "geosite-cn",
+        "outbound": "direct"
+      },
+      {
+      "ip_is_private": true,
+      "outbound": "direct"
+      },
+      {
+        "rule_set": "geosite-geolocation-!cn",
+        "outbound": "select"
+      }
+    ]
+  },
+    "ntp": {
+    "enabled": true,
+    "server": "time.apple.com",
+    "server_port": 123,
+    "interval": "30m",
+    "detour": "direct"
+  }
+}
+EOF
+
+cat > /etc/s-box/clash_meta_client.yaml <<EOF
+port: 7890
+allow-lan: true
+mode: rule
+log-level: info
+unified-delay: true
+global-client-fingerprint: chrome
+dns:
+  enable: true
+  listen: :53
+  ipv6: true
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  default-nameserver: 
+    - 223.5.5.5
+    - 8.8.8.8
+  nameserver:
+    - https://dns.alidns.com/dns-query
+    - https://doh.pub/dns-query
+  fallback:
+    - https://1.0.0.1/dns-query
+    - tls://dns.google
+  fallback-filter:
+    geoip: true
+    geoip-code: CN
+    ipcidr:
+      - 240.0.0.0/4
+
+proxies:
+- name: vless-reality-vision-$hostname               
+  type: vless
+  server: $server_ipcl                           
+  port: $vl_port                                
+  uuid: $uuid   
+  network: tcp
+  udp: true
+  tls: true
+  flow: xtls-rprx-vision
+  servername: $vl_name                 
+  reality-opts: 
+    public-key: $public_key    
+    short-id: $short_id                      
+  client-fingerprint: chrome                  
+
+- name: vmess-ws-$hostname                         
+  type: vmess
+  server: $vmadd_local                        
+  port: $vm_port                                     
+  uuid: $uuid       
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: $tls
+  network: ws
+  servername: $vm_name                    
+  ws-opts:
+    path: "$ws_path"                             
+    headers:
+      Host: $vm_name                     
+
+- name: hysteria2-$hostname                            
+  type: hysteria2                                      
+  server: $cl_hy2_ip                               
+  port: $hy2_port                                
+  password: $uuid                          
+  alpn:
+    - h3
+  sni: $hy2_name                               
+  skip-cert-verify: $hy2_ins
+  fast-open: true
+
+- name: tuic5-$hostname                            
+  server: $cl_tu5_ip                      
+  port: $tu5_port                                    
+  type: tuic
+  uuid: $uuid       
+  password: $uuid   
+  alpn: [h3]
+  disable-sni: true
+  reduce-rtt: true
+  udp-relay-mode: native
+  congestion-controller: bbr
+  sni: $tu5_name                                
+  skip-cert-verify: $tu5_ins
+
+- name: vmess-tls-argo固定-$hostname                         
+  type: vmess
+  server: $vmadd_argo                        
+  port: 8443                                     
+  uuid: $uuid       
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  network: ws
+  servername: $argogd                    
+  ws-opts:
+    path: "$ws_path"                             
+    headers:
+      Host: $argogd
+
+
+- name: vmess-argo固定-$hostname                         
+  type: vmess
+  server: $vmadd_argo                        
+  port: 8880                                     
+  uuid: $uuid       
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: false
+  network: ws
+  servername: $argogd                    
+  ws-opts:
+    path: "$ws_path"                             
+    headers:
+      Host: $argogd
+
+- name: vmess-tls-argo临时-$hostname                         
+  type: vmess
+  server: $vmadd_argo                        
+  port: 8443                                     
+  uuid: $uuid       
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  network: ws
+  servername: $argo                    
+  ws-opts:
+    path: "$ws_path"                             
+    headers:
+      Host: $argo
+
+- name: vmess-argo临时-$hostname                         
+  type: vmess
+  server: $vmadd_argo                        
+  port: 8880                                     
+  uuid: $uuid       
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: false
+  network: ws
+  servername: $argo                    
+  ws-opts:
+    path: "$ws_path"                             
+    headers:
+      Host: $argo 
+
+proxy-groups:
+- name: 负载均衡
+  type: load-balance
+  url: https://www.gstatic.com/generate_204
+  interval: 300
+  strategy: round-robin
+  proxies:
+    - vless-reality-vision-$hostname                              
+    - vmess-ws-$hostname
+    - hysteria2-$hostname
+    - tuic5-$hostname
+    - vmess-tls-argo固定-$hostname
+    - vmess-argo固定-$hostname
+    - vmess-tls-argo临时-$hostname
+    - vmess-argo临时-$hostname
+
+- name: 自动选择
+  type: url-test
+  url: https://www.gstatic.com/generate_204
+  interval: 300
+  tolerance: 50
+  proxies:
+    - vless-reality-vision-$hostname                              
+    - vmess-ws-$hostname
+    - hysteria2-$hostname
+    - tuic5-$hostname
+    - vmess-tls-argo固定-$hostname
+    - vmess-argo固定-$hostname
+    - vmess-tls-argo临时-$hostname
+    - vmess-argo临时-$hostname
+    
+- name: 🌍选择代理节点
+  type: select
+  proxies:
+    - 负载均衡                                         
+    - 自动选择
+    - DIRECT
+    - vless-reality-vision-$hostname                              
+    - vmess-ws-$hostname
+    - hysteria2-$hostname
+    - tuic5-$hostname
+    - vmess-tls-argo固定-$hostname
+    - vmess-argo固定-$hostname
+    - vmess-tls-argo临时-$hostname
+    - vmess-argo临时-$hostname
+rules:
+  - GEOIP,LAN,DIRECT
+  - GEOIP,CN,DIRECT
+  - MATCH,🌍选择代理节点
+EOF
+
+
+elif [[ ! -n $(ps -e | grep -w $ym 2>/dev/null) && -n $(ps -e | grep -w $ls 2>/dev/null) && "$tls" = "false" ]]; then
+cat > /etc/s-box/sing_box_client.json <<EOF
+{
+  "log": {
+    "disabled": false,
+    "level": "info",
+    "timestamp": true
+  },
+  "experimental": {
+    "clash_api": {
+      "external_controller": "127.0.0.1:9090",
+      "external_ui": "ui",
+      "external_ui_download_url": "",
+      "external_ui_download_detour": "",
+      "secret": "",
+      "default_mode": "Rule"
+       },
+      "cache_file": {
+            "enabled": true,
+            "path": "cache.db",
+            "store_fakeip": true
+        }
+    },
+    "dns": {
+        "servers": [
+            {
+                "tag": "proxydns",
+                "address": "$sbdnsip",
+                "detour": "select"
+            },
+            {
+                "tag": "localdns",
+                "address": "h3://223.5.5.5/dns-query",
+                "detour": "direct"
+            },
+            {
+                "address": "rcode://refused",
+                "tag": "block"
+            },
+            {
+                "tag": "dns_fakeip",
+                "address": "fakeip"
+            }
+        ],
+        "rules": [
+            {
+                "outbound": "any",
+                "server": "localdns",
+                "disable_cache": true
+            },
+            {
+                "clash_mode": "Global",
+                "server": "proxydns"
+            },
+            {
+                "clash_mode": "Direct",
+                "server": "localdns"
+            },
+            {
+                "rule_set": "geosite-cn",
+                "server": "localdns"
+            },
+            {
+                 "rule_set": "geosite-geolocation-!cn",
+                 "server": "proxydns"
+            },
+             {
+                "rule_set": "geosite-geolocation-!cn",         
+                "query_type": [
+                    "A",
+                    "AAAA"
+                ],
+                "server": "dns_fakeip"
+            }
+          ],
+           "fakeip": {
+           "enabled": true,
+           "inet4_range": "198.18.0.0/15",
+           "inet6_range": "fc00::/18"
+         },
+          "independent_cache": true,
+          "final": "proxydns"
+        },
+      "inbounds": [
+    {
+      "type": "tun",
+      "inet4_address": "172.19.0.1/30",
+      "inet6_address": "fd00::1/126",
+      "auto_route": true,
+      "strict_route": true,
+      "sniff": true,
+      "sniff_override_destination": true,
+      "domain_strategy": "prefer_ipv4"
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "select",
+      "type": "selector",
+      "default": "auto",
+      "outbounds": [
+        "auto",
+        "vless-$hostname",
+        "vmess-$hostname",
+        "hy2-$hostname",
+        "tuic5-$hostname",
+"vmess-tls-argo临时-$hostname",
+"vmess-argo临时-$hostname"
+      ]
+    },
+    {
+      "type": "vless",
+      "tag": "vless-$hostname",
+      "server": "$server_ipcl",
+      "server_port": $vl_port,
+      "uuid": "$uuid",
+      "packet_encoding": "xudp",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "$vl_name",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+      "reality": {
+          "enabled": true,
+          "public_key": "$public_key",
+          "short_id": "$short_id"
+        }
+      }
+    },
+{
+            "server": "$vmadd_local",
+            "server_port": $vm_port,
+            "tag": "vmess-$hostname",
+            "tls": {
+                "enabled": $tls,
+                "server_name": "$vm_name",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "packetaddr",
+            "transport": {
+                "headers": {
+                    "Host": [
+                        "$vm_name"
+                    ]
+                },
+                "path": "$ws_path",
+                "type": "ws"
+            },
+            "type": "vmess",
+            "security": "auto",
+            "uuid": "$uuid"
+        },
+
+    {
+        "type": "hysteria2",
+        "tag": "hy2-$hostname",
+        "server": "$cl_hy2_ip",
+        "server_port": $hy2_port,
+        "password": "$uuid",
+        "tls": {
+            "enabled": true,
+            "server_name": "$hy2_name",
+            "insecure": $hy2_ins,
+            "alpn": [
+                "h3"
+            ]
+        }
+    },
+        {
+            "type":"tuic",
+            "tag": "tuic5-$hostname",
+            "server": "$cl_tu5_ip",
+            "server_port": $tu5_port,
+            "uuid": "$uuid",
+            "password": "$uuid",
+            "congestion_control": "bbr",
+            "udp_relay_mode": "native",
+            "udp_over_stream": false,
+            "zero_rtt_handshake": false,
+            "heartbeat": "10s",
+            "tls":{
+                "enabled": true,
+                "server_name": "$tu5_name",
+                "insecure": $tu5_ins,
+                "alpn": [
+                    "h3"
+                ]
+            }
+        },
+{
+            "server": "$vmadd_argo",
+            "server_port": 8443,
+            "tag": "vmess-tls-argo临时-$hostname",
+            "tls": {
+                "enabled": true,
+                "server_name": "$argo",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "packetaddr",
+            "transport": {
+                "headers": {
+                    "Host": [
+                        "$argo"
+                    ]
+                },
+                "path": "$ws_path",
+                "type": "ws"
+            },
+            "type": "vmess",
+            "security": "auto",
+            "uuid": "$uuid"
+        },
+{
+            "server": "$vmadd_argo",
+            "server_port": 8880,
+            "tag": "vmess-argo临时-$hostname",
+            "tls": {
+                "enabled": false,
+                "server_name": "$argo",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "packetaddr",
+            "transport": {
+                "headers": {
+                    "Host": [
+                        "$argo"
+                    ]
+                },
+                "path": "$ws_path",
+                "type": "ws"
+            },
+            "type": "vmess",
+            "security": "auto",
+            "uuid": "$uuid"
+        },
+    {
+      "tag": "direct",
+      "type": "direct"
+    },
+    {
+      "tag": "block",
+      "type": "block"
+    },
+    {
+      "tag": "dns-out",
+      "type": "dns"
+    },
+    {
+      "tag": "auto",
+      "type": "urltest",
+      "outbounds": [
+        "vless-$hostname",
+        "vmess-$hostname",
+        "hy2-$hostname",
+        "tuic5-$hostname",
+"vmess-tls-argo临时-$hostname",
+"vmess-argo临时-$hostname"
+      ],
+      "url": "https://www.gstatic.com/generate_204",
+      "interval": "1m",
+      "tolerance": 50,
+      "interrupt_exist_connections": false
+    }
+  ],
+  "route": {
+      "rule_set": [
+            {
+                "tag": "geosite-geolocation-!cn",
+                "type": "remote",
+                "format": "binary",
+                "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/geolocation-!cn.srs",
+                "download_detour": "select",
+                "update_interval": "1d"
+            },
+            {
+                "tag": "geosite-cn",
+                "type": "remote",
+                "format": "binary",
+                "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/geolocation-cn.srs",
+                "download_detour": "select",
+                "update_interval": "1d"
+            },
+            {
+                "tag": "geoip-cn",
+                "type": "remote",
+                "format": "binary",
+                "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geoip/cn.srs",
+                "download_detour": "select",
+                "update_interval": "1d"
+            }
+        ],
+    "auto_detect_interface": true,
+    "final": "select",
+    "rules": [
+      {
+        "outbound": "dns-out",
+        "protocol": "dns"
+      },
+      {
+        "clash_mode": "Direct",
+        "outbound": "direct"
+      },
+      {
+        "clash_mode": "Global",
+        "outbound": "select"
+      },
+      {
+        "rule_set": "geoip-cn",
+        "outbound": "direct"
+      },
+      {
+        "rule_set": "geosite-cn",
+        "outbound": "direct"
+      },
+      {
+      "ip_is_private": true,
+      "outbound": "direct"
+      },
+      {
+        "rule_set": "geosite-geolocation-!cn",
+        "outbound": "select"
+      }
+    ]
+  },
+    "ntp": {
+    "enabled": true,
+    "server": "time.apple.com",
+    "server_port": 123,
+    "interval": "30m",
+    "detour": "direct"
+  }
+}
+EOF
+
+cat > /etc/s-box/clash_meta_client.yaml <<EOF
+port: 7890
+allow-lan: true
+mode: rule
+log-level: info
+unified-delay: true
+global-client-fingerprint: chrome
+dns:
+  enable: true
+  listen: :53
+  ipv6: true
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  default-nameserver: 
+    - 223.5.5.5
+    - 8.8.8.8
+  nameserver:
+    - https://dns.alidns.com/dns-query
+    - https://doh.pub/dns-query
+  fallback:
+    - https://1.0.0.1/dns-query
+    - tls://dns.google
+  fallback-filter:
+    geoip: true
+    geoip-code: CN
+    ipcidr:
+      - 240.0.0.0/4
+
+proxies:
+- name: vless-reality-vision-$hostname               
+  type: vless
+  server: $server_ipcl                           
+  port: $vl_port                                
+  uuid: $uuid   
+  network: tcp
+  udp: true
+  tls: true
+  flow: xtls-rprx-vision
+  servername: $vl_name                 
+  reality-opts: 
+    public-key: $public_key    
+    short-id: $short_id                      
+  client-fingerprint: chrome                  
+
+- name: vmess-ws-$hostname                         
+  type: vmess
+  server: $vmadd_local                        
+  port: $vm_port                                     
+  uuid: $uuid       
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: $tls
+  network: ws
+  servername: $vm_name                    
+  ws-opts:
+    path: "$ws_path"                             
+    headers:
+      Host: $vm_name                     
+
+- name: hysteria2-$hostname                            
+  type: hysteria2                                      
+  server: $cl_hy2_ip                               
+  port: $hy2_port                                
+  password: $uuid                          
+  alpn:
+    - h3
+  sni: $hy2_name                               
+  skip-cert-verify: $hy2_ins
+  fast-open: true
+
+- name: tuic5-$hostname                            
+  server: $cl_tu5_ip                      
+  port: $tu5_port                                    
+  type: tuic
+  uuid: $uuid       
+  password: $uuid   
+  alpn: [h3]
+  disable-sni: true
+  reduce-rtt: true
+  udp-relay-mode: native
+  congestion-controller: bbr
+  sni: $tu5_name                                
+  skip-cert-verify: $tu5_ins
+
+
+
+
+
+
+
+
+
+- name: vmess-tls-argo临时-$hostname                         
+  type: vmess
+  server: $vmadd_argo                        
+  port: 8443                                     
+  uuid: $uuid       
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  network: ws
+  servername: $argo                    
+  ws-opts:
+    path: "$ws_path"                             
+    headers:
+      Host: $argo
+
+- name: vmess-argo临时-$hostname                         
+  type: vmess
+  server: $vmadd_argo                        
+  port: 8880                                     
+  uuid: $uuid       
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: false
+  network: ws
+  servername: $argo                    
+  ws-opts:
+    path: "$ws_path"                             
+    headers:
+      Host: $argo 
+
+proxy-groups:
+- name: 负载均衡
+  type: load-balance
+  url: https://www.gstatic.com/generate_204
+  interval: 300
+  strategy: round-robin
+  proxies:
+    - vless-reality-vision-$hostname                              
+    - vmess-ws-$hostname
+    - hysteria2-$hostname
+    - tuic5-$hostname
+    - vmess-tls-argo临时-$hostname
+    - vmess-argo临时-$hostname
+
+- name: 自动选择
+  type: url-test
+  url: https://www.gstatic.com/generate_204
+  interval: 300
+  tolerance: 50
+  proxies:
+    - vless-reality-vision-$hostname                              
+    - vmess-ws-$hostname
+    - hysteria2-$hostname
+    - tuic5-$hostname
+    - vmess-tls-argo临时-$hostname
+    - vmess-argo临时-$hostname
+    
+- name: 🌍选择代理节点
+  type: select
+  proxies:
+    - 负载均衡                                         
+    - 自动选择
+    - DIRECT
+    - vless-reality-vision-$hostname                              
+    - vmess-ws-$hostname
+    - hysteria2-$hostname
+    - tuic5-$hostname
+    - vmess-tls-argo临时-$hostname
+    - vmess-argo临时-$hostname
+rules:
+  - GEOIP,LAN,DIRECT
+  - GEOIP,CN,DIRECT
+  - MATCH,🌍选择代理节点
+EOF
+
+elif [[ -n $(ps -e | grep -w $ym 2>/dev/null) && ! -n $(ps -e | grep -w $ls 2>/dev/null) && "$tls" = "false" ]]; then
+cat > /etc/s-box/sing_box_client.json <<EOF
+{
+  "log": {
+    "disabled": false,
+    "level": "info",
+    "timestamp": true
+  },
+  "experimental": {
+    "clash_api": {
+      "external_controller": "127.0.0.1:9090",
+      "external_ui": "ui",
+      "external_ui_download_url": "",
+      "external_ui_download_detour": "",
+      "secret": "",
+      "default_mode": "Rule"
+       },
+      "cache_file": {
+            "enabled": true,
+            "path": "cache.db",
+            "store_fakeip": true
+        }
+    },
+    "dns": {
+        "servers": [
+            {
+                "tag": "proxydns",
+                "address": "$sbdnsip",
+                "detour": "select"
+            },
+            {
+                "tag": "localdns",
+                "address": "h3://223.5.5.5/dns-query",
+                "detour": "direct"
+            },
+            {
+                "address": "rcode://refused",
+                "tag": "block"
+            },
+            {
+                "tag": "dns_fakeip",
+                "address": "fakeip"
+            }
+        ],
+        "rules": [
+            {
+                "outbound": "any",
+                "server": "localdns",
+                "disable_cache": true
+            },
+            {
+                "clash_mode": "Global",
+                "server": "proxydns"
+            },
+            {
+                "clash_mode": "Direct",
+                "server": "localdns"
+            },
+            {
+                "rule_set": "geosite-cn",
+                "server": "localdns"
+            },
+            {
+                 "rule_set": "geosite-geolocation-!cn",
+                 "server": "proxydns"
+            },
+             {
+                "rule_set": "geosite-geolocation-!cn",         
+                "query_type": [
+                    "A",
+                    "AAAA"
+                ],
+                "server": "dns_fakeip"
+            }
+          ],
+           "fakeip": {
+           "enabled": true,
+           "inet4_range": "198.18.0.0/15",
+           "inet6_range": "fc00::/18"
+         },
+          "independent_cache": true,
+          "final": "proxydns"
+        },
+      "inbounds": [
+    {
+      "type": "tun",
+      "inet4_address": "172.19.0.1/30",
+      "inet6_address": "fd00::1/126",
+      "auto_route": true,
+      "strict_route": true,
+      "sniff": true,
+      "sniff_override_destination": true,
+      "domain_strategy": "prefer_ipv4"
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "select",
+      "type": "selector",
+      "default": "auto",
+      "outbounds": [
+        "auto",
+        "vless-$hostname",
+        "vmess-$hostname",
+        "hy2-$hostname",
+        "tuic5-$hostname",
+"vmess-tls-argo固定-$hostname",
+"vmess-argo固定-$hostname"
+      ]
+    },
+    {
+      "type": "vless",
+      "tag": "vless-$hostname",
+      "server": "$server_ipcl",
+      "server_port": $vl_port,
+      "uuid": "$uuid",
+      "packet_encoding": "xudp",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "$vl_name",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+      "reality": {
+          "enabled": true,
+          "public_key": "$public_key",
+          "short_id": "$short_id"
+        }
+      }
+    },
+{
+            "server": "$vmadd_local",
+            "server_port": $vm_port,
+            "tag": "vmess-$hostname",
+            "tls": {
+                "enabled": $tls,
+                "server_name": "$vm_name",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "packetaddr",
+            "transport": {
+                "headers": {
+                    "Host": [
+                        "$vm_name"
+                    ]
+                },
+                "path": "$ws_path",
+                "type": "ws"
+            },
+            "type": "vmess",
+            "security": "auto",
+            "uuid": "$uuid"
+        },
+
+    {
+        "type": "hysteria2",
+        "tag": "hy2-$hostname",
+        "server": "$cl_hy2_ip",
+        "server_port": $hy2_port,
+        "password": "$uuid",
+        "tls": {
+            "enabled": true,
+            "server_name": "$hy2_name",
+            "insecure": $hy2_ins,
+            "alpn": [
+                "h3"
+            ]
+        }
+    },
+        {
+            "type":"tuic",
+            "tag": "tuic5-$hostname",
+            "server": "$cl_tu5_ip",
+            "server_port": $tu5_port,
+            "uuid": "$uuid",
+            "password": "$uuid",
+            "congestion_control": "bbr",
+            "udp_relay_mode": "native",
+            "udp_over_stream": false,
+            "zero_rtt_handshake": false,
+            "heartbeat": "10s",
+            "tls":{
+                "enabled": true,
+                "server_name": "$tu5_name",
+                "insecure": $tu5_ins,
+                "alpn": [
+                    "h3"
+                ]
+            }
+        },
+{
+            "server": "$vmadd_argo",
+            "server_port": 8443,
+            "tag": "vmess-tls-argo固定-$hostname",
+            "tls": {
+                "enabled": true,
+                "server_name": "$argogd",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "packetaddr",
+            "transport": {
+                "headers": {
+                    "Host": [
+                        "$argogd"
+                    ]
+                },
+                "path": "$ws_path",
+                "type": "ws"
+            },
+            "type": "vmess",
+            "security": "auto",
+            "uuid": "$uuid"
+        },
+{
+            "server": "$vmadd_argo",
+            "server_port": 8880,
+            "tag": "vmess-argo固定-$hostname",
+            "tls": {
+                "enabled": false,
+                "server_name": "$argogd",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "packetaddr",
+            "transport": {
+                "headers": {
+                    "Host": [
+                        "$argogd"
+                    ]
+                },
+                "path": "$ws_path",
+                "type": "ws"
+            },
+            "type": "vmess",
+            "security": "auto",
+            "uuid": "$uuid"
+        },
+    {
+      "tag": "direct",
+      "type": "direct"
+    },
+    {
+      "tag": "block",
+      "type": "block"
+    },
+    {
+      "tag": "dns-out",
+      "type": "dns"
+    },
+    {
+      "tag": "auto",
+      "type": "urltest",
+      "outbounds": [
+        "vless-$hostname",
+        "vmess-$hostname",
+        "hy2-$hostname",
+        "tuic5-$hostname",
+"vmess-tls-argo固定-$hostname",
+"vmess-argo固定-$hostname"
+      ],
+      "url": "https://www.gstatic.com/generate_204",
+      "interval": "1m",
+      "tolerance": 50,
+      "interrupt_exist_connections": false
+    }
+  ],
+  "route": {
+      "rule_set": [
+            {
+                "tag": "geosite-geolocation-!cn",
+                "type": "remote",
+                "format": "binary",
+                "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/geolocation-!cn.srs",
+                "download_detour": "select",
+                "update_interval": "1d"
+            },
+            {
+                "tag": "geosite-cn",
+                "type": "remote",
+                "format": "binary",
+                "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/geolocation-cn.srs",
+                "download_detour": "select",
+                "update_interval": "1d"
+            },
+            {
+                "tag": "geoip-cn",
+                "type": "remote",
+                "format": "binary",
+                "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geoip/cn.srs",
+                "download_detour": "select",
+                "update_interval": "1d"
+            }
+        ],
+    "auto_detect_interface": true,
+    "final": "select",
+    "rules": [
+      {
+        "outbound": "dns-out",
+        "protocol": "dns"
+      },
+      {
+        "clash_mode": "Direct",
+        "outbound": "direct"
+      },
+      {
+        "clash_mode": "Global",
+        "outbound": "select"
+      },
+      {
+        "rule_set": "geoip-cn",
+        "outbound": "direct"
+      },
+      {
+        "rule_set": "geosite-cn",
+        "outbound": "direct"
+      },
+      {
+      "ip_is_private": true,
+      "outbound": "direct"
+      },
+      {
+        "rule_set": "geosite-geolocation-!cn",
+        "outbound": "select"
+      }
+    ]
+  },
+    "ntp": {
+    "enabled": true,
+    "server": "time.apple.com",
+    "server_port": 123,
+    "interval": "30m",
+    "detour": "direct"
+  }
+}
+EOF
+
+cat > /etc/s-box/clash_meta_client.yaml <<EOF
+port: 7890
+allow-lan: true
+mode: rule
+log-level: info
+unified-delay: true
+global-client-fingerprint: chrome
+dns:
+  enable: true
+  listen: :53
+  ipv6: true
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  default-nameserver: 
+    - 223.5.5.5
+    - 8.8.8.8
+  nameserver:
+    - https://dns.alidns.com/dns-query
+    - https://doh.pub/dns-query
+  fallback:
+    - https://1.0.0.1/dns-query
+    - tls://dns.google
+  fallback-filter:
+    geoip: true
+    geoip-code: CN
+    ipcidr:
+      - 240.0.0.0/4
+
+proxies:
+- name: vless-reality-vision-$hostname               
+  type: vless
+  server: $server_ipcl                           
+  port: $vl_port                                
+  uuid: $uuid   
+  network: tcp
+  udp: true
+  tls: true
+  flow: xtls-rprx-vision
+  servername: $vl_name                 
+  reality-opts: 
+    public-key: $public_key    
+    short-id: $short_id                      
+  client-fingerprint: chrome                  
+
+- name: vmess-ws-$hostname                         
+  type: vmess
+  server: $vmadd_local                        
+  port: $vm_port                                     
+  uuid: $uuid       
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: $tls
+  network: ws
+  servername: $vm_name                    
+  ws-opts:
+    path: "$ws_path"                             
+    headers:
+      Host: $vm_name                     
+
+- name: hysteria2-$hostname                            
+  type: hysteria2                                      
+  server: $cl_hy2_ip                               
+  port: $hy2_port                                
+  password: $uuid                          
+  alpn:
+    - h3
+  sni: $hy2_name                               
+  skip-cert-verify: $hy2_ins
+  fast-open: true
+
+- name: tuic5-$hostname                            
+  server: $cl_tu5_ip                      
+  port: $tu5_port                                    
+  type: tuic
+  uuid: $uuid       
+  password: $uuid   
+  alpn: [h3]
+  disable-sni: true
+  reduce-rtt: true
+  udp-relay-mode: native
+  congestion-controller: bbr
+  sni: $tu5_name                                
+  skip-cert-verify: $tu5_ins
+
+
+
+
+
+
+
+- name: vmess-tls-argo固定-$hostname                         
+  type: vmess
+  server: $vmadd_argo                        
+  port: 8443                                     
+  uuid: $uuid       
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: true
+  network: ws
+  servername: $argogd                    
+  ws-opts:
+    path: "$ws_path"                             
+    headers:
+      Host: $argogd
+
+- name: vmess-argo固定-$hostname                         
+  type: vmess
+  server: $vmadd_argo                        
+  port: 8880                                     
+  uuid: $uuid       
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: false
+  network: ws
+  servername: $argogd                    
+  ws-opts:
+    path: "$ws_path"                             
+    headers:
+      Host: $argogd
+
+proxy-groups:
+- name: 负载均衡
+  type: load-balance
+  url: https://www.gstatic.com/generate_204
+  interval: 300
+  strategy: round-robin
+  proxies:
+    - vless-reality-vision-$hostname                              
+    - vmess-ws-$hostname
+    - hysteria2-$hostname
+    - tuic5-$hostname
+    - vmess-tls-argo固定-$hostname
+    - vmess-argo固定-$hostname
+
+- name: 自动选择
+  type: url-test
+  url: https://www.gstatic.com/generate_204
+  interval: 300
+  tolerance: 50
+  proxies:
+    - vless-reality-vision-$hostname                              
+    - vmess-ws-$hostname
+    - hysteria2-$hostname
+    - tuic5-$hostname
+    - vmess-tls-argo固定-$hostname
+    - vmess-argo固定-$hostname
+    
+- name: 🌍选择代理节点
+  type: select
+  proxies:
+    - 负载均衡                                         
+    - 自动选择
+    - DIRECT
+    - vless-reality-vision-$hostname                              
+    - vmess-ws-$hostname
+    - hysteria2-$hostname
+    - tuic5-$hostname
+    - vmess-tls-argo固定-$hostname
+    - vmess-argo固定-$hostname
+rules:
+  - GEOIP,LAN,DIRECT
+  - GEOIP,CN,DIRECT
+  - MATCH,🌍选择代理节点
+EOF
+
+else
+cat > /etc/s-box/sing_box_client.json <<EOF
+{
+  "log": {
+    "disabled": false,
+    "level": "info",
+    "timestamp": true
+  },
+  "experimental": {
+    "clash_api": {
+      "external_controller": "127.0.0.1:9090",
+      "external_ui": "ui",
+      "external_ui_download_url": "",
+      "external_ui_download_detour": "",
+      "secret": "",
+      "default_mode": "Rule"
+       },
+      "cache_file": {
+            "enabled": true,
+            "path": "cache.db",
+            "store_fakeip": true
+        }
+    },
+    "dns": {
+        "servers": [
+            {
+                "tag": "proxydns",
+                "address": "$sbdnsip",
+                "detour": "select"
+            },
+            {
+                "tag": "localdns",
+                "address": "h3://223.5.5.5/dns-query",
+                "detour": "direct"
+            },
+            {
+                "address": "rcode://refused",
+                "tag": "block"
+            },
+            {
+                "tag": "dns_fakeip",
+                "address": "fakeip"
+            }
+        ],
+        "rules": [
+            {
+                "outbound": "any",
+                "server": "localdns",
+                "disable_cache": true
+            },
+            {
+                "clash_mode": "Global",
+                "server": "proxydns"
+            },
+            {
+                "clash_mode": "Direct",
+                "server": "localdns"
+            },
+            {
+                "rule_set": "geosite-cn",
+                "server": "localdns"
+            },
+            {
+                 "rule_set": "geosite-geolocation-!cn",
+                 "server": "proxydns"
+            },
+             {
+                "rule_set": "geosite-geolocation-!cn",         
+                "query_type": [
+                    "A",
+                    "AAAA"
+                ],
+                "server": "dns_fakeip"
+            }
+          ],
+           "fakeip": {
+           "enabled": true,
+           "inet4_range": "198.18.0.0/15",
+           "inet6_range": "fc00::/18"
+         },
+          "independent_cache": true,
+          "final": "proxydns"
+        },
+      "inbounds": [
+    {
+      "type": "tun",
+      "inet4_address": "172.19.0.1/30",
+      "inet6_address": "fd00::1/126",
+      "auto_route": true,
+      "strict_route": true,
+      "sniff": true,
+      "sniff_override_destination": true,
+      "domain_strategy": "prefer_ipv4"
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "select",
+      "type": "selector",
+      "default": "auto",
+      "outbounds": [
+        "auto",
+        "vless-$hostname",
+        "vmess-$hostname",
+        "hy2-$hostname",
+        "tuic5-$hostname"
+      ]
+    },
+    {
+      "type": "vless",
+      "tag": "vless-$hostname",
+      "server": "$server_ipcl",
+      "server_port": $vl_port,
+      "uuid": "$uuid",
+      "packet_encoding": "xudp",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "$vl_name",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+      "reality": {
+          "enabled": true,
+          "public_key": "$public_key",
+          "short_id": "$short_id"
+        }
+      }
+    },
+{
+            "server": "$vmadd_local",
+            "server_port": $vm_port,
+            "tag": "vmess-$hostname",
+            "tls": {
+                "enabled": $tls,
+                "server_name": "$vm_name",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "packet_encoding": "packetaddr",
+            "transport": {
+                "headers": {
+                    "Host": [
+                        "$vm_name"
+                    ]
+                },
+                "path": "$ws_path",
+                "type": "ws"
+            },
+            "type": "vmess",
+            "security": "auto",
+            "uuid": "$uuid"
+        },
+
+    {
+        "type": "hysteria2",
+        "tag": "hy2-$hostname",
+        "server": "$cl_hy2_ip",
+        "server_port": $hy2_port,
+        "password": "$uuid",
+        "tls": {
+            "enabled": true,
+            "server_name": "$hy2_name",
+            "insecure": $hy2_ins,
+            "alpn": [
+                "h3"
+            ]
+        }
+    },
+        {
+            "type":"tuic",
+            "tag": "tuic5-$hostname",
+            "server": "$cl_tu5_ip",
+            "server_port": $tu5_port,
+            "uuid": "$uuid",
+            "password": "$uuid",
+            "congestion_control": "bbr",
+            "udp_relay_mode": "native",
+            "udp_over_stream": false,
+            "zero_rtt_handshake": false,
+            "heartbeat": "10s",
+            "tls":{
+                "enabled": true,
+                "server_name": "$tu5_name",
+                "insecure": $tu5_ins,
+                "alpn": [
+                    "h3"
+                ]
+            }
+        },
+    {
+      "tag": "direct",
+      "type": "direct"
+    },
+    {
+      "tag": "block",
+      "type": "block"
+    },
+    {
+      "tag": "dns-out",
+      "type": "dns"
+    },
+    {
+      "tag": "auto",
+      "type": "urltest",
+      "outbounds": [
+        "vless-$hostname",
+        "vmess-$hostname",
+        "hy2-$hostname",
+        "tuic5-$hostname"
+      ],
+      "url": "https://www.gstatic.com/generate_204",
+      "interval": "1m",
+      "tolerance": 50,
+      "interrupt_exist_connections": false
+    }
+  ],
+  "route": {
+      "rule_set": [
+            {
+                "tag": "geosite-geolocation-!cn",
+                "type": "remote",
+                "format": "binary",
+                "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/geolocation-!cn.srs",
+                "download_detour": "select",
+                "update_interval": "1d"
+            },
+            {
+                "tag": "geosite-cn",
+                "type": "remote",
+                "format": "binary",
+                "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/geolocation-cn.srs",
+                "download_detour": "select",
+                "update_interval": "1d"
+            },
+            {
+                "tag": "geoip-cn",
+                "type": "remote",
+                "format": "binary",
+                "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geoip/cn.srs",
+                "download_detour": "select",
+                "update_interval": "1d"
+            }
+        ],
+    "auto_detect_interface": true,
+    "final": "select",
+    "rules": [
+      {
+        "outbound": "dns-out",
+        "protocol": "dns"
+      },
+      {
+        "clash_mode": "Direct",
+        "outbound": "direct"
+      },
+      {
+        "clash_mode": "Global",
+        "outbound": "select"
+      },
+      {
+        "rule_set": "geoip-cn",
+        "outbound": "direct"
+      },
+      {
+        "rule_set": "geosite-cn",
+        "outbound": "direct"
+      },
+      {
+      "ip_is_private": true,
+      "outbound": "direct"
+      },
+      {
+        "rule_set": "geosite-geolocation-!cn",
+        "outbound": "select"
+      }
+    ]
+  },
+    "ntp": {
+    "enabled": true,
+    "server": "time.apple.com",
+    "server_port": 123,
+    "interval": "30m",
+    "detour": "direct"
+  }
+}
+EOF
+
+cat > /etc/s-box/clash_meta_client.yaml <<EOF
+port: 7890
+allow-lan: true
+mode: rule
+log-level: info
+unified-delay: true
+global-client-fingerprint: chrome
+dns:
+  enable: true
+  listen: :53
+  ipv6: true
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  default-nameserver: 
+    - 223.5.5.5
+    - 8.8.8.8
+  nameserver:
+    - https://dns.alidns.com/dns-query
+    - https://doh.pub/dns-query
+  fallback:
+    - https://1.0.0.1/dns-query
+    - tls://dns.google
+  fallback-filter:
+    geoip: true
+    geoip-code: CN
+    ipcidr:
+      - 240.0.0.0/4
+
+proxies:
+- name: vless-reality-vision-$hostname               
+  type: vless
+  server: $server_ipcl                           
+  port: $vl_port                                
+  uuid: $uuid   
+  network: tcp
+  udp: true
+  tls: true
+  flow: xtls-rprx-vision
+  servername: $vl_name                 
+  reality-opts: 
+    public-key: $public_key    
+    short-id: $short_id                    
+  client-fingerprint: chrome                  
+
+- name: vmess-ws-$hostname                         
+  type: vmess
+  server: $vmadd_local                        
+  port: $vm_port                                     
+  uuid: $uuid       
+  alterId: 0
+  cipher: auto
+  udp: true
+  tls: $tls
+  network: ws
+  servername: $vm_name                    
+  ws-opts:
+    path: "$ws_path"                             
+    headers:
+      Host: $vm_name                     
+
+
+
+
+
+- name: hysteria2-$hostname                            
+  type: hysteria2                                      
+  server: $cl_hy2_ip                               
+  port: $hy2_port                                
+  password: $uuid                          
+  alpn:
+    - h3
+  sni: $hy2_name                               
+  skip-cert-verify: $hy2_ins
+  fast-open: true
+
+- name: tuic5-$hostname                            
+  server: $cl_tu5_ip                      
+  port: $tu5_port                                    
+  type: tuic
+  uuid: $uuid       
+  password: $uuid   
+  alpn: [h3]
+  disable-sni: true
+  reduce-rtt: true
+  udp-relay-mode: native
+  congestion-controller: bbr
+  sni: $tu5_name                                
+  skip-cert-verify: $tu5_ins
+
+proxy-groups:
+- name: 负载均衡
+  type: load-balance
+  url: https://www.gstatic.com/generate_204
+  interval: 300
+  strategy: round-robin
+  proxies:
+    - vless-reality-vision-$hostname                              
+    - vmess-ws-$hostname
+    - hysteria2-$hostname
+    - tuic5-$hostname
+
+- name: 自动选择
+  type: url-test
+  url: https://www.gstatic.com/generate_204
+  interval: 300
+  tolerance: 50
+  proxies:
+    - vless-reality-vision-$hostname                              
+    - vmess-ws-$hostname
+    - hysteria2-$hostname
+    - tuic5-$hostname
+    
+- name: 🌍选择代理节点
+  type: select
+  proxies:
+    - 负载均衡                                         
+    - 自动选择
+    - DIRECT
+    - vless-reality-vision-$hostname                              
+    - vmess-ws-$hostname
+    - hysteria2-$hostname
+    - tuic5-$hostname
+rules:
+  - GEOIP,LAN,DIRECT
+  - GEOIP,CN,DIRECT
+  - MATCH,🌍选择代理节点
+EOF
+fi
+
+cat > /etc/s-box/v2rayn_hy2.yaml <<EOF
+server: $sb_hy2_ip:$hy2_port
+auth: $uuid
+tls:
+  sni: $hy2_name
+  insecure: $hy2_ins
+fastOpen: true
+socks5:
+  listen: 127.0.0.1:50000
+lazy: true
+transport:
+  udp:
+    hopInterval: 30s
+EOF
+
+cat > /etc/s-box/v2rayn_tu5.json <<EOF
+{
+    "relay": {
+        "server": "$sb_tu5_ip:$tu5_port",
+        "uuid": "$uuid",
+        "password": "$uuid",
+        "congestion_control": "bbr",
+        "alpn": ["h3", "spdy/3.1"]
+    },
+    "local": {
+        "server": "127.0.0.1:55555"
+    },
+    "log_level": "info"
+}
+EOF
+if [[ -n $hy2_ports ]]; then
+hy2_ports=",$hy2_ports"
+hy2_ports=$(echo $hy2_ports | sed 's/:/-/g')
+a=$hy2_ports
+sed -i "/server:/ s/$/$a/" /etc/s-box/v2rayn_hy2.yaml
+fi
+sed -i 's/server: \(.*\)/server: "\1"/' /etc/s-box/v2rayn_hy2.yaml
+#if [[ -f /etc/s-box/i ]]; then
+#sed -i 's/"inet6_address":/\/\/&/' /etc/s-box/sing_box_client.json
+#fi
+}
+
+cfargo_ym(){
+tls=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[1].tls.enabled')
+if [[ "$tls" = "false" ]]; then
+echo
+yellow "1：Argo临时隧道"
+yellow "2：Argo固定隧道"
+yellow "0：返回上层"
+readp "请选择【0-2】：" menu
+if [ "$menu" = "1" ]; then
+cfargo
+elif [ "$menu" = "2" ]; then
+cfargoym
+else
+changeserv
+fi
+else
+yellow "因vmess开启了tls，Argo隧道功能不可用" && sleep 2
+fi
+}
+
+cloudflaredargo(){
+if [ ! -e /etc/s-box/cloudflared ]; then
+case $(uname -m) in
+aarch64) cpu=arm64;;
+x86_64) cpu=amd64;;
+esac
+curl -L -o /etc/s-box/cloudflared -# --retry 2 https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-$cpu
+#curl -L -o /etc/s-box/cloudflared -# --retry 2 https://gitlab.com/rwkgyg/sing-box-yg/-/raw/main/$cpu
+chmod +x /etc/s-box/cloudflared
+fi
+}
+
+cfargoym(){
+echo
+if [[ -f /etc/s-box/sbargotoken.log && -f /etc/s-box/sbargoym.log ]]; then
+green "当前Argo固定隧道域名：$(cat /etc/s-box/sbargoym.log 2>/dev/null)"
+green "当前Argo固定隧道Token：$(cat /etc/s-box/sbargotoken.log 2>/dev/null)"
+fi
+echo
+green "请确保Cloudflare官网 --- Zero Trust --- Networks --- Tunnels已设置完成"
+yellow "1：重置/设置Argo固定隧道域名"
+yellow "2：停止Argo固定隧道"
+yellow "0：返回上层"
+readp "请选择【0-2】：" menu
+if [ "$menu" = "1" ]; then
+cloudflaredargo
+readp "输入Argo固定隧道Token: " argotoken
+readp "输入Argo固定隧道域名: " argoym
+if [[ -n $(ps -e | grep cloudflared) ]]; then
+kill -15 $(cat /etc/s-box/sbargoympid.log 2>/dev/null) >/dev/null 2>&1
+fi
+echo
+if [[ -n "${argotoken}" && -n "${argoym}" ]]; then
+nohup setsid /etc/s-box/cloudflared tunnel --no-autoupdate --edge-ip-version auto --protocol http2 run --token ${argotoken} >/dev/null 2>&1 & echo "$!" > /etc/s-box/sbargoympid.log
+sleep 20
+fi
+echo ${argoym} > /etc/s-box/sbargoym.log
+echo ${argotoken} > /etc/s-box/sbargotoken.log
+crontab -l > /tmp/crontab.tmp
+sed -i '/sbargoympid/d' /tmp/crontab.tmp
+echo '@reboot /bin/bash -c "nohup setsid /etc/s-box/cloudflared tunnel --no-autoupdate --edge-ip-version auto --protocol http2 run --token $(cat /etc/s-box/sbargotoken.log 2>/dev/null) >/dev/null 2>&1 & pid=\$! && echo \$pid > /etc/s-box/sbargoympid.log"' >> /tmp/crontab.tmp
+crontab /tmp/crontab.tmp
+rm /tmp/crontab.tmp
+argo=$(cat /etc/s-box/sbargoym.log 2>/dev/null)
+blue "Argo固定隧道设置完成，固定域名：$argo"
+elif [ "$menu" = "2" ]; then
+kill -15 $(cat /etc/s-box/sbargoympid.log 2>/dev/null) >/dev/null 2>&1
+crontab -l > /tmp/crontab.tmp
+sed -i '/sbargoympid/d' /tmp/crontab.tmp
+crontab /tmp/crontab.tmp
+rm /tmp/crontab.tmp
+rm -rf /etc/s-box/vm_ws_argogd.txt
+green "Argo固定隧道已停止"
+else
+cfargo_ym
+fi
+}
+
+cfargo(){
+echo
+yellow "1：重置Argo临时隧道域名"
+yellow "2：停止Argo临时隧道"
+yellow "0：返回上层"
+readp "请选择【0-2】：" menu
+if [ "$menu" = "1" ]; then
+cloudflaredargo
+i=0
+while [ $i -le 4 ]; do let i++
+yellow "第$i次刷新验证Cloudflared Argo临时隧道域名有效性，请稍等……"
+if [[ -n $(ps -e | grep cloudflared) ]]; then
+kill -15 $(cat /etc/s-box/sbargopid.log 2>/dev/null) >/dev/null 2>&1
+fi
+/etc/s-box/cloudflared tunnel --url http://localhost:$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[1].listen_port') --edge-ip-version auto --no-autoupdate --protocol http2 > /etc/s-box/argo.log 2>&1 &
+echo "$!" > /etc/s-box/sbargopid.log
+sleep 20
+if [[ -n $(curl -sL https://$(cat /etc/s-box/argo.log 2>/dev/null | grep -a trycloudflare.com | awk 'NR==2{print}' | awk -F// '{print $2}' | awk '{print $1}')/ -I | awk 'NR==1 && /404|400|503/') ]]; then
+argo=$(cat /etc/s-box/argo.log 2>/dev/null | grep -a trycloudflare.com | awk 'NR==2{print}' | awk -F// '{print $2}' | awk '{print $1}')
+blue "Argo临时隧道申请成功，域名验证有效：$argo" && sleep 2
+break
+fi
+if [ $i -eq 5 ]; then
+echo
+yellow "Argo临时域名验证暂不可用，稍后可能会自动恢复，或者申请重置" && sleep 3
+fi
+done
+crontab -l > /tmp/crontab.tmp
+sed -i '/sbargopid/d' /tmp/crontab.tmp
+echo '@reboot /bin/bash -c "/etc/s-box/cloudflared tunnel --url http://localhost:$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[1].listen_port') --edge-ip-version auto --no-autoupdate --protocol http2 > /etc/s-box/argo.log 2>&1 & pid=\$! && echo \$pid > /etc/s-box/sbargopid.log"' >> /tmp/crontab.tmp
+crontab /tmp/crontab.tmp
+rm /tmp/crontab.tmp
+elif [ "$menu" = "2" ]; then
+kill -15 $(cat /etc/s-box/sbargopid.log 2>/dev/null) >/dev/null 2>&1
+crontab -l > /tmp/crontab.tmp
+sed -i '/sbargopid/d' /tmp/crontab.tmp
+crontab /tmp/crontab.tmp
+rm /tmp/crontab.tmp
+rm -rf /etc/s-box/vm_ws_argols.txt
+green "Argo临时隧道已停止"
+else
+cfargo_ym
+fi
+}
+
+instsllsingbox(){
+if [[ -f '/etc/systemd/system/sing-box.service' ]]; then
+red "已安装Sing-box服务，无法再次安装" && exit
+fi
+mkdir -p /etc/s-box
+v6
+openyn
+inssb
+inscertificate
+insport
+sleep 2
+echo
+blue "Vless-reality相关key与id将自动生成……"
+key_pair=$(/etc/s-box/sing-box generate reality-keypair)
+private_key=$(echo "$key_pair" | awk '/PrivateKey/ {print $2}' | tr -d '"')
+public_key=$(echo "$key_pair" | awk '/PublicKey/ {print $2}' | tr -d '"')
+echo "$public_key" > /etc/s-box/public.key
+short_id=$(/etc/s-box/sing-box generate rand --hex 4)
+wget -q -O /root/geoip.db https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geoip.db
+wget -q -O /root/geosite.db https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geosite.db
+red "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+green "五、自动生成warp-wireguard出站账户" && sleep 2
+warpwg
+inssbjsonser && sbservice && sbactive
+#curl -sL https://gitlab.com/rwkgyg/sing-box-yg/-/raw/main/version/version | awk -F "更新内容" '{print $1}' | head -n 1 > /etc/s-box/v
+curl -sL https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/version | awk -F "更新内容" '{print $1}' | head -n 1 > /etc/s-box/v
+clear
+red "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+lnsb && blue "Sing-box-yg脚本安装成功，脚本快捷方式：sb" && cronsb && sleep 1
+sbshare
+red "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+blue "Hysteria2/Tuic5自定义V2rayN配置、Clash-Meta/Sing-box客户端配置及私有订阅链接，请选择9查看"
+red "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+echo
+}
+
+changeym(){
+[ -f /root/ygkkkca/ca.log ] && ymzs="$yellow切换为域名证书：$(cat /root/ygkkkca/ca.log 2>/dev/null)$plain" || ymzs="$yellow未申请域名证书，无法切换$plain"
+vl_na="正在使用的域名：$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[0].tls.server_name')。$yellow更换符合reality要求的域名，不支持证书域名$plain"
+tls=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[1].tls.enabled')
+[[ "$tls" = "false" ]] && vm_na="当前已关闭TLS。$ymzs ${yellow}将开启TLS，Argo隧道将不支持开启${plain}" || vm_na="正在使用的域名证书：$(cat /root/ygkkkca/ca.log 2>/dev/null)。$yellow切换为关闭TLS，Argo隧道将可用$plain"
+hy2_sniname=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[2].tls.key_path')
+[[ "$hy2_sniname" = '/etc/s-box/private.key' ]] && hy2_na="正在使用自签bing证书。$ymzs" || hy2_na="正在使用的域名证书：$(cat /root/ygkkkca/ca.log 2>/dev/null)。$yellow切换为自签bing证书$plain"
+tu5_sniname=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[3].tls.key_path')
+[[ "$tu5_sniname" = '/etc/s-box/private.key' ]] && tu5_na="正在使用自签bing证书。$ymzs" || tu5_na="正在使用的域名证书：$(cat /root/ygkkkca/ca.log 2>/dev/null)。$yellow切换为自签bing证书$plain"
+echo
+green "请选择要切换证书模式的协议"
+green "1：vless-reality协议，$vl_na"
+if [[ -f /root/ygkkkca/ca.log ]]; then
+green "2：vmess-ws协议，$vm_na"
+green "3：Hysteria2协议，$hy2_na"
+green "4：Tuic5协议，$tu5_na"
+else
+red "仅支持选项1 (vless-reality)。因未申请域名证书，vmess-ws、Hysteria-2、Tuic-v5的证书切换选项暂不予显示"
+fi
+green "0：返回上层"
+readp "请选择：" menu
+if [ "$menu" = "1" ]; then
+readp "请输入vless-reality域名 (回车使用www.yahoo.com)：" menu
+ym_vl_re=${menu:-www.yahoo.com}
+a=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[0].tls.server_name')
+b=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[0].tls.reality.handshake.server')
+c=$(cat /etc/s-box/vl_reality.txt | cut -d'=' -f5 | cut -d'&' -f1)
+sed -i "23s/$a/$ym_vl_re/" /etc/s-box/sb.json
+sed -i "27s/$b/$ym_vl_re/" /etc/s-box/sb.json
+restartsb
+blue "设置完毕，请回到主菜单进入选项9更新节点配置"
+elif [ "$menu" = "2" ]; then
+if [ -f /root/ygkkkca/ca.log ]; then
+a=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[1].tls.enabled')
+[ "$a" = "true" ] && a_a=false || a_a=true
+b=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[1].tls.server_name')
+[ "$b" = "www.bing.com" ] && b_b=$(cat /root/ygkkkca/ca.log) || b_b=$(cat /root/ygkkkca/ca.log)
+c=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[1].tls.certificate_path')
+d=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[1].tls.key_path')
+if [ "$d" = '/etc/s-box/private.key' ]; then
+c_c='/root/ygkkkca/cert.crt'
+d_d='/root/ygkkkca/private.key'
+else
+c_c='/etc/s-box/cert.pem'
+d_d='/etc/s-box/private.key'
+fi
+sed -i "55s#$a#$a_a#" /etc/s-box/sb.json
+sed -i "56s#$b#$b_b#" /etc/s-box/sb.json
+sed -i "57s#$c#$c_c#" /etc/s-box/sb.json
+sed -i "58s#$d#$d_d#" /etc/s-box/sb.json
+restartsb
+blue "设置完毕，请回到主菜单进入选项9更新节点配置"
+echo
+tls=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[1].tls.enabled')
+vm_port=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[1].listen_port')
+blue "当前Vmess-ws(tls)的端口：$vm_port"
+[[ "$tls" = "false" ]] && blue "切记：可进入主菜单选项4-2，将Vmess-ws端口更改为任意7个80系端口(80、8080、8880、2052、2082、2086、2095)，可实现CDN优选IP" || blue "切记：可进入主菜单选项4-2，将Vmess-ws-tls端口更改为任意6个443系的端口(443、8443、2053、2083、2087、2096)，可实现CDN优选IP"
+echo
+else
+red "当前未申请域名证书，不可切换。主菜单选择12，执行Acme证书申请" && sleep 2 && sb
+fi
+elif [ "$menu" = "3" ]; then
+if [ -f /root/ygkkkca/ca.log ]; then
+c=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[2].tls.certificate_path')
+d=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[2].tls.key_path')
+if [ "$d" = '/etc/s-box/private.key' ]; then
+c_c='/root/ygkkkca/cert.crt'
+d_d='/root/ygkkkca/private.key'
+else
+c_c='/etc/s-box/cert.pem'
+d_d='/etc/s-box/private.key'
+fi
+sed -i "79s#$c#$c_c#" /etc/s-box/sb.json
+sed -i "80s#$d#$d_d#" /etc/s-box/sb.json
+restartsb
+blue "设置完毕，请回到主菜单进入选项9更新节点配置"
+else
+red "当前未申请域名证书，不可切换。主菜单选择12，执行Acme证书申请" && sleep 2 && sb
+fi
+elif [ "$menu" = "4" ]; then
+if [ -f /root/ygkkkca/ca.log ]; then
+c=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[3].tls.certificate_path')
+d=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[3].tls.key_path')
+if [ "$d" = '/etc/s-box/private.key' ]; then
+c_c='/root/ygkkkca/cert.crt'
+d_d='/root/ygkkkca/private.key'
+else
+c_c='/etc/s-box/cert.pem'
+d_d='/etc/s-box/private.key'
+fi
+sed -i "102s#$c#$c_c#" /etc/s-box/sb.json
+sed -i "103s#$d#$d_d#" /etc/s-box/sb.json
+restartsb
+blue "设置完毕，请回到主菜单进入选项9更新节点配置"
+else
+red "当前未申请域名证书，不可切换。主菜单选择12，执行Acme证书申请" && sleep 2 && sb
+fi
+else
+sb
+fi
+}
+
+allports(){
+vl_port=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[0].listen_port')
+vm_port=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[1].listen_port')
+hy2_port=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[2].listen_port')
+tu5_port=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[3].listen_port')
+hy2_ports=$(iptables -t nat -nL --line 2>/dev/null | grep -w "$hy2_port" | awk '{print $8}' | sed 's/dpts://; s/dpt://' | tr '\n' ',' | sed 's/,$//')
+tu5_ports=$(iptables -t nat -nL --line 2>/dev/null | grep -w "$tu5_port" | awk '{print $8}' | sed 's/dpts://; s/dpt://' | tr '\n' ',' | sed 's/,$//')
+[[ -n $hy2_ports ]] && hy2zfport="$hy2_ports" || hy2zfport="未添加"
+[[ -n $tu5_ports ]] && tu5zfport="$tu5_ports" || tu5zfport="未添加"
+}
+
+changeport(){
+sbactive
+allports
+fports(){
+readp "\n请输入转发的端口范围 (1000-65535范围内，格式为 小数字:大数字)：" rangeport
+if [[ $rangeport =~ ^([1-9][0-9]{3,4}:[1-9][0-9]{3,4})$ ]]; then
+b=${rangeport%%:*}
+c=${rangeport##*:}
+if [[ $b -ge 1000 && $b -le 65535 && $c -ge 1000 && $c -le 65535 && $b -lt $c ]]; then
+iptables -t nat -A PREROUTING -p udp --dport $rangeport -j DNAT --to-destination :$port
+ip6tables -t nat -A PREROUTING -p udp --dport $rangeport -j DNAT --to-destination :$port
+netfilter-persistent save >/dev/null 2>&1
+service iptables save >/dev/null 2>&1
+blue "已确认转发的端口范围：$rangeport"
+else
+red "输入的端口范围不在有效范围内" && fports
+fi
+else
+red "输入格式不正确。格式为 小数字:大数字" && fports
+fi
+echo
+}
+fport(){
+readp "\n请输入一个转发的端口 (1000-65535范围内)：" onlyport
+if [[ $onlyport -ge 1000 && $onlyport -le 65535 ]]; then
+iptables -t nat -A PREROUTING -p udp --dport $onlyport -j DNAT --to-destination :$port
+ip6tables -t nat -A PREROUTING -p udp --dport $onlyport -j DNAT --to-destination :$port
+netfilter-persistent save >/dev/null 2>&1
+service iptables save >/dev/null 2>&1
+blue "已确认转发的端口：$onlyport"
+else
+blue "输入的端口不在有效范围内" && fport
+fi
+echo
+}
+
+hy2deports(){
+allports
+hy2_ports=$(echo "$hy2_ports" | sed 's/,/,/g')
+IFS=',' read -ra ports <<< "$hy2_ports"
+for port in "${ports[@]}"; do
+iptables -t nat -D PREROUTING -p udp --dport $port -j DNAT --to-destination :$hy2_port
+ip6tables -t nat -D PREROUTING -p udp --dport $port -j DNAT --to-destination :$hy2_port
+done
+netfilter-persistent save >/dev/null 2>&1
+service iptables save >/dev/null 2>&1
+}
+tu5deports(){
+allports
+tu5_ports=$(echo "$tu5_ports" | sed 's/,/,/g')
+IFS=',' read -ra ports <<< "$tu5_ports"
+for port in "${ports[@]}"; do
+iptables -t nat -D PREROUTING -p udp --dport $port -j DNAT --to-destination :$tu5_port
+ip6tables -t nat -D PREROUTING -p udp --dport $port -j DNAT --to-destination :$tu5_port
+done
+netfilter-persistent save >/dev/null 2>&1
+service iptables save >/dev/null 2>&1
+}
+
+allports
+green "Vless-reality与Vmess-ws仅能更改唯一的端口，vmess-ws注意Argo端口重置"
+green "Hysteria2与Tuic5支持更改主端口，也支持增删多个转发端口"
+green "Hysteria2支持端口跳跃，且与Tuic5都支持多端口复用"
+echo
+green "1：Vless-reality协议 ${yellow}端口:$vl_port${plain}"
+green "2：Vmess-ws协议 ${yellow}端口:$vm_port${plain}"
+green "3：Hysteria2协议 ${yellow}端口:$hy2_port  转发多端口: $hy2zfport${plain}"
+green "4：Tuic5协议 ${yellow}端口:$tu5_port  转发多端口: $tu5zfport${plain}"
+green "0：返回上层"
+readp "请选择要变更端口的协议【0-4】：" menu
+if [ "$menu" = "1" ]; then
+vlport
+sed -i "14s/$vl_port/$port_vl_re/" /etc/s-box/sb.json
+restartsb
+blue "Vless-reality端口更改完成，可选择9输出配置信息"
+echo
+elif [ "$menu" = "2" ]; then
+vmport
+sed -i "41s/$vm_port/$port_vm_ws/" /etc/s-box/sb.json
+restartsb
+blue "Vmess-ws端口更改完成，可选择9输出配置信息"
+tls=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[1].tls.enabled')
+if [[ "$tls" = "false" ]]; then
+blue "切记：如果Argo使用中，临时隧道必须重置，固定隧道的CF设置界面端口必须修改为$port_vm_ws。"
+else
+blue "当前Argo隧道已不支持开启"
+fi
+echo
+elif [ "$menu" = "3" ]; then
+green "1：更换Hysteria2主端口 (原多端口自动重置删除)"
+green "2：添加Hysteria2多端口"
+green "3：重置删除Hysteria2多端口"
+green "0：返回上层"
+readp "请选择【0-3】：" menu
+if [ "$menu" = "1" ]; then
+if [ -n $hy2_ports ]; then
+hy2deports
+hy2port
+sed -i "67s/$hy2_port/$port_hy2/" /etc/s-box/sb.json
+restartsb
+result_vl_vm_hy_tu && reshy2 && sb_client
+else
+hy2port
+sed -i "67s/$hy2_port/$port_hy2/" /etc/s-box/sb.json
+restartsb
+result_vl_vm_hy_tu && reshy2 && sb_client
+fi
+elif [ "$menu" = "2" ]; then
+green "1：添加Hysteria2范围端口"
+green "2：添加Hysteria2单端口"
+green "0：返回上层"
+readp "请选择【0-2】：" menu
+if [ "$menu" = "1" ]; then
+port=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[2].listen_port')
+fports && result_vl_vm_hy_tu && sb_client && changeport
+elif [ "$menu" = "2" ]; then
+port=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[2].listen_port')
+fport && result_vl_vm_hy_tu && sb_client && changeport
+else
+changeport
+fi
+elif [ "$menu" = "3" ]; then
+if [ -n $hy2_ports ]; then
+hy2deports && result_vl_vm_hy_tu && sb_client && changeport
+else
+yellow "Hysteria2未设置多端口" && changeport
+fi
+else
+changeport
+fi
+
+elif [ "$menu" = "4" ]; then
+green "1：更换Tuic5主端口 (原多端口自动重置删除)"
+green "2：添加Tuic5多端口"
+green "3：重置删除Tuic5多端口"
+green "0：返回上层"
+readp "请选择【0-3】：" menu
+if [ "$menu" = "1" ]; then
+if [ -n $tu5_ports ]; then
+tu5deports
+tu5port
+sed -i "89s/$tu5_port/$port_tu/" /etc/s-box/sb.json
+restartsb
+result_vl_vm_hy_tu && restu5 && sb_client
+else
+tu5port
+sed -i "89s/$tu5_port/$port_tu/" /etc/s-box/sb.json
+restartsb
+result_vl_vm_hy_tu && restu5 && sb_client
+fi
+elif [ "$menu" = "2" ]; then
+green "1：添加Tuic5范围端口"
+green "2：添加Tuic5单端口"
+green "0：返回上层"
+readp "请选择【0-2】：" menu
+if [ "$menu" = "1" ]; then
+port=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[3].listen_port')
+fports && result_vl_vm_hy_tu && sb_client && changeport
+elif [ "$menu" = "2" ]; then
+port=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[3].listen_port')
+fport && result_vl_vm_hy_tu && sb_client && changeport
+else
+changeport
+fi
+elif [ "$menu" = "3" ]; then
+if [ -n $tu5_ports ]; then
+tu5deports && result_vl_vm_hy_tu && sb_client && changeport
+else
+yellow "Tuic5未设置多端口" && changeport
+fi
+else
+changeport
+fi
+else
+sb
+fi
+}
+
+changeuuid(){
+echo
+olduuid=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[0].users[0].uuid')
+oldvmpath=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[1].transport.path')
+green "全协议的uuid (密码)：$olduuid"
+green "Vmess的path路径：$oldvmpath"
+echo
+yellow "1：自定义全协议的uuid (密码)"
+yellow "2：自定义Vmess的path路径"
+yellow "0：返回上层"
+readp "请选择【0-2】：" menu
+if [ "$menu" = "1" ]; then
+readp "输入uuid，必须是uuid格式，不懂就回车(重置并随机生成uuid)：" menu
+if [ -z "$menu" ]; then
+uuid=$(/etc/s-box/sing-box generate uuid)
+else
+uuid=$menu
+fi
+sed -i "s/$olduuid/$uuid/g" /etc/s-box/sb.json
+restartsb
+blue "已确认uuid (密码)：${uuid}" 
+blue "已确认Vmess的path路径：$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[1].transport.path')"
+elif [ "$menu" = "2" ]; then
+readp "输入Vmess的path路径，回车表示不变：" menu
+if [ -z "$menu" ]; then
+echo
+else
+vmpath=$menu
+sed -i "50s#$oldvmpath#$vmpath#g" /etc/s-box/sb.json
+restartsb
+fi
+blue "已确认Vmess的path路径：$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[1].transport.path')"
+sbshare
+else
+changeserv
+fi
+}
+
+changeip(){
+v4v6
+chip(){
+rpip=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.outbounds[0].domain_strategy')
+sed -i "111s/$rpip/$rrpip/g" /etc/s-box/sb.json
+restartsb
+}
+readp "1. IPV4优先\n2. IPV6优先\n3. 仅IPV4\n4. 仅IPV6\n请选择：" choose
+if [[ $choose == "1" && -n $v4 ]]; then
+rrpip="prefer_ipv4" && chip && v4_6="IPV4优先($v4)"
+elif [[ $choose == "2" && -n $v6 ]]; then
+rrpip="prefer_ipv6" && chip && v4_6="IPV6优先($v6)"
+elif [[ $choose == "3" && -n $v4 ]]; then
+rrpip="ipv4_only" && chip && v4_6="仅IPV4($v4)"
+elif [[ $choose == "4" && -n $v6 ]]; then
+rrpip="ipv6_only" && chip && v4_6="仅IPV6($v6)"
+else 
+red "当前不存在你选择的IPV4/IPV6地址，或者输入错误" && changeip
+fi
+blue "当前已更换的IP优先级：${v4_6}" && sb
+}
+
+tgsbshow(){
+echo
+yellow "1：重置/设置Telegram机器人的Token、用户ID"
+yellow "0：返回上层"
+readp "请选择【0-1】：" menu
+if [ "$menu" = "1" ]; then
+rm -rf /etc/s-box/sbtg.sh
+readp "输入Telegram机器人Token: " token
+telegram_token=$token
+readp "输入Telegram机器人用户ID: " userid
+telegram_id=$userid
+echo '#!/bin/bash
+export LANG=en_US.UTF-8
+
+total_lines=$(wc -l < /etc/s-box/clash_meta_client.yaml)
+half=$((total_lines / 2))
+head -n $half /etc/s-box/clash_meta_client.yaml > /etc/s-box/clash_meta_client1.txt
+tail -n +$((half + 1)) /etc/s-box/clash_meta_client.yaml > /etc/s-box/clash_meta_client2.txt
+
+total_lines=$(wc -l < /etc/s-box/sing_box_client.json)
+quarter=$((total_lines / 4))
+head -n $quarter /etc/s-box/sing_box_client.json > /etc/s-box/sing_box_client1.txt
+tail -n +$((quarter + 1)) /etc/s-box/sing_box_client.json | head -n $quarter > /etc/s-box/sing_box_client2.txt
+tail -n +$((2 * quarter + 1)) /etc/s-box/sing_box_client.json | head -n $quarter > /etc/s-box/sing_box_client3.txt
+tail -n +$((3 * quarter + 1)) /etc/s-box/sing_box_client.json > /etc/s-box/sing_box_client4.txt
+
+m1=$(cat /etc/s-box/vl_reality.txt 2>/dev/null)
+m2=$(cat /etc/s-box/vm_ws.txt 2>/dev/null)
+m3=$(cat /etc/s-box/vm_ws_argols.txt 2>/dev/null)
+m3_5=$(cat /etc/s-box/vm_ws_argogd.txt 2>/dev/null)
+m4=$(cat /etc/s-box/vm_ws_tls.txt 2>/dev/null)
+m5=$(cat /etc/s-box/hy2.txt 2>/dev/null)
+m6=$(cat /etc/s-box/tuic5.txt 2>/dev/null)
+m7=$(cat /etc/s-box/sing_box_client1.txt 2>/dev/null)
+m7_5=$(cat /etc/s-box/sing_box_client2.txt 2>/dev/null)
+m7_5_5=$(cat /etc/s-box/sing_box_client3.txt 2>/dev/null)
+m7_5_5_5=$(cat /etc/s-box/sing_box_client4.txt 2>/dev/null)
+m8=$(cat /etc/s-box/clash_meta_client1.txt 2>/dev/null)
+m8_5=$(cat /etc/s-box/clash_meta_client2.txt 2>/dev/null)
+m9=$(cat /etc/s-box/sing_box_gitlab.txt 2>/dev/null)
+m10=$(cat /etc/s-box/clash_meta_gitlab.txt 2>/dev/null)
+m11=$(cat /etc/s-box/jh_sub.txt 2>/dev/null)
+message_text_m1=$(echo "$m1")
+message_text_m2=$(echo "$m2")
+message_text_m3=$(echo "$m3")
+message_text_m3_5=$(echo "$m3_5")
+message_text_m4=$(echo "$m4")
+message_text_m5=$(echo "$m5")
+message_text_m6=$(echo "$m6")
+message_text_m7=$(echo "$m7")
+message_text_m7_5=$(echo "$m7_5")
+message_text_m7_5_5=$(echo "$m7_5_5")
+message_text_m7_5_5_5=$(echo "$m7_5_5_5")
+message_text_m8=$(echo "$m8")
+message_text_m8_5=$(echo "$m8_5")
+message_text_m9=$(echo "$m9")
+message_text_m10=$(echo "$m10")
+message_text_m11=$(echo "$m11")
+MODE=HTML
+URL="https://api.telegram.org/bottelegram_token/sendMessage"
+res=$(timeout 20s curl -s -X POST $URL -d chat_id=telegram_id  -d parse_mode=${MODE} --data-urlencode "text=🚀【 Vless-reality-vision 分享链接 】：支持v2rayng、nekobox "$'"'"'\n\n'"'"'"${message_text_m1}")
+if [[ -f /etc/s-box/vm_ws.txt ]]; then
+res=$(timeout 20s curl -s -X POST $URL -d chat_id=telegram_id  -d parse_mode=${MODE} --data-urlencode "text=🚀【 Vmess-ws 分享链接 】：支持v2rayng、nekobox "$'"'"'\n\n'"'"'"${message_text_m2}")
+fi
+if [[ -f /etc/s-box/vm_ws_argols.txt ]]; then
+res=$(timeout 20s curl -s -X POST $URL -d chat_id=telegram_id  -d parse_mode=${MODE} --data-urlencode "text=🚀【 Vmess-ws(tls)+Argo临时域名分享链接 】：支持v2rayng、nekobox "$'"'"'\n\n'"'"'"${message_text_m3}")
+fi
+if [[ -f /etc/s-box/vm_ws_argogd.txt ]]; then
+res=$(timeout 20s curl -s -X POST $URL -d chat_id=telegram_id  -d parse_mode=${MODE} --data-urlencode "text=🚀【 Vmess-ws(tls)+Argo固定域名分享链接 】：支持v2rayng、nekobox "$'"'"'\n\n'"'"'"${message_text_m3_5}")
+fi
+if [[ -f /etc/s-box/vm_ws_tls.txt ]]; then
+res=$(timeout 20s curl -s -X POST $URL -d chat_id=telegram_id  -d parse_mode=${MODE} --data-urlencode "text=🚀【 Vmess-ws-tls 分享链接 】：支持v2rayng、nekobox "$'"'"'\n\n'"'"'"${message_text_m4}")
+fi
+res=$(timeout 20s curl -s -X POST $URL -d chat_id=telegram_id  -d parse_mode=${MODE} --data-urlencode "text=🚀【 Hysteria-2 分享链接 】：支持nekobox "$'"'"'\n\n'"'"'"${message_text_m5}")
+res=$(timeout 20s curl -s -X POST $URL -d chat_id=telegram_id  -d parse_mode=${MODE} --data-urlencode "text=🚀【 Tuic-v5 分享链接 】：支持nekobox "$'"'"'\n\n'"'"'"${message_text_m6}")
+
+if [[ -f /etc/s-box/sing_box_gitlab.txt ]]; then
+res=$(timeout 20s curl -s -X POST $URL -d chat_id=telegram_id  -d parse_mode=${MODE} --data-urlencode "text=🚀【 Sing-box 订阅链接 】：支持SFA、SFW、SFI "$'"'"'\n\n'"'"'"${message_text_m9}")
+else
+res=$(timeout 20s curl -s -X POST $URL -d chat_id=telegram_id  -d parse_mode=${MODE} --data-urlencode "text=🚀【 Sing-box 配置文件(4段) 】：支持SFA、SFW、SFI "$'"'"'\n\n'"'"'"${message_text_m7}")
+res=$(timeout 20s curl -s -X POST $URL -d chat_id=telegram_id  -d parse_mode=${MODE} --data-urlencode "text=${message_text_m7_5}")
+res=$(timeout 20s curl -s -X POST $URL -d chat_id=telegram_id  -d parse_mode=${MODE} --data-urlencode "text=${message_text_m7_5_5}")
+res=$(timeout 20s curl -s -X POST $URL -d chat_id=telegram_id  -d parse_mode=${MODE} --data-urlencode "text=${message_text_m7_5_5_5}")
+fi
+
+if [[ -f /etc/s-box/clash_meta_gitlab.txt ]]; then
+res=$(timeout 20s curl -s -X POST $URL -d chat_id=telegram_id  -d parse_mode=${MODE} --data-urlencode "text=🚀【 Clash-meta 订阅链接 】：支持Clash-meta相关客户端 "$'"'"'\n\n'"'"'"${message_text_m10}")
+else
+res=$(timeout 20s curl -s -X POST $URL -d chat_id=telegram_id  -d parse_mode=${MODE} --data-urlencode "text=🚀【 Clash-meta 配置文件(2段) 】：支持Clash-meta相关客户端 "$'"'"'\n\n'"'"'"${message_text_m8}")
+res=$(timeout 20s curl -s -X POST $URL -d chat_id=telegram_id  -d parse_mode=${MODE} --data-urlencode "text=${message_text_m8_5}")
+fi
+res=$(timeout 20s curl -s -X POST $URL -d chat_id=telegram_id  -d parse_mode=${MODE} --data-urlencode "text=🚀【 四合一协议聚合订阅链接 】：支持v2rayng、nekobox "$'"'"'\n\n'"'"'"${message_text_m11}")
+
+if [ $? == 124 ];then
+echo TG_api请求超时,请检查网络是否重启完成并是否能够访问TG
+fi
+resSuccess=$(echo "$res" | jq -r ".ok")
+if [[ $resSuccess = "true" ]]; then
+echo "TG推送成功";
+else
+echo "TG推送失败，请检查TG机器人Token和ID";
+fi
+' > /etc/s-box/sbtg.sh
+sed -i "s/telegram_token/$telegram_token/g" /etc/s-box/sbtg.sh
+sed -i "s/telegram_id/$telegram_id/g" /etc/s-box/sbtg.sh
+green "设置完成！请确保TG机器人已处于激活状态！"
+tgnotice
+else
+changeserv
+fi
+}
+
+tgnotice(){
+if [[ -f /etc/s-box/sbtg.sh ]]; then
+green "请稍等5秒，TG机器人准备推送……"
+sbshare > /dev/null 2>&1
+bash /etc/s-box/sbtg.sh
+else
+yellow "未设置TG通知功能"
+fi
+exit
+}
+
+changeserv(){
+sbactive
+echo
+green "Sing-box配置变更选择如下:"
+readp "1：更换Reality域名伪装地址、切换自签证书与Acme域名证书、开关TLS\n2：更换全协议UUID(密码)、Vmess-Path路径\n3：设置Argo临时隧道、固定隧道\n4：切换IPV4或IPV6的代理优先级\n5：设置Telegram推送节点通知\n6：更换Warp-wireguard出站账户、自动优选对端IP\n7：设置Gitlab订阅分享链接\n8：设置所有Vmess节点的CDN优选地址\n0：返回上层\n请选择【0-8】：" menu
+if [ "$menu" = "1" ];then
+changeym
+elif [ "$menu" = "2" ];then
+changeuuid
+elif [ "$menu" = "3" ];then
+cfargo_ym
+elif [ "$menu" = "4" ];then
+changeip
+elif [ "$menu" = "5" ];then
+tgsbshow
+elif [ "$menu" = "6" ];then
+changewg
+elif [ "$menu" = "7" ];then
+gitlabsub
+elif [ "$menu" = "8" ];then
+vmesscfadd
+else 
+sb
+fi
+}
+
+vmesscfadd(){
+echo
+green "推荐使用稳定的世界大厂或组织的官方CDN域名作为CDN优选地址："
+blue "www.visa.com.sg"
+blue "www.wto.org"
+blue "www.web.com"
+echo
+yellow "1：自定义Vmess-ws(tls)主协议节点的CDN优选地址"
+yellow "2：针对选项1，重置客户端host/sni域名(IP解析到CF上的域名)"
+yellow "3：自定义Vmess-ws(tls)-Argo节点的CDN优选地址"
+yellow "0：返回上层"
+readp "请选择【0-3】：" menu
+if [ "$menu" = "1" ]; then
+echo
+green "请确保VPS的IP已解析到Cloudflare的域名上"
+if [[ ! -f /etc/s-box/cfymjx.txt ]] 2>/dev/null; then
+readp "输入客户端host/sni域名(IP解析到CF上的域名)：" menu
+echo "$menu" > /etc/s-box/cfymjx.txt
+fi
+echo
+readp "输入自定义的优选IP/域名：" menu
+echo "$menu" > /etc/s-box/cfvmadd_local.txt
+green "设置成功，选择主菜单9进行节点配置更新" && sleep 2 && vmesscfadd
+elif  [ "$menu" = "2" ]; then
+rm -rf /etc/s-box/cfymjx.txt
+green "重置成功，可选择1重新设置" && sleep 2 && vmesscfadd
+elif  [ "$menu" = "3" ]; then
+readp "输入自定义的优选IP/域名：" menu
+echo "$menu" > /etc/s-box/cfvmadd_argo.txt
+green "设置成功，选择主菜单9进行节点配置更新" && sleep 2 && vmesscfadd
+else
+changeserv
+fi
+}
+
+gitlabsub(){
+echo
+green "请确保Gitlab官网上已建立项目，已开启推送功能，已获取访问令牌"
+yellow "1：重置/设置Gitlab订阅链接"
+yellow "0：返回上层"
+readp "请选择【0-1】：" menu
+if [ "$menu" = "1" ]; then
+cd /etc/s-box
+readp "输入登录邮箱: " email
+readp "输入访问令牌: " token
+readp "输入用户名: " userid
+readp "输入项目名: " project
+echo
+green "多台VPS共用一个令牌及项目名，可创建多个分支订阅链接"
+green "回车跳过表示不新建，仅使用主分支main订阅链接(首台VPS建议回车跳过)"
+readp "新建分支名称: " gitlabml
+echo
+if [[ -z "$gitlabml" ]]; then
+gitlab_ml=''
+git_sk=main
+rm -rf /etc/s-box/gitlab_ml_ml
+else
+gitlab_ml=":${gitlabml}"
+git_sk="${gitlabml}"
+echo "${gitlab_ml}" > /etc/s-box/gitlab_ml_ml
+fi
+echo "$token" > /etc/s-box/gitlabtoken.txt
+rm -rf /etc/s-box/.git
+git init >/dev/null 2>&1
+git add sing_box_client.json clash_meta_client.yaml jh_sub.txt >/dev/null 2>&1
+git config --global user.email "${email}" >/dev/null 2>&1
+git config --global user.name "${userid}" >/dev/null 2>&1
+git commit -m "commit_add_$(date +"%F %T")" >/dev/null 2>&1
+branches=$(git branch)
+if [[ $branches == *master* ]]; then
+git branch -m master main >/dev/null 2>&1
+fi
+git remote add origin https://${token}@gitlab.com/${userid}/${project}.git >/dev/null 2>&1
+if [[ $(ls -a | grep '^\.git$') ]]; then
+cat > /etc/s-box/gitpush.sh <<EOF
+#!/usr/bin/expect
+spawn bash -c "git push -f origin main${gitlab_ml}"
+expect "Password for 'https://$(cat /etc/s-box/gitlabtoken.txt 2>/dev/null)@gitlab.com':"
+send "$(cat /etc/s-box/gitlabtoken.txt 2>/dev/null)\r"
+interact
+EOF
+chmod +x gitpush.sh
+./gitpush.sh "git push -f origin main${gitlab_ml}" cat /etc/s-box/gitlabtoken.txt >/dev/null 2>&1
+echo "https://gitlab.com/api/v4/projects/${userid}%2F${project}/repository/files/sing_box_client.json/raw?ref=${git_sk}&private_token=${token}" > /etc/s-box/sing_box_gitlab.txt
+echo "https://gitlab.com/api/v4/projects/${userid}%2F${project}/repository/files/clash_meta_client.yaml/raw?ref=${git_sk}&private_token=${token}" > /etc/s-box/clash_meta_gitlab.txt
+echo "https://gitlab.com/api/v4/projects/${userid}%2F${project}/repository/files/jh_sub.txt/raw?ref=${git_sk}&private_token=${token}" > /etc/s-box/jh_sub_gitlab.txt
+clsbshow
+else
+yellow "设置Gitlab订阅链接失败，请反馈"
+fi
+cd
+else
+changeserv
+fi
+}
+
+gitlabsubgo(){
+cd /etc/s-box
+if [[ $(ls -a | grep '^\.git$') ]]; then
+if [ -f /etc/s-box/gitlab_ml_ml ]; then
+gitlab_ml=$(cat /etc/s-box/gitlab_ml_ml)
+fi
+git rm --cached sing_box_client.json clash_meta_client.yaml jh_sub.txt >/dev/null 2>&1
+git commit -m "commit_rm_$(date +"%F %T")" >/dev/null 2>&1
+git add sing_box_client.json clash_meta_client.yaml jh_sub.txt >/dev/null 2>&1
+git commit -m "commit_add_$(date +"%F %T")" >/dev/null 2>&1
+chmod +x gitpush.sh
+./gitpush.sh "git push -f origin main${gitlab_ml}" cat /etc/s-box/gitlabtoken.txt >/dev/null 2>&1
+clsbshow
+else
+yellow "未设置Gitlab订阅链接"
+fi
+cd
+}
+
+clsbshow(){
+green "当前Sing-box节点已更新并推送"
+green "Sing-box订阅链接如下："
+blue "$(cat /etc/s-box/sing_box_gitlab.txt 2>/dev/null)"
+echo
+green "Sing-box订阅链接二维码如下："
+qrencode -o - -t ANSIUTF8 "$(cat /etc/s-box/sing_box_gitlab.txt 2>/dev/null)"
+echo
+echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+echo
+green "当前Clash-meta节点配置已更新并推送"
+green "Clash-meta订阅链接如下："
+blue "$(cat /etc/s-box/clash_meta_gitlab.txt 2>/dev/null)"
+echo
+green "Clash-meta订阅链接二维码如下："
+qrencode -o - -t ANSIUTF8 "$(cat /etc/s-box/clash_meta_gitlab.txt 2>/dev/null)"
+echo
+echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+echo
+green "当前聚合订阅节点配置已更新并推送"
+green "订阅链接如下："
+blue "$(cat /etc/s-box/jh_sub_gitlab.txt 2>/dev/null)"
+echo
+yellow "可以在网页上输入订阅链接查看配置内容，如果无配置内容，请自检Gitlab相关设置并重置"
+echo
+}
+
+warpwg(){
+warpcode(){
+reg(){
+keypair=$(openssl genpkey -algorithm X25519|openssl pkey -text -noout)
+private_key=$(echo "$keypair" | awk '/priv:/{flag=1; next} /pub:/{flag=0} flag' | tr -d '[:space:]' | xxd -r -p | base64)
+public_key=$(echo "$keypair" | awk '/pub:/{flag=1} flag' | tr -d '[:space:]' | xxd -r -p | base64)
+curl -X POST 'https://api.cloudflareclient.com/v0a2158/reg' -sL --tlsv1.3 \
+-H 'CF-Client-Version: a-7.21-0721' -H 'Content-Type: application/json' \
+-d \
+'{
+"key":"'${public_key}'",
+"tos":"'$(date +"%Y-%m-%dT%H:%M:%S.000Z")'"
+}' \
+| python3 -m json.tool | sed "/\"account_type\"/i\         \"private_key\": \"$private_key\","
+}
+reserved(){
+reserved_str=$(echo "$warp_info" | grep 'client_id' | cut -d\" -f4)
+reserved_hex=$(echo "$reserved_str" | base64 -d | xxd -p)
+reserved_dec=$(echo "$reserved_hex" | fold -w2 | while read HEX; do printf '%d ' "0x${HEX}"; done | awk '{print "["$1", "$2", "$3"]"}')
+echo -e "{\n    \"reserved_dec\": $reserved_dec,"
+echo -e "    \"reserved_hex\": \"0x$reserved_hex\","
+echo -e "    \"reserved_str\": \"$reserved_str\"\n}"
+}
+result() {
+echo "$warp_reserved" | grep -P "reserved" | sed "s/ //g" | sed 's/:"/: "/g' | sed 's/:\[/: \[/g' | sed 's/\([0-9]\+\),\([0-9]\+\),\([0-9]\+\)/\1, \2, \3/' | sed 's/^"/    "/g' | sed 's/"$/",/g'
+echo "$warp_info" | grep -P "(private_key|public_key|\"v4\": \"172.16.0.2\"|\"v6\": \"2)" | sed "s/ //g" | sed 's/:"/: "/g' | sed 's/^"/    "/g'
+echo "}"
+}
+warp_info=$(reg) 
+warp_reserved=$(reserved) 
+result
+}
+output=$(warpcode)
+if ! echo "$output" 2>/dev/null | grep -w "private_key" > /dev/null; then
+v6=2606:4700:110:8f20:f22e:2c8d:d8ee:fe7
+pvk=SGU6hx3CJAWGMr6XYoChvnrKV61hxAw2S4VlgBAxzFs=
+res=[15,242,244]
+else
+pvk=$(echo "$output" | sed -n 4p | awk '{print $2}' | tr -d ' "' | sed 's/.$//')
+v6=$(echo "$output" | sed -n 7p | awk '{print $2}' | tr -d ' "')
+res=$(echo "$output" | sed -n 1p | awk -F":" '{print $NF}' | tr -d ' ' | sed 's/.$//')
+fi
+blue "Private_key私钥：$pvk"
+blue "IPV6地址：$v6"
+blue "reserved值：$res"
+}
+
+changewg(){
+wgipv6=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.outbounds[] | select(.type == "wireguard") | .local_address[1] | split("/")[0]')
+wgprkey=$(sed 's://.*::g' /etc/s-box/sb.json | jq '.outbounds[] | select(.type == "wireguard") | .private_key' | tr -d '"')
+wgres=$(sed -n '165s/.*\[\(.*\)\].*/\1/p' /etc/s-box/sb.json)
+wgip=$(sed 's://.*::g' /etc/s-box/sb.json | jq '.outbounds[] | select(.type == "wireguard") | .server' | tr -d '"')
+wgpo=$(sed 's://.*::g' /etc/s-box/sb.json | jq '.outbounds[] | select(.type == "wireguard") | .server_port' | tr -d '"')
+echo
+green "当前warp-wireguard可更换的参数如下："
+green "Private_key私钥：$wgprkey"
+green "IPV6地址：$wgipv6"
+green "Reserved值：$wgres"
+green "对端IP：$wgip:$wgpo"
+echo
+yellow "1：更换warp-wireguard账户"
+yellow "2：自动优选warp-wireguard对端IP"
+yellow "0：返回上层"
+readp "请选择【0-2】：" menu
+if [ "$menu" = "1" ]; then
+green "最新随机生成普通warp-wireguard账户如下"
+warpwg
+echo
+readp "输入自定义Private_key：" menu
+sed -i "163s#$wgprkey#$menu#g" /etc/s-box/sb.json
+readp "输入自定义IPV6地址：" menu
+sed -i "161s/$wgipv6/$menu/g" /etc/s-box/sb.json
+readp "输入自定义Reserved值 (格式：数字,数字,数字)，如无值则回车跳过：" menu
+if [ -z "$menu" ]; then
+menu=0,0,0
+fi
+sed -i "165s/$wgres/$menu/g" /etc/s-box/sb.json
+restartsb
+green "设置结束"
+green "可以先在选项5-1或5-2使用完整域名分流：cloudflare.com"
+green "然后使用任意节点打开网页https://cloudflare.com/cdn-cgi/trace，查看当前WARP账户类型"
+elif  [ "$menu" = "2" ]; then
+green "请稍等……更新中……"
+if [ -z $(curl -s4m5 icanhazip.com -k) ]; then
+curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/endip.sh -o endip.sh && chmod +x endip.sh && (echo -e "1\n2\n") | bash endip.sh > /dev/null 2>&1
+nwgip=$(awk -F, 'NR==2 {print $1}' /root/result.csv 2>/dev/null | grep -o '\[.*\]' | tr -d '[]')
+nwgpo=$(awk -F, 'NR==2 {print $1}' /root/result.csv 2>/dev/null | awk -F "]" '{print $2}' | tr -d ':')
+else
+curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/endip.sh -o endip.sh && chmod +x endip.sh && (echo -e "1\n1\n") | bash endip.sh > /dev/null 2>&1
+nwgip=$(awk -F, 'NR==2 {print $1}' /root/result.csv 2>/dev/null | awk -F: '{print $1}')
+nwgpo=$(awk -F, 'NR==2 {print $1}' /root/result.csv 2>/dev/null | awk -F: '{print $2}')
+fi
+a=$(cat /root/result.csv 2>/dev/null | awk -F, '$3!="timeout ms" {print} ' | sed -n '2p' | awk -F ',' '{print $2}')
+if [[ -z $a || $a = "100.00%" ]]; then
+if [[ -z $(curl -s4m5 icanhazip.com -k) ]]; then
+nwgip=2606:4700:d0::a29f:c001
+nwgpo=2408
+else
+nwgip=162.159.192.1
+nwgpo=2408
+fi
+fi
+sed -i "157s#$wgip#$nwgip#g" /etc/s-box/sb.json
+sed -i "158s#$wgpo#$nwgpo#g" /etc/s-box/sb.json
+restartsb
+rm -rf /root/result.csv /root/endip.sh 
+echo
+green "优选完毕，当前使用的对端IP：$nwgip:$nwgpo"
+else
+changeserv
+fi
+}
+
+sbymfl(){
+sbport=$(cat /etc/s-box/sbwpph.log 2>/dev/null | awk '{print $3}' | awk -F":" '{print $NF}') 
+sbport=${sbport:-'40000'}
+resv1=$(curl -s --socks5 localhost:$sbport icanhazip.com)
+resv2=$(curl -sx socks5h://localhost:$sbport icanhazip.com)
+if [[ -z $resv1 && -z $resv2 ]]; then
+warp_s4_ip='Socks5-IPV4未启动，黑名单模式'
+warp_s6_ip='Socks5-IPV6未启动，黑名单模式'
+else
+warp_s4_ip='Socks5-IPV4可用'
+warp_s6_ip='Socks5-IPV6自测'
+fi
+v4v6
+if [[ -z $v4 ]]; then
+vps_ipv4='无本地IPV4，黑名单模式'      
+vps_ipv6="当前IP：$v6"
+elif [[ -n $v4 &&  -n $v6 ]]; then
+vps_ipv4="当前IP：$v4"    
+vps_ipv6="当前IP：$v6"
+else
+vps_ipv4="当前IP：$v4"    
+vps_ipv6='无本地IPV6，黑名单模式'
+fi
+unset swg4 swd4 swd6 swg6 ssd4 ssg4 ssd6 ssg6 sad4 sag4 sad6 sag6
+wd4=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.route.rules[1].domain | join(" ")')
+wg4=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.route.rules[1].geosite | join(" ")' 2>/dev/null)
+if [[ "$wd4" == "yg_kkk" && ("$wg4" == "yg_kkk" || -z "$wg4") ]]; then
+wfl4="${yellow}【warp出站IPV4可用】未分流${plain}"
+else
+if [[ "$wd4" != "yg_kkk" ]]; then
+swd4="$wd4 "
+fi
+if [[ "$wg4" != "yg_kkk" ]]; then
+swg4=$wg4
+fi
+wfl4="${yellow}【warp出站IPV4可用】已分流：$swd4$swg4${plain} "
+fi
+
+wd6=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.route.rules[2].domain | join(" ")')
+wg6=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.route.rules[2].geosite | join(" ")' 2>/dev/null)
+if [[ "$wd6" == "yg_kkk" && ("$wg6" == "yg_kkk"|| -z "$wg6") ]]; then
+wfl6="${yellow}【warp出站IPV6自测】未分流${plain}"
+else
+if [[ "$wd6" != "yg_kkk" ]]; then
+swd6="$wd6 "
+fi
+if [[ "$wg6" != "yg_kkk" ]]; then
+swg6=$wg6
+fi
+wfl6="${yellow}【warp出站IPV6自测】已分流：$swd6$swg6${plain} "
+fi
+
+sd4=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.route.rules[3].domain | join(" ")')
+sg4=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.route.rules[3].geosite | join(" ")' 2>/dev/null)
+if [[ "$sd4" == "yg_kkk" && ("$sg4" == "yg_kkk" || -z "$sg4") ]]; then
+sfl4="${yellow}【$warp_s4_ip】未分流${plain}"
+else
+if [[ "$sd4" != "yg_kkk" ]]; then
+ssd4="$sd4 "
+fi
+if [[ "$sg4" != "yg_kkk" ]]; then
+ssg4=$sg4
+fi
+sfl4="${yellow}【$warp_s4_ip】已分流：$ssd4$ssg4${plain} "
+fi
+
+sd6=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.route.rules[4].domain | join(" ")')
+sg6=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.route.rules[4].geosite | join(" ")' 2>/dev/null)
+if [[ "$sd6" == "yg_kkk" && ("$sg6" == "yg_kkk" || -z "$sg6") ]]; then
+sfl6="${yellow}【$warp_s6_ip】未分流${plain}"
+else
+if [[ "$sd6" != "yg_kkk" ]]; then
+ssd6="$sd6 "
+fi
+if [[ "$sg6" != "yg_kkk" ]]; then
+ssg6=$sg6
+fi
+sfl6="${yellow}【$warp_s6_ip】已分流：$ssd6$ssg6${plain} "
+fi
+
+ad4=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.route.rules[5].domain | join(" ")')
+ag4=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.route.rules[5].geosite | join(" ")' 2>/dev/null)
+if [[ "$ad4" == "yg_kkk" && ("$ag4" == "yg_kkk" || -z "$ag4") ]]; then
+adfl4="${yellow}【$vps_ipv4】未分流${plain}" 
+else
+if [[ "$ad4" != "yg_kkk" ]]; then
+sad4="$ad4 "
+fi
+if [[ "$ag4" != "yg_kkk" ]]; then
+sag4=$ag4
+fi
+adfl4="${yellow}【$vps_ipv4】已分流：$sad4$sag4${plain} "
+fi
+
+ad6=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.route.rules[6].domain | join(" ")')
+ag6=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.route.rules[6].geosite | join(" ")' 2>/dev/null)
+if [[ "$ad6" == "yg_kkk" && ("$ag6" == "yg_kkk" || -z "$ag6") ]]; then
+adfl6="${yellow}【$vps_ipv6】未分流${plain}" 
+else
+if [[ "$ad6" != "yg_kkk" ]]; then
+sad6="$ad6 "
+fi
+if [[ "$ag6" != "yg_kkk" ]]; then
+sag6=$ag6
+fi
+adfl6="${yellow}【$vps_ipv6】已分流：$sad6$sag6${plain} "
+fi
+}
+
+changefl(){
+sbactive
+green "对所有协议进行统一的域名分流"
+yellow "warp-wireguard默认开启，IPV4与IPV6可用 (选项1与2)"
+yellow "socks5需要在VPS安装warp官方客户端或者WARP-plus-Socks5-赛风VPN (选项3与4)"
+yellow "VPS本地出站分流(选项5与6)"
+echo
+sbnh=$(/etc/s-box/sing-box version | awk '/version/{print $NF}' | cut -d '.' -f 1,2)
+[ $sbnh = 1.10 ] && blue "恭喜！当前Sing-box内核支持geosite分流方式" || blue "遗憾！当前Sing-box内核不支持geosite分流方式。如要支持，请切换1.10系列内核"
+yellow "注意："
+yellow "一、完整域名方式只能填完整域名 (例：谷歌网站填写：www.google.com)"
+yellow "二、geosite方式须填写geosite规则名 (例：奈飞填写：netflix ；迪士尼填写：disney ；ChatGPT填写：openai ；全局且绕过中国填写：geolocation-!cn)"
+yellow "三、同一个完整域名或者geosite切勿重复分流"
+yellow "四、如该分流通道无网络，所填分流为黑名单模式，即屏蔽该网站访问"
+changef
+}
+
+changef(){
+sbnh=$(/etc/s-box/sing-box version | awk '/version/{print $NF}' | cut -d '.' -f 1,2)
+sbymfl
+echo
+green "1：重置warp-wireguard-ipv4分流域名 $wfl4"
+green "2：重置warp-wireguard-ipv6分流域名 $wfl6"
+green "3：重置warp-socks5-ipv4分流域名 $sfl4"
+green "4：重置warp-socks5-ipv6分流域名 $sfl6"
+green "5：重置VPS本地ipv4分流域名 $adfl4"
+green "6：重置VPS本地ipv6分流域名 $adfl6"
+green "0：返回上层"
+echo
+readp "请选择【0-6】：" menu
+
+if [ "$menu" = "1" ]; then
+readp "1：使用完整域名方式\n2：使用geosite方式\n3：返回上层\n请选择：" menu
+if [ "$menu" = "1" ]; then
+readp "每个域名之间留空格，回车跳过表示重置清空warp-wireguard-ipv4的完整域名方式的分流通道)：" w4flym
+if [ -z "$w4flym" ]; then
+w4flym='"yg_kkk"'
+else
+w4flym="$(echo "$w4flym" | sed 's/ /","/g')"
+w4flym="\"$w4flym\""
+fi
+sed -i "184s/.*/$w4flym/" /etc/s-box/sb.json
+restartsb
+changef
+elif [ "$menu" = "2" ]; then
+if [ $sbnh = 1.10 ]; then
+readp "每个域名之间留空格，回车跳过表示重置清空warp-wireguard-ipv4的geosite方式的分流通道)：" w4flym
+if [ -z "$w4flym" ]; then
+w4flym='"yg_kkk"'
+else
+w4flym="$(echo "$w4flym" | sed 's/ /","/g')"
+w4flym="\"$w4flym\""
+fi
+sed -i "187s/.*/$w4flym/" /etc/s-box/sb.json
+restartsb
+changef
+else
+yellow "遗憾！当前Sing-box内核不支持geosite分流方式。如要支持，请切换1.10系列内核" && exit
+fi
+else
+changef
+fi
+
+elif [ "$menu" = "2" ]; then
+readp "1：使用完整域名方式\n2：使用geosite方式\n3：返回上层\n请选择：" menu
+if [ "$menu" = "1" ]; then
+readp "每个域名之间留空格，回车跳过表示重置清空warp-wireguard-ipv6的完整域名方式的分流通道：" w6flym
+if [ -z "$w6flym" ]; then
+w6flym='"yg_kkk"'
+else
+w6flym="$(echo "$w6flym" | sed 's/ /","/g')"
+w6flym="\"$w6flym\""
+fi
+sed -i "193s/.*/$w6flym/" /etc/s-box/sb.json
+restartsb
+changef
+elif [ "$menu" = "2" ]; then
+if [ $sbnh = 1.10 ]; then
+readp "每个域名之间留空格，回车跳过表示重置清空warp-wireguard-ipv6的geosite方式的分流通道：" w6flym
+if [ -z "$w6flym" ]; then
+w6flym='"yg_kkk"'
+else
+w6flym="$(echo "$w6flym" | sed 's/ /","/g')"
+w6flym="\"$w6flym\""
+fi
+sed -i "196s/.*/$w6flym/" /etc/s-box/sb.json
+restartsb
+changef
+else
+yellow "遗憾！当前Sing-box内核不支持geosite分流方式。如要支持，请切换1.10系列内核" && exit
+fi
+else
+changef
+fi
+
+elif [ "$menu" = "3" ]; then
+readp "1：使用完整域名方式\n2：使用geosite方式\n3：返回上层\n请选择：" menu
+if [ "$menu" = "1" ]; then
+readp "每个域名之间留空格，回车跳过表示重置清空warp-socks5-ipv4的完整域名方式的分流通道：" s4flym
+if [ -z "$s4flym" ]; then
+s4flym='"yg_kkk"'
+else
+s4flym="$(echo "$s4flym" | sed 's/ /","/g')"
+s4flym="\"$s4flym\""
+fi
+sed -i "202s/.*/$s4flym/" /etc/s-box/sb.json
+restartsb
+changef
+elif [ "$menu" = "2" ]; then
+if [ $sbnh = 1.10 ]; then
+readp "每个域名之间留空格，回车跳过表示重置清空warp-socks5-ipv4的geosite方式的分流通道：" s4flym
+if [ -z "$s4flym" ]; then
+s4flym='"yg_kkk"'
+else
+s4flym="$(echo "$s4flym" | sed 's/ /","/g')"
+s4flym="\"$s4flym\""
+fi
+sed -i "205s/.*/$s4flym/" /etc/s-box/sb.json
+restartsb
+changef
+else
+yellow "遗憾！当前Sing-box内核不支持geosite分流方式。如要支持，请切换1.10系列内核" && exit
+fi
+else
+changef
+fi
+
+elif [ "$menu" = "4" ]; then
+readp "1：使用完整域名方式\n2：使用geosite方式\n3：返回上层\n请选择：" menu
+if [ "$menu" = "1" ]; then
+readp "每个域名之间留空格，回车跳过表示重置清空warp-socks5-ipv6的完整域名方式的分流通道：" s6flym
+if [ -z "$s6flym" ]; then
+s6flym='"yg_kkk"'
+else
+s6flym="$(echo "$s6flym" | sed 's/ /","/g')"
+s6flym="\"$s6flym\""
+fi
+sed -i "211s/.*/$s6flym/" /etc/s-box/sb.json
+restartsb
+changef
+elif [ "$menu" = "2" ]; then
+if [ $sbnh = 1.10 ]; then
+readp "每个域名之间留空格，回车跳过表示重置清空warp-socks5-ipv6的geosite方式的分流通道：" s6flym
+if [ -z "$s6flym" ]; then
+s6flym='"yg_kkk"'
+else
+s6flym="$(echo "$s6flym" | sed 's/ /","/g')"
+s6flym="\"$s6flym\""
+fi
+sed -i "214s/.*/$s6flym/" /etc/s-box/sb.json
+restartsb
+changef
+else
+yellow "遗憾！当前Sing-box内核不支持geosite分流方式。如要支持，请切换1.10系列内核" && exit
+fi
+else
+changef
+fi
+
+elif [ "$menu" = "5" ]; then
+readp "1：使用完整域名方式\n2：使用geosite方式\n3：返回上层\n请选择：" menu
+if [ "$menu" = "1" ]; then
+readp "每个域名之间留空格，回车跳过表示重置清空VPS本地ipv4的完整域名方式的分流通道：" ad4flym
+if [ -z "$ad4flym" ]; then
+ad4flym='"yg_kkk"'
+else
+ad4flym="$(echo "$ad4flym" | sed 's/ /","/g')"
+ad4flym="\"$ad4flym\""
+fi
+sed -i "220s/.*/$ad4flym/" /etc/s-box/sb.json
+restartsb
+changef
+elif [ "$menu" = "2" ]; then
+if [ $sbnh = 1.10 ]; then
+readp "每个域名之间留空格，回车跳过表示重置清空VPS本地ipv4的geosite方式的分流通道：" ad4flym
+if [ -z "$ad4flym" ]; then
+ad4flym='"yg_kkk"'
+else
+ad4flym="$(echo "$ad4flym" | sed 's/ /","/g')"
+ad4flym="\"$ad4flym\""
+fi
+sed -i "223s/.*/$ad4flym/" /etc/s-box/sb.json
+restartsb
+changef
+else
+yellow "遗憾！当前Sing-box内核不支持geosite分流方式。如要支持，请切换1.10系列内核" && exit
+fi
+else
+changef
+fi
+
+elif [ "$menu" = "6" ]; then
+readp "1：使用完整域名方式\n2：使用geosite方式\n3：返回上层\n请选择：" menu
+if [ "$menu" = "1" ]; then
+readp "每个域名之间留空格，回车跳过表示重置清空VPS本地ipv6的完整域名方式的分流通道：" ad6flym
+if [ -z "$ad6flym" ]; then
+ad6flym='"yg_kkk"'
+else
+ad6flym="$(echo "$ad6flym" | sed 's/ /","/g')"
+ad6flym="\"$ad6flym\""
+fi
+sed -i "229s/.*/$ad6flym/" /etc/s-box/sb.json
+restartsb
+changef
+elif [ "$menu" = "2" ]; then
+if [ $sbnh = 1.10 ]; then
+readp "每个域名之间留空格，回车跳过表示重置清空VPS本地ipv6的geosite方式的分流通道：" ad6flym
+if [ -z "$ad6flym" ]; then
+ad6flym='"yg_kkk"'
+else
+ad6flym="$(echo "$ad6flym" | sed 's/ /","/g')"
+ad6flym="\"$ad6flym\""
+fi
+sed -i "232s/.*/$ad6flym/" /etc/s-box/sb.json
+restartsb
+changef
+else
+yellow "遗憾！当前Sing-box内核不支持geosite分流方式。如要支持，请切换1.10系列内核" && exit
+fi
+else
+changef
+fi
+else
+sb
+fi
+}
+
+restartsb(){
+if [[ x"${release}" == x"alpine" ]]; then
+rc-service sing-box restart
+else
+systemctl enable sing-box
+systemctl start sing-box
+systemctl restart sing-box
+fi
+}
+
+stclre(){
+if [[ ! -f '/etc/s-box/sb.json' ]]; then
+red "未正常安装Sing-box" && exit
+fi
+readp "1：重启\n2：关闭\n请选择：" menu
+if [ "$menu" = "1" ]; then
+restartsb
+sbactive
+green "Sing-box服务已重启\n" && sleep 3 && sb
+elif [ "$menu" = "2" ]; then
+if [[ x"${release}" == x"alpine" ]]; then
+rc-service sing-box stop
+else
+systemctl stop sing-box
+systemctl disable sing-box
+fi
+green "Sing-box服务已关闭\n" && sleep 3 && sb
+else
+stclre
+fi
+}
+
+cronsb(){
+uncronsb
+crontab -l > /tmp/crontab.tmp
+echo "0 1 * * * systemctl restart sing-box;rc-service sing-box restart" >> /tmp/crontab.tmp
+crontab /tmp/crontab.tmp
+rm /tmp/crontab.tmp
+}
+uncronsb(){
+crontab -l > /tmp/crontab.tmp
+sed -i '/sing-box/d' /tmp/crontab.tmp
+sed -i '/sbargopid/d' /tmp/crontab.tmp
+sed -i '/sbargoympid/d' /tmp/crontab.tmp
+sed -i '/sbwpphid.log/d' /tmp/crontab.tmp
+crontab /tmp/crontab.tmp
+rm /tmp/crontab.tmp
+}
+
+lnsb(){
+rm -rf /usr/bin/sb
+curl -L -o /usr/bin/sb -# --retry 2 --insecure https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/sb.sh
+chmod +x /usr/bin/sb
+}
+
+upsbyg(){
+if [[ ! -f '/usr/bin/sb' ]]; then
+red "未正常安装Sing-box-yg" && exit
+fi
+lnsb
+curl -sL https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/version | awk -F "更新内容" '{print $1}' | head -n 1 > /etc/s-box/v
+green "Sing-box-yg安装脚本升级成功" && sleep 5 && sb
+}
+
+lapre(){
+latcore=$(curl -Ls https://data.jsdelivr.com/v1/package/gh/SagerNet/sing-box | grep -Eo '"[0-9.]+",' | sed -n 1p | tr -d '",')
+precore=$(curl -Ls https://data.jsdelivr.com/v1/package/gh/SagerNet/sing-box | grep -Eo '"[0-9.]*-[^"]*"' | sed -n 1p | tr -d '",')
+inscore=$(/etc/s-box/sing-box version 2>/dev/null | awk '/version/{print $NF}')
+}
+
+upsbcroe(){
+sbactive
+lapre
+[[ $inscore =~ ^[0-9.]+$ ]] && lat="【已安装v$inscore】" || pre="【已安装v$inscore】"
+green "1：升级/切换Sing-box最新正式版 v$latcore  ${bblue}${lat}${plain}"
+green "2：升级/切换Sing-box最新测试版 v$precore  ${bblue}${pre}${plain}"
+green "3：切换Sing-box某个正式版或测试版，需指定版本号 (建议1.10.0以上版本)"
+green "0：返回上层"
+readp "请选择【0-3】：" menu
+if [ "$menu" = "1" ]; then
+upcore=$(curl -Ls https://data.jsdelivr.com/v1/package/gh/SagerNet/sing-box | grep -Eo '"[0-9.]+",' | sed -n 1p | tr -d '",')
+elif [ "$menu" = "2" ]; then
+upcore=$(curl -Ls https://data.jsdelivr.com/v1/package/gh/SagerNet/sing-box | grep -Eo '"[0-9.]*-[^"]*"' | sed -n 1p | tr -d '",')
+elif [ "$menu" = "3" ]; then
+echo
+red "注意: 版本号在 https://github.com/SagerNet/sing-box/tags 可查，且有Downloads字样 (建议1.10.0以上版本)"
+green "正式版版本号格式：数字.数字.数字 (例：1.10.0   注意，1.10系列内核支持geosite分流，1.10以上版本不支持geosite分流)"
+green "测试版版本号格式：数字.数字.数字-alpha或rc或beta.数字 (例：1.10.0-alpha或rc或beta.1)"
+readp "请输入Sing-box版本号：" upcore
+else
+sb
+fi
+if [[ -n $upcore ]]; then
+green "开始下载并更新Sing-box内核……请稍等"
+sbname="sing-box-$upcore-linux-$cpu"
+curl -L -o /etc/s-box/sing-box.tar.gz  -# --retry 2 https://github.com/SagerNet/sing-box/releases/download/v$upcore/$sbname.tar.gz
+if [[ -f '/etc/s-box/sing-box.tar.gz' ]]; then
+tar xzf /etc/s-box/sing-box.tar.gz -C /etc/s-box
+mv /etc/s-box/$sbname/sing-box /etc/s-box
+rm -rf /etc/s-box/{sing-box.tar.gz,$sbname}
+if [[ -f '/etc/s-box/sing-box' ]]; then
+chown root:root /etc/s-box/sing-box
+chmod +x /etc/s-box/sing-box
+sbnh110yn
+restartsb
+blue "成功升级/切换 Sing-box 内核版本：$(/etc/s-box/sing-box version | awk '/version/{print $NF}')" && sleep 3 && sb
+else
+red "下载 Sing-box 内核不完整，安装失败，请重试" && upsbcroe
+fi
+else
+red "下载 Sing-box 内核失败或不存在，请重试" && upsbcroe
+fi
+else
+red "版本号检测出错，请重试" && upsbcroe
+fi
+}
+
+sbnh110yn(){
+sbnh=$(/etc/s-box/sing-box version | awk '/version/{print $NF}' | cut -d '.' -f 1,2)
+if [ $sbnh = 1.10 ]; then
+sed -i '186s/^\/\///' /etc/s-box/sb.json
+sed -i '187s/^\/\///' /etc/s-box/sb.json
+sed -i '188s/^\/\///' /etc/s-box/sb.json
+sed -i '195s/^\/\///' /etc/s-box/sb.json
+sed -i '196s/^\/\///' /etc/s-box/sb.json
+sed -i '197s/^\/\///' /etc/s-box/sb.json
+sed -i '204s/^\/\///' /etc/s-box/sb.json
+sed -i '205s/^\/\///' /etc/s-box/sb.json
+sed -i '206s/^\/\///' /etc/s-box/sb.json
+sed -i '213s/^\/\///' /etc/s-box/sb.json
+sed -i '214s/^\/\///' /etc/s-box/sb.json
+sed -i '215s/^\/\///' /etc/s-box/sb.json
+sed -i '222s/^\/\///' /etc/s-box/sb.json
+sed -i '223s/^\/\///' /etc/s-box/sb.json
+sed -i '224s/^\/\///' /etc/s-box/sb.json
+sed -i '231s/^\/\///' /etc/s-box/sb.json
+sed -i '232s/^\/\///' /etc/s-box/sb.json
+sed -i '233s/^\/\///' /etc/s-box/sb.json
+yellow "当前Sing-box内核版本为1.10系列，geosite分流模式可用"
+else
+sed -i '186s/^\([^\/]\)/\/\/\1/' /etc/s-box/sb.json
+sed -i '187s/^\([^\/]\)/\/\/\1/' /etc/s-box/sb.json
+sed -i '188s/^\([^\/]\)/\/\/\1/' /etc/s-box/sb.json
+sed -i '195s/^\([^\/]\)/\/\/\1/' /etc/s-box/sb.json
+sed -i '196s/^\([^\/]\)/\/\/\1/' /etc/s-box/sb.json
+sed -i '197s/^\([^\/]\)/\/\/\1/' /etc/s-box/sb.json
+sed -i '204s/^\([^\/]\)/\/\/\1/' /etc/s-box/sb.json
+sed -i '205s/^\([^\/]\)/\/\/\1/' /etc/s-box/sb.json
+sed -i '206s/^\([^\/]\)/\/\/\1/' /etc/s-box/sb.json
+sed -i '213s/^\([^\/]\)/\/\/\1/' /etc/s-box/sb.json
+sed -i '214s/^\([^\/]\)/\/\/\1/' /etc/s-box/sb.json
+sed -i '215s/^\([^\/]\)/\/\/\1/' /etc/s-box/sb.json
+sed -i '222s/^\([^\/]\)/\/\/\1/' /etc/s-box/sb.json
+sed -i '223s/^\([^\/]\)/\/\/\1/' /etc/s-box/sb.json
+sed -i '224s/^\([^\/]\)/\/\/\1/' /etc/s-box/sb.json
+sed -i '231s/^\([^\/]\)/\/\/\1/' /etc/s-box/sb.json
+sed -i '232s/^\([^\/]\)/\/\/\1/' /etc/s-box/sb.json
+sed -i '233s/^\([^\/]\)/\/\/\1/' /etc/s-box/sb.json
+red "当前Sing-box内核不支持geosite分流模式，如要使用geosite分流模式，请切换1.10内核版本"
+fi
+}
+
+unins(){
+if [[ x"${release}" == x"alpine" ]]; then
+rc-service sing-box stop
+rc-update del sing-box default
+rm /etc/init.d/sing-box -f
+else
+systemctl stop sing-box >/dev/null 2>&1
+systemctl disable sing-box >/dev/null 2>&1
+rm -f /etc/systemd/system/sing-box.service
+fi
+kill -15 $(cat /etc/s-box/sbargopid.log 2>/dev/null) >/dev/null 2>&1
+kill -15 $(cat /etc/s-box/sbargoympid.log 2>/dev/null) >/dev/null 2>&1
+kill -15 $(cat /etc/s-box/sbwpphid.log 2>/dev/null) >/dev/null 2>&1
+rm -rf /etc/s-box sbyg_update /usr/bin/sb /root/geoip.db /root/geosite.db /root/warpapi /root/warpip
+uncronsb
+iptables -t nat -F PREROUTING >/dev/null 2>&1
+netfilter-persistent save >/dev/null 2>&1
+service iptables save >/dev/null 2>&1
+green "Sing-box卸载完成！"
+blue "欢迎继续使用Sing-box-yg脚本：bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/sb.sh)"
+echo
+}
+
+sblog(){
+red "退出日志 Ctrl+c"
+if [[ x"${release}" == x"alpine" ]]; then
+yellow "暂不支持alpine查看日志"
+else
+#systemctl status sing-box
+journalctl -u sing-box.service -o cat -f
+fi
+}
+
+sbactive(){
+if [[ ! -f /etc/s-box/sb.json ]]; then
+red "未正常启动Sing-box，请卸载重装或者选择10查看运行日志反馈" && exit
+fi
+}
+
+sbshare(){
+rm -rf /etc/s-box/jhdy.txt /etc/s-box/vl_reality.txt /etc/s-box/vm_ws_argols.txt /etc/s-box/vm_ws_argogd.txt /etc/s-box/vm_ws.txt /etc/s-box/vm_ws_tls.txt /etc/s-box/hy2.txt /etc/s-box/tuic5.txt
+result_vl_vm_hy_tu && resvless && resvmess && reshy2 && restu5
+cat /etc/s-box/vl_reality.txt 2>/dev/null >> /etc/s-box/jhdy.txt
+cat /etc/s-box/vm_ws_argols.txt 2>/dev/null >> /etc/s-box/jhdy.txt
+cat /etc/s-box/vm_ws_argogd.txt 2>/dev/null >> /etc/s-box/jhdy.txt
+cat /etc/s-box/vm_ws.txt 2>/dev/null >> /etc/s-box/jhdy.txt
+cat /etc/s-box/vm_ws_tls.txt 2>/dev/null >> /etc/s-box/jhdy.txt
+cat /etc/s-box/hy2.txt 2>/dev/null >> /etc/s-box/jhdy.txt
+cat /etc/s-box/tuic5.txt 2>/dev/null >> /etc/s-box/jhdy.txt
+url=$(cat /etc/s-box/jhdy.txt 2>/dev/null)
+baseurl=$(echo -e "$url" | base64 -w 0)
+echo "$baseurl" > /etc/s-box/jh_sub.txt
+echo
+white "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+red "🚀【 四合一聚合订阅 】节点信息如下：" && sleep 2
+echo
+echo "分享链接【v2rayn、v2rayng、nekobox、Karing】"
+echo -e "${yellow}$baseurl${plain}"
+white "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+echo
+sb_client
+}
+
+clash_sb_share(){
+sbactive
+echo
+yellow "1：刷新并查看各协议分享链接、二维码、四合一聚合订阅"
+yellow "2：刷新并查看Clash-Meta、Sing-box客户端SFA/SFI/SFW三合一配置、Gitlab私有订阅链接"
+yellow "3：刷新并查看Hysteria2、Tuic5的V2rayN客户端自定义配置"
+yellow "4：推送最新节点配置信息(选项1+选项2)到Telegram通知"
+yellow "0：返回上层"
+readp "请选择【0-4】：" menu
+if [ "$menu" = "1" ]; then
+sbshare
+elif  [ "$menu" = "2" ]; then
+green "请稍等……"
+sbshare > /dev/null 2>&1
+white "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+red "Gitlab订阅链接如下："
+gitlabsubgo
+white "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+red "🚀【 vless-reality、vmess-ws、Hysteria2、Tuic5 】Clash-Meta配置文件显示如下："
+red "文件目录 /etc/s-box/clash_meta_client.yaml ，复制自建以yaml文件格式为准" && sleep 2
+echo
+cat /etc/s-box/clash_meta_client.yaml
+echo
+white "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+echo
+white "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+red "🚀【 vless-reality、vmess-ws、Hysteria2、Tuic5 】SFA/SFI/SFW配置文件显示如下："
+red "安卓SFA、苹果SFI，win电脑官方文件包SFW请到甬哥Github项目自行下载，"
+red "文件目录 /etc/s-box/sing_box_client.json ，复制自建以json文件格式为准" && sleep 2
+echo
+cat /etc/s-box/sing_box_client.json
+echo
+white "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+echo
+elif  [ "$menu" = "3" ]; then
+green "请稍等……"
+sbshare > /dev/null 2>&1
+white "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+red "🚀【 Hysteria-2 】自定义V2rayN配置文件显示如下："
+red "文件目录 /etc/s-box/v2rayn_hy2.yaml ，复制自建以yaml文件格式为准" && sleep 2
+echo
+cat /etc/s-box/v2rayn_hy2.yaml
+echo
+white "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+echo
+tu5_sniname=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[3].tls.key_path')
+if [[ "$tu5_sniname" = '/etc/s-box/private.key' ]]; then
+white "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+echo
+red "注意：V2rayN客户端使用自定义Tuic5官方客户端核心时，不支持Tuic5自签证书，仅支持域名证书" && sleep 2
+echo
+white "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+else
+white "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+red "🚀【 Tuic-v5 】自定义V2rayN配置文件显示如下："
+red "文件目录 /etc/s-box/v2rayn_tu5.json ，复制自建以json文件格式为准" && sleep 2
+echo
+cat /etc/s-box/v2rayn_tu5.json
+echo
+white "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+echo
+fi
+elif [ "$menu" = "4" ]; then
+tgnotice
+else
+sb
+fi
+}
+
+acme(){
+bash <(curl -Ls https://gitlab.com/rwkgyg/acme-script/raw/main/acme.sh)
+}
+cfwarp(){
+bash <(curl -Ls https://gitlab.com/rwkgyg/CFwarp/raw/main/CFwarp.sh)
+}
+bbr(){
+if [[ $vi =~ lxc|openvz ]]; then
+yellow "当前VPS的架构为 $vi，不支持开启原版BBR加速" && sleep 2 && exit 
+else
+green "点击任意键，即可开启BBR加速，ctrl+c退出"
+bash <(curl -Ls https://raw.githubusercontent.com/teddysun/across/master/bbr.sh)
+fi
+}
+
+showprotocol(){
+allports
+sbymfl
+tls=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[1].tls.enabled')
+if [[ "$tls" = "false" ]]; then
+argopid
+if [[ -n $(ps -e | grep -w $ym 2>/dev/null) || -n $(ps -e | grep -w $ls 2>/dev/null) ]]; then
+vm_zs="TLS关闭"
+argoym="已开启"
+else
+vm_zs="TLS关闭"
+argoym="未开启"
+fi
+else
+vm_zs="TLS开启"
+argoym="不支持开启"
+fi
+hy2_sniname=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[2].tls.key_path')
+[[ "$hy2_sniname" = '/etc/s-box/private.key' ]] && hy2_zs="自签证书" || hy2_zs="域名证书"
+tu5_sniname=$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[3].tls.key_path')
+[[ "$tu5_sniname" = '/etc/s-box/private.key' ]] && tu5_zs="自签证书" || tu5_zs="域名证书"
+echo -e "Sing-box节点关键信息、已分流域名情况如下："
+echo -e "🚀【 Vless-reality 】${yellow}端口:$vl_port  Reality域名证书伪装地址：$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[0].tls.server_name')${plain}"
+if [[ "$tls" = "false" ]]; then
+echo -e "🚀【   Vmess-ws    】${yellow}端口:$vm_port   证书形式:$vm_zs   Argo状态:$argoym${plain}"
+else
+echo -e "🚀【 Vmess-ws-tls  】${yellow}端口:$vm_port   证书形式:$vm_zs   Argo状态:$argoym${plain}"
+fi
+echo -e "🚀【  Hysteria-2   】${yellow}端口:$hy2_port  证书形式:$hy2_zs  转发多端口: $hy2zfport${plain}"
+echo -e "🚀【    Tuic-v5    】${yellow}端口:$tu5_port  证书形式:$tu5_zs  转发多端口: $tu5zfport${plain}"
+if [ "$argoym" = "已开启" ]; then
+echo -e "Vmess-UUID：${yellow}$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[0].users[0].uuid')${plain}"
+echo -e "Vmess-Path：${yellow}$(sed 's://.*::g' /etc/s-box/sb.json | jq -r '.inbounds[1].transport.path')${plain}"
+if [[ -n $(ps -e | grep -w $ls 2>/dev/null) ]]; then
+echo -e "Argo临时域名：${yellow}$(cat /etc/s-box/argo.log 2>/dev/null | grep -a trycloudflare.com | awk 'NR==2{print}' | awk -F// '{print $2}' | awk '{print $1}')${plain}"
+fi
+if [[ -n $(ps -e | grep -w $ym 2>/dev/null) ]]; then
+echo -e "Argo固定域名：${yellow}$(cat /etc/s-box/sbargoym.log 2>/dev/null)${plain}"
+fi
+fi
+echo "------------------------------------------------------------------------------------"
+if [[ -n $(ps -e | grep sbwpph) ]]; then
+s5port=$(cat /etc/s-box/sbwpph.log 2>/dev/null | awk '{print $3}'| awk -F":" '{print $NF}')
+s5gj=$(cat /etc/s-box/sbwpph.log 2>/dev/null | awk '{print $6}')
+case "$s5gj" in
+AT) showgj="奥地利" ;;
+AU) showgj="澳大利亚" ;;
+BE) showgj="比利时" ;;
+BG) showgj="保加利亚" ;;
+CA) showgj="加拿大" ;;
+CH) showgj="瑞士" ;;
+CZ) showgj="捷克" ;;
+DE) showgj="德国" ;;
+DK) showgj="丹麦" ;;
+EE) showgj="爱沙尼亚" ;;
+ES) showgj="西班牙" ;;
+FI) showgj="芬兰" ;;
+FR) showgj="法国" ;;
+GB) showgj="英国" ;;
+HR) showgj="克罗地亚" ;;
+HU) showgj="匈牙利" ;;
+IE) showgj="爱尔兰" ;;
+IN) showgj="印度" ;;
+IT) showgj="意大利" ;;
+JP) showgj="日本" ;;
+LV) showgj="拉脱维亚" ;;
+NL) showgj="荷兰" ;;
+NO) showgj="挪威" ;;
+PL) showgj="波兰" ;;
+PT) showgj="葡萄牙" ;;
+RO) showgj="罗马尼亚" ;;
+RS) showgj="塞尔维亚" ;;
+SE) showgj="瑞典" ;;
+SG) showgj="新加坡" ;;
+SK) showgj="斯洛伐克" ;;
+US) showgj="美国" ;;
+esac
+grep -q "country" /etc/s-box/sbwpph.log 2>/dev/null && s5ms="多地区Psiphon代理模式 (端口:$s5port  国家:$showgj)" || s5ms="本地Warp代理模式 (端口:$s5port)"
+echo -e "WARP-plus-Socks5状态：$yellow已启动 $s5ms$plain"
+else
+echo -e "WARP-plus-Socks5状态：$yellow未启动$plain"
+fi
+echo "------------------------------------------------------------------------------------"
+ww4="warp-wireguard-ipv4分流域名：$wfl4"
+ww6="warp-wireguard-ipv6分流域名：$wfl6"
+ws4="warp-socks5-ipv4分流域名：$sfl4"
+ws6="warp-socks5-ipv6分流域名：$sfl6"
+l4="VPS本地ipv4分流域名：$adfl4"
+l6="VPS本地ipv6分流域名：$adfl6"
+ymflzu=("ww4" "ww6" "ws4" "ws6" "l4" "l6")
+for ymfl in "${ymflzu[@]}"; do
+if [[ ${!ymfl} != *"未"* ]]; then
+echo -e "${!ymfl}"
+fi
+done
+if [[ $ww4 = *"未"* && $ww6 = *"未"* && $ws4 = *"未"* && $ws6 = *"未"* && $l4 = *"未"* && $l6 = *"未"* ]] ; then
+echo -e "未设置域名分流"
+fi
+}
+
+inssbwpph(){
+sbactive
+ins(){
+if [ ! -e /etc/s-box/sbwpph ]; then
+case $(uname -m) in
+aarch64) cpu=arm64;;
+x86_64) cpu=amd64;;
+esac
+curl -L -o /etc/s-box/sbwpph -# --retry 2 --insecure https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/sbwpph_$cpu
+chmod +x /etc/s-box/sbwpph
+fi
+if [[ -n $(ps -e | grep sbwpph) ]]; then
+kill -15 $(cat /etc/s-box/sbwpphid.log 2>/dev/null) >/dev/null 2>&1
+fi
+v4v6
+if [[ -z $v4 ]]; then
+red "IPV4不存在，确保安装过WARP-IPV4模式"
+fi 
+[[ -n $v6 ]] && sw46=6 || sw46=4
+echo
+readp "设置WARP-plus-Socks5端口（回车跳过端口默认40000）：" port
+if [[ -z $port ]]; then
+port=40000
+until [[ -z $(ss -tunlp | grep -w udp | awk '{print $5}' | sed 's/.*://g' | grep -w "$port") && -z $(ss -tunlp | grep -w tcp | awk '{print $5}' | sed 's/.*://g' | grep -w "$port") ]] 
+do
+[[ -n $(ss -tunlp | grep -w udp | awk '{print $5}' | sed 's/.*://g' | grep -w "$port") || -n $(ss -tunlp | grep -w tcp | awk '{print $5}' | sed 's/.*://g' | grep -w "$port") ]] && yellow "\n端口被占用，请重新输入端口" && readp "自定义端口:" port
+done
+else
+until [[ -z $(ss -tunlp | grep -w udp | awk '{print $5}' | sed 's/.*://g' | grep -w "$port") && -z $(ss -tunlp | grep -w tcp | awk '{print $5}' | sed 's/.*://g' | grep -w "$port") ]]
+do
+[[ -n $(ss -tunlp | grep -w udp | awk '{print $5}' | sed 's/.*://g' | grep -w "$port") || -n $(ss -tunlp | grep -w tcp | awk '{print $5}' | sed 's/.*://g' | grep -w "$port") ]] && yellow "\n端口被占用，请重新输入端口" && readp "自定义端口:" port
+done
+fi
+s5port=$(cat /etc/s-box/sb.json | jq '.outbounds[] | select(.type == "socks") | .server_port' | tr -d '"')
+sed -i "127s/$s5port/$port/g" /etc/s-box/sb.json
+restartsb
+}
+unins(){
+kill -15 $(cat /etc/s-box/sbwpphid.log 2>/dev/null) >/dev/null 2>&1
+rm -rf /etc/s-box/sbwpph.log /etc/s-box/sbwpphid.log
+crontab -l > /tmp/crontab.tmp
+sed -i '/sbwpphid.log/d' /tmp/crontab.tmp
+crontab /tmp/crontab.tmp
+rm /tmp/crontab.tmp
+}
+echo
+yellow "1：重置启用WARP-plus-Socks5本地Warp代理模式"
+yellow "2：重置启用WARP-plus-Socks5多地区Psiphon代理模式"
+yellow "3：停止WARP-plus-Socks5代理模式"
+yellow "0：返回上层"
+readp "请选择【0-3】：" menu
+if [ "$menu" = "1" ]; then
+ins
+nohup setsid /etc/s-box/sbwpph -b 127.0.0.1:$port --gool -$sw46 >/dev/null 2>&1 & echo "$!" > /etc/s-box/sbwpphid.log
+green "申请IP中……请稍等……" && sleep 20
+resv1=$(curl -s --socks5 localhost:$port icanhazip.com)
+resv2=$(curl -sx socks5h://localhost:$port icanhazip.com)
+if [[ -z $resv1 && -z $resv2 ]]; then
+red "WARP-plus-Socks5的IP获取失败" && unins && exit
+else
+echo "/etc/s-box/sbwpph -b 127.0.0.1:$port --gool -$sw46 >/dev/null 2>&1" > /etc/s-box/sbwpph.log
+crontab -l > /tmp/crontab.tmp
+sed -i '/sbwpphid.log/d' /tmp/crontab.tmp
+echo '@reboot /bin/bash -c "nohup setsid $(cat /etc/s-box/sbwpph.log 2>/dev/null) & pid=\$! && echo \$pid > /etc/s-box/sbwpphid.log"' >> /tmp/crontab.tmp
+crontab /tmp/crontab.tmp
+rm /tmp/crontab.tmp
+green "WARP-plus-Socks5的IP获取成功，可进行Socks5代理分流"
+fi
+elif [ "$menu" = "2" ]; then
+ins
+echo '
+奥地利（AT）
+澳大利亚（AU）
+比利时（BE）
+保加利亚（BG）
+加拿大（CA）
+瑞士（CH）
+捷克 (CZ)
+德国（DE）
+丹麦（DK）
+爱沙尼亚（EE）
+西班牙（ES）
+芬兰（FI）
+法国（FR）
+英国（GB）
+克罗地亚（HR）
+匈牙利 (HU)
+爱尔兰（IE）
+印度（IN）
+意大利 (IT)
+日本（JP）
+拉脱维亚（LV）
+荷兰（NL）
+挪威 (NO)
+波兰（PL）
+葡萄牙（PT）
+罗马尼亚 (RO)
+塞尔维亚（RS）
+瑞典（SE）
+新加坡 (SG)
+斯洛伐克（SK）
+美国（US）
+'
+readp "可选择国家地区（输入末尾两个大写字母，如美国，则输入US）：" guojia
+nohup setsid /etc/s-box/sbwpph -b 127.0.0.1:$port --cfon --country $guojia -$sw46 >/dev/null 2>&1 & echo "$!" > /etc/s-box/sbwpphid.log
+green "申请IP中……请稍等……" && sleep 20
+resv1=$(curl -s --socks5 localhost:$port icanhazip.com)
+resv2=$(curl -sx socks5h://localhost:$port icanhazip.com)
+if [[ -z $resv1 && -z $resv2 ]]; then
+red "WARP-plus-Socks5的IP获取失败，尝试换个国家地区吧" && unins && exit
+else
+echo "/etc/s-box/sbwpph -b 127.0.0.1:$port --cfon --country $guojia -$sw46 >/dev/null 2>&1" > /etc/s-box/sbwpph.log
+crontab -l > /tmp/crontab.tmp
+sed -i '/sbwpphid.log/d' /tmp/crontab.tmp
+echo '@reboot /bin/bash -c "nohup setsid $(cat /etc/s-box/sbwpph.log 2>/dev/null) & pid=\$! && echo \$pid > /etc/s-box/sbwpphid.log"' >> /tmp/crontab.tmp
+crontab /tmp/crontab.tmp
+rm /tmp/crontab.tmp
+green "WARP-plus-Socks5的IP获取成功，可进行Socks5代理分流"
+fi
+elif [ "$menu" = "3" ]; then
+unins && green "已停止WARP-plus-Socks5代理功能"
+else
+sb
+fi
+}
+
+clear
+white "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" 
+echo -e "${bblue} ░██     ░██      ░██ ██ ██         ░█${plain}█   ░██     ░██   ░██     ░█${red}█   ░██${plain}  "
+echo -e "${bblue}  ░██   ░██      ░██    ░░██${plain}        ░██  ░██      ░██  ░██${red}      ░██  ░██${plain}   "
+echo -e "${bblue}   ░██ ░██      ░██ ${plain}                ░██ ██        ░██ █${red}█        ░██ ██  ${plain}   "
+echo -e "${bblue}     ░██        ░${plain}██    ░██ ██       ░██ ██        ░█${red}█ ██        ░██ ██  ${plain}  "
+echo -e "${bblue}     ░██ ${plain}        ░██    ░░██        ░██ ░██       ░${red}██ ░██       ░██ ░██ ${plain}  "
+echo -e "${bblue}     ░█${plain}█          ░██ ██ ██         ░██  ░░${red}██     ░██  ░░██     ░██  ░░██ ${plain}  "
+white "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" 
+white "甬哥Github项目  ：github.com/yonggekkk"
+white "甬哥Blogger博客 ：ygkkk.blogspot.com"
+white "甬哥YouTube频道 ：www.youtube.com/@ygkkk"
+white "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" 
+white "Vless-reality-vision、Vmess-ws(tls)+Argo、Hysteria-2、Tuic-v5 四协议共存脚本"
+white "脚本快捷方式：sb"
+red "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+green " 1. 一键安装 Sing-box" 
+green " 2. 删除卸载 Sing-box"
+white "----------------------------------------------------------------------------------"
+green " 3. 变更配置 【双证书TLS/UUID路径/Argo/IP优先/TG通知/Warp/订阅/CDN优选】" 
+green " 4. 更改主端口/添加多端口跳跃复用" 
+green " 5. 三通道域名分流"
+green " 6. 关闭/重启 Sing-box"   
+green " 7. 更新 Sing-box-yg 脚本"
+green " 8. 更新/切换/指定 Sing-box 内核版本"
+white "----------------------------------------------------------------------------------"
+green " 9. 刷新并查看节点 【Clash-Meta/SFA+SFI+SFW三合一配置/订阅链接/推送TG通知】"
+green "10. 查看 Sing-box 运行日志"
+green "11. 一键原版BBR+FQ加速"
+green "12. 管理 Acme 申请域名证书"
+green "13. 管理 Warp 查看Netflix/ChatGPT解锁情况"
+green "14. 添加 WARP-plus-Socks5 代理模式 【本地Warp/多地区Psiphon-VPN】"
+green " 0. 退出脚本"
+red "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+insV=$(cat /etc/s-box/v 2>/dev/null)
+latestV=$(curl -sL https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/version | awk -F "更新内容" '{print $1}' | head -n 1)
+if [ -f /etc/s-box/v ]; then
+if [ "$insV" = "$latestV" ]; then
+echo -e "当前 Sing-box-yg 脚本最新版：${bblue}${insV}${plain} (已安装)"
+else
+echo -e "当前 Sing-box-yg 脚本版本号：${bblue}${insV}${plain}"
+echo -e "检测到最新 Sing-box-yg 脚本版本号：${yellow}${latestV}${plain} (可选择7进行更新)"
+echo -e "${yellow}$(curl -sL https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/version)${plain}"
+fi
+else
+echo -e "当前 Sing-box-yg 脚本版本号：${bblue}${latestV}${plain}"
+echo -e "请先选择 1 ，安装 Sing-box-yg 脚本"
+fi
+
+lapre
+if [ -f '/etc/s-box/sb.json' ]; then
+if [[ $inscore =~ ^[0-9.]+$ ]]; then
+if [ "${inscore}" = "${latcore}" ]; then
+echo
+echo -e "当前 Sing-box 最新正式版内核：${bblue}${inscore}${plain} (已安装)"
+echo
+echo -e "当前 Sing-box 最新测试版内核：${bblue}${precore}${plain} (可切换)"
+else
+echo
+echo -e "当前 Sing-box 已安装正式版内核：${bblue}${inscore}${plain}"
+echo -e "检测到最新 Sing-box 正式版内核：${yellow}${latcore}${plain} (可选择8进行更新)"
+echo
+echo -e "当前 Sing-box 最新测试版内核：${bblue}${precore}${plain} (可切换)"
+fi
+else
+if [ "${inscore}" = "${precore}" ]; then
+echo
+echo -e "当前 Sing-box 最新测试版内核：${bblue}${inscore}${plain} (已安装)"
+echo
+echo -e "当前 Sing-box 最新正式版内核：${bblue}${latcore}${plain} (可切换)"
+else
+echo
+echo -e "当前 Sing-box 已安装测试版内核：${bblue}${inscore}${plain}"
+echo -e "检测到最新 Sing-box 测试版内核：${yellow}${precore}${plain} (可选择8进行更新)"
+echo
+echo -e "当前 Sing-box 最新正式版内核：${bblue}${latcore}${plain} (可切换)"
+fi
+fi
+else
+echo
+echo -e "当前 Sing-box 最新正式版内核：${bblue}${latcore}${plain}"
+echo -e "当前 Sing-box 最新测试版内核：${bblue}${precore}${plain}"
+fi
+red "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+echo -e "VPS状态如下："
+echo -e "系统:$blue$op$plain  \c";echo -e "内核:$blue$version$plain  \c";echo -e "处理器:$blue$cpu$plain  \c";echo -e "虚拟化:$blue$vi$plain  \c";echo -e "BBR算法:$blue$bbr$plain"
+v4v6
+if [[ "$v6" == "2a09"* ]]; then
+w6="【WARP】"
+fi
+if [[ "$v4" == "104.28"* ]]; then
+w4="【WARP】"
+fi
+rpip=$(sed 's://.*::g' /etc/s-box/sb.json 2>/dev/null | jq -r '.outbounds[0].domain_strategy')
+[[ -z $v4 ]] && showv4='IPV4地址丢失，请切换至IPV6或者重装Sing-box' || showv4=$v4$w4
+[[ -z $v6 ]] && showv6='IPV6地址丢失，请切换至IPV4或者重装Sing-box' || showv6=$v6$w6
+if [[ $rpip = 'prefer_ipv6' ]]; then
+v4_6="IPV6优先出站($showv6)"
+elif [[ $rpip = 'prefer_ipv4' ]]; then
+v4_6="IPV4优先出站($showv4)"
+elif [[ $rpip = 'ipv4_only' ]]; then
+v4_6="仅IPV4出站($showv4)"
+elif [[ $rpip = 'ipv6_only' ]]; then
+v4_6="仅IPV6出站($showv6)"
+fi
+if [[ -z $v4 ]]; then
+vps_ipv4='无IPV4'      
+vps_ipv6="$v6"
+elif [[ -n $v4 &&  -n $v6 ]]; then
+vps_ipv4="$v4"    
+vps_ipv6="$v6"
+else
+vps_ipv4="$v4"    
+vps_ipv6='无IPV6'
+fi
+echo -e "本地IPV4地址：$blue$vps_ipv4$w4$plain   本地IPV6地址：$blue$vps_ipv6$w6$plain"
+if [[ -n $rpip ]]; then
+echo -e "代理IP优先级：$blue$v4_6$plain"
+fi
+if [[ x"${release}" == x"alpine" ]]; then
+status_cmd="rc-service sing-box status"
+status_pattern="started"
+else
+status_cmd="systemctl status sing-box"
+status_pattern="active"
+fi
+if [[ -n $($status_cmd 2>/dev/null | grep -w "$status_pattern") && -f '/etc/s-box/sb.json' ]]; then
+echo -e "Sing-box状态：$blue运行中$plain"
+elif [[ -z $($status_cmd 2>/dev/null | grep -w "$status_pattern") && -f '/etc/s-box/sb.json' ]]; then
+echo -e "Sing-box状态：$yellow未启动，选择10查看日志并反馈，建议卸载重装Sing-box-yg脚本$plain"
+else
+echo -e "Sing-box状态：$red未安装$plain"
+fi
+red "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+if [ -f '/etc/s-box/sb.json' ]; then
+showprotocol
+fi
+red "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+echo
+readp "请输入数字【0-14】:" Input
+case "$Input" in  
+ 1 ) instsllsingbox;;
+ 2 ) unins;;
+ 3 ) changeserv;;
+ 4 ) changeport;;
+ 5 ) changefl;;
+ 6 ) stclre;;
+ 7 ) upsbyg;; 
+ 8 ) upsbcroe;;
+ 9 ) clash_sb_share;;
+10 ) sblog;;
+11 ) bbr;;
+12 ) acme;;
+13 ) cfwarp;;
+14 ) inssbwpph;;
+ * ) exit 
+esac
